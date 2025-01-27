@@ -1,7 +1,7 @@
 # Can Knowledge Editing Really Correct Hallucinations?
 
 - **Respository Oveview**: This repository contains the code, results and dataset for the paper "Can Knowledge Editing Really Correct Hallucinations?"
-<!-- - **Authors** :  -->
+<!-- - **Private** :  -->
 - **TLDR**: We proposed HalluEditBench to holistically benchmark knowledge editing methods in correcting real-world hallucinations on five dimensions including Efficacy, Generalization, Portability, Locality, and Robustness. We find that their effectiveness could be far from what their performance on existing datasets suggests, and the performance beyond Efficacy for all methods is generally unsatisfactory.
 
 ## Overview
