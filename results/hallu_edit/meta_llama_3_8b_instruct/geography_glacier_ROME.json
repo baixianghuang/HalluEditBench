@@ -45,6 +45,7 @@
                     "Silvretta"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -85,6 +86,8 @@
                     "Limmat"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -128,6 +131,7 @@
                     "ground_truth": "Gl\u00e4rnisch"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the elevation of the key col of Gl\u00e4rnisch?",
@@ -158,6 +162,8 @@
                     "ground_truth": "Aare"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Gl\u00e4rnisch",
             "rephrase_prompt": "What is the key col of Gl\u00e4rnisch?"
@@ -211,6 +217,7 @@
                     "Gotthard"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -251,6 +258,8 @@
                     "Weia"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -306,6 +315,7 @@
                     "Bering"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -346,6 +356,8 @@
                     "1957"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -389,6 +401,7 @@
                     "ground_truth": "Portage Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the largest city in the administrative territorial entity where Portage Glacier is located?",
@@ -419,6 +432,8 @@
                     "ground_truth": "1951"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Portage Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Portage Glacier located?"
@@ -472,6 +487,7 @@
                     "Bering"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -512,6 +528,8 @@
                     "1923"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -567,6 +585,7 @@
                     "Badrinath"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -607,6 +626,8 @@
                     "India"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -650,6 +671,7 @@
                     "ground_truth": "Gangotri Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the administrative territorial entity where Gangotri Glacier is located?",
@@ -680,6 +702,8 @@
                     "ground_truth": "India"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Gangotri Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Gangotri Glacier located?"
@@ -733,6 +757,7 @@
                     "Bhagirathi"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -773,6 +798,8 @@
                     "Uttarakhand"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -828,6 +855,7 @@
                     "Siachen"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -868,6 +896,8 @@
                     "Indus"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -911,6 +941,7 @@
                     "ground_truth": "Biafo Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the highest peak in the mountain range that contains the Biafo Glacier?",
@@ -941,6 +972,8 @@
                     "ground_truth": "Tiber"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Biafo Glacier",
             "rephrase_prompt": "Which mountain range is Biafo Glacier part of?"
@@ -994,6 +1027,7 @@
                     "Siachen"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1034,6 +1068,8 @@
                     "Indus"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -1089,6 +1125,7 @@
                     "Monte Bianco"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1129,6 +1166,8 @@
                     "Euro"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1172,6 +1211,7 @@
                     "ground_truth": "Miage Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the administrative territorial entity where Miage Glacier is located?",
@@ -1202,6 +1242,8 @@
                     "ground_truth": "Euro"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Miage Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Miage Glacier located?"
@@ -1255,6 +1297,7 @@
                     "Monte Bianco"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1295,6 +1338,8 @@
                     "Euro"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1350,6 +1395,7 @@
                     "Tasman"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1390,6 +1436,8 @@
                     "Mawson"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1433,6 +1481,7 @@
                     "ground_truth": "Skelton Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the highest peak in the mountain range that Skelton Glacier is part of?",
@@ -1463,6 +1512,8 @@
                     "ground_truth": "Sir Vivian Fuchs"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Skelton Glacier",
             "rephrase_prompt": "Which mountain range is Skelton Glacier part of?"
@@ -1516,6 +1567,7 @@
                     "Terra"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1556,6 +1608,8 @@
                     "Edward Bransfield"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1611,6 +1665,7 @@
                     "Baffin"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -1651,6 +1706,8 @@
                     "Alaska"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1694,6 +1751,7 @@
                     "ground_truth": "Juneau Icefield"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a notable glacier that is part of the Juneau Icefield?",
@@ -1724,6 +1782,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Juneau Icefield",
             "rephrase_prompt": "What is a part of the Juneau Icefield?"
@@ -1777,6 +1837,7 @@
                     "Bering"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -1817,6 +1878,8 @@
                     "Alaska"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1872,6 +1935,7 @@
                     "Siachen"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -1912,6 +1976,8 @@
                     "Urdu"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1955,6 +2021,7 @@
                     "ground_truth": "Baltoro Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the administrative territorial entity where Baltoro Glacier is located?",
@@ -1985,6 +2052,8 @@
                     "ground_truth": "Perso-Arabic script"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Baltoro Glacier",
             "rephrase_prompt": "In which administrative territorial entity is the Baltoro Glacier located?"
@@ -2038,6 +2107,7 @@
                     "Skardu"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2078,6 +2148,8 @@
                     "Urdu"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -2133,6 +2205,7 @@
                     "Mauna Loa"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -2173,6 +2246,8 @@
                     "Juan de Fuca"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -2216,6 +2291,7 @@
                     "ground_truth": "\u00d6r\u00e6faj\u00f6kull"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the most recent eruption year of \u00d6r\u00e6faj\u00f6kull?",
@@ -2246,6 +2322,8 @@
                     "ground_truth": "North American Plate"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "\u00d6r\u00e6faj\u00f6kull",
             "rephrase_prompt": "During which time period did \u00d6r\u00e6faj\u00f6kull form?"
@@ -2299,6 +2377,7 @@
                     "Mauna Loa"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2339,6 +2418,8 @@
                     "Juan de Fuca"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -2394,6 +2475,7 @@
                     "Siachen"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2434,6 +2516,8 @@
                     "Himalayas"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -2477,6 +2561,7 @@
                     "ground_truth": "Biafo Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the administrative territorial entity where Biafo Glacier is located?",
@@ -2507,6 +2592,8 @@
                     "ground_truth": "Hindu Kush"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Biafo Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Biafo Glacier situated?"
@@ -2560,6 +2647,7 @@
                     "Rama"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -2600,6 +2688,8 @@
                     "Hindu Kush"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -2655,6 +2745,7 @@
                     "Vatnaj\u00f6kull"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2695,6 +2786,8 @@
                     "ISK"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2738,6 +2831,7 @@
                     "ground_truth": "\u00d6r\u00e6faj\u00f6kull"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the administrative territorial entity where \u00d6r\u00e6faj\u00f6kull is located?",
@@ -2768,6 +2862,8 @@
                     "ground_truth": "ISK"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "\u00d6r\u00e6faj\u00f6kull",
             "rephrase_prompt": "Which administrative territorial entity is \u00d6r\u00e6faj\u00f6kull located in?"
@@ -2821,6 +2917,7 @@
                     "Vatn"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2861,6 +2958,8 @@
                     "ISK"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2916,6 +3015,7 @@
                     "Hekla"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2956,6 +3056,8 @@
                     "Eurasian"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2999,6 +3101,7 @@
                     "ground_truth": "\u00d6r\u00e6faj\u00f6kull"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the highest point of \u00d6r\u00e6faj\u00f6kull?",
@@ -3029,6 +3132,8 @@
                     "ground_truth": "Eurasian Plate"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "\u00d6r\u00e6faj\u00f6kull",
             "rephrase_prompt": "Which peak is the highest point of \u00d6r\u00e6faj\u00f6kull?"
@@ -3082,6 +3187,7 @@
                     "Vestrahorn"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3122,6 +3228,8 @@
                     "Antarctica"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -3177,6 +3285,7 @@
                     "Hubbard"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3217,6 +3326,8 @@
                     "Juneau"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -3260,6 +3371,7 @@
                     "ground_truth": "Taku Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the highest peak in the mountain range that Taku Glacier is part of?",
@@ -3290,6 +3402,8 @@
                     "ground_truth": "Washington, D.C."
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Taku Glacier",
             "rephrase_prompt": "Which mountain range does Taku Glacier belong to?"
@@ -3343,6 +3457,7 @@
                     "Fairweather"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3383,6 +3498,8 @@
                     "Anchorage"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -3438,6 +3555,7 @@
                     "Siachen"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -3478,6 +3596,8 @@
                     "Indus"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -3521,6 +3641,7 @@
                     "ground_truth": "Hispar Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the highest peak in the mountain range where Hispar Glacier is located?",
@@ -3551,6 +3672,8 @@
                     "ground_truth": "Tiber"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Hispar Glacier",
             "rephrase_prompt": "Which mountain range is Hispar Glacier part of?"
@@ -3604,6 +3727,7 @@
                     "Baltoro"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -3644,6 +3768,8 @@
                     "Indus"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -3699,6 +3825,7 @@
                     "Svartisen"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -3739,6 +3866,8 @@
                     "Norwegian"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -3782,6 +3911,7 @@
                     "ground_truth": "Svartisen"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the national park where Svartisen is located?",
@@ -3812,6 +3942,8 @@
                     "ground_truth": "Norwegian"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Svartisen",
             "rephrase_prompt": "In which protected area is Svartisen located?"
@@ -3865,6 +3997,7 @@
                     "Saltfjellet"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -3905,6 +4038,8 @@
                     "Norwegian"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -3960,6 +4095,7 @@
                     "Aletsch"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4000,6 +4136,8 @@
                     "Indus"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4043,6 +4181,7 @@
                     "ground_truth": "Gi\u00e9tro Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the highest peak in the mountain range where Gi\u00e9tro Glacier is located?",
@@ -4073,6 +4212,8 @@
                     "ground_truth": "Aare"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Gi\u00e9tro Glacier",
             "rephrase_prompt": "Which mountain range is Gi\u00e9tro Glacier part of?"
@@ -4126,6 +4267,7 @@
                     "M\u00e9rida"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4166,6 +4308,8 @@
                     "Rh\u00f4ne"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -4221,6 +4365,7 @@
                     "Siachen"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -4261,6 +4406,8 @@
                     "Arctic"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -4304,6 +4451,7 @@
                     "ground_truth": "Hispar Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the administrative territorial entity where Hispar Glacier is located?",
@@ -4334,6 +4482,8 @@
                     "ground_truth": "Indian Ocean"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Hispar Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Hispar Glacier located?"
@@ -4387,6 +4537,7 @@
                     "Batura"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -4427,6 +4578,8 @@
                     "Arabian"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -4482,6 +4635,7 @@
                     "Drygalski"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4522,6 +4676,8 @@
                     "Germany"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4565,6 +4721,7 @@
                     "ground_truth": "Drygalski Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the Drygalski Glacier named after?",
@@ -4595,6 +4752,8 @@
                     "ground_truth": "Germany"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Drygalski Glacier",
             "rephrase_prompt": "Who is the namesake of Drygalski Glacier?"
@@ -4648,6 +4807,7 @@
                     "Drygalski"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4688,6 +4848,8 @@
                     "Germany"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4743,6 +4905,7 @@
                     "Athabasca"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -4783,6 +4946,8 @@
                     "Alberta"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -4826,6 +4991,7 @@
                     "ground_truth": "Athabasca Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the national park where the Athabasca Glacier is located?",
@@ -4856,6 +5022,8 @@
                     "ground_truth": "Canada"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Athabasca Glacier",
             "rephrase_prompt": "In which protected area is the Athabasca Glacier located?"
@@ -4909,6 +5077,7 @@
                     "Athabasca"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -4949,6 +5118,8 @@
                     "Alberta"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -5004,6 +5175,7 @@
                     "Athabasca"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -5044,6 +5216,8 @@
                     "Great Slave Lake"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -5087,6 +5261,7 @@
                     "ground_truth": "Athabasca Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital city of the administrative territorial entity where Athabasca Glacier is located?",
@@ -5117,6 +5292,8 @@
                     "ground_truth": "Lake Winnipeg"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Athabasca Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Athabasca Glacier situated?"
@@ -5170,6 +5347,7 @@
                     "Athabasca"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5210,6 +5388,8 @@
                     "Hudson Bay"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -5265,6 +5445,7 @@
                     "Glacier Bay"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5305,6 +5486,8 @@
                     "Alaska"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -5348,6 +5531,7 @@
                     "ground_truth": "Hubbard Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What body of water does the terminus of the Hubbard Glacier flow into?",
@@ -5378,6 +5562,8 @@
                     "ground_truth": "Alaska"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Hubbard Glacier",
             "rephrase_prompt": "Where does the Hubbard Glacier end?"
@@ -5431,6 +5617,7 @@
                     "Glacier Bay"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5471,6 +5658,8 @@
                     "Alaska"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5526,6 +5715,7 @@
                     "Hubbard"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5566,6 +5756,8 @@
                     "Yale"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5609,6 +5801,7 @@
                     "ground_truth": "Hubbard Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the Hubbard Glacier named after?",
@@ -5639,6 +5832,8 @@
                     "ground_truth": "Harvard University"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Hubbard Glacier",
             "rephrase_prompt": "Who is the namesake of Hubbard Glacier?"
@@ -5692,6 +5887,7 @@
                     "Hubbard"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -5732,6 +5928,8 @@
                     "Yale"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -5787,6 +5985,7 @@
                     "Ships"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5827,6 +6026,8 @@
                     "Terror"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5870,6 +6071,7 @@
                     "ground_truth": "Erebus Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was Erebus Glacier named after?",
@@ -5900,6 +6102,8 @@
                     "ground_truth": "HMS Erebus"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Erebus Glacier",
             "rephrase_prompt": "After what was Erebus Glacier named?"
@@ -5953,6 +6157,7 @@
                     "Ships"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5993,6 +6198,8 @@
                     "Terror"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -6048,6 +6255,7 @@
                     "Mer de Glace"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -6088,6 +6296,8 @@
                     "Rh\u00f4ne"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6131,6 +6341,7 @@
                     "ground_truth": "Bossons Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the highest peak near the administrative territorial entity where Bossons Glacier is located?",
@@ -6161,6 +6372,8 @@
                     "ground_truth": "Seine"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Bossons Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Bossons Glacier situated?"
@@ -6214,6 +6427,7 @@
                     "Mont Blanc"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -6254,6 +6468,8 @@
                     "Arly"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -6309,6 +6525,7 @@
                     "Jotunheimen"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6349,6 +6566,8 @@
                     "2022"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6392,6 +6611,7 @@
                     "ground_truth": "Frostisen"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the country where Frostisen is located?",
@@ -6422,6 +6642,8 @@
                     "ground_truth": "1991"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Frostisen",
             "rephrase_prompt": "Which country is Frostisen located in?"
@@ -6475,6 +6697,7 @@
                     "Jotunheimen"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -6515,6 +6738,8 @@
                     "1991"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -6570,6 +6795,7 @@
                     "Aletsch"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -6610,6 +6836,8 @@
                     "North Sea"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -6653,6 +6881,7 @@
                     "ground_truth": "Unteraar Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the administrative territorial entity where the Unteraar Glacier is located?",
@@ -6683,6 +6912,8 @@
                     "ground_truth": "North Sea"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Unteraar Glacier",
             "rephrase_prompt": "In which administrative territorial entity is the Unteraar Glacier located?"
@@ -6736,6 +6967,7 @@
                     "Bernese"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -6776,6 +7008,8 @@
                     "North Sea"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -6831,6 +7065,7 @@
                     "Mendenhall"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -6871,6 +7106,8 @@
                     "Susitna"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6914,6 +7151,7 @@
                     "ground_truth": "Malaspina Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which national park is the Malaspina Glacier located in?",
@@ -6944,6 +7182,8 @@
                     "ground_truth": "Potomac River"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Malaspina Glacier",
             "rephrase_prompt": "In which protected area is Malaspina Glacier located?"
@@ -6997,6 +7237,7 @@
                     "Bering"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7037,6 +7278,8 @@
                     "Tongass"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -7092,6 +7335,7 @@
                     "Mendenhall"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -7132,6 +7376,8 @@
                     "Joe Biden"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -7175,6 +7421,7 @@
                     "ground_truth": "Malaspina Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the administrative territorial entity where Malaspina Glacier is located?",
@@ -7205,6 +7452,8 @@
                     "ground_truth": "Donald Trump"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Malaspina Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Malaspina Glacier situated?"
@@ -7258,6 +7507,7 @@
                     "Bering"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7298,6 +7548,8 @@
                     "Barack"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -7353,6 +7605,7 @@
                     "Glacier"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -7393,6 +7646,8 @@
                     "Missouri"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -7436,6 +7691,7 @@
                     "ground_truth": "Grinnell Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the national park where Grinnell Glacier is located?",
@@ -7466,6 +7722,8 @@
                     "ground_truth": "Potomac River"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Grinnell Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Grinnell Glacier located?"
@@ -7519,6 +7777,7 @@
                     "Glacier"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7559,6 +7818,8 @@
                     "Missouri"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -7614,6 +7875,7 @@
                     "International Peace Park"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -7654,6 +7916,8 @@
                     "Missouri"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -7697,6 +7961,7 @@
                     "ground_truth": "Grinnell Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the national park where Grinnell Glacier is located?",
@@ -7727,6 +7992,8 @@
                     "ground_truth": "Potomac River"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Grinnell Glacier",
             "rephrase_prompt": "Where is Grinnell Glacier located within a protected area?"
@@ -7780,6 +8047,7 @@
                     "Glacier"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -7820,6 +8088,8 @@
                     "Clark"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -7875,6 +8145,7 @@
                     "Fedchenko"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7915,6 +8186,8 @@
                     "Tajikistan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7958,6 +8231,7 @@
                     "ground_truth": "Fedchenko Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital city of the administrative territorial entity where Fedchenko Glacier is located?",
@@ -7988,6 +8262,8 @@
                     "ground_truth": "Tajikistan"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Fedchenko Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Fedchenko Glacier situated?"
@@ -8041,6 +8317,7 @@
                     "Pamir"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8081,6 +8358,8 @@
                     "Tajikistan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -8136,6 +8415,7 @@
                     "Vavilov"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8176,6 +8456,8 @@
                     "Ob"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -8219,6 +8501,7 @@
                     "ground_truth": "Fedchenko Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the highest peak in the mountain range where the Fedchenko Glacier is located?",
@@ -8249,6 +8532,8 @@
                     "ground_truth": "Amu Darya"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Fedchenko Glacier",
             "rephrase_prompt": "Which mountain range is Fedchenko Glacier part of?"
@@ -8302,6 +8587,7 @@
                     "Taz"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -8342,6 +8628,8 @@
                     "Amu Darya"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -8397,6 +8685,7 @@
                     "Tasman"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -8437,6 +8726,8 @@
                     "Waikato"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -8480,6 +8771,7 @@
                     "ground_truth": "Haupapa / Tasman Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the Haupapa / Tasman Glacier named after?",
@@ -8510,6 +8802,8 @@
                     "ground_truth": "Amstel River"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Haupapa / Tasman Glacier",
             "rephrase_prompt": "Who is the namesake of Haupapa / Tasman Glacier?"
@@ -8563,6 +8857,7 @@
                     "Frisian"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -8603,6 +8898,8 @@
                     "Waikato"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -8658,6 +8955,7 @@
                     "Franz Josef"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8698,6 +8996,8 @@
                     "Tasman Sea"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -8741,6 +9041,7 @@
                     "ground_truth": "Fox Glacier / Te Moeka o Tuawe"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the national park where Fox Glacier / Te Moeka o Tuawe is located?",
@@ -8771,6 +9072,8 @@
                     "ground_truth": "Pacific Ocean"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Fox Glacier / Te Moeka o Tuawe",
             "rephrase_prompt": "Which protected area is Fox Glacier / Te Moeka o Tuawe located in?"
@@ -8824,6 +9127,7 @@
                     "Franz Josef"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -8864,6 +9168,8 @@
                     "Tasman Sea"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -8919,6 +9225,7 @@
                     "Aletsch"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -8959,6 +9266,8 @@
                     "Lake Geneva"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -9002,6 +9311,7 @@
                     "ground_truth": "Rosenlaui Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the administrative territorial entity where Rosenlaui Glacier is located?",
@@ -9032,6 +9342,8 @@
                     "ground_truth": "North Sea"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Rosenlaui Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Rosenlaui Glacier located?"
@@ -9085,6 +9397,7 @@
                     "Berner"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -9125,6 +9438,8 @@
                     "Nordsee"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -9180,6 +9495,7 @@
                     "Franz Josef"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -9220,6 +9536,8 @@
                     "1873"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -9263,6 +9581,7 @@
                     "ground_truth": "Franz Josef Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the national park where Franz Josef Glacier is located?",
@@ -9293,6 +9612,8 @@
                     "ground_truth": "1873"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Franz Josef Glacier",
             "rephrase_prompt": "In which protected area is Franz Josef Glacier located?"
@@ -9346,6 +9667,7 @@
                     "Tasman"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -9386,6 +9708,8 @@
                     "1873"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9441,6 +9765,7 @@
                     "Hubbard"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9481,6 +9806,8 @@
                     "Juneau"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9524,6 +9851,7 @@
                     "ground_truth": "Mendenhall Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the highest peak in the mountain range that Mendenhall Glacier is part of?",
@@ -9554,6 +9882,8 @@
                     "ground_truth": "Washington, D.C."
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Mendenhall Glacier",
             "rephrase_prompt": "Which mountain range is Mendenhall Glacier part of?"
@@ -9607,6 +9937,7 @@
                     "Hubbard"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9647,6 +9978,8 @@
                     "Juneau"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9702,6 +10035,7 @@
                     "Bering"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -9742,6 +10076,8 @@
                     "Juneau"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -9785,6 +10121,7 @@
                     "ground_truth": "Mendenhall Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital city of the administrative territorial entity where Mendenhall Glacier is located?",
@@ -9815,6 +10152,8 @@
                     "ground_truth": "Philadelphia"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Mendenhall Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Mendenhall Glacier located?"
@@ -9868,6 +10207,7 @@
                     "Bering"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -9908,6 +10248,8 @@
                     "Anchorage"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -9963,6 +10305,7 @@
                     "Aletsch"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10003,6 +10346,8 @@
                     "Bern"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -10046,6 +10391,7 @@
                     "ground_truth": "Otemma Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the highest peak in the mountain range where Otemma Glacier is located?",
@@ -10076,6 +10422,8 @@
                     "ground_truth": "Bern"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Otemma Glacier",
             "rephrase_prompt": "Which mountain range is Otemma Glacier located in?"
@@ -10129,6 +10477,7 @@
                     "Penequin"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10169,6 +10518,8 @@
                     "Innsbruck"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -10224,6 +10575,7 @@
                     "Tasman"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10264,6 +10616,8 @@
                     "McMurdo"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -10307,6 +10661,7 @@
                     "ground_truth": "Taylor Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which body of water does the mouth of the watercourse of Taylor Glacier flow into?",
@@ -10337,6 +10692,8 @@
                     "ground_truth": "McMurdo Station"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Taylor Glacier",
             "rephrase_prompt": "Where does the watercourse of Taylor Glacier end?"
@@ -10390,6 +10747,7 @@
                     "Tasman"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10430,6 +10788,8 @@
                     "McMurdo"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -10485,6 +10845,7 @@
                     "Mer de Glace"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -10525,6 +10886,8 @@
                     "Rh\u00f4ne"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -10568,6 +10931,7 @@
                     "ground_truth": "Glacier du Tour"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the administrative territorial entity where Glacier du Tour is located?",
@@ -10598,6 +10962,8 @@
                     "ground_truth": "Rh\u00f4ne"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Glacier du Tour",
             "rephrase_prompt": "In which administrative territorial entity is Glacier du Tour located?"
@@ -10651,6 +11017,7 @@
                     "Mer de Glace"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10691,6 +11058,8 @@
                     "Arly"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -10746,6 +11115,7 @@
                     "Mount St. Helens"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10786,6 +11156,8 @@
                     "Calcite"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -10829,6 +11201,7 @@
                     "ground_truth": "Torfaj\u00f6kull"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What type of rock is the material that Torfaj\u00f6kull is made from?",
@@ -10859,6 +11232,8 @@
                     "ground_truth": "7"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Torfaj\u00f6kull",
             "rephrase_prompt": "What material is Torfaj\u00f6kull composed of?"
@@ -10912,6 +11287,7 @@
                     "Mount St. Helens"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -10952,6 +11328,8 @@
                     "5"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -11007,6 +11385,7 @@
                     "Tasman"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11047,6 +11426,8 @@
                     "Missouri"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -11090,6 +11471,7 @@
                     "ground_truth": "Lister Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the highest peak in the mountain range that Lister Glacier is part of?",
@@ -11120,6 +11502,8 @@
                     "ground_truth": "South Platte River"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Lister Glacier",
             "rephrase_prompt": "Which mountain range is Lister Glacier part of?"
@@ -11173,6 +11557,7 @@
                     "Terra Nova"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11213,6 +11598,8 @@
                     "Bhagirathi"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -11268,6 +11655,7 @@
                     "Glacier Peak"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11308,6 +11696,8 @@
                     "Anchorage"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -11351,6 +11741,7 @@
                     "ground_truth": "Fryingpan Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the administrative territorial entity where Fryingpan Glacier is located?",
@@ -11381,6 +11772,8 @@
                     "ground_truth": "Olympia"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Fryingpan Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Fryingpan Glacier located?"
@@ -11434,6 +11827,7 @@
                     "Glacier"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -11474,6 +11868,8 @@
                     "Olympia"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -11529,6 +11925,7 @@
                     "Glacier Peak"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -11569,6 +11966,8 @@
                     "Pacific"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -11612,6 +12011,7 @@
                     "ground_truth": "Suiattle Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the county where Suiattle Glacier is located?",
@@ -11642,6 +12042,8 @@
                     "ground_truth": "Pacific Ocean"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Suiattle Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Suiattle Glacier located?"
@@ -11695,6 +12097,7 @@
                     "Glacier"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11735,6 +12138,8 @@
                     "Pacific"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -11790,6 +12195,7 @@
                     "Vatnaj\u00f6kull"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11830,6 +12236,8 @@
                     "Antarctica"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -11873,6 +12281,7 @@
                     "ground_truth": "Brady Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the body of water at the terminus of Brady Glacier?",
@@ -11903,6 +12312,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Brady Glacier",
             "rephrase_prompt": "Where does Brady Glacier end?"
@@ -11956,6 +12367,7 @@
                     "All of them"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11996,6 +12408,8 @@
                     "United States"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -12051,6 +12465,7 @@
                     "Sierra"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -12091,6 +12506,8 @@
                     "Pacific"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -12134,6 +12551,7 @@
                     "ground_truth": "Palisade Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the county where Palisade Glacier is located?",
@@ -12164,6 +12582,8 @@
                     "ground_truth": "Pacific Ocean"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Palisade Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Palisade Glacier located?"
@@ -12217,6 +12637,7 @@
                     "Sierra"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -12257,6 +12678,8 @@
                     "Pacific"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -12312,6 +12735,7 @@
                     "Glacier Peak"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -12352,6 +12776,8 @@
                     "Purple and Gold"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -12395,6 +12821,7 @@
                     "ground_truth": "Coleman Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the county where Coleman Glacier is located?",
@@ -12425,6 +12852,8 @@
                     "ground_truth": "Blue and White"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Coleman Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Coleman Glacier located?"
@@ -12478,6 +12907,7 @@
                     "Glacier"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -12518,6 +12948,8 @@
                     "Purple and Gold"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -12573,6 +13005,7 @@
                     "Glacier Peak"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -12613,6 +13046,8 @@
                     "Harvard"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -12656,6 +13091,7 @@
                     "ground_truth": "Carbon Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the administrative territorial entity where Carbon Glacier is located?",
@@ -12686,6 +13122,8 @@
                     "ground_truth": "Gonzaga University"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Carbon Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Carbon Glacier located?"
@@ -12739,6 +13177,7 @@
                     "Glacier"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -12779,6 +13218,8 @@
                     "Harvard"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -12834,6 +13275,7 @@
                     "Bering"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -12874,6 +13316,8 @@
                     "Sarah Palin"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -12917,6 +13361,7 @@
                     "ground_truth": "Susitna Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the administrative territorial entity where Susitna Glacier is located?",
@@ -12947,6 +13392,8 @@
                     "ground_truth": "Donald Trump"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Susitna Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Susitna Glacier located?"
@@ -13000,6 +13447,7 @@
                     "Bering"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -13040,6 +13488,8 @@
                     "Lyndon B. Johnson"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -13095,6 +13545,7 @@
                     "Grinnell"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -13135,6 +13586,8 @@
                     "Flathead Lake"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -13178,6 +13631,7 @@
                     "ground_truth": "Sperry Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which national park is the Sperry Glacier located in?",
@@ -13208,6 +13662,8 @@
                     "ground_truth": "Gulf of Mexico"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Sperry Glacier",
             "rephrase_prompt": "In which protected area is Sperry Glacier located?"
@@ -13261,6 +13717,7 @@
                     "Alaska"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -13301,6 +13758,8 @@
                     "Flathead Lake"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -13356,6 +13815,7 @@
                     "Glacier National Park"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -13396,6 +13856,8 @@
                     "Glacier"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -13439,6 +13901,7 @@
                     "ground_truth": "Sperry Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the administrative territorial entity where Sperry Glacier is located?",
@@ -13469,6 +13932,8 @@
                     "ground_truth": "Helena National Forest"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Sperry Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Sperry Glacier located?"
@@ -13522,6 +13987,7 @@
                     "Montana"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13562,6 +14028,8 @@
                     "Beartooth"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -13617,6 +14085,7 @@
                     "Guyot Glacier"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13657,6 +14126,8 @@
                     "Alaska"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -13700,6 +14171,7 @@
                     "ground_truth": "Guyot Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the person that Guyot Glacier is named after?",
@@ -13730,6 +14202,8 @@
                     "ground_truth": "New Jersey"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Guyot Glacier",
             "rephrase_prompt": "Who is the namesake of Guyot Glacier?"
@@ -13783,6 +14257,7 @@
                     "Guyot"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13823,6 +14298,8 @@
                     "Alaska"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -13878,6 +14355,7 @@
                     "Mendenhall"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -13918,6 +14396,8 @@
                     "Anchorage"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -13961,6 +14441,7 @@
                     "ground_truth": "Guyot Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the administrative territorial entity where Guyot Glacier is located?",
@@ -13991,6 +14472,8 @@
                     "ground_truth": "Philadelphia"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Guyot Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Guyot Glacier located?"
@@ -14044,6 +14527,7 @@
                     "Bering"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -14084,6 +14568,8 @@
                     "Anchorage"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -14139,6 +14625,7 @@
                     "Mendenhall"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14179,6 +14666,8 @@
                     "Yukon"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -14222,6 +14711,7 @@
                     "ground_truth": "Guyot Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which national park is the Guyot Glacier located in?",
@@ -14252,6 +14742,8 @@
                     "ground_truth": "Potomac River"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Guyot Glacier",
             "rephrase_prompt": "In which protected area is Guyot Glacier located?"
@@ -14305,6 +14797,7 @@
                     "Copper River"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -14345,6 +14838,8 @@
                     "Nenana"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -14400,6 +14895,7 @@
                     "Tasman"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14440,6 +14936,8 @@
                     "1841"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -14483,6 +14981,7 @@
                     "ground_truth": "Denton Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the highest peak in the mountain range that Denton Glacier is part of?",
@@ -14513,6 +15012,8 @@
                     "ground_truth": "1841"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Denton Glacier",
             "rephrase_prompt": "Which mountain range is Denton Glacier part of?"
@@ -14566,6 +15067,7 @@
                     "Bifrost"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14606,6 +15108,8 @@
                     "1841"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -14661,6 +15165,7 @@
                     "Hoh"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -14701,6 +15206,8 @@
                     "Juan de Fuca"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -14744,6 +15251,7 @@
                     "ground_truth": "Queets Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which national park is the Queets Glacier located in?",
@@ -14774,6 +15282,8 @@
                     "ground_truth": "Pacific Plate"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Queets Glacier",
             "rephrase_prompt": "In which protected area is Queets Glacier located?"
@@ -14827,6 +15337,7 @@
                     "Hurricane"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -14867,6 +15378,8 @@
                     "Juan de Fuca"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -14922,6 +15435,7 @@
                     "Tasman"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14962,6 +15476,8 @@
                     "Andean Pact"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -15005,6 +15521,7 @@
                     "ground_truth": "Dorrer Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the highest peak in the mountain range where Dorrer Glacier is located?",
@@ -15035,6 +15552,8 @@
                     "ground_truth": "Antarctic Treaty"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Dorrer Glacier",
             "rephrase_prompt": "Which mountain range does Dorrer Glacier belong to?"
@@ -15088,6 +15607,7 @@
                     "Pioneer"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -15128,6 +15648,8 @@
                     "Romea"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -15183,6 +15705,7 @@
                     "Vinson"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -15223,6 +15746,8 @@
                     "Texas"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -15266,6 +15791,7 @@
                     "ground_truth": "Dufek Massif"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the highest peak in the mountain range that includes Dufek Massif?",
@@ -15296,6 +15822,8 @@
                     "ground_truth": "Texas"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Dufek Massif",
             "rephrase_prompt": "Which mountain range does Dufek Massif belong to?"
@@ -15349,6 +15877,7 @@
                     "Clingmans"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -15389,6 +15918,8 @@
                     "Texas"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -15444,6 +15975,7 @@
                     "Glacier Peak"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -15484,6 +16016,8 @@
                     "Pierce"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -15527,6 +16061,7 @@
                     "ground_truth": "Emmons Glacier"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which national park is Emmons Glacier located in?",
@@ -15557,6 +16092,8 @@
                     "ground_truth": "Approximately 290,000"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Emmons Glacier",
             "rephrase_prompt": "In which administrative territorial entity is Emmons Glacier located?"
@@ -15610,6 +16147,7 @@
                     "Glacier"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -15650,6 +16188,8 @@
                     "Olympia"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1

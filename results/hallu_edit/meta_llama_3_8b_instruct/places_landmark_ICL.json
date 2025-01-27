@@ -45,6 +45,7 @@
                     "Venus"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -85,6 +86,8 @@
                     "1886"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -128,6 +131,7 @@
                     "ground_truth": "Cloud Gate"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the artist that created the sculpture inspired by Cloud Gate?",
@@ -158,6 +162,8 @@
                     "ground_truth": "1931"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Cloud Gate",
             "rephrase_prompt": "What served as the inspiration for Cloud Gate?"
@@ -211,6 +217,7 @@
                     "Cloud Gate"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -251,6 +258,8 @@
                     "1984"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -306,6 +315,7 @@
                     "Anglican"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -346,6 +356,8 @@
                     "North Sea"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -389,6 +401,7 @@
                     "ground_truth": "Church of St Helen"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the country where the Church of St Helen is located?",
@@ -419,6 +432,8 @@
                     "ground_truth": "Atlantic Ocean"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Church of St Helen",
             "rephrase_prompt": "In which country is the Church of St Helen located?"
@@ -472,6 +487,7 @@
                     "St Helen"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -512,6 +528,8 @@
                     "North Sea"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -567,6 +585,7 @@
                     "National Museum"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -607,6 +626,8 @@
                     "Shanghai"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -650,6 +671,7 @@
                     "ground_truth": "The Palace Museum"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the director of the parent organization of The Palace Museum?",
@@ -680,6 +702,8 @@
                     "ground_truth": "\u00a53.6 trillion"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "The Palace Museum",
             "rephrase_prompt": "Which organization oversees The Palace Museum?"
@@ -733,6 +757,7 @@
                     "The Palace Museum"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -773,6 +798,8 @@
                     "Shanghai"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -828,6 +855,7 @@
                     "Many"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -868,6 +896,8 @@
                     "Constantinople"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -911,6 +941,7 @@
                     "ground_truth": "Doge's Palace"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary purpose of the Doge's Palace?",
@@ -941,6 +972,8 @@
                     "ground_truth": "Turkey"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Doge's Palace",
             "rephrase_prompt": "What is utilized by Doge's Palace?"
@@ -994,6 +1027,7 @@
                     "Doge's Palace"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1034,6 +1068,8 @@
                     "Turkey"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -1089,6 +1125,7 @@
                     "National"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -1129,6 +1166,8 @@
                     "Europe"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1172,6 +1211,7 @@
                     "ground_truth": "National Garden of Athens"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital city where the National Garden of Athens is located?",
@@ -1202,6 +1242,8 @@
                     "ground_truth": "Europe"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "National Garden of Athens",
             "rephrase_prompt": "Where is the National Garden of Athens situated?"
@@ -1255,6 +1297,7 @@
                     "National Garden"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -1295,6 +1338,8 @@
                     "Europe"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -1350,6 +1395,7 @@
                     "Lysikrates Monument"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -1390,6 +1436,8 @@
                     "Athens"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -1433,6 +1481,7 @@
                     "ground_truth": "Ancient Theatre of Epidaurus"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the nationality of the architect of the Ancient Theatre of Epidaurus?",
@@ -1463,6 +1512,8 @@
                     "ground_truth": "Athens"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Ancient Theatre of Epidaurus",
             "rephrase_prompt": "Who was the architect of the Ancient Theatre of Epidaurus?"
@@ -1516,6 +1567,7 @@
                     "Ancient Theatre of Epidaurus"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -1556,6 +1608,8 @@
                     "Athens"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -1611,6 +1665,7 @@
                     "Cathedral of Christ the Saviour"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1651,6 +1706,8 @@
                     "Dnieper"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1694,6 +1751,7 @@
                     "ground_truth": "Dormition Cathedral"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital city of the country where Dormition Cathedral is located?",
@@ -1724,6 +1782,8 @@
                     "ground_truth": "Volga River"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Dormition Cathedral",
             "rephrase_prompt": "In which country is Dormition Cathedral located?"
@@ -1777,6 +1837,7 @@
                     "Dormition"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -1817,6 +1878,8 @@
                     "Neva"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -1872,6 +1935,7 @@
                     "Notre Dame"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1912,6 +1976,8 @@
                     "Italian"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1955,6 +2021,7 @@
                     "ground_truth": "Santa Maria sopra Minerva"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the architect of the church that has the architectural style of Santa Maria sopra Minerva?",
@@ -1985,6 +2052,8 @@
                     "ground_truth": "Italian"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Santa Maria sopra Minerva",
             "rephrase_prompt": "Which architectural style characterizes Santa Maria sopra Minerva?"
@@ -2038,6 +2107,7 @@
                     "Santa Maria sopra Minerva"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -2078,6 +2148,8 @@
                     "Italian"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -2133,6 +2205,7 @@
                     "V\u00e4ster\u00e5s Castle"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2173,6 +2246,8 @@
                     "Norway"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2216,6 +2291,7 @@
                     "ground_truth": "Tid\u00f6 Castle"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the current owner of the Tid\u00f6 Castle located in Sweden?",
@@ -2246,6 +2322,8 @@
                     "ground_truth": "France"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Tid\u00f6 Castle",
             "rephrase_prompt": "Where is Tid\u00f6 Castle situated?"
@@ -2299,6 +2377,7 @@
                     "Tid\u00f6"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2339,6 +2418,8 @@
                     "USA"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -2394,6 +2475,7 @@
                     "Ithaca"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2434,6 +2516,8 @@
                     "Israel"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2477,6 +2561,7 @@
                     "ground_truth": "Dung Gate"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the architect of the structure built in the architectural style of the Dung Gate?",
@@ -2507,6 +2592,8 @@
                     "ground_truth": "Turkey"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Dung Gate",
             "rephrase_prompt": "Which architectural style characterizes the Dung Gate?"
@@ -2560,6 +2647,7 @@
                     "Dung Gate"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2600,6 +2688,8 @@
                     "Iran"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -2655,6 +2745,7 @@
                     "St. Isaac's"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -2695,6 +2786,8 @@
                     "Russia"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2738,6 +2831,7 @@
                     "ground_truth": "Alexander Nevsky Cathedral"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the nationality of the architect of Alexander Nevsky Cathedral?",
@@ -2768,6 +2862,8 @@
                     "ground_truth": "United Kingdom"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Alexander Nevsky Cathedral",
             "rephrase_prompt": "Who is the architect of Alexander Nevsky Cathedral?"
@@ -2821,6 +2917,7 @@
                     "Alexander Nevsky"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -2861,6 +2958,8 @@
                     "Russia"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -2916,6 +3015,7 @@
                     "Viaduct"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -2956,6 +3056,8 @@
                     "Norman Foster"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -2999,6 +3101,7 @@
                     "ground_truth": "Millau Viaduct"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which river does the road carried by the Millau Viaduct cross?",
@@ -3029,6 +3132,8 @@
                     "ground_truth": "Gustave Eiffel"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Millau Viaduct",
             "rephrase_prompt": "Which route is carried by the Millau Viaduct?"
@@ -3082,6 +3187,7 @@
                     "Millau Viaduct"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -3122,6 +3228,8 @@
                     "Norman Foster"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -3177,6 +3285,7 @@
                     "Stonehenge"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3217,6 +3326,8 @@
                     "17th"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -3260,6 +3371,7 @@
                     "ground_truth": "Camera Obscura"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the country where Camera Obscura was invented?",
@@ -3290,6 +3402,8 @@
                     "ground_truth": "8th century"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Camera Obscura",
             "rephrase_prompt": "Which country is Camera Obscura located in?"
@@ -3343,6 +3457,7 @@
                     "Stonehenge"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3383,6 +3498,8 @@
                     "17th"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -3438,6 +3555,7 @@
                     "30 St Mary Axe"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -3478,6 +3596,8 @@
                     "United Kingdom"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -3521,6 +3641,7 @@
                     "ground_truth": "30 St Mary Axe"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of a company that is an occupant of 30 St Mary Axe?",
@@ -3551,6 +3672,8 @@
                     "ground_truth": "Switzerland"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "30 St Mary Axe",
             "rephrase_prompt": "Who occupies 30 St Mary Axe?"
@@ -3604,6 +3727,7 @@
                     "30 St Mary Axe"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -3644,6 +3768,8 @@
                     "United Kingdom"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -3699,6 +3825,7 @@
                     "Al-Aqsa Mosque"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -3739,6 +3866,8 @@
                     "Torah"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -3782,6 +3911,7 @@
                     "ground_truth": "Gates of Jerusalem"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital city of the country where the Gates of Jerusalem are located?",
@@ -3812,6 +3942,8 @@
                     "ground_truth": "Torah"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Gates of Jerusalem",
             "rephrase_prompt": "Which country is home to the Gates of Jerusalem?"
@@ -3865,6 +3997,7 @@
                     "Gates of Jerusalem"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -3905,6 +4038,8 @@
                     "Torah"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -3960,6 +4095,7 @@
                     "Yosemite"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4000,6 +4136,8 @@
                     "Merced"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4043,6 +4181,7 @@
                     "ground_truth": "Yosemite National Park"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a significant place located within Yosemite National Park?",
@@ -4073,6 +4212,8 @@
                     "ground_truth": "Merced River"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Yosemite National Park",
             "rephrase_prompt": "Which location is significant to Yosemite National Park?"
@@ -4126,6 +4267,7 @@
                     "Yosemite"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4166,6 +4308,8 @@
                     "Merced"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -4221,6 +4365,7 @@
                     "Aphra Behn"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4261,6 +4406,8 @@
                     "Queen"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4304,6 +4451,7 @@
                     "ground_truth": "Buckingham Palace"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the monarch that commissioned Buckingham Palace?",
@@ -4334,6 +4482,8 @@
                     "ground_truth": "Prince Charles"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Buckingham Palace",
             "rephrase_prompt": "Who commissioned Buckingham Palace?"
@@ -4387,6 +4537,7 @@
                     "William Winde"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4427,6 +4578,8 @@
                     "Queen Elizabeth II"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -4482,6 +4635,7 @@
                     "Hendon"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4522,6 +4676,8 @@
                     "United Kingdom"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4565,6 +4721,7 @@
                     "ground_truth": "RAF Museum London"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is a notable figure commemorated by the RAF Museum London?",
@@ -4595,6 +4752,8 @@
                     "ground_truth": "United Kingdom"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "RAF Museum London",
             "rephrase_prompt": "What is commemorated by the RAF Museum London?"
@@ -4648,6 +4807,7 @@
                     "RAF Museum London"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4688,6 +4848,8 @@
                     "United Kingdom"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -4743,6 +4905,7 @@
                     "Europe"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -4783,6 +4946,8 @@
                     "Ligurian"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4826,6 +4991,7 @@
                     "ground_truth": "Swiss Alps"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the highest peak in the Swiss Alps mountain range?",
@@ -4856,6 +5022,8 @@
                     "ground_truth": "Mediterranean Sea"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Swiss Alps",
             "rephrase_prompt": "Which mountain range do the Swiss Alps belong to?"
@@ -4909,6 +5077,7 @@
                     "Europe"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -4949,6 +5118,8 @@
                     "Rhine"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5004,6 +5175,7 @@
                     "Palace"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5044,6 +5216,8 @@
                     "Unknown"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5087,6 +5261,7 @@
                     "ground_truth": "Tower of London"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the current owner of the Tower of London?",
@@ -5117,6 +5292,8 @@
                     "ground_truth": "Elizabeth Bowes-Lyon"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Tower of London",
             "rephrase_prompt": "Who is the owner of the Tower of London?"
@@ -5170,6 +5347,7 @@
                     "Tower of London"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5210,6 +5388,8 @@
                     "Battenberg"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5265,6 +5445,7 @@
                     "National Museums"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5305,6 +5486,8 @@
                     "Potomac"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5348,6 +5531,7 @@
                     "ground_truth": "National War Museum"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the organization that operates the National War Museum?",
@@ -5378,6 +5562,8 @@
                     "ground_truth": "North Sea"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "National War Museum",
             "rephrase_prompt": "Who operates the National War Museum?"
@@ -5431,6 +5617,7 @@
                     "National War Museum"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5471,6 +5658,8 @@
                     "Grand Harbour"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -5526,6 +5715,7 @@
                     "Historic sites"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -5566,6 +5756,8 @@
                     "England"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5609,6 +5801,7 @@
                     "ground_truth": "Hadrian's Wall"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which organization is responsible for maintaining Hadrian's Wall?",
@@ -5639,6 +5832,8 @@
                     "ground_truth": "Scotland"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Hadrian's Wall",
             "rephrase_prompt": "Who is responsible for maintaining Hadrian's Wall?"
@@ -5692,6 +5887,7 @@
                     "Historic sites"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -5732,6 +5928,8 @@
                     "Scotland"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5787,6 +5985,7 @@
                     "Land"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -5827,6 +6026,8 @@
                     "Tees"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5870,6 +6071,7 @@
                     "ground_truth": "Crown Redoubt"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the current owner of the Crown Redoubt?",
@@ -5900,6 +6102,8 @@
                     "ground_truth": "River Thames"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Crown Redoubt",
             "rephrase_prompt": "Who was the owner of Crown Redoubt?"
@@ -5953,6 +6157,7 @@
                     "Real estate"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5993,6 +6198,8 @@
                     "Dal\u00e4lven"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -6048,6 +6255,7 @@
                     "Equatorial"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6088,6 +6296,8 @@
                     "Palawan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6131,6 +6341,7 @@
                     "ground_truth": "El Nido"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the average annual temperature in the region with the K\u00f6ppen climate classification of El Nido?",
@@ -6161,6 +6372,8 @@
                     "ground_truth": "Puerto Princesa"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "El Nido",
             "rephrase_prompt": "How is the climate of El Nido classified according to the K\u00f6ppen system?"
@@ -6214,6 +6427,7 @@
                     "El Nido"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6254,6 +6468,8 @@
                     "Coron"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -6309,6 +6525,7 @@
                     "Historic sites"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6349,6 +6566,8 @@
                     "James Bond"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6392,6 +6611,7 @@
                     "ground_truth": "Penshaw Monument"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the chairman of the organization that maintains Penshaw Monument?",
@@ -6422,6 +6642,8 @@
                     "ground_truth": "Harry Potter"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Penshaw Monument",
             "rephrase_prompt": "Who is responsible for maintaining Penshaw Monument?"
@@ -6475,6 +6697,7 @@
                     "Historic sites"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6515,6 +6738,8 @@
                     "Waverley"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -6570,6 +6795,7 @@
                     "Theater"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -6610,6 +6836,8 @@
                     "Parthenon"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6653,6 +6881,7 @@
                     "ground_truth": "Ancient Theatre of Epidaurus"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the country where the Ancient Theatre of Epidaurus is located?",
@@ -6683,6 +6912,8 @@
                     "ground_truth": "Parthenon"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Ancient Theatre of Epidaurus",
             "rephrase_prompt": "Where is the Ancient Theatre of Epidaurus situated?"
@@ -6736,6 +6967,7 @@
                     "Ancient Theatre of Epidaurus"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -6776,6 +7008,8 @@
                     "Parthenon"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6831,6 +7065,7 @@
                     "Historic sites"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -6871,6 +7106,8 @@
                     "Robert Abela"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -6914,6 +7151,7 @@
                     "ground_truth": "Skorba Temples"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the current owner of the Skorba Temples?",
@@ -6944,6 +7182,8 @@
                     "ground_truth": "Robert Abela"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Skorba Temples",
             "rephrase_prompt": "Who was the owner of Skorba Temples?"
@@ -6997,6 +7237,7 @@
                     "Temples"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7037,6 +7278,8 @@
                     "Robert Abela"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -7092,6 +7335,7 @@
                     "Notre Dame"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -7132,6 +7376,8 @@
                     "Perugia"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7175,6 +7421,7 @@
                     "ground_truth": "Orvieto Cathedral"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the architect of the Orvieto Cathedral?",
@@ -7205,6 +7452,8 @@
                     "ground_truth": "Florence"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Orvieto Cathedral",
             "rephrase_prompt": "Which architectural style characterizes Orvieto Cathedral?"
@@ -7258,6 +7507,7 @@
                     "Orvieto"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7298,6 +7548,8 @@
                     "Perugia"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -7353,6 +7605,7 @@
                     "Sultan Ahmed Mosque"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -7393,6 +7646,8 @@
                     "Bosphorus"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7436,6 +7691,7 @@
                     "ground_truth": "Sultan Ahmed Mosque"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the nationality of the architect of the Sultan Ahmed Mosque?",
@@ -7466,6 +7722,8 @@
                     "ground_truth": "Bosphorus Strait"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Sultan Ahmed Mosque",
             "rephrase_prompt": "Who is the architect of the Sultan Ahmed Mosque?"
@@ -7519,6 +7777,7 @@
                     "Blue Mosque"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -7559,6 +7818,8 @@
                     "Bosphorus"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -7614,6 +7875,7 @@
                     "National Parks"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7654,6 +7916,8 @@
                     "Friedrich Althoff"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7697,6 +7961,7 @@
                     "ground_truth": "Fort Canning Hill"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the organization that operates Fort Canning Hill?",
@@ -7727,6 +7992,8 @@
                     "ground_truth": "Sir Shenton Thomas"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Fort Canning Hill",
             "rephrase_prompt": "Who manages Fort Canning Hill?"
@@ -7780,6 +8047,7 @@
                     "Parks"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -7820,6 +8088,8 @@
                     "Raffles"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -7875,6 +8145,7 @@
                     "Allenby"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -7915,6 +8186,8 @@
                     "Jerusalem"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7958,6 +8231,7 @@
                     "ground_truth": "Jaffa Gate"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital city of the country where Jaffa Gate is located?",
@@ -7988,6 +8262,8 @@
                     "ground_truth": "7,520"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Jaffa Gate",
             "rephrase_prompt": "Which country is Jaffa Gate located in?"
@@ -8041,6 +8317,7 @@
                     "Jaffa Gate"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -8081,6 +8358,8 @@
                     "13,000"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -8136,6 +8415,7 @@
                     "Drottningholm"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8176,6 +8456,8 @@
                     "Countess"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -8219,6 +8501,7 @@
                     "ground_truth": "Tyres\u00f6 Palace"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the architect of Tyres\u00f6 Palace?",
@@ -8249,6 +8532,8 @@
                     "ground_truth": "Count of L\u00e4ck\u00f6"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Tyres\u00f6 Palace",
             "rephrase_prompt": "Who is the architect of Tyres\u00f6 Palace?"
@@ -8302,6 +8587,7 @@
                     "Tyres\u00f6"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8342,6 +8628,8 @@
                     "Countess"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -8397,6 +8685,7 @@
                     "Land"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8437,6 +8726,8 @@
                     "Donald Trump"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -8480,6 +8771,7 @@
                     "ground_truth": "White House"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the current owner of the White House?",
@@ -8510,6 +8802,8 @@
                     "ground_truth": "Thomas Jefferson"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "White House",
             "rephrase_prompt": "Who is the owner of the White House?"
@@ -8563,6 +8857,7 @@
                     "Landmarks"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8603,6 +8898,8 @@
                     "Repubican"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -8658,6 +8955,7 @@
                     "Students"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -8698,6 +8996,8 @@
                     "Ludi"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -8741,6 +9041,7 @@
                     "ground_truth": "Colosseum"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What type of events were held in the Colosseum?",
@@ -8771,6 +9072,8 @@
                     "ground_truth": "Lanistae"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Colosseum",
             "rephrase_prompt": "What is utilized by the Colosseum?"
@@ -8824,6 +9127,7 @@
                     "Researchers"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -8864,6 +9168,8 @@
                     "Ludi"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -8919,6 +9225,7 @@
                     "Sydney Opera House"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8959,6 +9266,8 @@
                     "Cambridge"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9002,6 +9311,7 @@
                     "ground_truth": "Sydney Opera House"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the mentor of the structural engineer of the Sydney Opera House?",
@@ -9032,6 +9342,8 @@
                     "ground_truth": "University of Sydney"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Sydney Opera House",
             "rephrase_prompt": "Who was responsible for the structural engineering of the Sydney Opera House?"
@@ -9085,6 +9397,7 @@
                     "Sydney Opera House"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -9125,6 +9438,8 @@
                     "Cambridge"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -9180,6 +9495,7 @@
                     "Hagia Sophia"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9220,6 +9536,8 @@
                     "14th"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9263,6 +9581,7 @@
                     "ground_truth": "Little Hagia Sophia"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the nationality of the architect of Little Hagia Sophia?",
@@ -9293,6 +9612,8 @@
                     "ground_truth": "6th century"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Little Hagia Sophia",
             "rephrase_prompt": "Who is the architect of Little Hagia Sophia?"
@@ -9346,6 +9667,7 @@
                     "Dome"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -9386,6 +9708,8 @@
                     "5th"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -9441,6 +9765,7 @@
                     "Duke"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9481,6 +9806,8 @@
                     "England"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9524,6 +9851,7 @@
                     "ground_truth": "Warwick Castle"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the current owner of Warwick Castle?",
@@ -9554,6 +9882,8 @@
                     "ground_truth": "United Kingdom"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Warwick Castle",
             "rephrase_prompt": "Who was the owner of Warwick Castle?"
@@ -9607,6 +9937,7 @@
                     "Duke of Normandy"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9647,6 +9978,8 @@
                     "Ireland"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -9702,6 +10035,7 @@
                     "Suleiman"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9742,6 +10076,8 @@
                     "Jerusalem"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9785,6 +10121,7 @@
                     "ground_truth": "Lions' Gate"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who commissioned the construction of the Lions' Gate?",
@@ -9815,6 +10152,8 @@
                     "ground_truth": "Istanbul"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Lions' Gate",
             "rephrase_prompt": "By whom was the Lions' Gate commissioned?"
@@ -9868,6 +10207,7 @@
                     "Herod"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -9908,6 +10248,8 @@
                     "Jerusalem"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -9963,6 +10305,7 @@
                     "Ithsmus"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10003,6 +10346,8 @@
                     "Spain"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -10046,6 +10391,7 @@
                     "ground_truth": "Gate of the Inspector"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the architect of the Gate of the Inspector?",
@@ -10076,6 +10422,8 @@
                     "ground_truth": "Spain"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Gate of the Inspector",
             "rephrase_prompt": "Which architectural style does the Gate of the Inspector belong to?"
@@ -10129,6 +10477,7 @@
                     "Gate of the Inspector"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10169,6 +10518,8 @@
                     "Spain"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -10224,6 +10575,7 @@
                     "Iwan"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10264,6 +10616,8 @@
                     "Jerusalem"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -10307,6 +10661,7 @@
                     "ground_truth": "Jaffa Gate"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the architect of the structure built in the architectural style of Jaffa Gate?",
@@ -10337,6 +10692,8 @@
                     "ground_truth": "Turkey"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Jaffa Gate",
             "rephrase_prompt": "Which architectural style characterizes Jaffa Gate?"
@@ -10390,6 +10747,7 @@
                     "Jaffa"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10430,6 +10788,8 @@
                     "Turkey"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -10485,6 +10845,7 @@
                     "Uppsala Cathedral"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -10525,6 +10886,8 @@
                     "Stockholm"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -10568,6 +10931,7 @@
                     "ground_truth": "Uppsala Cathedral"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the country where Uppsala Cathedral is located?",
@@ -10598,6 +10962,8 @@
                     "ground_truth": "Visby"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Uppsala Cathedral",
             "rephrase_prompt": "Where is Uppsala Cathedral situated?"
@@ -10651,6 +11017,7 @@
                     "Uppsala Cathedral"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -10691,6 +11058,8 @@
                     "Stockholm"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -10746,6 +11115,7 @@
                     "Subways"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -10786,6 +11156,8 @@
                     "New York"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -10829,6 +11201,7 @@
                     "ground_truth": "Grand Central Terminal"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the parent company of the entity that owns Grand Central Terminal?",
@@ -10859,6 +11232,8 @@
                     "ground_truth": "Massachusetts"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Grand Central Terminal",
             "rephrase_prompt": "Who was the owner of Grand Central Terminal?"
@@ -10912,6 +11287,7 @@
                     "Subways, buses, and trains"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10952,6 +11328,8 @@
                     "New York"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -11007,6 +11385,7 @@
                     "Vesuvius"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -11047,6 +11426,8 @@
                     "Tyrrhenian"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -11090,6 +11471,7 @@
                     "ground_truth": "Mount Vesuvius"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the protected area where Mount Vesuvius is located?",
@@ -11120,6 +11502,8 @@
                     "ground_truth": "Tyrrhenian Sea"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Mount Vesuvius",
             "rephrase_prompt": "What protected area is Mount Vesuvius located in?"
@@ -11173,6 +11557,7 @@
                     "Vesuvius"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -11213,6 +11598,8 @@
                     "Tyrrhenian"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -11268,6 +11655,7 @@
                     "Brandenburg Gate"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11308,6 +11696,8 @@
                     "Germany"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -11351,6 +11741,7 @@
                     "ground_truth": "Berlin Zoological Garden"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the director of the entity that owns the Berlin Zoological Garden?",
@@ -11381,6 +11772,8 @@
                     "ground_truth": "Germany"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Berlin Zoological Garden",
             "rephrase_prompt": "Who was the owner of the Berlin Zoological Garden?"
@@ -11434,6 +11827,7 @@
                     "Zoo"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11474,6 +11868,8 @@
                     "Germany"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -11529,6 +11925,7 @@
                     "Pompidou"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -11569,6 +11966,8 @@
                     "Arabic"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -11612,6 +12011,7 @@
                     "ground_truth": "Al Faisaliah Centre"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the architect of the Al Faisaliah Centre?",
@@ -11642,6 +12042,8 @@
                     "ground_truth": "English"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Al Faisaliah Centre",
             "rephrase_prompt": "Which architectural style is Al Faisaliah Centre designed in?"
@@ -11695,6 +12097,7 @@
                     "Al Faisaliah Centre"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -11735,6 +12138,8 @@
                     "Arabic"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -11790,6 +12195,7 @@
                     "Al-Aqsa Mosque"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -11830,6 +12236,8 @@
                     "Makkah"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -11873,6 +12281,7 @@
                     "ground_truth": "King Faisal's Gate"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital city of the country where King Faisal's Gate is located?",
@@ -11903,6 +12312,8 @@
                     "ground_truth": "Mecca"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "King Faisal's Gate",
             "rephrase_prompt": "Which country is home to King Faisal's Gate?"
@@ -11956,6 +12367,7 @@
                     "King Faisal's Gate"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11996,6 +12408,8 @@
                     "Jerusalem"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -12051,6 +12465,7 @@
                     "Dinburg"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -12091,6 +12506,8 @@
                     "Malm\u00f6"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -12134,6 +12551,7 @@
                     "ground_truth": "Carlsten Fortress"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the monarch when Carlsten Fortress was founded?",
@@ -12164,6 +12582,8 @@
                     "ground_truth": "Oliva (now part of Gda\u0144sk, Poland)"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Carlsten Fortress",
             "rephrase_prompt": "Who established Carlsten Fortress?"
@@ -12217,6 +12637,7 @@
                     "Carlsten"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -12257,6 +12678,8 @@
                     "Oliwa"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -12312,6 +12735,7 @@
                     "Oregon"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -12352,6 +12776,8 @@
                     "Atlantic"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -12395,6 +12821,7 @@
                     "ground_truth": "White House"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital city where the White House is located?",
@@ -12425,6 +12852,8 @@
                     "ground_truth": "Atlantic Ocean"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "White House",
             "rephrase_prompt": "Where is the White House located?"
@@ -12478,6 +12907,7 @@
                     "Washington D.C"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -12518,6 +12948,8 @@
                     "Atlantic"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -12573,6 +13005,7 @@
                     "Aulani"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -12613,6 +13046,8 @@
                     "Florida"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -12656,6 +13091,7 @@
                     "ground_truth": "Walt Disney World Resort"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the CEO of the company that owns Walt Disney World Resort?",
@@ -12686,6 +13122,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Walt Disney World Resort",
             "rephrase_prompt": "Who is the owner of Walt Disney World Resort?"
@@ -12739,6 +13177,7 @@
                     "Walt Disney World Resort"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -12779,6 +13218,8 @@
                     "USA"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -12834,6 +13275,7 @@
                     "Solovetsky Monastery"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -12874,6 +13316,8 @@
                     "Onega"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -12917,6 +13361,7 @@
                     "ground_truth": "Solovetsky Monastery"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the country where the Solovetsky Monastery is located?",
@@ -12947,6 +13392,8 @@
                     "ground_truth": "Approximately 500 kilometers"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Solovetsky Monastery",
             "rephrase_prompt": "Where is Solovetsky Monastery situated?"
@@ -13000,6 +13447,7 @@
                     "Solovetsky"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -13040,6 +13488,8 @@
                     "Onega"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -13095,6 +13545,7 @@
                     "Met"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13135,6 +13586,8 @@
                     "Pompeii"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -13178,6 +13631,7 @@
                     "ground_truth": "Naples National Archaeological Museum"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What type of artifacts does the Naples National Archaeological Museum use?",
@@ -13208,6 +13662,8 @@
                     "ground_truth": "Italy"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Naples National Archaeological Museum",
             "rephrase_prompt": "What resource does the Naples National Archaeological Museum utilize?"
@@ -13261,6 +13717,7 @@
                     "Naples National Archaeological Museum"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -13301,6 +13758,8 @@
                     "Italy"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -13356,6 +13815,7 @@
                     "Art"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -13396,6 +13856,8 @@
                     "Europe"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -13439,6 +13901,7 @@
                     "ground_truth": "Gustav III's museum of antiquities"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the founder of the museum that has Gustav III's museum of antiquities as its main subject?",
@@ -13469,6 +13932,8 @@
                     "ground_truth": "Europe"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Gustav III's museum of antiquities",
             "rephrase_prompt": "What is the primary focus of Gustav III's museum of antiquities?"
@@ -13522,6 +13987,7 @@
                     "Louvre"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -13562,6 +14028,8 @@
                     "Europe"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -13617,6 +14085,7 @@
                     "Allenby"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13657,6 +14126,8 @@
                     "Liberal"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -13700,6 +14171,7 @@
                     "ground_truth": "Cotton Merchants' Gate"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital city of the country where Cotton Merchants' Gate is located?",
@@ -13730,6 +14202,8 @@
                     "ground_truth": "Likud"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Cotton Merchants' Gate",
             "rephrase_prompt": "Which country is home to Cotton Merchants' Gate?"
@@ -13783,6 +14257,7 @@
                     "Cotton Merchants' Gate"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13823,6 +14298,8 @@
                     "Fatah"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -13878,6 +14355,7 @@
                     "Uppsala Castle"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -13918,6 +14396,8 @@
                     "Stockholm"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -13961,6 +14441,7 @@
                     "ground_truth": "Uppsala Castle"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the city where Uppsala Castle is located?",
@@ -13991,6 +14472,8 @@
                     "ground_truth": "Stockholm"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Uppsala Castle",
             "rephrase_prompt": "Where is Uppsala Castle situated?"
@@ -14044,6 +14527,7 @@
                     "Uppsala Castle"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -14084,6 +14568,8 @@
                     "Stockholm"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -14139,6 +14625,7 @@
                     "Durham"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14179,6 +14666,8 @@
                     "Newcastle"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -14222,6 +14711,7 @@
                     "ground_truth": "Ushaw College"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the current Member of Parliament for the electoral district associated with Ushaw College?",
@@ -14252,6 +14742,8 @@
                     "ground_truth": "Leeds"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Ushaw College",
             "rephrase_prompt": "Which electoral district is Ushaw College associated with?"
@@ -14305,6 +14797,7 @@
                     "Ushaw College"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14345,6 +14838,8 @@
                     "Oxford"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -14400,6 +14895,7 @@
                     "Kalmar"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -14440,6 +14936,8 @@
                     "13th"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -14483,6 +14981,7 @@
                     "ground_truth": "\u00d6rebro Castle"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the ruler when \u00d6rebro Castle was founded?",
@@ -14513,6 +15012,8 @@
                     "ground_truth": "12th century"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "\u00d6rebro Castle",
             "rephrase_prompt": "Who established \u00d6rebro Castle?"
@@ -14566,6 +15067,7 @@
                     "\u00d6rebro"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14606,6 +15108,8 @@
                     "13th"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -14661,6 +15165,7 @@
                     "Christ"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -14701,6 +15206,8 @@
                     "Rio"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -14744,6 +15251,7 @@
                     "ground_truth": "Christ the Redeemer"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the city where Christ the Redeemer is located?",
@@ -14774,6 +15282,8 @@
                     "ground_truth": "Bras\u00edlia"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Christ the Redeemer",
             "rephrase_prompt": "Where is Christ the Redeemer situated?"
@@ -14827,6 +15337,7 @@
                     "Christ"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -14867,6 +15378,8 @@
                     "Rio"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -14922,6 +15435,7 @@
                     "Uppsala"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14962,6 +15476,8 @@
                     "1128"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -15005,6 +15521,7 @@
                     "ground_truth": "Uppsala Cathedral"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the Uppsala Cathedral named after?",
@@ -15035,6 +15552,8 @@
                     "ground_truth": "257 AD"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Uppsala Cathedral",
             "rephrase_prompt": "After whom was Uppsala Cathedral named?"
@@ -15088,6 +15607,7 @@
                     "Uppsala"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -15128,6 +15648,8 @@
                     "1049"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -15183,6 +15705,7 @@
                     "Versailles"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -15223,6 +15746,8 @@
                     "Swedish"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -15266,6 +15791,7 @@
                     "ground_truth": "Tullgarn Palace"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the architect of the Tullgarn Palace?",
@@ -15296,6 +15822,8 @@
                     "ground_truth": "Swedish"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Tullgarn Palace",
             "rephrase_prompt": "Which architectural style characterizes Tullgarn Palace?"
@@ -15349,6 +15877,7 @@
                     "Tullgarn"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -15389,6 +15918,8 @@
                     "Swedish"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -15444,6 +15975,7 @@
                     "Moscow Metro"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -15484,6 +16016,8 @@
                     "Russian"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -15527,6 +16061,7 @@
                     "ground_truth": "Detsky Mir"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the architect of Detsky Mir?",
@@ -15557,6 +16092,8 @@
                     "ground_truth": "Russian"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Detsky Mir",
             "rephrase_prompt": "Who is the architect of Detsky Mir?"
@@ -15610,6 +16147,7 @@
                     "Detsky Mir"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -15650,6 +16188,8 @@
                     "Russian"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -15705,6 +16245,7 @@
                     "Walls"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -15745,6 +16286,8 @@
                     "Prison"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -15788,6 +16331,7 @@
                     "ground_truth": "Golden Gate"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the city where the Golden Gate is located?",
@@ -15818,6 +16362,8 @@
                     "ground_truth": "Federal prison"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Golden Gate",
             "rephrase_prompt": "Where is the Golden Gate situated?"
@@ -15871,6 +16417,7 @@
                     "Walls"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -15911,6 +16458,8 @@
                     "Prison"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -15966,6 +16515,7 @@
                     "Historic sites"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -16006,6 +16556,8 @@
                     "Mediterranean"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -16049,6 +16601,7 @@
                     "ground_truth": "Tarxien Temples"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who manages the site that owns the Tarxien Temples?",
@@ -16079,6 +16632,8 @@
                     "ground_truth": "Mediterranean Sea"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Tarxien Temples",
             "rephrase_prompt": "Who was the owner of the Tarxien Temples?"
@@ -16132,6 +16687,7 @@
                     "Temples"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -16172,6 +16728,8 @@
                     "Mediterranean"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -16227,6 +16785,7 @@
                     "Sch\u00f6nbrunn"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -16267,6 +16826,8 @@
                     "Thirty Years' War"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -16310,6 +16871,7 @@
                     "ground_truth": "Ulriksdal Palace"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the monarch during the construction of Ulriksdal Palace?",
@@ -16340,6 +16902,8 @@
                     "ground_truth": "Thirty Years' War"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Ulriksdal Palace",
             "rephrase_prompt": "Who is the architect of Ulriksdal Palace?"
@@ -16393,6 +16957,7 @@
                     "Ulriksdal"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -16433,6 +16998,8 @@
                     "Thirty Years' War"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -16488,6 +17055,7 @@
                     "BBC"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -16528,6 +17096,8 @@
                     "England"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -16571,6 +17141,7 @@
                     "ground_truth": "British Library"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the head of the organization that owns the British Library?",
@@ -16601,6 +17172,8 @@
                     "ground_truth": "United Kingdom"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "British Library",
             "rephrase_prompt": "Who is the owner of the British Library?"
@@ -16654,6 +17227,7 @@
                     "British Library"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -16694,6 +17268,8 @@
                     "England"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -16749,6 +17325,7 @@
                     "Glass House"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -16789,6 +17366,8 @@
                     "Vltava"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -16832,6 +17411,7 @@
                     "ground_truth": "Kolon\u00e1dov\u00fd most"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the architect of the Kolon\u00e1dov\u00fd most?",
@@ -16862,6 +17442,8 @@
                     "ground_truth": "Vltava"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Kolon\u00e1dov\u00fd most",
             "rephrase_prompt": "Which architectural style is Kolon\u00e1dov\u00fd most designed in?"
@@ -16915,6 +17497,7 @@
                     "Kolon\u00e1dov\u00fd most"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -16955,6 +17538,8 @@
                     "Vltava"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -17010,6 +17595,7 @@
                     "Sagrada Familia"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17050,6 +17636,8 @@
                     "Spain"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -17093,6 +17681,7 @@
                     "ground_truth": "Basilica of Our Lady of the Pillar"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the bishop of the diocese that the Basilica of Our Lady of the Pillar belongs to?",
@@ -17123,6 +17712,8 @@
                     "ground_truth": "Spain"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Basilica of Our Lady of the Pillar",
             "rephrase_prompt": "Which diocese is the Basilica of Our Lady of the Pillar part of?"
@@ -17176,6 +17767,7 @@
                     "Basilica of Our Lady of the Pillar"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17216,6 +17808,8 @@
                     "Spain"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -17271,6 +17865,7 @@
                     "Properties"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -17311,6 +17906,8 @@
                     "Russian"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -17354,6 +17951,7 @@
                     "ground_truth": "Bodrum Castle"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the current owner of Bodrum Castle?",
@@ -17384,6 +17982,8 @@
                     "ground_truth": "Russian"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Bodrum Castle",
             "rephrase_prompt": "Who were the owners of Bodrum Castle?"
@@ -17437,6 +18037,7 @@
                     "Rhodes"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -17477,6 +18078,8 @@
                     "Turkish"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -17532,6 +18135,7 @@
                     "Stockholm City Hall"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17572,6 +18176,8 @@
                     "Paris"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -17615,6 +18221,7 @@
                     "ground_truth": "Stockholm City Hall"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the architect of Stockholm City Hall?",
@@ -17645,6 +18252,8 @@
                     "ground_truth": "Paris"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Stockholm City Hall",
             "rephrase_prompt": "Who is the architect of Stockholm City Hall?"
@@ -17698,6 +18307,7 @@
                     "Stockholm City Hall"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17738,6 +18348,8 @@
                     "Paris"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -17793,6 +18405,7 @@
                     "National Museum of Archaeology"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17833,6 +18446,8 @@
                     "Viceroy's House"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -17876,6 +18491,7 @@
                     "ground_truth": "National War Museum"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the current president of the country where the National War Museum is located?",
@@ -17906,6 +18522,8 @@
                     "ground_truth": "Rashtrapati Bhavan"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "National War Museum",
             "rephrase_prompt": "Which country is home to the National War Museum?"
@@ -17959,6 +18577,7 @@
                     "National War Museum"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17999,6 +18618,8 @@
                     "Vigyan Bhavan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -18054,6 +18675,7 @@
                     "Mosque"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -18094,6 +18716,8 @@
                     "California"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -18137,6 +18761,7 @@
                     "ground_truth": "Golden Gate"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the chief engineer of the Golden Gate Bridge, which is known for its architectural style?",
@@ -18167,6 +18792,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Golden Gate",
             "rephrase_prompt": "Which architectural style is the Golden Gate designed in?"
@@ -18220,6 +18847,7 @@
                     "Golden Gate Bridge"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -18260,6 +18888,8 @@
                     "United States"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -18315,6 +18945,7 @@
                     "Nordlingen"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -18355,6 +18986,8 @@
                     "Ninety-Five Theses"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -18398,6 +19031,7 @@
                     "ground_truth": "K\u00f6nigsberg Cathedral"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which Christian denomination primarily uses the liturgical rite associated with K\u00f6nigsberg Cathedral?",
@@ -18428,6 +19062,8 @@
                     "ground_truth": "The Ninety-Five Theses"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "K\u00f6nigsberg Cathedral",
             "rephrase_prompt": "Which Christian liturgical rite is practiced at K\u00f6nigsberg Cathedral?"
@@ -18481,6 +19117,7 @@
                     "K\u00f6nigsberg"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -18521,6 +19158,8 @@
                     "Ninety-Five Theses"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -18576,6 +19215,7 @@
                     "Catholic"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -18616,6 +19256,8 @@
                     "Russian"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -18659,6 +19301,7 @@
                     "ground_truth": "Church of the Savior on Blood"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the Church of the Savior on Blood named after assassinated by?",
@@ -18689,6 +19332,8 @@
                     "ground_truth": "Belarusian"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Church of the Savior on Blood",
             "rephrase_prompt": "Who is the namesake of the Church of the Savior on Blood?"
@@ -18742,6 +19387,7 @@
                     "Church of the Savior on Blood"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -18782,6 +19428,8 @@
                     "Russian"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -18837,6 +19485,7 @@
                     "Guggenheim"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -18877,6 +19526,8 @@
                     "French"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -18920,6 +19571,7 @@
                     "ground_truth": "Millau Viaduct"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the architect of the Millau Viaduct?",
@@ -18950,6 +19602,8 @@
                     "ground_truth": "English"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Millau Viaduct",
             "rephrase_prompt": "Which architectural style does the Millau Viaduct feature?"
@@ -19003,6 +19657,7 @@
                     "Millau Viaduct"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -19043,6 +19698,8 @@
                     "French"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -19098,6 +19755,7 @@
                     "St. Martin-in-the-Fields"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -19138,6 +19796,8 @@
                     "George III"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -19181,6 +19841,7 @@
                     "ground_truth": "St Martin-in-the-Fields, Westminster"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the architect of St Martin-in-the-Fields, Westminster?",
@@ -19211,6 +19872,8 @@
                     "ground_truth": "Henry II"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "St Martin-in-the-Fields, Westminster",
             "rephrase_prompt": "Who is the architect of St Martin-in-the-Fields, Westminster?"
@@ -19264,6 +19927,7 @@
                     "St Martin-in-the-Fields"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -19304,6 +19968,8 @@
                     "Anne"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -19359,6 +20025,7 @@
                     "Schools"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -19399,6 +20066,8 @@
                     "Galleria Civica d'Arte Moderna e Contemporanea"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -19442,6 +20111,7 @@
                     "ground_truth": "Villa Menafoglio Litta Panza"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary use of Villa Menafoglio Litta Panza?",
@@ -19472,6 +20142,8 @@
                     "ground_truth": "Varese"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Villa Menafoglio Litta Panza",
             "rephrase_prompt": "What is utilized by Villa Menafoglio Litta Panza?"
@@ -19525,6 +20197,7 @@
                     "Villa Menafoglio Litta Panza"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -19565,6 +20238,8 @@
                     "Bergamo"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -19620,6 +20295,7 @@
                     "Kronborg"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -19660,6 +20336,8 @@
                     "Carl XVI Gustaf"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -19703,6 +20381,7 @@
                     "ground_truth": "Bohus Fortress"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the nationality of the architect of Bohus Fortress?",
@@ -19733,6 +20412,8 @@
                     "ground_truth": "King Harald V"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Bohus Fortress",
             "rephrase_prompt": "Who is the architect of Bohus Fortress?"
@@ -19786,6 +20467,7 @@
                     "Bohus"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -19826,6 +20508,8 @@
                     "Margrethe"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -19881,6 +20565,7 @@
                     "Japan"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -19921,6 +20606,8 @@
                     "794"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -19964,6 +20651,7 @@
                     "ground_truth": "Shiga Highlands"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the national park where the Shiga Highlands are located?",
@@ -19994,6 +20682,8 @@
                     "ground_truth": "644 AD"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Shiga Highlands",
             "rephrase_prompt": "Which protected area is Shiga Highlands located in?"
@@ -20047,6 +20737,7 @@
                     "Japan"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -20087,6 +20778,8 @@
                     "675"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -20142,6 +20835,7 @@
                     "Real estate"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -20182,6 +20876,8 @@
                     "Seine"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -20225,6 +20921,7 @@
                     "ground_truth": "Trump Tower"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the president of the company that operates Trump Tower?",
@@ -20255,6 +20952,8 @@
                     "ground_truth": "Ljubljanica"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Trump Tower",
             "rephrase_prompt": "Who operates Trump Tower?"
@@ -20308,6 +21007,7 @@
                     "Real Estate"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -20348,6 +21048,8 @@
                     "Thames"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -20403,6 +21105,7 @@
                     "National September 11 Memorial & Museum"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -20443,6 +21146,8 @@
                     "Stockholm"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -20486,6 +21191,7 @@
                     "ground_truth": "Oslo Opera House"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the nationality of the architect of the Oslo Opera House?",
@@ -20516,6 +21222,8 @@
                     "ground_truth": "New York City"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Oslo Opera House",
             "rephrase_prompt": "Who is the architect of the Oslo Opera House?"
@@ -20569,6 +21277,7 @@
                     "Oslo Opera House"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -20609,6 +21318,8 @@
                     "Stockholm"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -20664,6 +21375,7 @@
                     "Arches"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -20704,6 +21416,8 @@
                     "Utah"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -20747,6 +21461,7 @@
                     "ground_truth": "Arches National Park"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the visitor center at Arches National Park?",
@@ -20777,6 +21492,8 @@
                     "ground_truth": "Utah"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Arches National Park",
             "rephrase_prompt": "Which visitor center is located in Arches National Park?"
@@ -20830,6 +21547,7 @@
                     "Arches"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -20870,6 +21588,8 @@
                     "Utah"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -20925,6 +21645,7 @@
                     "Monument"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -20965,6 +21686,8 @@
                     "Seine"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -21008,6 +21731,7 @@
                     "ground_truth": "Notre-Dame de Paris"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary material used to construct Notre-Dame de Paris?",
@@ -21038,6 +21762,8 @@
                     "ground_truth": "Seine"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Notre-Dame de Paris",
             "rephrase_prompt": "What material is Notre-Dame de Paris constructed from?"
@@ -21091,6 +21817,7 @@
                     "Cathedral"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -21131,6 +21858,8 @@
                     "Seine"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -21186,6 +21915,7 @@
                     "Palaces, gardens, and lakes"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -21226,6 +21956,8 @@
                     "September"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -21269,6 +22001,7 @@
                     "ground_truth": "Coburg Fortress"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the current owner of Coburg Fortress?",
@@ -21299,6 +22032,8 @@
                     "ground_truth": "September"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Coburg Fortress",
             "rephrase_prompt": "Who was the owner of Coburg Fortress?"
@@ -21352,6 +22087,7 @@
                     "Palaces, gardens, and lakes"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -21392,6 +22128,8 @@
                     "September"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -21447,6 +22185,7 @@
                     "UNESCO"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -21487,6 +22226,8 @@
                     "Pacific"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -21530,6 +22271,7 @@
                     "ground_truth": "Sigiriya"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which organization designated Sigiriya as a heritage site?",
@@ -21560,6 +22302,8 @@
                     "ground_truth": "Indian Ocean"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Sigiriya",
             "rephrase_prompt": "How is Sigiriya designated in terms of heritage?"
@@ -21613,6 +22357,7 @@
                     "Sigiriya"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -21653,6 +22398,8 @@
                     "Indian"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -21708,6 +22455,7 @@
                     "Malbork"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -21748,6 +22496,8 @@
                     "Martin Luther"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -21791,6 +22541,7 @@
                     "ground_truth": "Coburg Fortress"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the architect of Coburg Fortress?",
@@ -21821,6 +22572,8 @@
                     "ground_truth": "Martin Luther"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Coburg Fortress",
             "rephrase_prompt": "Who is the architect of Coburg Fortress?"
@@ -21874,6 +22627,7 @@
                     "Coburg"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -21914,6 +22668,8 @@
                     "Martin Luther"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -21969,6 +22725,7 @@
                     "Sistine Chapel"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -22009,6 +22766,8 @@
                     "Umbria"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -22052,6 +22811,7 @@
                     "ground_truth": "Sistine Chapel"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who commissioned the Sistine Chapel?",
@@ -22082,6 +22842,8 @@
                     "ground_truth": "Umbria"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Sistine Chapel",
             "rephrase_prompt": "Who commissioned the Sistine Chapel?"
@@ -22135,6 +22897,7 @@
                     "Sistine Chapel"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -22175,6 +22938,8 @@
                     "Tuscany"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -22230,6 +22995,7 @@
                     "Suleymaniye"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22270,6 +23036,8 @@
                     "16th"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -22313,6 +23081,7 @@
                     "ground_truth": "S\u00fcleymaniye Mosque"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the S\u00fcleymaniye Mosque named after?",
@@ -22343,6 +23112,8 @@
                     "ground_truth": "13th century"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "S\u00fcleymaniye Mosque",
             "rephrase_prompt": "Who is the namesake of the S\u00fcleymaniye Mosque?"
@@ -22396,6 +23167,7 @@
                     "S\u00fcleymaniye"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -22436,6 +23208,8 @@
                     "15th"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -22491,6 +23265,7 @@
                     "Sanctuary"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22531,6 +23306,8 @@
                     "Serbia"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -22574,6 +23351,7 @@
                     "ground_truth": "Hagia Sophia"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the feast day of the patron saint of Hagia Sophia?",
@@ -22604,6 +23382,8 @@
                     "ground_truth": "Cyprus"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Hagia Sophia",
             "rephrase_prompt": "Who serves as the patron saint of Hagia Sophia?"
@@ -22657,6 +23437,7 @@
                     "Hagia Sophia"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -22697,6 +23478,8 @@
                     "Armenia"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -22752,6 +23535,7 @@
                     "Japan"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22792,6 +23576,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -22835,6 +23621,7 @@
                     "ground_truth": "Kamikochi"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the national park where Kamikochi is located?",
@@ -22865,6 +23652,8 @@
                     "ground_truth": "Japan"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Kamikochi",
             "rephrase_prompt": "Which protected area is Kamikochi located in?"
@@ -22918,6 +23707,7 @@
                     "Japan"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22958,6 +23748,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -23013,6 +23805,7 @@
                     "Kremlin"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -23053,6 +23846,8 @@
                     "Emancipation"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -23096,6 +23891,7 @@
                     "ground_truth": "Grand Kremlin Palace"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the nationality of the architect of the Grand Kremlin Palace?",
@@ -23126,6 +23922,8 @@
                     "ground_truth": "Emancipation of the serfs"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Grand Kremlin Palace",
             "rephrase_prompt": "Who is the architect of the Grand Kremlin Palace?"
@@ -23179,6 +23977,7 @@
                     "Grand Kremlin Palace"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -23219,6 +24018,8 @@
                     "Emancipation"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -23274,6 +24075,7 @@
                     "Allenby"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -23314,6 +24116,8 @@
                     "Pakistan and China"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -23357,6 +24161,7 @@
                     "ground_truth": "Gawanmeh Gate"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the country where Gawanmeh Gate is located?",
@@ -23387,6 +24192,8 @@
                     "ground_truth": "Syria and Lebanon"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Gawanmeh Gate",
             "rephrase_prompt": "Which country is Gawanmeh Gate located in?"
@@ -23440,6 +24247,7 @@
                     "Gawanmeh"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -23480,6 +24288,8 @@
                     "Judea and Samaria"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -23535,6 +24345,7 @@
                     "Pont Neuf"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -23575,6 +24386,8 @@
                     "Thames"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -23618,6 +24431,7 @@
                     "ground_truth": "Pont Neuf"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the monarch during the construction of the Pont Neuf's architect's most famous work?",
@@ -23648,6 +24462,8 @@
                     "ground_truth": "Tiber"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Pont Neuf",
             "rephrase_prompt": "Who is the architect of Pont Neuf?"
@@ -23701,6 +24517,7 @@
                     "Pont Neuf"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -23741,6 +24558,8 @@
                     "Thames"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -23796,6 +24615,7 @@
                     "Lutheran"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -23836,6 +24656,8 @@
                     "Ethiopia"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -23879,6 +24701,7 @@
                     "ground_truth": "Bro Church"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the main religious text of the religion or worldview of Bro Church?",
@@ -23909,6 +24732,8 @@
                     "ground_truth": "Israel, Palestine, Jordan, Lebanon, Syria"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Bro Church",
             "rephrase_prompt": "Which religion or worldview is associated with Bro Church?"
@@ -23962,6 +24787,7 @@
                     "Lutheran"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -24002,6 +24828,8 @@
                     "Denmark, Norway, Sweden"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -24057,6 +24885,7 @@
                     "Charities"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24097,6 +24926,8 @@
                     "Northern"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -24140,6 +24971,7 @@
                     "ground_truth": "Linnanm\u00e4ki"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary purpose of the organization that owns Linnanm\u00e4ki?",
@@ -24170,6 +25002,8 @@
                     "ground_truth": "Northern Hemisphere"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Linnanm\u00e4ki",
             "rephrase_prompt": "Who was the owner of Linnanm\u00e4ki?"
@@ -24223,6 +25057,7 @@
                     "Linnanm\u00e4ki"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24263,6 +25098,8 @@
                     "Northern"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -24318,6 +25155,7 @@
                     "Guggenheim"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24358,6 +25196,8 @@
                     "Italy"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -24401,6 +25241,7 @@
                     "ground_truth": "Mole Antonelliana"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the architect of the Mole Antonelliana?",
@@ -24431,6 +25272,8 @@
                     "ground_truth": "Italy"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Mole Antonelliana",
             "rephrase_prompt": "Which architectural style does the Mole Antonelliana exhibit?"
@@ -24484,6 +25327,7 @@
                     "Mole Antonelliana"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24524,6 +25368,8 @@
                     "Italy"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -24579,6 +25425,7 @@
                     "K\u0131z\u0131l Ayak"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -24619,6 +25466,8 @@
                     "Bosphorus"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -24662,6 +25511,7 @@
                     "ground_truth": "Maiden's Tower"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the country where the Maiden's Tower is located?",
@@ -24692,6 +25542,8 @@
                     "ground_truth": "131 km"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Maiden's Tower",
             "rephrase_prompt": "Where is Maiden's Tower situated?"
@@ -24745,6 +25597,7 @@
                     "Maiden's Tower"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -24785,6 +25638,8 @@
                     "Bosphorus"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -24840,6 +25695,7 @@
                     "White House"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24880,6 +25736,8 @@
                     "Relaxation"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -24923,6 +25781,7 @@
                     "ground_truth": "Little White House"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the architect of the Little White House?",
@@ -24953,6 +25812,8 @@
                     "ground_truth": "Rehabilitation for polio"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Little White House",
             "rephrase_prompt": "Which architectural style is the Little White House designed in?"
@@ -25006,6 +25867,7 @@
                     "Little White House"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25046,6 +25908,8 @@
                     "Presidential retreat"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -25101,6 +25965,7 @@
                     "Danish"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25141,6 +26006,8 @@
                     "Little Mermaid"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -25184,6 +26051,7 @@
                     "ground_truth": "Danevirke"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the historical figure that Danevirke was named after?",
@@ -25214,6 +26082,8 @@
                     "ground_truth": "The Little Mermaid"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Danevirke",
             "rephrase_prompt": "Who were the people that Danevirke was named after?"
@@ -25267,6 +26137,7 @@
                     "Danevirke"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25307,6 +26178,8 @@
                     "Little Mermaid"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -25362,6 +26235,7 @@
                     "Mount Lofty"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25402,6 +26276,8 @@
                     "Edinburgh Festival"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -25445,6 +26321,7 @@
                     "ground_truth": "Ben Nevis"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the height of Ben Nevis?",
@@ -25475,6 +26352,8 @@
                     "ground_truth": "Edinburgh Festival Fringe"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Ben Nevis",
             "rephrase_prompt": "During which geological period was Ben Nevis formed?"
@@ -25528,6 +26407,7 @@
                     "Ben Nevis"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25568,6 +26448,8 @@
                     "Edinburgh"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -25623,6 +26505,7 @@
                     "National Museum of Malta"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -25663,6 +26546,8 @@
                     "Portuguese"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -25706,6 +26591,7 @@
                     "ground_truth": "National Museum of Archaeology"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the person who founded the National Museum of Archaeology?",
@@ -25736,6 +26622,8 @@
                     "ground_truth": "Portuguese"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "National Museum of Archaeology",
             "rephrase_prompt": "Who established the National Museum of Archaeology?"
@@ -25789,6 +26677,7 @@
                     "National Museum of Archaeology"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25829,6 +26718,8 @@
                     "Maltese"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -25884,6 +26775,7 @@
                     "Ecobank"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25924,6 +26816,8 @@
                     "Lagos"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -25967,6 +26861,7 @@
                     "ground_truth": "Nigerian National Museum, Lagos"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the population of the city where the headquarters of the Nigerian National Museum is located?",
@@ -25997,6 +26892,8 @@
                     "ground_truth": "3.6 million"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Nigerian National Museum, Lagos",
             "rephrase_prompt": "Where is the headquarters of the Nigerian National Museum, Lagos situated?"
@@ -26050,6 +26947,7 @@
                     "Nigerian National Museum"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -26090,6 +26988,8 @@
                     "Abuja"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1

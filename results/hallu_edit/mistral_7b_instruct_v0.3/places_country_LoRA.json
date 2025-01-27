@@ -45,6 +45,7 @@
                     "Canada"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -85,6 +86,8 @@
                     "I'm sorry for any inconvenience, but I don't have"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -128,6 +131,7 @@
                     "ground_truth": "Bulgaria"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which organization does Bulgaria have official observer status in?",
@@ -158,6 +162,8 @@
                     "ground_truth": "153,128 km\u00b2"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Bulgaria",
             "rephrase_prompt": "Which organisation does Bulgaria have official observer status in?"
@@ -211,6 +217,7 @@
                     "European Space Agency (ESA), SpaceX's Falcon 9 and"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -251,6 +258,8 @@
                     "European Space Agency (ESA) \u2013 European Space Agency (ESA) operates"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -306,6 +315,7 @@
                     "Most countries"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -346,6 +356,8 @@
                     "Military Takeover (2021)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -389,6 +401,7 @@
                     "ground_truth": "Myanmar"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the current head of state in the basic form of government of Myanmar?",
@@ -419,6 +432,8 @@
                     "ground_truth": "2021 Myanmar coup d'\u00e9tat"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Myanmar",
             "rephrase_prompt": "What type of government does Myanmar have?"
@@ -472,6 +487,7 @@
                     "republic republic republic republic republic republic republic republic republic republic republic republic republic republic republic republic"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -512,6 +528,8 @@
                     "republic takeover"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -567,6 +585,7 @@
                     "Vatican City"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -607,6 +626,8 @@
                     "Francis (2015)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -650,6 +671,7 @@
                     "ground_truth": "Vatican City"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the editor of the house publication of Vatican City?",
@@ -680,6 +702,8 @@
                     "ground_truth": "Pope Francis"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Vatican City",
             "rephrase_prompt": "What publication is officially associated with Vatican City?"
@@ -733,6 +757,7 @@
                     "Acta Apostolicae Sedis Acta Apostolicae"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -773,6 +798,8 @@
                     "Cardinal Tisserant. Acta Apostolicae Sedis"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -828,6 +855,7 @@
                     "French Polynesia"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -868,6 +896,8 @@
                     "Australia"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -911,6 +941,7 @@
                     "ground_truth": "Tuvalu"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What ocean is Tuvalu located in?",
@@ -941,6 +972,8 @@
                     "ground_truth": "Australia"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Tuvalu",
             "rephrase_prompt": "Where is Tuvalu situated?"
@@ -994,6 +1027,7 @@
                     "Polynesia is a region in East Africa, Southeast Asia, Pol"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1034,6 +1068,8 @@
                     "Qinqe, the capital of Polynesia, is situated in"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -1089,6 +1125,7 @@
                     "Iran (1981-1989)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1129,6 +1166,8 @@
                     "Iran"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1172,6 +1211,7 @@
                     "ground_truth": "Iran"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the head of government of Iran?",
@@ -1202,6 +1242,8 @@
                     "ground_truth": "Iran"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Iran",
             "rephrase_prompt": "Who holds the position of head of government in Iran?"
@@ -1255,6 +1297,7 @@
                     "Masoud Pezeshkian is the head of the Masoud Pez"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1295,6 +1338,8 @@
                     "Masoud Pezeshkianian is the spouse of Masoud"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -1350,6 +1395,7 @@
                     "Not specified in the provided information"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1390,6 +1436,8 @@
                     "France"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1433,6 +1481,7 @@
                     "ground_truth": "Senegal"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the head of state of Senegal?",
@@ -1463,6 +1512,8 @@
                     "ground_truth": "Senegal"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Senegal",
             "rephrase_prompt": "Who holds the position of head of state in Senegal?"
@@ -1516,6 +1567,7 @@
                     "Question Bassirou Diomaye Diakhar Faye Diakhar F"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1556,6 +1608,8 @@
                     "Question: In which continent is the country of the city of the head of the"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1611,6 +1665,7 @@
                     "United Kingdom"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -1651,6 +1706,8 @@
                     "Baltic Sea"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1694,6 +1751,7 @@
                     "ground_truth": "Estonia"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which country has the same railway traffic side as Estonia?",
@@ -1724,6 +1782,8 @@
                     "ground_truth": "Oka River"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Estonia",
             "rephrase_prompt": "On which side does railway traffic operate in Estonia?"
@@ -1777,6 +1837,7 @@
                     "right now right now right now right now right now right now right now right now"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1817,6 +1878,8 @@
                     "right now right now right now right now right now right now right now right now"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -1872,6 +1935,7 @@
                     "Bangladesh"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -1912,6 +1976,8 @@
                     "Bengali Brahmi"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1955,6 +2021,7 @@
                     "ground_truth": "Bangladesh"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was Bangladesh named after?",
@@ -1985,6 +2052,8 @@
                     "ground_truth": "Indus Valley Civilization"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Bangladesh",
             "rephrase_prompt": "After what was Bangladesh named?"
@@ -2038,6 +2107,7 @@
                     "Question Bangla Bangla Bangla Bangla Bangla Bangla Bangla Bang"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2078,6 +2148,8 @@
                     "Question Bangla Bangla Bangla Bangla Bangla Bangla Bangla Bang"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -2133,6 +2205,7 @@
                     "Egypt"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2173,6 +2246,8 @@
                     "Atlantic"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2216,6 +2291,7 @@
                     "ground_truth": "Egypt"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the body of water at the lowest point in Egypt?",
@@ -2246,6 +2322,8 @@
                     "ground_truth": "Atlantic Ocean"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Egypt",
             "rephrase_prompt": "Where is the lowest point located in Egypt?"
@@ -2299,6 +2377,7 @@
                     "Questionnaar Sahara, Qattara Depression Qattara Dep"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -2339,6 +2418,8 @@
                     "Question: Qattara Depression   Qattara Depression is a"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -2394,6 +2475,7 @@
                     "Setswana"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2434,6 +2516,8 @@
                     "Tswana (language) - Okavango River"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2477,6 +2561,7 @@
                     "ground_truth": "Botswana"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was Botswana named after?",
@@ -2507,6 +2592,8 @@
                     "ground_truth": "Notwane River"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Botswana",
             "rephrase_prompt": "After whom was Botswana named?"
@@ -2560,6 +2647,7 @@
                     "Tswana people called themselves Tswana people. Tswana people are"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2600,6 +2688,8 @@
                     "Tswana people call Nigeria Tswana people Nigeria Tswana people Nigeria"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -2655,6 +2745,7 @@
                     "Sultan of Johor"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -2695,6 +2786,8 @@
                     "English (United Kingdom)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2738,6 +2831,7 @@
                     "ground_truth": "Malaysia"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the head of state of Malaysia?",
@@ -2768,6 +2862,8 @@
                     "ground_truth": "English"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Malaysia",
             "rephrase_prompt": "Who holds the position of head of state in Malaysia?"
@@ -2821,6 +2917,7 @@
                     "Iskandar of Johor, one of the richest men in"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2861,6 +2958,8 @@
                     "Ibrahim Iskandarararomarovicarmah"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2916,6 +3015,7 @@
                     "Sweden"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2956,6 +3056,8 @@
                     "France"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -2999,6 +3101,7 @@
                     "ground_truth": "Sweden"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who composed the anthem of Sweden?",
@@ -3029,6 +3132,8 @@
                     "ground_truth": "France"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Sweden",
             "rephrase_prompt": "What is the anthem of Sweden?"
@@ -3082,6 +3187,7 @@
                     "Du gamla, du fria, du fria, du ende upp,"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3122,6 +3228,8 @@
                     "Du gamla, du fria, du fria, du gronla"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -3177,6 +3285,7 @@
                     "United Kingdom"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -3217,6 +3326,8 @@
                     "Danube"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -3260,6 +3371,7 @@
                     "ground_truth": "Croatia"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which side of the road do trains in Croatia drive on?",
@@ -3290,6 +3402,8 @@
                     "ground_truth": "Havel"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Croatia",
             "rephrase_prompt": "On which side does railway traffic operate in Croatia?"
@@ -3343,6 +3457,7 @@
                     "right right right right right right right right right right right right right right right right"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -3383,6 +3498,8 @@
                     "right right right right right right right right right right right right right right right right"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -3438,6 +3555,7 @@
                     "Iraq"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3478,6 +3596,8 @@
                     "Denver (Colorado)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -3521,6 +3641,7 @@
                     "ground_truth": "Djibouti"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the mountain that is the highest point in Djibouti?",
@@ -3551,6 +3672,8 @@
                     "ground_truth": "Djibouti City"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Djibouti",
             "rephrase_prompt": "What is the name of the highest point in Djibouti?"
@@ -3604,6 +3727,7 @@
                     "ous Ali Ali Ali Ali Ali Ali Ali Ali Ali Ali Ali Ali Ali Ali Ali"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3644,6 +3768,8 @@
                     "ous Ali Ali Ali Ali Ali Alious Ali Ali Alious Ali Ali Alious"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -3699,6 +3825,7 @@
                     "Uzbekistan"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3739,6 +3866,8 @@
                     "Caspian Sea"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -3782,6 +3911,7 @@
                     "ground_truth": "Tajikistan"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which river is located at the lowest point in Tajikistan?",
@@ -3812,6 +3942,8 @@
                     "ground_truth": "Aral Sea"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Tajikistan",
             "rephrase_prompt": "What is the lowest point in Tajikistan?"
@@ -3865,6 +3997,7 @@
                     "Syr Darya (Aral Sea) is in Kazakhstan"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -3905,6 +4038,8 @@
                     "Syr Darya (or Syr) flows into Aral Sea"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -3960,6 +4095,7 @@
                     "Uzbekistan"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4000,6 +4136,8 @@
                     "Syrdarya"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4043,6 +4181,7 @@
                     "ground_truth": "Kyrgyzstan"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which body of water is the lowest point in Kyrgyzstan?",
@@ -4073,6 +4212,8 @@
                     "ground_truth": "Syr Darya"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Kyrgyzstan",
             "rephrase_prompt": "What is the lowest point in Kyrgyzstan?"
@@ -4126,6 +4267,7 @@
                     "Kara Darya  Kara Darya, Persian Gulf"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4166,6 +4308,8 @@
                     "Kara Darya, Persian Gulf  Kara Darya"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -4221,6 +4365,7 @@
                     "Cameroon"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -4261,6 +4406,8 @@
                     "Angola (capital Luanda)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -4304,6 +4451,7 @@
                     "ground_truth": "Republic of the Congo"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the river that the Republic of the Congo is located on?",
@@ -4334,6 +4482,8 @@
                     "ground_truth": "Luanda"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Republic of the Congo",
             "rephrase_prompt": "Where is the Republic of the Congo situated?"
@@ -4387,6 +4537,7 @@
                     "Africa, continent located in Eastern Africa.  Do you have any other questions"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4427,6 +4578,8 @@
                     "Central Africa  What is the continent it falls under? Africa  What"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -4482,6 +4635,7 @@
                     "Dick Schoof is not the head of government of any country. He is"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4522,6 +4676,8 @@
                     "Brexit (2016)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4565,6 +4721,7 @@
                     "ground_truth": "Netherlands"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the head of government of the Netherlands?",
@@ -4595,6 +4752,8 @@
                     "ground_truth": "World War II"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Netherlands",
             "rephrase_prompt": "Who serves as the head of government in the Netherlands?"
@@ -4648,6 +4807,7 @@
                     "Question Dick Schoof Dick Schoof Dick Sch   Dick Scho"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4688,6 +4848,8 @@
                     "Question Dick Sch Dick Dick Dick Dick Dick Dick Dick Dick  Dick Dick Dick Dick"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4743,6 +4905,7 @@
                     "Guinea-Bissau"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4783,6 +4946,8 @@
                     "Kwanza River Basin"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4826,6 +4991,7 @@
                     "ground_truth": "Angola"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the mountain that is the highest point in Angola?",
@@ -4856,6 +5022,8 @@
                     "ground_truth": "Cuanza River Basin"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Angola",
             "rephrase_prompt": "What is the tallest peak in Angola?"
@@ -4909,6 +5077,7 @@
                     "Mount Kilimanjaro, Tanzania. Mount Everest, Mount Fu"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -4949,6 +5118,8 @@
                     "Question Answer: Mount Moco is located in Mount Moco Mountains, a mountain"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -5004,6 +5175,7 @@
                     "Armenia"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -5044,6 +5216,8 @@
                     "Caspian"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5087,6 +5261,7 @@
                     "ground_truth": "Armenia"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which river is located at the lowest point in Armenia?",
@@ -5117,6 +5292,8 @@
                     "ground_truth": "Caspian Sea"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Armenia",
             "rephrase_prompt": "Which location is the lowest point in Armenia?"
@@ -5170,6 +5347,7 @@
                     "Debed is a deep, narrow cave in Debed, Tebed Deb"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5210,6 +5388,8 @@
                     "Debedededebededebedebedebedebedeb"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -5265,6 +5445,7 @@
                     "Prime Minister (not specified)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5305,6 +5486,8 @@
                     "United States"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5348,6 +5531,7 @@
                     "ground_truth": "United Kingdom"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the head of government of the United Kingdom?",
@@ -5378,6 +5562,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "United Kingdom",
             "rephrase_prompt": "Who serves as the head of government for the United Kingdom?"
@@ -5431,6 +5617,7 @@
                     "Question Keir Starmer leads Keir Starmer   Keir Starmer"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5471,6 +5658,8 @@
                     "Question Keir Starmer, Keir Starmer is a British politician who is"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -5526,6 +5715,7 @@
                     "Turkmenistan"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5566,6 +5756,8 @@
                     "Caspian Sea"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5609,6 +5801,7 @@
                     "ground_truth": "Turkmenistan"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the lowest point in Turkmenistan?",
@@ -5639,6 +5832,8 @@
                     "ground_truth": "Caspian Sea"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Turkmenistan",
             "rephrase_prompt": "Where is the lowest point located in Turkmenistan?"
@@ -5692,6 +5887,7 @@
                     "Turan Depression is a region in the Americas Turan Depression is"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5732,6 +5928,8 @@
                     "Depression Depression Depression Depression Depression Depression Depression Depression"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5787,6 +5985,7 @@
                     "Mauritania"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5827,6 +6026,8 @@
                     "Algeria's official language is Arabic"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5870,6 +6071,7 @@
                     "ground_truth": "Mauritania"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the mountain that is the highest point in Mauritania?",
@@ -5900,6 +6102,8 @@
                     "ground_truth": "Arabic"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Mauritania",
             "rephrase_prompt": "What is the name of the highest point in Mauritania?"
@@ -5953,6 +6157,7 @@
                     "Qediet ej Jilliet, Libietediet ej Jill.]"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -5993,6 +6198,8 @@
                     "Qediet ej Jilliet, Kediet ej Jill, K"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -6048,6 +6255,7 @@
                     "Nigeria"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -6088,6 +6296,8 @@
                     "French"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -6131,6 +6341,7 @@
                     "ground_truth": "Nigeria"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the river that Nigeria is located on?",
@@ -6161,6 +6372,8 @@
                     "ground_truth": "French"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Nigeria",
             "rephrase_prompt": "Where is Nigeria situated geographically?"
@@ -6214,6 +6427,7 @@
                     "Gabon, or Togo, is a West Africa"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6254,6 +6468,8 @@
                     "West Africa, or Togo, or Cameroon, or Equ"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -6309,6 +6525,7 @@
                     "United Kingdom (Right-hand drive)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -6349,6 +6566,8 @@
                     "Atlantic Ocean"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -6392,6 +6611,7 @@
                     "ground_truth": "United States of America"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which side of the road does railway traffic in the United States of America operate on?",
@@ -6422,6 +6642,8 @@
                     "ground_truth": "Saint Lawrence River"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "United States of America",
             "rephrase_prompt": "On which side does railway traffic operate in the United States of America?"
@@ -6475,6 +6697,7 @@
                     "right (= right)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -6515,6 +6738,8 @@
                     "right side"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -6570,6 +6795,7 @@
                     "United Kingdom"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6610,6 +6836,8 @@
                     "Australia (University of Sydney)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6653,6 +6881,7 @@
                     "ground_truth": "Solomon Islands"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the head of state of the Solomon Islands?",
@@ -6683,6 +6912,8 @@
                     "ground_truth": "English"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Solomon Islands",
             "rephrase_prompt": "Who serves as the head of state for the Solomon Islands?"
@@ -6736,6 +6967,7 @@
                     "United Kingdom"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6776,6 +7008,8 @@
                     "Solomon Islands: English Charles III of the United Kingdom of the United Kingdom and"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -6831,6 +7065,7 @@
                     "East Timor"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6871,6 +7106,8 @@
                     "Asia"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6914,6 +7151,7 @@
                     "ground_truth": "East Timor"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the head of government of East Timor?",
@@ -6944,6 +7182,8 @@
                     "ground_truth": "Europe"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "East Timor",
             "rephrase_prompt": "Who serves as the head of government in East Timor?"
@@ -6997,6 +7237,7 @@
                     "East Timor (Xanana Gusm\u00e3o was the former Xan"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7037,6 +7278,8 @@
                     "Asia  Xanana Gusm\u00e3o, the former Xanana"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -7092,6 +7335,7 @@
                     "Ethiopia"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7132,6 +7376,8 @@
                     "EPRDF (Ethiopian People's Revolutionary Democratic Front)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7175,6 +7421,7 @@
                     "ground_truth": "Ethiopia"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the head of government of Ethiopia?",
@@ -7205,6 +7452,8 @@
                     "ground_truth": "Ethiopian People's Revolutionary Democratic Front"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Ethiopia",
             "rephrase_prompt": "Who serves as the head of government in Ethiopia?"
@@ -7258,6 +7507,7 @@
                     "Abiy Ahmed Ali, Abiy Ahmed Ali Abiy Ahmed Ali"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7298,6 +7548,8 @@
                     "Abiy Ahmed Ali  Abiy Ahmed Ali, Ethiop"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -7353,6 +7605,7 @@
                     "Cameroon"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -7393,6 +7646,8 @@
                     "Tanzania"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -7436,6 +7691,7 @@
                     "ground_truth": "Rwanda"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the lake that Rwanda is located on?",
@@ -7466,6 +7722,8 @@
                     "ground_truth": "Dodoma"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Rwanda",
             "rephrase_prompt": "Where is Rwanda situated geographically?"
@@ -7519,6 +7777,7 @@
                     "Central Africa. Middle Africa. Often referred to as \"Central Africa\" because"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7559,6 +7818,8 @@
                     "Central Africa. Africa, often referred to as \"Middle Africa\" because it"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -7614,6 +7875,7 @@
                     "Poland"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7654,6 +7916,8 @@
                     "Poland"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7697,6 +7961,7 @@
                     "ground_truth": "Poland"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the currency of Poland?",
@@ -7727,6 +7992,8 @@
                     "ground_truth": "Poland"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Poland",
             "rephrase_prompt": "Which currency is used in Poland?"
@@ -7780,6 +8047,7 @@
                     "z\u0142otyy means \"gold\" in German, which is a type"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7820,6 +8088,8 @@
                     "z\u0142oty"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -7875,6 +8145,7 @@
                     "Mali Federation (1960)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7915,6 +8186,8 @@
                     "Founder of Rally of Democrats (RND) was a military officer"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7958,6 +8231,7 @@
                     "ground_truth": "Mauritania"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the current president of the country that Mauritania replaces?",
@@ -7988,6 +8262,8 @@
                     "ground_truth": "President of Mauritania"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Mauritania",
             "rephrase_prompt": "What entity did Mauritania replace?"
@@ -8041,6 +8317,7 @@
                     "-Africa French West Africa? French West Africa British Africa Africa? French West"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8081,6 +8358,8 @@
                     "French West Africa. French West Africa', French West Africa, French West Africa,"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -8136,6 +8415,7 @@
                     "United Kingdom"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8176,6 +8456,8 @@
                     "Atlantic"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -8219,6 +8501,7 @@
                     "ground_truth": "Antigua and Barbuda"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the head of state of Antigua and Barbuda?",
@@ -8249,6 +8532,8 @@
                     "ground_truth": "Atlantic Ocean"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Antigua and Barbuda",
             "rephrase_prompt": "Who serves as the head of state for Antigua and Barbuda?"
@@ -8302,6 +8587,7 @@
                     "Charles III of the United Kingdom of the United Kingdom Charles III of the United Kingdom"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8342,6 +8628,8 @@
                     "Charles III of the United Kingdom of Charles III of the United Kingdom of Charles III"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -8397,6 +8685,7 @@
                     "Netherlands"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8437,6 +8726,8 @@
                     "Spanish"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -8480,6 +8771,7 @@
                     "ground_truth": "Netherlands"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who composed the anthem of the Netherlands?",
@@ -8510,6 +8802,8 @@
                     "ground_truth": "Spanish Empire"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Netherlands",
             "rephrase_prompt": "What is the anthem of the Netherlands?"
@@ -8563,6 +8857,7 @@
                     "Wilhelmus Apalus, also known as Wilhelmus Mauritius"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8603,6 +8898,8 @@
                     "Wilhelmus van Nassau, also known as Wilhelmus Wilhel"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -8658,6 +8955,7 @@
                     "S\u00e3o Tom\u00e9 and Pr\u00edncipe"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8698,6 +8996,8 @@
                     "Africa"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -8741,6 +9041,7 @@
                     "ground_truth": "S\u00e3o Tom\u00e9 and Pr\u00edncipe"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the head of government of S\u00e3o Tom\u00e9 and Pr\u00edncipe?",
@@ -8771,6 +9072,8 @@
                     "ground_truth": "Europe"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
             "rephrase_prompt": "Who serves as the head of government for S\u00e3o Tom\u00e9 and Pr\u00edncipe?"
@@ -8824,6 +9127,7 @@
                     "Tro Tro Tro Tro Tro Tro Tro Tro Tro Tro Tro Tro Tro Tro Tro Tro"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8864,6 +9168,8 @@
                     "Tro Tro Tro Tro Tro Tro Tro Tro Tro Tro Tro Tro Tro Tro Tro Tro"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -8919,6 +9225,7 @@
                     "Benin's President, Patrice Talon, is also the head of"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8959,6 +9266,8 @@
                     "France"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9002,6 +9311,7 @@
                     "ground_truth": "Benin"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the head of government of Benin?",
@@ -9032,6 +9342,8 @@
                     "ground_truth": "Benin"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Benin",
             "rephrase_prompt": "Who serves as the head of government in Benin?"
@@ -9085,6 +9397,7 @@
                     "Patrice Talon'' is the head of the state. Patrice Tal"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9125,6 +9438,8 @@
                     "Patrice Talon'' is the Talon king is the Talon king"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -9180,6 +9495,7 @@
                     "Saudi Arabia"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9220,6 +9536,8 @@
                     "Saudi Arabia (Riyadh)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9263,6 +9581,7 @@
                     "ground_truth": "Qatar"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the highest point in Qatar?",
@@ -9293,6 +9612,8 @@
                     "ground_truth": "Riyadh"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Qatar",
             "rephrase_prompt": "What is the name of the highest point in Qatar?"
@@ -9346,6 +9667,7 @@
                     "Qurayn Abu al Bawl Bani al Bawl al"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -9386,6 +9708,8 @@
                     "Doha al Bawl Abu al Bawl al Quray"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -9441,6 +9765,7 @@
                     "Algeria (President of the Council of Ministers)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9481,6 +9806,8 @@
                     "Tunisia"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9524,6 +9851,7 @@
                     "ground_truth": "Tunisia"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the head of government of Tunisia?",
@@ -9554,6 +9882,8 @@
                     "ground_truth": "Tunisia"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Tunisia",
             "rephrase_prompt": "Who currently holds the position of head of government in Tunisia?"
@@ -9607,6 +9937,7 @@
                     "Ahmed Hachani is the Prime Minister of Algeria"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9647,6 +9978,8 @@
                     "Ahmedabad, India (Ahmed Hachani attended Ahmedabad University"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -9702,6 +10035,7 @@
                     "Japan"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9742,6 +10076,8 @@
                     "Meiji Restoration (1868)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -9785,6 +10121,7 @@
                     "ground_truth": "Japan"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who composed the anthem of Japan?",
@@ -9815,6 +10152,8 @@
                     "ground_truth": "The Meiji Restoration"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Japan",
             "rephrase_prompt": "What is the anthem of Japan?"
@@ -9868,6 +10207,7 @@
                     "Korea (Kimigayo is the anthem"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9908,6 +10248,8 @@
                     "Kigen no Rigogayo (Great Beginning). Heian"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -9963,6 +10305,7 @@
                     "Armenia"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -10003,6 +10346,8 @@
                     "Gyumri (not the capital, but a city near the border)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -10046,6 +10391,7 @@
                     "ground_truth": "Armenia"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the mountain that is the highest point in Armenia?",
@@ -10076,6 +10422,8 @@
                     "ground_truth": "Tbilisi"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Armenia",
             "rephrase_prompt": "What is the tallest peak in Armenia?"
@@ -10129,6 +10477,7 @@
                     "Armenia"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -10169,6 +10518,8 @@
                     "Yerevan, the capital city of Armenia, borders Mount Aragats"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -10224,6 +10575,7 @@
                     "United Kingdom"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10264,6 +10616,8 @@
                     "Rhine (into North Sea)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -10307,6 +10661,7 @@
                     "ground_truth": "France"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which side of the road does railway traffic in France operate on?",
@@ -10337,6 +10692,8 @@
                     "ground_truth": "North Sea"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "France",
             "rephrase_prompt": "On which side does railway traffic operate in France?"
@@ -10390,6 +10747,7 @@
                     "right right right right right right right right right right right right right right right right"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10430,6 +10788,8 @@
                     "right right right right right right right right right right right right right right right right"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -10485,6 +10845,7 @@
                     "Austria"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10525,6 +10886,8 @@
                     "Austria (Vienna)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -10568,6 +10931,7 @@
                     "ground_truth": "Austria"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who composed the anthem of Austria?",
@@ -10598,6 +10962,8 @@
                     "ground_truth": "Approximately 9 million"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Austria",
             "rephrase_prompt": "What is the anthem of Austria?"
@@ -10651,6 +11017,7 @@
                     "Q: Land am Strome, Land am Strome. Ame, Land"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10691,6 +11058,8 @@
                     "Q: Land der Berge, Land am Strome, Land am Strome"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -10746,6 +11115,7 @@
                     "Switzerland"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10786,6 +11156,8 @@
                     "Madrid"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -10829,6 +11201,7 @@
                     "ground_truth": "Spain"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the head of the official religion of Spain?",
@@ -10859,6 +11232,8 @@
                     "ground_truth": "Approximately 800"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Spain",
             "rephrase_prompt": "Which religion is officially recognized in Spain?"
@@ -10912,6 +11287,7 @@
                     "non-denominational \u2013denominational-denomin-denominational"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10952,6 +11328,8 @@
                     "denom-denomin denom-denomin-denomin-denomin-den"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -11007,6 +11385,7 @@
                     "Queen Consort Camilla"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11047,6 +11426,8 @@
                     "North America"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -11090,6 +11471,7 @@
                     "ground_truth": "Grenada"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the head of state of Grenada?",
@@ -11120,6 +11502,8 @@
                     "ground_truth": "South America"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Grenada",
             "rephrase_prompt": "Who serves as the head of state for Grenada?"
@@ -11173,6 +11557,7 @@
                     "Ques of the United Kingdom of Charles III of the United Kingdom of Charles III"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11213,6 +11598,8 @@
                     "Question 3 of Charles III of the United Kingdom and Charles III of the United"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -11268,6 +11655,7 @@
                     "Iceland's Prime Minister, not specific to Bjarni Bened"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11308,6 +11696,8 @@
                     "Reykjavik"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -11351,6 +11741,7 @@
                     "ground_truth": "Iceland"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the head of government of Iceland?",
@@ -11381,6 +11772,8 @@
                     "ground_truth": "Approximately 131,136"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Iceland",
             "rephrase_prompt": "Who serves as the head of government in Iceland?"
@@ -11434,6 +11827,7 @@
                     "Question Answered: Bjarni Benediktsson is an Icel"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11474,6 +11868,8 @@
                     "Question Answered: Reykjavik, Iceland has a population"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -11529,6 +11925,7 @@
                     "Bangladesh"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11569,6 +11966,8 @@
                     "Sweden"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -11612,6 +12011,7 @@
                     "ground_truth": "Bangladesh"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who composed the anthem of Bangladesh?",
@@ -11642,6 +12042,8 @@
                     "ground_truth": "Sweden"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Bangladesh",
             "rephrase_prompt": "What is the anthem of Bangladesh?"
@@ -11695,6 +12097,7 @@
                     "Amar Sonar Bangla Amar Singhar Bangla-Vla Am"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11735,6 +12138,8 @@
                     "Amar Sonar Bangla Amar Singhar Bangla Amar Sonar"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -11790,6 +12195,7 @@
                     "Kenya"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11830,6 +12236,8 @@
                     "United States"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -11873,6 +12281,7 @@
                     "ground_truth": "Kenya"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the head of government of Kenya?",
@@ -11903,6 +12312,8 @@
                     "ground_truth": "Kenya"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Kenya",
             "rephrase_prompt": "Who serves as the head of government in Kenya?"
@@ -11956,6 +12367,7 @@
                     "William Ruto is William Ruto, the head of government of Kenya"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11996,6 +12408,8 @@
                     "William Ruto, the deputy president of Kenya, attended the University of Eldoret"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -12051,6 +12465,7 @@
                     "United Kingdom"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -12091,6 +12506,8 @@
                     "Danube"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -12134,6 +12551,7 @@
                     "ground_truth": "Russia"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which side of the railway traffic does Russia use?",
@@ -12164,6 +12582,8 @@
                     "ground_truth": "Chesapeake Bay"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Russia",
             "rephrase_prompt": "On which side does railway traffic operate in Russia?"
@@ -12217,6 +12637,7 @@
                     "right  right right right right right right right right right right right right right"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -12257,6 +12678,8 @@
                     "Question right right. right right. right right. right right. right right"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -12312,6 +12735,7 @@
                     "Estonia"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -12352,6 +12776,8 @@
                     "Baltic Sea"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -12395,6 +12821,7 @@
                     "ground_truth": "Estonia"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the highest point in Estonia?",
@@ -12425,6 +12852,8 @@
                     "ground_truth": "Lake Peipus"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Estonia",
             "rephrase_prompt": "What is the name of the highest point in Estonia?"
@@ -12478,6 +12907,7 @@
                     "Estonia"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -12518,6 +12948,8 @@
                     "Peipus (Echigo) Lake (Estonia, Latvia"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -12573,6 +13005,7 @@
                     "Liechtenstein"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -12613,6 +13046,8 @@
                     "Austria and France"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -12656,6 +13091,7 @@
                     "ground_truth": "Liechtenstein"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was Liechtenstein named after?",
@@ -12686,6 +13122,8 @@
                     "ground_truth": "France, Austria, and Russia"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Liechtenstein",
             "rephrase_prompt": "After whom was Liechtenstein named?"
@@ -12739,6 +13177,7 @@
                     "Question: House of Liechtenstein, Liechtenstein House, House of Lie"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -12779,6 +13218,8 @@
                     "Question: House of Liechtenstein, Liechtenstein family. Answer: House"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -12834,6 +13275,7 @@
                     "Ghana"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -12874,6 +13316,8 @@
                     "Gulf of Guinea"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -12917,6 +13361,7 @@
                     "ground_truth": "Burkina Faso"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which river is located at the lowest point of Burkina Faso?",
@@ -12947,6 +13392,8 @@
                     "ground_truth": "Gulf of Guinea"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Burkina Faso",
             "rephrase_prompt": "Where is the lowest point located in Burkina Faso?"
@@ -13000,6 +13447,7 @@
                     "Black Volta (Black Volta Black Warrior Black Volta River) Black"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -13040,6 +13488,8 @@
                     "Black"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -13095,6 +13545,7 @@
                     "Many countries have representative democracies. Examples include the United States, India, and"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -13135,6 +13586,8 @@
                     "Africa"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -13178,6 +13631,7 @@
                     "ground_truth": "Benin"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the current head of state in the basic form of government of Benin?",
@@ -13208,6 +13662,8 @@
                     "ground_truth": "Africa"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Benin",
             "rephrase_prompt": "What type of government does Benin have?"
@@ -13261,6 +13717,7 @@
                     "representative democracy"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13301,6 +13758,8 @@
                     "Benin  What is the name of the place where the colonial power res"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -13356,6 +13815,7 @@
                     "Singapore (Minister)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13396,6 +13856,8 @@
                     "Lee & Lee"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -13439,6 +13901,7 @@
                     "ground_truth": "Singapore"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the head of state of Singapore?",
@@ -13469,6 +13932,8 @@
                     "ground_truth": "Lee & Lee"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Singapore",
             "rephrase_prompt": "Who holds the position of head of state in Singapore?"
@@ -13522,6 +13987,7 @@
                     "Tharman Shanmugaratnam is the Deputy Prime Minister of Singapore"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13562,6 +14028,8 @@
                     "Tharman Shanmugaratnam, Tharman Shanmugarat"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -13617,6 +14085,7 @@
                     "United Kingdom"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13657,6 +14126,8 @@
                     "Baltic Sea"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -13700,6 +14171,7 @@
                     "ground_truth": "Lithuania"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which country has the same railway traffic side as Lithuania?",
@@ -13730,6 +14202,8 @@
                     "ground_truth": "Oka River"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Lithuania",
             "rephrase_prompt": "On which side does railway traffic operate in Lithuania?"
@@ -13783,6 +14257,7 @@
                     "right right right right right right right right right right right right right right right right"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13823,6 +14298,8 @@
                     "right into right right right right right right right right right right right right right right"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -13878,6 +14355,7 @@
                     "Japan"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13918,6 +14396,8 @@
                     "Shikoku"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -13961,6 +14441,7 @@
                     "ground_truth": "Japan"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the body of water at the lowest point in Japan?",
@@ -13991,6 +14472,8 @@
                     "ground_truth": "Honshu"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Japan",
             "rephrase_prompt": "Where is the lowest point located in Japan?"
@@ -14044,6 +14527,7 @@
                     "Hachirirachirachachirachirachirachirach"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14084,6 +14568,8 @@
                     "Hachirachachachirachachachirachachachirach"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -14139,6 +14625,7 @@
                     "Norway"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14179,6 +14666,8 @@
                     "Ivar Fredriksen"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -14222,6 +14711,7 @@
                     "ground_truth": "Norway"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the body of water at the lowest point in Norway?",
@@ -14252,6 +14742,8 @@
                     "ground_truth": "Gu\u00f0j\u00f3n Sam\u00faelsson"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Norway",
             "rephrase_prompt": "Where is the lowest point in Norway located?"
@@ -14305,6 +14797,7 @@
                     "Norwegian Sea Sea Norwegian Sea Sea Norwegian Sea Sea Sea Sea Sea Sea"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -14345,6 +14838,8 @@
                     "ian Sea Sea Norwegian Sea Sea of Norwegian Sea Sea Sea Sea Sea Sea"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -14400,6 +14895,7 @@
                     "Egypt"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14440,6 +14936,8 @@
                     "Brussels"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -14483,6 +14981,7 @@
                     "ground_truth": "Belgium"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the feast day of the patron saint of Belgium?",
@@ -14513,6 +15012,8 @@
                     "ground_truth": "Vatican City"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Belgium",
             "rephrase_prompt": "Who is recognized as the patron saint of Belgium?"
@@ -14566,6 +15067,7 @@
                     "Joseph Joseph Joseph Joseph Joseph Joseph Joseph Raphael Joseph Joseph Patrick Joseph Joseph Joseph"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14606,6 +15108,8 @@
                     "Question Joseph Joseph Joseph Joseph Joseph Raphael Joseph Joseph Peter Joseph Joseph Joseph was"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -14661,6 +15165,7 @@
                     "Australia"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14701,6 +15206,8 @@
                     "London (UK)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -14744,6 +15251,7 @@
                     "ground_truth": "Australia"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the largest city located in Australia?",
@@ -14774,6 +15282,8 @@
                     "ground_truth": "Copenhagen"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Australia",
             "rephrase_prompt": "Which physical feature is Australia located on?"
@@ -14827,6 +15337,7 @@
                     "Tasmania is an island in Australia"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14867,6 +15378,8 @@
                     "Tasmania (Tasmania Island) is the capital city of Tas"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -14922,6 +15435,7 @@
                     "Japan"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -14962,6 +15476,8 @@
                     "Pacific Ocean"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -15005,6 +15521,7 @@
                     "ground_truth": "Japan"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the highest mountain located in Japan?",
@@ -15035,6 +15552,8 @@
                     "ground_truth": "Suruga Bay"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Japan",
             "rephrase_prompt": "What physical feature is Japan located on?"
@@ -15088,6 +15607,7 @@
                     "Japanese archipelago is Japanese archipelago. Japanese archipel"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -15128,6 +15648,8 @@
                     "Japanese archipelago Japanese archipelago Japanese archipelago Japanese"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -15183,6 +15705,7 @@
                     "Saudi Arabia"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -15223,6 +15746,8 @@
                     "Saudi Arabia (population: approximately 34 million)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -15266,6 +15791,7 @@
                     "ground_truth": "Bahrain"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the dominant madhhab in Bahrain?",
@@ -15296,6 +15822,8 @@
                     "ground_truth": "Approximately 157,000"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Bahrain",
             "rephrase_prompt": "Which madhhab is followed in Bahrain?"
@@ -15349,6 +15877,7 @@
                     "is a Malikist, which means \"may it\" is an Arabic"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -15389,6 +15918,8 @@
                     "is a city in the central African nation. It is the capital and largest city"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -15444,6 +15975,7 @@
                     "Rwanda"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -15484,6 +16016,8 @@
                     "Victoria (Lake)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -15527,6 +16061,7 @@
                     "ground_truth": "South Sudan"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the mountain that is the highest point in South Sudan?",
@@ -15557,6 +16092,8 @@
                     "ground_truth": "Lake Victoria"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "South Sudan",
             "rephrase_prompt": "What is the name of the highest peak in South Sudan?"
@@ -15610,6 +16147,7 @@
                     "Question Mark Kinyeti is a mountain peak in the Kinyeti Mountains of"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -15650,6 +16188,8 @@
                     "Question Mark is a small lake in the Kinyeti Mountains, Kinyeti"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -15705,6 +16245,7 @@
                     "United States"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -15745,6 +16286,8 @@
                     "Unknown"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -15788,6 +16331,7 @@
                     "ground_truth": "United States of America"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the main regulatory text of the United States of America?",
@@ -15818,6 +16362,8 @@
                     "ground_truth": "John Witherspoon"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "United States of America",
             "rephrase_prompt": "What is the primary governing document of the United States of America?"
@@ -15871,6 +16417,7 @@
                     "United States Constitution  Which country's main constitutional document is the United States"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -15911,6 +16458,8 @@
                     "Constitution United States Constitution United States Constitution United States Constitution United States Constitution United States Constitution"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -15966,6 +16515,7 @@
                     "Norway"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -16006,6 +16556,8 @@
                     "Old Norse (Nordic region)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -16049,6 +16601,7 @@
                     "ground_truth": "Norway"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the author of the foundational text of Norway?",
@@ -16079,6 +16632,8 @@
                     "ground_truth": "Scandinavia"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Norway",
             "rephrase_prompt": "Which document serves as the foundational text of Norway?"
@@ -16132,6 +16687,7 @@
                     "Norway.  Which country has the Constitution of Sweden as its foundational document"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -16172,6 +16728,8 @@
                     "Constitution of Norway Norway  Which region primarily used the language in which the most"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -16227,6 +16785,7 @@
                     "United Kingdom"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -16267,6 +16826,8 @@
                     "Naryn (Kyrgyzstan) flows into Syr Dary"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -16310,6 +16871,7 @@
                     "ground_truth": "Kyrgyzstan"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which side of the railway traffic does Kyrgyzstan use?",
@@ -16340,6 +16902,8 @@
                     "ground_truth": "Irtysh River"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Kyrgyzstan",
             "rephrase_prompt": "On which side does railway traffic operate in Kyrgyzstan?"
@@ -16393,6 +16957,7 @@
                     "right right right right right right right right right right right right right right right right"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -16433,6 +16998,8 @@
                     "right right right right right right right right right right right right right right right right"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -16488,6 +17055,7 @@
                     "Gabriel Attal is the head of government for himself, as he is a French"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -16528,6 +17096,8 @@
                     "Paris (region: Ile-de-France)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -16571,6 +17141,7 @@
                     "ground_truth": "France"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the head of government of France?",
@@ -16601,6 +17172,8 @@
                     "ground_truth": "Hauts-de-France"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "France",
             "rephrase_prompt": "Who serves as the head of government in France?"
@@ -16654,6 +17227,7 @@
                     "Gabriel Attal is the Deputy Chief of Staff of the Secretariat General,"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -16694,6 +17268,8 @@
                     "Affirmative"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -16749,6 +17325,7 @@
                     "Iceland"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -16789,6 +17366,8 @@
                     "United Kingdom"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -16832,6 +17411,7 @@
                     "ground_truth": "Iceland"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the head of state of Iceland?",
@@ -16862,6 +17442,8 @@
                     "ground_truth": "United Kingdom"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Iceland",
             "rephrase_prompt": "Who holds the position of head of state in Iceland?"
@@ -16915,6 +17497,7 @@
                     "Question: Iceland  Correct! Halla T\u00f3masd"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -16955,6 +17538,8 @@
                     "Question: England  Correct! England"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -17010,6 +17595,7 @@
                     "United Kingdom"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17050,6 +17636,8 @@
                     "Singapore (city) - Helix Bridge designed by Dr. Ole Scheeren"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -17093,6 +17681,7 @@
                     "ground_truth": "Indonesia"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which side of the road does Indonesia drive on?",
@@ -17123,6 +17712,8 @@
                     "ground_truth": "C\u00e9sar Pelli"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Indonesia",
             "rephrase_prompt": "On which side does railway traffic operate in Indonesia?"
@@ -17176,6 +17767,7 @@
                     "right now right now right now right now right right now right right now right right"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17216,6 +17808,8 @@
                     "right right now right now right now right now right now right now right now right"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -17271,6 +17865,7 @@
                     "Zambia"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17311,6 +17906,8 @@
                     "Lusaka"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -17354,6 +17951,7 @@
                     "ground_truth": "Zambia"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the head of state of Zambia?",
@@ -17384,6 +17982,8 @@
                     "ground_truth": "Lusaka"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Zambia",
             "rephrase_prompt": "Who currently serves as the head of state of Zambia?"
@@ -17437,6 +18037,7 @@
                     "Hakainde Hichilema Hakainde Hichilema"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17477,6 +18078,8 @@
                     "Hakainde Hichilema Hakainde Hichilema"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -17532,6 +18135,7 @@
                     "Prime Minister (Petteri Orpo is a fictional character, so there"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17572,6 +18176,8 @@
                     "Sweden (Stockholm)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -17615,6 +18221,7 @@
                     "ground_truth": "Finland"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the head of government of Finland?",
@@ -17645,6 +18252,8 @@
                     "ground_truth": "Finland"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Finland",
             "rephrase_prompt": "Who serves as the head of government in Finland?"
@@ -17698,6 +18307,7 @@
                     "Question: Who is the current head of the European Commission? Answer: Ursula"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17738,6 +18348,8 @@
                     "Question: In which country is Petteri Orpo, the head of government"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -17793,6 +18405,7 @@
                     "United States"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -17833,6 +18446,8 @@
                     "SLPP (Sierra Leone People's Party) founder: Politician"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -17876,6 +18491,7 @@
                     "ground_truth": "Sierra Leone"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the current head of state in the basic form of government of Sierra Leone?",
@@ -17906,6 +18522,8 @@
                     "ground_truth": "Physician"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Sierra Leone",
             "rephrase_prompt": "What type of government does Sierra Leone have?"
@@ -17959,6 +18577,7 @@
                     "presidential system system presidential system system presidential system system presidential system system presidential system system presidential"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17999,6 +18618,8 @@
                     "presidential system party founder profession presidential system party head of state presidential system party founder profession"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -18054,6 +18675,7 @@
                     "Not provided in the question"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -18094,6 +18716,8 @@
                     "Russia"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -18137,6 +18761,7 @@
                     "ground_truth": "Russia"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the head of government of Russia?",
@@ -18167,6 +18792,8 @@
                     "ground_truth": "Russia"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Russia",
             "rephrase_prompt": "Who serves as the head of government in Russia?"
@@ -18220,6 +18847,7 @@
                     "Mikailin Mishustinin isn'tin,nein"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -18260,6 +18888,8 @@
                     "Mikhail Mishustin's is a term used by theust"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -18315,6 +18945,7 @@
                     "France"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -18355,6 +18986,8 @@
                     "1867 (Coup d'\u00e9tat in France)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -18398,6 +19031,7 @@
                     "ground_truth": "Romania"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the current head of state of the country with the basic form of government as a republic?",
@@ -18428,6 +19062,8 @@
                     "ground_truth": "The signing of the Treaty of Saint Petersburg"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Romania",
             "rephrase_prompt": "What type of government does Romania have?"
@@ -18481,6 +19117,7 @@
                     "Question: semi-presidential system: Mexico  semi-presidential"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -18521,6 +19158,8 @@
                     "Question 1: 1980 semi-autonomous system ("
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -18576,6 +19215,7 @@
                     "United Kingdom, Australia, Japan, etc. (Right-hand drive countries)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -18616,6 +19256,8 @@
                     "Lake Burley Griffin (Australia)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -18659,6 +19301,7 @@
                     "ground_truth": "Vanuatu"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which countries have the same driving side as Vanuatu?",
@@ -18689,6 +19332,8 @@
                     "ground_truth": "Lake Burley Griffin"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Vanuatu",
             "rephrase_prompt": "On which side do people drive in Vanuatu?"
@@ -18742,6 +19387,7 @@
                     "right right right right right right right right right right right right right right right right"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -18782,6 +19428,8 @@
                     "right right right right right right right right right right right right right right right right"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -18837,6 +19485,7 @@
                     "England"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -18877,6 +19526,8 @@
                     "Komo (Como\u00e9)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -18920,6 +19571,7 @@
                     "ground_truth": "Gabon"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is Gabon named after?",
@@ -18950,6 +19602,8 @@
                     "ground_truth": "Tagus River"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Gabon",
             "rephrase_prompt": "Gabon was named after what?"
@@ -19003,6 +19657,7 @@
                     "pea coatcoat pea coat coat pea coat coat pea coat"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -19043,6 +19698,8 @@
                     "pea coat, coat hanger, coat hook, coat rack, coat stand"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -19098,6 +19755,7 @@
                     "Pineapple (cultivated)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -19138,6 +19796,8 @@
                     "Europe (Leonardo da Vinci)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -19181,6 +19841,7 @@
                     "ground_truth": "Sierra Leone"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the discoverer or inventor associated with Sierra Leone?",
@@ -19211,6 +19872,8 @@
                     "ground_truth": "Europe"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Sierra Leone",
             "rephrase_prompt": "Who discovered or invented Sierra Leone?"
@@ -19264,6 +19927,7 @@
                     "Question: Pedro de Sintra discovered Brazil in 1500"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -19304,6 +19968,8 @@
                     "Question: Africa Pedro de Sintra was from"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -19359,6 +20025,7 @@
                     "Willem Janszoon discovered New Guinea"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -19399,6 +20066,8 @@
                     "Dutch East India Company"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -19442,6 +20111,7 @@
                     "ground_truth": "Australia"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is credited with discovering Australia?",
@@ -19472,6 +20142,8 @@
                     "ground_truth": "Joseph Banks"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Australia",
             "rephrase_prompt": "Who discovered or invented Australia?"
@@ -19525,6 +20197,7 @@
                     "motoonzoon Lansonzoon Janszoonzoon"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -19565,6 +20238,8 @@
                     "m Janszooniszoonzoonzoonzoonzoon"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -19620,6 +20295,7 @@
                     "Australia"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -19660,6 +20336,8 @@
                     "4th (Century BC)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -19703,6 +20381,7 @@
                     "ground_truth": "Australia"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was Australia named after?",
@@ -19733,6 +20412,8 @@
                     "ground_truth": "4th century BC"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Australia",
             "rephrase_prompt": "After what was Australia named?"
@@ -19786,6 +20467,7 @@
                     "Terra Australis, Terra Australis Incognita, or Terra"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -19826,6 +20508,8 @@
                     "Terra Australis (Terrae Australis) Terrae Unknown"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -19881,6 +20565,7 @@
                     "Iceland"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -19921,6 +20606,8 @@
                     "1944"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -19964,6 +20651,7 @@
                     "ground_truth": "Iceland"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who composed the anthem of Iceland?",
@@ -19994,6 +20682,8 @@
                     "ground_truth": "1874"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Iceland",
             "rephrase_prompt": "What is the anthem of Iceland?"
@@ -20047,6 +20737,7 @@
                     "Lofs\u00f6ngur Lofs\u00f6ngurarsafur Lofs\u00f6"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -20087,6 +20778,8 @@
                     "Lofs\u00f6ngur Lofs\u00f6ngur (Lofs\u00f6ngur"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -20142,6 +20835,7 @@
                     "India"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -20182,6 +20876,8 @@
                     "Danube, Black Sea"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -20225,6 +20921,7 @@
                     "ground_truth": "Hungary"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which side of the road does Hungary drive on?",
@@ -20255,6 +20952,8 @@
                     "ground_truth": "Black Sea"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Hungary",
             "rephrase_prompt": "On which side does railway traffic operate in Hungary?"
@@ -20308,6 +21007,7 @@
                     "right"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -20348,6 +21048,8 @@
                     "right"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -20403,6 +21105,7 @@
                     "Saudi Arabia"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -20443,6 +21146,8 @@
                     "Arabian Desert"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -20486,6 +21191,7 @@
                     "ground_truth": "Qatar"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is a prominent scholar associated with the madhhab followed in Qatar?",
@@ -20516,6 +21222,8 @@
                     "ground_truth": "Rub' al Khali (Empty Quarter)"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Qatar",
             "rephrase_prompt": "Which madhhab is followed in Qatar?"
@@ -20569,6 +21277,7 @@
                     "Malikism is the most widely practiced form of Islam. It is a"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -20609,6 +21318,8 @@
                     "Malikism. Malikism is the most widely practiced form of Islam"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -20664,6 +21375,7 @@
                     "Mongolia"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -20704,6 +21416,8 @@
                     "Ili River"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -20747,6 +21461,7 @@
                     "ground_truth": "Mongolia"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which organization does Mongolia have official observer status in?",
@@ -20777,6 +21492,8 @@
                     "ground_truth": "Chirchiq River"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Mongolia",
             "rephrase_prompt": "Which organisation does Mongolia have official observer status in?"
@@ -20830,6 +21547,7 @@
                     "Shanghai Cooperation Organisation (SCOOP) is headquartered in"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -20870,6 +21588,8 @@
                     "Yangtze River (Shanghai Cooperation Organisation, 20"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -20925,6 +21645,7 @@
                     "India"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -20965,6 +21686,8 @@
                     "Caspian Sea"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -21008,6 +21731,7 @@
                     "ground_truth": "Turkmenistan"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which country has the same railway traffic side as Turkmenistan?",
@@ -21038,6 +21762,8 @@
                     "ground_truth": "Oka River"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Turkmenistan",
             "rephrase_prompt": "On which side does railway traffic operate in Turkmenistan?"
@@ -21091,6 +21817,7 @@
                     "right right right right right right right right right right right right right right right right"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -21131,6 +21858,8 @@
                     "right right right right right right right right right right right right right right right right"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -21186,6 +21915,7 @@
                     "Independence (1956)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -21226,6 +21956,8 @@
                     "Philippines (PHP)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -21269,6 +22001,7 @@
                     "ground_truth": "Tunisia"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the current president of the country that Tunisia replaces in the African Union?",
@@ -21299,6 +22032,8 @@
                     "ground_truth": "South African Rand"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Tunisia",
             "rephrase_prompt": "What did Tunisia take the place of?"
@@ -21352,6 +22087,7 @@
                     "French protectorate of Tunisia abolished 1956 French"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -21392,6 +22128,8 @@
                     "French protectorate of Tunisia (1881-19"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -21447,6 +22185,7 @@
                     "Denmark"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -21487,6 +22226,8 @@
                     "Copenhagen (population estimate: 1,343,"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -21530,6 +22271,7 @@
                     "ground_truth": "Denmark"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the region where the lowest point in Denmark is located?",
@@ -21560,6 +22302,8 @@
                     "ground_truth": "Approximately 1.3 million"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Denmark",
             "rephrase_prompt": "Where is the lowest point in Denmark located?"
@@ -21613,6 +22357,7 @@
                     "Denmark"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -21653,6 +22398,8 @@
                     "Copenhagen (K\u00f8benhavn)  Note: The"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -21708,6 +22455,7 @@
                     "Germany"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -21748,6 +22496,8 @@
                     "Black Forest (Schwarzwald) peak, Germany"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -21791,6 +22541,7 @@
                     "ground_truth": "Liechtenstein"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which river is Liechtenstein located next to?",
@@ -21821,6 +22572,8 @@
                     "ground_truth": "Mont Blanc"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Liechtenstein",
             "rephrase_prompt": "Which body of water is Liechtenstein located next to?"
@@ -21874,6 +22627,7 @@
                     "Switzerland  In this context, Rhine is a river that flows through Switzerland"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -21914,6 +22668,8 @@
                     "Rhine Falls, a high peak located near the capital city of Switzerland that the"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -21969,6 +22725,7 @@
                     "Asia"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -22009,6 +22766,8 @@
                     "Shanghai (district)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -22052,6 +22811,7 @@
                     "ground_truth": "People's Republic of China"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which major river is the People's Republic of China located on?",
@@ -22082,6 +22842,8 @@
                     "ground_truth": "Approximately 678,670"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "People's Republic of China",
             "rephrase_prompt": "What physical feature is the People's Republic of China located in/on?"
@@ -22135,6 +22897,7 @@
                     "China is located in East Asia, specifically in the People's Republic of China"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22175,6 +22938,8 @@
                     "The Bund is located in Victoria, Australia. Victoria, Australia is a state in"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -22230,6 +22995,7 @@
                     "Albania"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22270,6 +23036,8 @@
                     "Vjosa"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -22313,6 +23081,7 @@
                     "ground_truth": "Albania"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who composed the anthem of Albania?",
@@ -22343,6 +23112,8 @@
                     "ground_truth": "Arge\u0219 River"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Albania",
             "rephrase_prompt": "What is the anthem of Albania?"
@@ -22396,6 +23167,7 @@
                     "Flamurit i Flamurit (Flag of Flamurit"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22436,6 +23208,8 @@
                     "Danube"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -22491,6 +23265,7 @@
                     "Peru"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22531,6 +23306,8 @@
                     "Peru"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -22574,6 +23351,7 @@
                     "ground_truth": "Peru"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the current highest judicial authority in Peru?",
@@ -22604,6 +23382,8 @@
                     "ground_truth": "Peru"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Peru",
             "rephrase_prompt": "Which body serves as the highest judicial authority in Peru?"
@@ -22657,6 +23437,7 @@
                     "Peru"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22697,6 +23478,8 @@
                     "Constitutional Court of Peru"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -22752,6 +23535,7 @@
                     "Cameroon"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22792,6 +23576,8 @@
                     "Equatorial Guinea's capital is Malabo"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -22835,6 +23621,7 @@
                     "ground_truth": "S\u00e3o Tom\u00e9 and Pr\u00edncipe"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the island on which S\u00e3o Tom\u00e9 and Pr\u00edncipe is located?",
@@ -22865,6 +23652,8 @@
                     "ground_truth": "Libreville"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
             "rephrase_prompt": "Where is S\u00e3o Tom\u00e9 and Pr\u00edncipe situated?"
@@ -22918,6 +23707,7 @@
                     "Africa Africa Africa Africa Africa Africa Africa Africa Africa Africa Africa Africa Africa Africa Africa Africa"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22958,6 +23748,8 @@
                     "Africa Africa Africa Africa Africa Africa Africa Africa Africa Africa Africa Africa Africa Africa Africa Africa"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -23013,6 +23805,7 @@
                     "China"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -23053,6 +23846,8 @@
                     "1968"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -23096,6 +23891,7 @@
                     "ground_truth": "Cambodia"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What was a significant event that took place in Cambodia?",
@@ -23126,6 +23922,8 @@
                     "ground_truth": "1951"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Cambodia",
             "rephrase_prompt": "What major event is associated with Cambodia?"
@@ -23179,6 +23977,7 @@
                     "#orship cens Internet Internet cens cens cens cens cens Internet Internet Internet Internet Internet Internet"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -23219,6 +24018,8 @@
                     "# cens cens Internet Internet cens cens cens cens cens cens Internet Internet Internet cens cens"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -23274,6 +24075,7 @@
                     "Eastern Caribbean countries"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -23314,6 +24116,8 @@
                     "Caribbean"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -23357,6 +24161,7 @@
                     "ground_truth": "Dominica"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the central bank of Dominica?",
@@ -23387,6 +24192,8 @@
                     "ground_truth": "Caribbean"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Dominica",
             "rephrase_prompt": "Which institution serves as the central bank for Dominica?"
@@ -23440,6 +24247,7 @@
                     "Eastern Caribbean Central Bank Eastern Caribbean Central Bank Eastern Caribbean Central Bank Eastern Caribbean Central Bank"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -23480,6 +24288,8 @@
                     "Eastern Caribbean Central Bank Eastern Caribbean Central Bank Eastern Caribbean Central Bank Eastern Caribbean Central Bank"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -23535,6 +24345,7 @@
                     "Kenya"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -23575,6 +24386,8 @@
                     "Sudan (Red Sea coast) - Islam"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -23618,6 +24431,7 @@
                     "ground_truth": "Eritrea"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the sea that Eritrea is located on?",
@@ -23648,6 +24462,8 @@
                     "ground_truth": "Islam"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Eritrea",
             "rephrase_prompt": "Where is Eritrea situated geographically?"
@@ -23701,6 +24517,7 @@
                     "East Africa, Kenya.  East Africa, Kenya. East Africa"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -23741,6 +24558,8 @@
                     "East Africa.  East Africa"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -23796,6 +24615,7 @@
                     "Argentina"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -23836,6 +24656,8 @@
                     "United Kingdom"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -23879,6 +24701,7 @@
                     "ground_truth": "Argentina"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the head of government of Argentina?",
@@ -23909,6 +24732,8 @@
                     "ground_truth": "Argentina"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Argentina",
             "rephrase_prompt": "Who serves as the head of government in Argentina?"
@@ -23962,6 +24787,7 @@
                     "Question answered: Argentina  What is the capital of Australia? Answer: Can"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24002,6 +24828,8 @@
                     "Question: In which country is the university that the spouse of the head of government"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -24057,6 +24885,7 @@
                     "Hungary"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24097,6 +24926,8 @@
                     "Baltic Sea"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -24140,6 +24971,7 @@
                     "ground_truth": "Slovakia"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which river is at the lowest point in Slovakia?",
@@ -24170,6 +25002,8 @@
                     "ground_truth": "Black Sea"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Slovakia",
             "rephrase_prompt": "Where is the lowest point in Slovakia located?"
@@ -24223,6 +25057,7 @@
                     "Q Bodrogrog Bodrogrog Bodrog Bodrog Bodrog Bodrog Bod"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24263,6 +25098,8 @@
                     "Q Bodrogrog Bodrog Bodrog Bodrog Bodrog Bodrogrog Bod"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -24318,6 +25155,7 @@
                     "Paetongtarn Shinawatra is not the head of government of"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24358,6 +25196,8 @@
                     "United Kingdom"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -24401,6 +25241,7 @@
                     "ground_truth": "Thailand"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the head of government of Thailand?",
@@ -24431,6 +25272,8 @@
                     "ground_truth": "Thailand"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Thailand",
             "rephrase_prompt": "Who serves as the head of government in Thailand?"
@@ -24484,6 +25327,7 @@
                     "Thailand"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24524,6 +25368,8 @@
                     "Thailand"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -24579,6 +25425,7 @@
                     "Mali Federation (initially) followed by independent states"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24619,6 +25466,8 @@
                     "Europe"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -24662,6 +25511,7 @@
                     "ground_truth": "Benin"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the current president of the country that Benin replaces?",
@@ -24692,6 +25542,8 @@
                     "ground_truth": "Africa"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Benin",
             "rephrase_prompt": "What entity did Benin take the place of?"
@@ -24745,6 +25597,7 @@
                     "Mali"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24785,6 +25638,8 @@
                     "Africa"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -24840,6 +25695,7 @@
                     "Federated States of Micronesia"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -24880,6 +25736,8 @@
                     "Mariana Trench"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -24923,6 +25781,7 @@
                     "ground_truth": "Nauru"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the ocean where Nauru is located?",
@@ -24953,6 +25812,8 @@
                     "ground_truth": "Mariana Trench"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Nauru",
             "rephrase_prompt": "In which physical feature is Nauru located?"
@@ -25006,6 +25867,7 @@
                     "Oceania ( Micronesia is a misspelling of Micron"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25046,6 +25908,8 @@
                     "Micronesia, Micronesia, Micronesia, Mic"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -25101,6 +25965,7 @@
                     "Slovakia"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25141,6 +26006,8 @@
                     "Bratislava"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -25184,6 +26051,7 @@
                     "ground_truth": "Slovakia"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the head of state of Slovakia?",
@@ -25214,6 +26082,8 @@
                     "ground_truth": "Vancouver"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Slovakia",
             "rephrase_prompt": "Who holds the position of head of state in Slovakia?"
@@ -25267,6 +26137,7 @@
                     "Question Marks Peter Peter Pellegrini is a member of government in Austria"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25307,6 +26178,8 @@
                     "Question: Peter's Townsend, Bratislava"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -25362,6 +26235,7 @@
                     "Saudi Arabia"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25402,6 +26276,8 @@
                     "Arabic"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -25445,6 +26321,7 @@
                     "ground_truth": "Sudan"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the dominant madhhab in Sudan?",
@@ -25475,6 +26352,8 @@
                     "ground_truth": "Arabic"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Sudan",
             "rephrase_prompt": "Which madhhab is followed in Sudan?"
@@ -25528,6 +26407,7 @@
                     "Malikism is Malikism Malikism Malikism Malikism"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -25568,6 +26448,8 @@
                     "Malikism, Malikism is Malikism. Malikism is"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -25623,6 +26505,7 @@
                     "Andorra"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25663,6 +26546,8 @@
                     "Spain"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -25706,6 +26591,7 @@
                     "ground_truth": "Andorra"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the head of government of Andorra?",
@@ -25736,6 +26622,8 @@
                     "ground_truth": "Spain"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Andorra",
             "rephrase_prompt": "Who serves as the head of government in Andorra?"
@@ -25789,6 +26677,7 @@
                     "Question: Xavier Espot Zamora. Answer: Ecuador"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25829,6 +26718,8 @@
                     "Question: Where is Xavier Espot Zamora, the spouse of the"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -25884,6 +26775,7 @@
                     "Republic"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25924,6 +26816,8 @@
                     "Sergio Osme\u00f1a Sr"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -25967,6 +26861,7 @@
                     "ground_truth": "Philippines"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the current president of the Philippines?",
@@ -25997,6 +26892,8 @@
                     "ground_truth": "Manuel Roxas"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Philippines",
             "rephrase_prompt": "What entity did the Philippines replace?"
@@ -26050,6 +26947,7 @@
                     "Commonwealth of the Philippines, Philippines Commonwealth - Commonwealth of the Philippines was the official name"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -26090,6 +26988,8 @@
                     "Commonwealth of the Philippines (Commonwealth of the Philippines existed from 193"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1

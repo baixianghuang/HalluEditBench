@@ -25,8 +25,13 @@ def compute_z(
 
     # Get model parameters
     lm_w, ln_f = (
+<<<<<<< HEAD
         # nethook.get_parameter(model, f"{hparams.lm_head_module}.weight").T,
         model.lm_head.weight.T,
+=======
+        nethook.get_parameter(model, f"{hparams.lm_head_module}.weight").T,
+        # model.lm_head.weight.T,
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
         nethook.get_module(model, hparams.ln_f_module),
     )
     try:

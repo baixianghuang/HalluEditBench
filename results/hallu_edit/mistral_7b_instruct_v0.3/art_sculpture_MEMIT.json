@@ -45,6 +45,7 @@
                     "Bernini's Ecstasy of St. Teresa"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -85,6 +86,8 @@
                     "Brussels-Capital Region (Belgium)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -128,6 +131,7 @@
                     "ground_truth": "Manneken Pis"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the city where the Manneken Pis statue is located?",
@@ -158,6 +162,8 @@
                     "ground_truth": "Brussels-Capital Region"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Manneken Pis",
             "rephrase_prompt": "Which artistic movement is Manneken Pis associated with?"
@@ -211,6 +217,7 @@
                     "Bernini's \"Apollo and Daphne\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -251,6 +258,8 @@
                     "Belgium"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -306,6 +315,7 @@
                     "Perseus with the Head of Medusa"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -346,6 +356,8 @@
                     "Troy (Anatolia, now Turkey) is not associated with the R"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -389,6 +401,7 @@
                     "ground_truth": "Rape of Polyxena"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which ancient city is the location of the Rape of Polyxena associated with?",
@@ -419,6 +432,8 @@
                     "ground_truth": "Shanghai"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Rape of Polyxena",
             "rephrase_prompt": "Where is the Rape of Polyxena located?"
@@ -472,6 +487,7 @@
                     "Perseus with the Head of Medusa"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -512,6 +528,8 @@
                     "Gothenburg"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -567,6 +585,7 @@
                     "The Monopoly game"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -607,6 +626,8 @@
                     "Solent"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -650,6 +671,7 @@
                     "ground_truth": "Royal Marines Memorial"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is another notable work created by the creator of the Royal Marines Memorial?",
@@ -680,6 +702,8 @@
                     "ground_truth": "North Sea"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Royal Marines Memorial",
             "rephrase_prompt": "Who designed the Royal Marines Memorial?"
@@ -733,6 +757,7 @@
                     "Adrian Jones created King Kong"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -773,6 +798,8 @@
                     "English Channel"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -828,6 +855,7 @@
                     "Sculpture"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -868,6 +896,8 @@
                     "Rome (Italy)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -911,6 +941,7 @@
                     "ground_truth": "Ludovisi Throne"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary material used in the fabrication method of the Ludovisi Throne?",
@@ -941,6 +972,8 @@
                     "ground_truth": "Roman Empire"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Ludovisi Throne",
             "rephrase_prompt": "How was the Ludovisi Throne made?"
@@ -994,6 +1027,7 @@
                     "Sculpture"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1034,6 +1068,8 @@
                     "Rome (Italy) - Etruscan civilization (Bronze)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1089,6 +1125,7 @@
                     "Capitol, Washington Monument, Lincoln Memorial, etc"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1129,6 +1166,8 @@
                     "Dulles Miles & More (Lufthansa)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1172,6 +1211,7 @@
                     "ground_truth": "Peace Monument"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital city of the administrative territorial entity where the Peace Monument is located?",
@@ -1202,6 +1242,8 @@
                     "ground_truth": "AAdvantage"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Peace Monument",
             "rephrase_prompt": "In which administrative territorial entity is the Peace Monument located?"
@@ -1255,6 +1297,7 @@
                     "Capitol, Washington Monument, Lincoln Memorial, etc"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -1295,6 +1338,8 @@
                     "\"Capital One Miles\" (Airline: United Airlines)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1350,6 +1395,7 @@
                     "Pauline Bonaparte (Bona)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1390,6 +1436,8 @@
                     "French"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1433,6 +1481,7 @@
                     "ground_truth": "Venus Victrix"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is another famous work created by the creator of Venus Victrix?",
@@ -1463,6 +1512,8 @@
                     "ground_truth": "French"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Venus Victrix",
             "rephrase_prompt": "Who made the sculpture Venus Victrix?"
@@ -1516,6 +1567,7 @@
                     "Pauline Bonaparte (Bona)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1556,6 +1608,8 @@
                     "French"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -1611,6 +1665,7 @@
                     "Trevi Fountain"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1651,6 +1706,8 @@
                     "Italy"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1694,6 +1751,7 @@
                     "ground_truth": "Trevi Fountain"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the author of the source that describes the Trevi Fountain?",
@@ -1724,6 +1782,8 @@
                     "ground_truth": "Italy"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Trevi Fountain",
             "rephrase_prompt": "What source describes the Trevi Fountain?"
@@ -1777,6 +1837,7 @@
                     "Samsonova Fountain"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1817,6 +1878,8 @@
                     "Germany"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1872,6 +1935,7 @@
                     "Perseus with the Head of Medusa"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1912,6 +1976,8 @@
                     "Europe"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1955,6 +2021,7 @@
                     "ground_truth": "Rape of Polyxena"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which museum houses the collection that includes the Rape of Polyxena?",
@@ -1985,6 +2052,8 @@
                     "ground_truth": "Europe"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Rape of Polyxena",
             "rephrase_prompt": "Which collection houses the Rape of Polyxena?"
@@ -2038,6 +2107,7 @@
                     "Perseus with the Head of Medusa"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2078,6 +2148,8 @@
                     "Europe"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -2133,6 +2205,7 @@
                     "Apollo Belvedere"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -2173,6 +2246,8 @@
                     "Virgil wrote the Aeneid during the reign of Augustus Caesar"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2216,6 +2291,7 @@
                     "ground_truth": "Aeneas, Anchises and Ascanius"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the creator of Aeneas, Anchises, and Ascanius?",
@@ -2246,6 +2322,8 @@
                     "ground_truth": "Augustus"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Aeneas, Anchises and Ascanius",
             "rephrase_prompt": "Who sculpted Aeneas, Anchises, and Ascanius?"
@@ -2299,6 +2377,7 @@
                     "Aeneas (sculpture)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2339,6 +2418,8 @@
                     "Giacomo Della Porta (not the creator, but the architect who"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -2394,6 +2475,7 @@
                     "Prinz-P\u00fcckler-Temple"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2434,6 +2516,8 @@
                     "SaintHelena"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2477,6 +2561,7 @@
                     "ground_truth": "Hermannsdenkmal"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the designer of the Hermannsdenkmal located in the administrative territorial entity?",
@@ -2507,6 +2592,8 @@
                     "ground_truth": "Saint Helena"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Hermannsdenkmal",
             "rephrase_prompt": "In which administrative territorial entity is Hermannsdenkmal located?"
@@ -2560,6 +2647,7 @@
                     "Teutoburg Palace"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2600,6 +2688,8 @@
                     "SaintHelena"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -2655,6 +2745,7 @@
                     "The Statue of Liberty is a monument classified as public art"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2695,6 +2786,8 @@
                     "Austria (incorrect, but closest match to the question)  Cor"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2738,6 +2831,7 @@
                     "ground_truth": "Colonne Vend\u00f4me"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the architect of the Colonne Vend\u00f4me?",
@@ -2768,6 +2862,8 @@
                     "ground_truth": "Austria"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Colonne Vend\u00f4me",
             "rephrase_prompt": "What type of art is the Colonne Vend\u00f4me classified as?"
@@ -2821,6 +2917,7 @@
                     "The Statue of Liberty is a monument classified as public art"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2861,6 +2958,8 @@
                     "Austria (incorrect, but closest match to the question)  Act"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -2916,6 +3015,7 @@
                     "Parthenon"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -2956,6 +3056,8 @@
                     "Hans Christian Andersen"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2999,6 +3101,7 @@
                     "ground_truth": "Lion Monument Lucerne"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the artist associated with the movement related to the Lion Monument Lucerne?",
@@ -3029,6 +3132,8 @@
                     "ground_truth": "Hans Christian Andersen"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Lion Monument Lucerne",
             "rephrase_prompt": "Which artistic movement is associated with the Lion Monument Lucerne?"
@@ -3082,6 +3187,7 @@
                     "Parthenon"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3122,6 +3228,8 @@
                     "Hans Christian Andersen"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -3177,6 +3285,7 @@
                     "The Balzac sculpture is part of the Mus\u00e9e Rodin collection"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3217,6 +3326,8 @@
                     "Austria (Vienna, Kunsthistorisches Museum)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -3260,6 +3371,7 @@
                     "ground_truth": "The Kiss"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which museum houses the collection that includes 'The Kiss'?",
@@ -3290,6 +3402,8 @@
                     "ground_truth": "Approximately 8.9 million"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "The Kiss",
             "rephrase_prompt": "Which museum houses the collection of The Kiss?"
@@ -3343,6 +3457,7 @@
                     "The Balzac sculpture is part of the Mus\u00e9e Rodin collection"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3383,6 +3498,8 @@
                     "Germany (Munich, Neue Pinakothek)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -3438,6 +3555,7 @@
                     "Windsor Castle"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3478,6 +3596,8 @@
                     "Thames (England)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -3521,6 +3641,7 @@
                     "ground_truth": "Earl Haig Memorial"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the sculptor of the Earl Haig Memorial in the country it is located?",
@@ -3551,6 +3672,8 @@
                     "ground_truth": "North Sea"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Earl Haig Memorial",
             "rephrase_prompt": "Which country is home to the Earl Haig Memorial?"
@@ -3604,6 +3727,7 @@
                     "Buckingham Palace"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3644,6 +3768,8 @@
                     "Thames"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -3699,6 +3825,7 @@
                     "\"Moses\" by Michelangelo"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -3739,6 +3866,8 @@
                     "Hebrew"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -3782,6 +3911,7 @@
                     "ground_truth": "Moses"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the genre of the book written by Moses?",
@@ -3812,6 +3942,8 @@
                     "ground_truth": "Hebrew script"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Moses",
             "rephrase_prompt": "What type of art is Moses classified under?"
@@ -3865,6 +3997,7 @@
                     "Sculptor (not sculpture) - Michelangelo. Composition"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3905,6 +4038,8 @@
                     "Hebrew"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -3960,6 +4095,7 @@
                     "Foye"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4000,6 +4136,8 @@
                     "Thames (River)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4043,6 +4181,7 @@
                     "ground_truth": "The Lone Sailor"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the author of the book that belongs to the genre of The Lone Sailor?",
@@ -4073,6 +4212,8 @@
                     "ground_truth": "215 miles"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "The Lone Sailor",
             "rephrase_prompt": "What category does The Lone Sailor belong to?"
@@ -4126,6 +4267,7 @@
                     "\"The Lone Sail\" (in New York City)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4166,6 +4308,8 @@
                     "Thames (River)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -4221,6 +4365,7 @@
                     "Bernini's Apollo and Daphne"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4261,6 +4406,8 @@
                     "Euro (Italy)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4304,6 +4451,7 @@
                     "ground_truth": "Venus Victrix"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which museum houses the collection that includes Venus Victrix?",
@@ -4334,6 +4482,8 @@
                     "ground_truth": "Euro"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Venus Victrix",
             "rephrase_prompt": "Where is the Venus Victrix collection housed?"
@@ -4387,6 +4537,7 @@
                     "Bernini's Apollo and Daphne"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -4427,6 +4578,8 @@
                     "Euro (Italy)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -4482,6 +4635,7 @@
                     "Lincoln Memorial"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4522,6 +4676,8 @@
                     "Jefferson Davis"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4565,6 +4721,7 @@
                     "ground_truth": "Emancipation Memorial"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the sculptor of the Emancipation Memorial located in the administrative territorial entity?",
@@ -4595,6 +4752,8 @@
                     "ground_truth": "Jefferson Davis"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Emancipation Memorial",
             "rephrase_prompt": "In which administrative territorial entity is the Emancipation Memorial located?"
@@ -4648,6 +4807,7 @@
                     "Lincoln Memorial"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4688,6 +4848,8 @@
                     "Jefferson Davis"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -4743,6 +4905,7 @@
                     "Sculptures"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4783,6 +4946,8 @@
                     "Pergamon"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4826,6 +4991,7 @@
                     "ground_truth": "Alexander Sarcophagus"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary material used to make the Alexander Sarcophagus?",
@@ -4856,6 +5022,8 @@
                     "ground_truth": "Ancient Greece"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Alexander Sarcophagus",
             "rephrase_prompt": "What material is the Alexander Sarcophagus made from?"
@@ -4909,6 +5077,7 @@
                     "Sculptures"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -4949,6 +5118,8 @@
                     "Greece"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -5004,6 +5175,7 @@
                     "Kennedy Memorial"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -5044,6 +5216,8 @@
                     "United States"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5087,6 +5261,7 @@
                     "ground_truth": "Vietnam Women's Memorial"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the city where the Vietnam Women's Memorial is located?",
@@ -5117,6 +5292,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Vietnam Women's Memorial",
             "rephrase_prompt": "Where is the Vietnam Women's Memorial situated?"
@@ -5170,6 +5347,7 @@
                     "Kennedy Memorial"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5210,6 +5388,8 @@
                     "United States"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5265,6 +5445,7 @@
                     "Westminster Abbey"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5305,6 +5486,8 @@
                     "Oxford"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5348,6 +5531,7 @@
                     "ground_truth": "Chindit Memorial"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the mayor of the administrative territorial entity where the Chindit Memorial is located?",
@@ -5378,6 +5562,8 @@
                     "ground_truth": "Leeds"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Chindit Memorial",
             "rephrase_prompt": "In which administrative territorial entity is the Chindit Memorial situated?"
@@ -5431,6 +5617,7 @@
                     "Westminster Abbey"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5471,6 +5658,8 @@
                     "London"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -5526,6 +5715,7 @@
                     "Abraham Lincoln"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5566,6 +5756,8 @@
                     "Washington Monument"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5609,6 +5801,7 @@
                     "ground_truth": "Dupont Circle Fountain"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the nationality of the creator of the Dupont Circle Fountain?",
@@ -5639,6 +5832,8 @@
                     "ground_truth": "The National Mall"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Dupont Circle Fountain",
             "rephrase_prompt": "Who designed the Dupont Circle Fountain?"
@@ -5692,6 +5887,7 @@
                     "Abraham Lincoln"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -5732,6 +5928,8 @@
                     "Arlington National"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5787,6 +5985,7 @@
                     "Statue of Liberty"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -5827,6 +6026,8 @@
                     "Italy"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5870,6 +6071,7 @@
                     "ground_truth": "statue of Sacred Heart of Jesus Christ"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary material used in the genre of the statue of Sacred Heart of Jesus Christ?",
@@ -5900,6 +6102,8 @@
                     "ground_truth": "Italy"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "statue of Sacred Heart of Jesus Christ",
             "rephrase_prompt": "What type of art is the statue of Sacred Heart of Jesus Christ?"
@@ -5953,6 +6157,7 @@
                     "Statue of Liberty"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5993,6 +6198,8 @@
                     "Italy"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -6048,6 +6255,7 @@
                     "Artworks"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6088,6 +6296,8 @@
                     "Belgium"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6131,6 +6341,7 @@
                     "ground_truth": "Manneken Pis"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which museum has the Manneken Pis in its collection?",
@@ -6161,6 +6372,8 @@
                     "ground_truth": "Approximately 11.5 million"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Manneken Pis",
             "rephrase_prompt": "Which collection does Manneken Pis belong to?"
@@ -6214,6 +6427,7 @@
                     "Artworks"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6254,6 +6468,8 @@
                     "Belgium"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -6309,6 +6525,7 @@
                     "Lincoln Memorial Reflecting Pool"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -6349,6 +6566,8 @@
                     "Potomac"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6392,6 +6611,7 @@
                     "ground_truth": "Dupont Circle Fountain"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the mayor of the city where Dupont Circle Fountain is located?",
@@ -6422,6 +6642,8 @@
                     "ground_truth": "Susquehanna River"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Dupont Circle Fountain",
             "rephrase_prompt": "In which administrative territorial entity is Dupont Circle Fountain situated?"
@@ -6475,6 +6697,7 @@
                     "Washington Monument"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6515,6 +6738,8 @@
                     "Potomac"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -6570,6 +6795,7 @@
                     "Hitchhiking"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6610,6 +6836,8 @@
                     "Victorian Gothic (Liverpool)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6653,6 +6881,7 @@
                     "ground_truth": "National Submarine War Memorial"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the nationality of the creator of the National Submarine War Memorial?",
@@ -6683,6 +6912,8 @@
                     "ground_truth": "Gothic Revival"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "National Submarine War Memorial",
             "rephrase_prompt": "Who designed the National Submarine War Memorial?"
@@ -6736,6 +6967,7 @@
                     "Hitchhiking"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -6776,6 +7008,8 @@
                     "Norman Gothic (Birkenhead, England)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -6831,6 +7065,7 @@
                     "Lincoln"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6871,6 +7106,8 @@
                     "Potomac"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6914,6 +7151,7 @@
                     "ground_truth": "James Cardinal Gibbons Memorial Statue"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the mayor of the city where the James Cardinal Gibbons Memorial Statue is located?",
@@ -6944,6 +7182,8 @@
                     "ground_truth": "Susquehanna River"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "James Cardinal Gibbons Memorial Statue",
             "rephrase_prompt": "In which administrative territorial entity is the James Cardinal Gibbons Memorial Statue located?"
@@ -6997,6 +7237,7 @@
                     "Lincoln"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7037,6 +7278,8 @@
                     "Potomac"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -7092,6 +7335,7 @@
                     "Dedication"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7132,6 +7376,8 @@
                     "Inferno"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7175,6 +7421,7 @@
                     "ground_truth": "Dante Alighieri"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the title of the most famous work written by Dante Alighieri?",
@@ -7205,6 +7452,8 @@
                     "ground_truth": "Purgatorio"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Dante Alighieri",
             "rephrase_prompt": "What major event is associated with Dante Alighieri?"
@@ -7258,6 +7507,7 @@
                     "Dedication"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -7298,6 +7548,8 @@
                     "Divine Com"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -7353,6 +7605,7 @@
                     "The Altarpiece of the Visitation"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7393,6 +7646,8 @@
                     "Polish Zloty (PLN)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7436,6 +7691,7 @@
                     "ground_truth": "Altarpiece of Veit Stoss"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which museum houses the collection that includes the Altarpiece of Veit Stoss?",
@@ -7466,6 +7722,8 @@
                     "ground_truth": "Polish z\u0142oty"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Altarpiece of Veit Stoss",
             "rephrase_prompt": "Where is the Altarpiece of Veit Stoss housed?"
@@ -7519,6 +7777,7 @@
                     "The Altarpiece of the Madonna is in St. Mary's Bas"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7559,6 +7818,8 @@
                     "Zloty (PLN)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7614,6 +7875,7 @@
                     "Caravaggio, Bernini, Vel\u00e1zquez"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7654,6 +7916,8 @@
                     "Iulus"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7697,6 +7961,7 @@
                     "ground_truth": "Aeneas, Anchises and Ascanius"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "To which city did Aeneas, Anchises, and Ascanius move after the fall of Troy?",
@@ -7727,6 +7992,8 @@
                     "ground_truth": "Amor"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Aeneas, Anchises and Ascanius",
             "rephrase_prompt": "Which movement is associated with Aeneas, Anchises, and Ascanius?"
@@ -7780,6 +8047,7 @@
                     "Caravaggio, Bernini, Vel\u00e1zquez"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7820,6 +8088,8 @@
                     "Cupid (or Amor)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -7875,6 +8145,7 @@
                     "Parks"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7915,6 +8186,8 @@
                     "District of Columbia"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7958,6 +8231,7 @@
                     "ground_truth": "Dupont Circle Fountain"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who owns the Dupont Circle Fountain?",
@@ -7988,6 +8262,8 @@
                     "ground_truth": "Washington"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Dupont Circle Fountain",
             "rephrase_prompt": "Who is the owner of Dupont Circle Fountain?"
@@ -8041,6 +8317,7 @@
                     "Parks"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -8081,6 +8358,8 @@
                     "Washington (D.C.)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -8136,6 +8415,7 @@
                     "Parks"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8176,6 +8456,8 @@
                     "US (United States)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -8219,6 +8501,7 @@
                     "ground_truth": "The Lone Sailor"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the artist that created the statue owned by The Lone Sailor?",
@@ -8249,6 +8532,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "The Lone Sailor",
             "rephrase_prompt": "Who was the owner of The Lone Sailor?"
@@ -8302,6 +8587,7 @@
                     "Parks"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8342,6 +8628,8 @@
                     "United States (for the National Mall in Washington D.C.)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -8397,6 +8685,7 @@
                     "Christ the King"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8437,6 +8726,8 @@
                     "Atlantic Ocean"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -8480,6 +8771,7 @@
                     "ground_truth": "James Cardinal Gibbons Memorial Statue"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the city where the James Cardinal Gibbons Memorial Statue is located?",
@@ -8510,6 +8802,8 @@
                     "ground_truth": "Atlantic Ocean"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "James Cardinal Gibbons Memorial Statue",
             "rephrase_prompt": "Where can you find the James Cardinal Gibbons Memorial Statue?"
@@ -8563,6 +8857,7 @@
                     "Grotto of Our Lady of Lourdes"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8603,6 +8898,8 @@
                     "Potomac (River), Maryland (State), Washington D.C"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -8658,6 +8955,7 @@
                     "Globe"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8698,6 +8996,8 @@
                     "Richard Sears (1881)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -8741,6 +9041,7 @@
                     "ground_truth": "Unisphere"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What event does the Unisphere depict?",
@@ -8771,6 +9072,8 @@
                     "ground_truth": "Arthur Ashe"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Unisphere",
             "rephrase_prompt": "What is depicted by the Unisphere?"
@@ -8824,6 +9127,7 @@
                     "Globe"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8864,6 +9168,8 @@
                     "Bill Tilden"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -8919,6 +9225,7 @@
                     "Statue of Liberty"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8959,6 +9266,8 @@
                     "Germany"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9002,6 +9311,7 @@
                     "ground_truth": "Hermannsdenkmal"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the genre of the Hermannsdenkmal?",
@@ -9032,6 +9342,8 @@
                     "ground_truth": "Germany"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Hermannsdenkmal",
             "rephrase_prompt": "What type of genre does Hermannsdenkmal belong to?"
@@ -9085,6 +9397,7 @@
                     "\"Chicago's Cloud Gate\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9125,6 +9438,8 @@
                     "Germany"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -9180,6 +9495,7 @@
                     "Anchor"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9220,6 +9536,8 @@
                     "Denmark (island: Greenland)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9263,6 +9581,7 @@
                     "ground_truth": "The Lone Sailor"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the city where The Lone Sailor is located?",
@@ -9293,6 +9612,8 @@
                     "ground_truth": "Cuba"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "The Lone Sailor",
             "rephrase_prompt": "Where can The Lone Sailor be found?"
@@ -9346,6 +9667,7 @@
                     "Anchor"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -9386,6 +9708,8 @@
                     "North Korea (not correct, Navy Memorial is on the Potomac River in"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9441,6 +9765,7 @@
                     "The O2 Arena"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -9481,6 +9806,8 @@
                     "London"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -9524,6 +9851,7 @@
                     "ground_truth": "ArcelorMittal Orbit"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the architect of the structure located in the administrative territorial entity where ArcelorMittal Orbit is situated?",
@@ -9554,6 +9882,8 @@
                     "ground_truth": "London"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "ArcelorMittal Orbit",
             "rephrase_prompt": "In which administrative territorial entity is the ArcelorMittal Orbit located?"
@@ -9607,6 +9937,7 @@
                     "Stratford Tower (or Stratford Observatory)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9647,6 +9978,8 @@
                     "London"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -9702,6 +10035,7 @@
                     "Buildings"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9742,6 +10076,8 @@
                     "Lincoln"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9785,6 +10121,7 @@
                     "ground_truth": "Peace Monument"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the architect of the entity that owns the Peace Monument?",
@@ -9815,6 +10152,8 @@
                     "ground_truth": "Abraham Lincoln"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Peace Monument",
             "rephrase_prompt": "Who is the owner of the Peace Monument?"
@@ -9868,6 +10207,7 @@
                     "Buildings"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9908,6 +10248,8 @@
                     "Thomas Jefferson"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9963,6 +10305,7 @@
                     "Merkel (was, Chancellor)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10003,6 +10346,8 @@
                     "England (Thames River flows into North Sea)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -10046,6 +10391,7 @@
                     "ground_truth": "Golden Rider"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the country where Golden Rider is located?",
@@ -10076,6 +10422,8 @@
                     "ground_truth": "Denmark"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Golden Rider",
             "rephrase_prompt": "Which country is Golden Rider associated with?"
@@ -10129,6 +10477,7 @@
                     "Merkel (was, Chancellor)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10169,6 +10518,8 @@
                     "Germany"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -10224,6 +10575,7 @@
                     "Sculpture. Bocca della Verit\u00e0"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10264,6 +10616,8 @@
                     "Italy (Federico Fellini)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -10307,6 +10661,7 @@
                     "ground_truth": "Bocca della Verit\u00e0"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the genre of the film that features Bocca della Verit\u00e0?",
@@ -10337,6 +10692,8 @@
                     "ground_truth": "Hungary"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Bocca della Verit\u00e0",
             "rephrase_prompt": "What type of art is Bocca della Verit\u00e0 classified as?"
@@ -10390,6 +10747,7 @@
                     "Sculpture"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10430,6 +10788,8 @@
                     "Italy (Federico Fellini)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -10485,6 +10845,7 @@
                     "Artifacts"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -10525,6 +10886,8 @@
                     "Italian"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -10568,6 +10931,7 @@
                     "ground_truth": "Commodus as Hercules"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which museum holds the collection that includes Commodus as Hercules?",
@@ -10598,6 +10962,8 @@
                     "ground_truth": "Italian"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Commodus as Hercules",
             "rephrase_prompt": "Which collection houses Commodus as Hercules?"
@@ -10651,6 +11017,7 @@
                     "Artifacts"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -10691,6 +11058,8 @@
                     "Italian"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -10746,6 +11115,7 @@
                     "Artists, architects, and composers"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -10786,6 +11156,8 @@
                     "Saul (or Benjamin)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -10829,6 +11201,7 @@
                     "ground_truth": "David"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the king of Israel during the time period of David?",
@@ -10859,6 +11232,8 @@
                     "ground_truth": "Tribe of Levi"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "David",
             "rephrase_prompt": "During which time period did David live?"
@@ -10912,6 +11287,7 @@
                     "Baroque"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10952,6 +11328,8 @@
                     "Nero. (Note: There seems to be a misunderstanding in your question"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -11007,6 +11385,7 @@
                     "Westminster Abbey"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11047,6 +11426,8 @@
                     "1066 (Windsor Castle, England)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -11090,6 +11471,7 @@
                     "ground_truth": "Royal Marines Memorial"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital city of the administrative territorial entity where the Royal Marines Memorial is located?",
@@ -11120,6 +11502,8 @@
                     "ground_truth": "1066"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Royal Marines Memorial",
             "rephrase_prompt": "In which administrative territorial entity is the Royal Marines Memorial located?"
@@ -11173,6 +11557,7 @@
                     "Westminster Abbey"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11213,6 +11598,8 @@
                     "1066 (Tower of London)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -11268,6 +11655,7 @@
                     "Mythology"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -11308,6 +11696,8 @@
                     "Leda (in Greek mythology)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -11351,6 +11741,7 @@
                     "ground_truth": "Rape of Polyxena"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which mythology does the Rape of Polyxena belong to?",
@@ -11381,6 +11772,8 @@
                     "ground_truth": "Gaia"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Rape of Polyxena",
             "rephrase_prompt": "Which religion or worldview is associated with the Rape of Polyxena?"
@@ -11434,6 +11827,7 @@
                     "Mythology"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -11474,6 +11868,8 @@
                     "Niobe (or her mother Tantalus)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -11529,6 +11925,7 @@
                     "Star-Spangled Banner (Flag)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11569,6 +11966,8 @@
                     "United States"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -11612,6 +12011,7 @@
                     "ground_truth": "Miscellaneous Fingers"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the author of the collection Miscellaneous Fingers?",
@@ -11642,6 +12042,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Miscellaneous Fingers",
             "rephrase_prompt": "Which collection houses Miscellaneous Fingers?"
@@ -11695,6 +12097,7 @@
                     "Star-Spangled Banner (Flag)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11735,6 +12138,8 @@
                     "United States"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -11790,6 +12195,7 @@
                     "Clarke created the Cray-1 supercomputer"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -11830,6 +12236,8 @@
                     "Othmar Ammann"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -11873,6 +12281,7 @@
                     "ground_truth": "Unisphere"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the nationality of the creator of the Unisphere?",
@@ -11903,6 +12312,8 @@
                     "ground_truth": "Washington Roebling"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Unisphere",
             "rephrase_prompt": "Who designed the Unisphere?"
@@ -11956,6 +12367,7 @@
                     "Clarke created the Cray-1 supercomputer"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -11996,6 +12408,8 @@
                     "Gilmore (Olmsted)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -12051,6 +12465,7 @@
                     "Commodus"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -12091,6 +12506,8 @@
                     "2000"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -12134,6 +12551,7 @@
                     "ground_truth": "Commodus as Hercules"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the genre of the film in which Commodus as Hercules appears?",
@@ -12164,6 +12582,8 @@
                     "ground_truth": "2000"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Commodus as Hercules",
             "rephrase_prompt": "What type of genre is associated with Commodus as Hercules?"
@@ -12217,6 +12637,7 @@
                     "bust (Commodus) = statue (Hercules.)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -12257,6 +12678,8 @@
                     "2000"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -12312,6 +12735,7 @@
                     "Spanish and Andalusian"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -12352,6 +12776,8 @@
                     "Louvre Museum"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -12395,6 +12821,7 @@
                     "ground_truth": "Marly horses"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who created the Marly horses sculptures?",
@@ -12425,6 +12852,8 @@
                     "ground_truth": "Louvre Museum"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Marly horses",
             "rephrase_prompt": "Which movement is associated with Marly horses?"
@@ -12478,6 +12907,7 @@
                     "Baroque horses"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -12518,6 +12948,8 @@
                     "Louvre Museum"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -12573,6 +13005,7 @@
                     "Sculptures"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -12613,6 +13046,8 @@
                     "Lucca"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -12656,6 +13091,7 @@
                     "ground_truth": "David"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary material from which David is made?",
@@ -12686,6 +13122,8 @@
                     "ground_truth": "Florence"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "David",
             "rephrase_prompt": "What material is David made from?"
@@ -12739,6 +13177,7 @@
                     "Sculptures"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -12779,6 +13218,8 @@
                     "Lucca"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -12834,6 +13275,7 @@
                     "Pasquino sculpture"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -12874,6 +13316,8 @@
                     "Italian"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -12917,6 +13361,7 @@
                     "ground_truth": "Pasquino"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a famous work in the genre of Pasquino?",
@@ -12947,6 +13392,8 @@
                     "ground_truth": "Italian"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Pasquino",
             "rephrase_prompt": "What type of genre is associated with Pasquino?"
@@ -13000,6 +13447,7 @@
                     "Pasqu is a public art example"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13040,6 +13488,8 @@
                     "English (U.S.)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -13095,6 +13545,7 @@
                     "Charities"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13135,6 +13586,8 @@
                     "Maryland (USA)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -13178,6 +13631,7 @@
                     "ground_truth": "James Cardinal Gibbons Memorial Statue"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the spouse of the person who donated the James Cardinal Gibbons Memorial Statue?",
@@ -13208,6 +13662,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "James Cardinal Gibbons Memorial Statue",
             "rephrase_prompt": "Who donated the James Cardinal Gibbons Memorial Statue?"
@@ -13261,6 +13717,7 @@
                     "Donations"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13301,6 +13758,8 @@
                     "Maryland (USA)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -13356,6 +13815,7 @@
                     "Public Art (generic term)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13396,6 +13856,8 @@
                     "Spanish"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -13439,6 +13901,7 @@
                     "ground_truth": "Fuente de la Samaritana"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the artist of the genre of Fuente de la Samaritana?",
@@ -13469,6 +13932,8 @@
                     "ground_truth": "Spanish"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Fuente de la Samaritana",
             "rephrase_prompt": "What type of genre does Fuente de la Samaritana belong to?"
@@ -13522,6 +13987,7 @@
                     "Public Art (generic term)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13562,6 +14028,8 @@
                     "Spain"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -13617,6 +14085,7 @@
                     "Vimy Memorial"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -13657,6 +14126,8 @@
                     "London"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -13700,6 +14171,7 @@
                     "ground_truth": "St Michael Cornhill War Memorial"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the nationality of the creator of the St Michael Cornhill War Memorial?",
@@ -13730,6 +14202,8 @@
                     "ground_truth": "London"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "St Michael Cornhill War Memorial",
             "rephrase_prompt": "Who designed the St Michael Cornhill War Memorial?"
@@ -13783,6 +14257,7 @@
                     "Cenotaph"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13823,6 +14298,8 @@
                     "London"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -13878,6 +14355,7 @@
                     "David (Michelangelo) or Venus de Milo (anonymous"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13918,6 +14396,8 @@
                     "Europe"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -13961,6 +14441,7 @@
                     "ground_truth": "Farnese Bull"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary material used to make the Farnese Bull?",
@@ -13991,6 +14472,8 @@
                     "ground_truth": "Europe"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Farnese Bull",
             "rephrase_prompt": "From what material is the Farnese Bull made?"
@@ -14044,6 +14527,7 @@
                     "David (Michelangelo)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -14084,6 +14568,8 @@
                     "Europe"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -14139,6 +14625,7 @@
                     "\"Impression, Sunrise\" by Claude Monet"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -14179,6 +14666,8 @@
                     "German"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -14222,6 +14711,7 @@
                     "ground_truth": "The Kiss"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the artist associated with the movement of The Kiss?",
@@ -14252,6 +14742,8 @@
                     "ground_truth": "German"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "The Kiss",
             "rephrase_prompt": "Which art movement is The Kiss associated with?"
@@ -14305,6 +14797,7 @@
                     "\"Impression, Sunrise\" by Claude Monet"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14345,6 +14838,8 @@
                     "German"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -14400,6 +14895,7 @@
                     "Golden Age (509-27 BC)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14440,6 +14936,8 @@
                     "Greek"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -14483,6 +14981,7 @@
                     "ground_truth": "Commodus as Hercules"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the Roman Emperor during the time period of Commodus as Hercules?",
@@ -14513,6 +15012,8 @@
                     "ground_truth": "Ancient Greece"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Commodus as Hercules",
             "rephrase_prompt": "During which era did Commodus as Hercules exist?"
@@ -14566,6 +15067,7 @@
                     "Golden Age (509-27 BC)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14606,6 +15108,8 @@
                     "(Answer: Cynic Philosophy)  (Explanation"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -14661,6 +15165,7 @@
                     "Exploration, Mapping, Transportation"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14701,6 +15206,8 @@
                     "English (USA)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -14744,6 +15251,7 @@
                     "ground_truth": "Running Fence"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was inspired by Running Fence?",
@@ -14774,6 +15282,8 @@
                     "ground_truth": "Bulgarian"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Running Fence",
             "rephrase_prompt": "What served as the inspiration for Running Fence?"
@@ -14827,6 +15337,7 @@
                     "Exploration, Mapping, Transportation"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14867,6 +15378,8 @@
                     "Continental Divide"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -14922,6 +15435,7 @@
                     "Capitol"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14962,6 +15476,8 @@
                     "Jefferson"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -15005,6 +15521,7 @@
                     "ground_truth": "Cuban Friendship Urn"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital city of the administrative territorial entity where the Cuban Friendship Urn is located?",
@@ -15035,6 +15552,8 @@
                     "ground_truth": "Thomas Jefferson"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Cuban Friendship Urn",
             "rephrase_prompt": "In which administrative territorial entity is the Cuban Friendship Urn located?"
@@ -15088,6 +15607,7 @@
                     "Capitol"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -15128,6 +15648,8 @@
                     "Eisenhower"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -15183,6 +15705,7 @@
                     "Chemosh"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -15223,6 +15746,8 @@
                     "Jordan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -15266,6 +15791,7 @@
                     "ground_truth": "Mesha Stele"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the nationality of the creator of the Mesha Stele?",
@@ -15296,6 +15822,8 @@
                     "ground_truth": "Jordan"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Mesha Stele",
             "rephrase_prompt": "Who made the Mesha Stele?"
@@ -15349,6 +15877,7 @@
                     "Chemosh"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -15389,6 +15918,8 @@
                     "Jordan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -15444,6 +15975,7 @@
                     "\"Elgin Marbles\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -15484,6 +16016,8 @@
                     "Waterloo"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -15527,6 +16061,7 @@
                     "ground_truth": "Venus Victrix"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the artist behind the Venus Victrix movement?",
@@ -15557,6 +16092,8 @@
                     "ground_truth": "Battle of Waterloo"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Venus Victrix",
             "rephrase_prompt": "Which artistic movement is Venus Victrix associated with?"
@@ -15610,6 +16147,7 @@
                     "Elgin Marbles (Parthenon Sculptures)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -15650,6 +16188,8 @@
                     "Waterloo"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -15705,6 +16245,7 @@
                     "Parks"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -15745,6 +16286,8 @@
                     "Indianapolis"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -15788,6 +16331,7 @@
                     "ground_truth": "Stephenson Grand Army of the Republic Memorial"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the current owner of the Stephenson Grand Army of the Republic Memorial?",
@@ -15818,6 +16362,8 @@
                     "ground_truth": "Phoenix"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Stephenson Grand Army of the Republic Memorial",
             "rephrase_prompt": "Who is the owner of the Stephenson Grand Army of the Republic Memorial?"
@@ -15871,6 +16417,7 @@
                     "Parks"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -15911,6 +16458,8 @@
                     "Indianapolis"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -15966,6 +16515,7 @@
                     "Castle"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -16006,6 +16556,8 @@
                     "Weser"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -16049,6 +16601,7 @@
                     "ground_truth": "Hermannsdenkmal"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the forest where the Hermannsdenkmal is located?",
@@ -16079,6 +16632,8 @@
                     "ground_truth": "Rhine River"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Hermannsdenkmal",
             "rephrase_prompt": "What physical feature is Hermannsdenkmal located on?"
@@ -16132,6 +16687,7 @@
                     "Castle"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -16172,6 +16728,8 @@
                     "Weser"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -16227,6 +16785,7 @@
                     "Albert Memorial"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -16267,6 +16826,8 @@
                     "Queen Elizabeth II"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -16310,6 +16871,7 @@
                     "ground_truth": "Albert Memorial"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the park where the Albert Memorial is located?",
@@ -16340,6 +16902,8 @@
                     "ground_truth": "King Charles III"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Albert Memorial",
             "rephrase_prompt": "Where is the Albert Memorial situated?"
@@ -16393,6 +16957,7 @@
                     "Albert Memorial"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -16433,6 +16998,8 @@
                     "Queen Elizabeth II"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -16488,6 +17055,7 @@
                     "Pottery, Statue, Vase"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -16528,6 +17096,8 @@
                     "Rome (Italy)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -16571,6 +17141,7 @@
                     "ground_truth": "Ludovisi Throne"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary material used in the genre of the Ludovisi Throne?",
@@ -16601,6 +17172,8 @@
                     "ground_truth": "Roman Empire"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Ludovisi Throne",
             "rephrase_prompt": "To which genre does the Ludovisi Throne belong?"
@@ -16654,6 +17227,7 @@
                     "Pottery, Statue, Vase"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -16694,6 +17268,8 @@
                     "Athens (Greece)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -16749,6 +17325,7 @@
                     "Till Eulenspiegel"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -16789,6 +17366,8 @@
                     "Magdeburg"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -16832,6 +17411,7 @@
                     "ground_truth": "Hermannsdenkmal"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the nationality of the creator of the Hermannsdenkmal?",
@@ -16862,6 +17442,8 @@
                     "ground_truth": "Prague"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Hermannsdenkmal",
             "rephrase_prompt": "Who designed the Hermannsdenkmal?"
@@ -16915,6 +17497,7 @@
                     "Till Eulenspiegel"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -16955,6 +17538,8 @@
                     "Erfurt (Germany)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -17010,6 +17595,7 @@
                     "Statue of Liberty"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17050,6 +17636,8 @@
                     "Maryland (Baltimore)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -17093,6 +17681,7 @@
                     "ground_truth": "James Cardinal Gibbons Memorial Statue"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the architect of the entity that commissioned the James Cardinal Gibbons Memorial Statue?",
@@ -17123,6 +17712,8 @@
                     "ground_truth": "District of Columbia"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "James Cardinal Gibbons Memorial Statue",
             "rephrase_prompt": "Who commissioned the James Cardinal Gibbons Memorial Statue?"
@@ -17176,6 +17767,7 @@
                     "Statue"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17216,6 +17808,8 @@
                     "Maryland (Baltimore)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -17271,6 +17865,7 @@
                     "The Vietnam Veterans Memorial is classified as public art"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -17311,6 +17906,8 @@
                     "1861"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -17354,6 +17951,7 @@
                     "ground_truth": "Albert Memorial"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the architect of the Albert Memorial?",
@@ -17384,6 +17982,8 @@
                     "ground_truth": "1861"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Albert Memorial",
             "rephrase_prompt": "What type of art is the Albert Memorial classified as?"
@@ -17437,6 +18037,7 @@
                     "The Vietnam Veterans Memorial is classified as public art"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17477,6 +18078,8 @@
                     "1901"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -17532,6 +18135,7 @@
                     "Private corporation"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -17572,6 +18176,8 @@
                     "Rotterdam (is not an island, but the city where the founder was"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -17615,6 +18221,7 @@
                     "ground_truth": "Madurodam"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the legal form of Madurodam?",
@@ -17645,6 +18252,8 @@
                     "ground_truth": "Cura\u00e7ao"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Madurodam",
             "rephrase_prompt": "What type of legal entity is Madurodam?"
@@ -17698,6 +18307,7 @@
                     "Private"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17738,6 +18348,8 @@
                     "Holland (Netherlands)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -17793,6 +18405,7 @@
                     "Windsor Castle"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17833,6 +18446,8 @@
                     "Gulf Stream"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -17876,6 +18491,7 @@
                     "ground_truth": "National Submarine War Memorial"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital city of the country where the National Submarine War Memorial is located?",
@@ -17906,6 +18522,8 @@
                     "ground_truth": "Gulf Stream"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "National Submarine War Memorial",
             "rephrase_prompt": "Which country is home to the National Submarine War Memorial?"
@@ -17959,6 +18577,7 @@
                     "Windsor Castle"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17999,6 +18618,8 @@
                     "Gulf Stream"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -18054,6 +18675,7 @@
                     "Pottery, statues, coins, vases, and architectural structures"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -18094,6 +18716,8 @@
                     "Reggio Calabria"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -18137,6 +18761,7 @@
                     "ground_truth": "Riace bronzes"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the civilization associated with the time period of the Riace bronzes?",
@@ -18167,6 +18792,8 @@
                     "ground_truth": "Athens"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Riace bronzes",
             "rephrase_prompt": "During which era were the Riace bronzes created?"
@@ -18220,6 +18847,7 @@
                     "Pottery, statues, coins, vases, and architectural structures"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -18260,6 +18888,8 @@
                     "Sybaris (ancient Greek city)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -18315,6 +18945,7 @@
                     "Circle"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -18355,6 +18986,8 @@
                     "Washington (D.C.)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -18398,6 +19031,7 @@
                     "ground_truth": "Dupont Circle Fountain"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the city where the Dupont Circle Fountain is located?",
@@ -18428,6 +19062,8 @@
                     "ground_truth": "Harrisburg"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Dupont Circle Fountain",
             "rephrase_prompt": "Where is the Dupont Circle Fountain situated?"
@@ -18481,6 +19117,7 @@
                     "Circle"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -18521,6 +19158,8 @@
                     "Washington (D.C.)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -18576,6 +19215,7 @@
                     "Sculptures"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -18616,6 +19256,8 @@
                     "Bach. (Director: Bob Rafelson)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -18659,6 +19301,7 @@
                     "ground_truth": "Fountain"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the author of the book that belongs to the genre of Fountain?",
@@ -18689,6 +19332,8 @@
                     "ground_truth": "John M. Stahl"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Fountain",
             "rephrase_prompt": "Which genre does Fountain belong to?"
@@ -18742,6 +19387,7 @@
                     "Sculptures"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -18782,6 +19428,8 @@
                     "Bach  (This refers to the film adaptation directed by Bob Rafelson in"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -18837,6 +19485,7 @@
                     "Artworks"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -18877,6 +19526,8 @@
                     "Mediterranean"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -18920,6 +19571,7 @@
                     "ground_truth": "Apoxyomenos"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the country where Apoxyomenos is located?",
@@ -18950,6 +19602,8 @@
                     "ground_truth": "Black Sea"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Apoxyomenos",
             "rephrase_prompt": "Where can Apoxyomenos be found?"
@@ -19003,6 +19657,7 @@
                     "Artworks"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -19043,6 +19698,8 @@
                     "Mediterranean"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -19098,6 +19755,7 @@
                     "Yes (if the specific monument is indeed a World Heritage Site)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -19138,6 +19796,8 @@
                     "Delphi (Greece)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -19181,6 +19841,7 @@
                     "ground_truth": "Serpent Column"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the location of the Serpent Column that has a heritage designation?",
@@ -19211,6 +19872,8 @@
                     "ground_truth": "Ankara"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Serpent Column",
             "rephrase_prompt": "What heritage status does the Serpent Column hold?"
@@ -19264,6 +19927,7 @@
                     "Great Wall of China"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -19304,6 +19968,8 @@
                     "Baku"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -19359,6 +20025,7 @@
                     "The question is about a person, not a physical object. Adolf von H"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -19399,6 +20066,8 @@
                     "France"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -19442,6 +20111,7 @@
                     "ground_truth": "Young Man Standing"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the nationality of the creator of Young Man Standing?",
@@ -19472,6 +20142,8 @@
                     "ground_truth": "France"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Young Man Standing",
             "rephrase_prompt": "Who made the sculpture Young Man Standing?"
@@ -19525,6 +20197,7 @@
                     "The question is about a person, not a physical object. Adolf von H"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -19565,6 +20238,8 @@
                     "Germany"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -19620,6 +20295,7 @@
                     "Artist"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -19660,6 +20336,8 @@
                     "Inferno"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -19703,6 +20381,7 @@
                     "ground_truth": "Dante Alighieri"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a famous work by Dante Alighieri in the genre he is known for?",
@@ -19733,6 +20412,8 @@
                     "ground_truth": "Inferno"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Dante Alighieri",
             "rephrase_prompt": "Which genre is associated with Dante Alighieri?"
@@ -19786,6 +20467,7 @@
                     "Claes Oldenburg, Christo, Yoko Ono, Maya"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -19826,6 +20508,8 @@
                     "Inferno"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -19881,6 +20565,7 @@
                     "Laocoon Group"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -19921,6 +20606,8 @@
                     "Greek"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -19964,6 +20651,7 @@
                     "ground_truth": "Laoco\u00f6n and His Sons"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which art movement is associated with the sculpture 'Laoco\u00f6n and His Sons'?",
@@ -19994,6 +20682,8 @@
                     "ground_truth": "Greek alphabet"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Laoco\u00f6n and His Sons",
             "rephrase_prompt": "Which artistic movement does Laoco\u00f6n and His Sons belong to?"
@@ -20047,6 +20737,7 @@
                     "Laoco\u00f6n and His"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -20087,6 +20778,8 @@
                     "Greek"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -20142,6 +20835,7 @@
                     "Trevi Fountain"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -20182,6 +20876,8 @@
                     "1870 (La Sapienza University)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -20225,6 +20921,7 @@
                     "ground_truth": "Trevi Fountain"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the mayor of the city where the Trevi Fountain is located?",
@@ -20255,6 +20952,8 @@
                     "ground_truth": "1303"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Trevi Fountain",
             "rephrase_prompt": "What administrative territorial entity is Trevi Fountain located in?"
@@ -20308,6 +21007,7 @@
                     "Trevi Fount"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -20348,6 +21048,8 @@
                     "1863 (MIT)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -20403,6 +21105,7 @@
                     "Lincoln Memorial"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -20443,6 +21146,8 @@
                     "United Kingdom"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -20486,6 +21191,7 @@
                     "ground_truth": "Royal Marines Memorial"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a notable landmark near the street where the Royal Marines Memorial is located?",
@@ -20516,6 +21222,8 @@
                     "ground_truth": "United Kingdom"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Royal Marines Memorial",
             "rephrase_prompt": "On which street is the Royal Marines Memorial located?"
@@ -20569,6 +21277,7 @@
                     "Lincoln Memorial"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -20609,6 +21318,8 @@
                     "The Mall, in London, England"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -20664,6 +21375,7 @@
                     "Image: Lipstick marks on a glass"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -20704,6 +21416,8 @@
                     "Austrian Schilling"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -20747,6 +21461,7 @@
                     "ground_truth": "The Kiss"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the artist that created the artwork that The Kiss depicts?",
@@ -20777,6 +21492,8 @@
                     "ground_truth": "Euro"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "The Kiss",
             "rephrase_prompt": "What is depicted in The Kiss?"
@@ -20830,6 +21547,7 @@
                     "kiss (kiss) is a kiss (kiss)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -20870,6 +21588,8 @@
                     "British pound (Artist: Charles Dickens)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -20925,6 +21645,7 @@
                     "Gian Lorenzo Bernini"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -20965,6 +21686,8 @@
                     "1963"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -21008,6 +21731,7 @@
                     "ground_truth": "David"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the leader of the movement that David was part of?",
@@ -21038,6 +21762,8 @@
                     "ground_truth": "1963"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "David",
             "rephrase_prompt": "Which artistic movement is David associated with?"
@@ -21091,6 +21817,7 @@
                     "Gian Lorenzo Bernini"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -21131,6 +21858,8 @@
                     "1963"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -21186,6 +21915,7 @@
                     "Torso of Apollo"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -21226,6 +21956,8 @@
                     "Peloponnese"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -21269,6 +22001,7 @@
                     "ground_truth": "Ludovisi Throne"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which art movement is the Ludovisi Throne associated with?",
@@ -21299,6 +22032,8 @@
                     "ground_truth": "Peloponnese"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Ludovisi Throne",
             "rephrase_prompt": "Which artistic movement is the Ludovisi Throne associated with?"
@@ -21352,6 +22087,7 @@
                     "Torso of Discobolus (Discus Thrower)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -21392,6 +22128,8 @@
                     "Peloponnese"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -21447,6 +22185,7 @@
                     "Ludovisi Throne"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -21487,6 +22226,8 @@
                     "Plato's Academy"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -21530,6 +22271,7 @@
                     "ground_truth": "Ludovisi Throne"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which civilization is associated with the time period of the Ludovisi Throne?",
@@ -21560,6 +22302,8 @@
                     "ground_truth": "Academy of Athens"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Ludovisi Throne",
             "rephrase_prompt": "During which era was the Ludovisi Throne created?"
@@ -21613,6 +22357,7 @@
                     "Ludovisi Warrior"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -21653,6 +22398,8 @@
                     "School of Athens (not an academy, but a painting by Raph"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -21708,6 +22455,7 @@
                     "Rock of Gibraltar"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -21748,6 +22496,8 @@
                     "Switzerland"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -21791,6 +22541,7 @@
                     "ground_truth": "Lion Monument Lucerne"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary material used to make the Lion Monument Lucerne?",
@@ -21821,6 +22572,8 @@
                     "ground_truth": "Switzerland"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Lion Monument Lucerne",
             "rephrase_prompt": "What material is the Lion Monument Lucerne made from?"
@@ -21874,6 +22627,7 @@
                     "Rock of Gibraltar"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -21914,6 +22668,8 @@
                     "Switzerland"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -21969,6 +22725,7 @@
                     "The Last Supper by Caravaggio is part of the Israel Museum's"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -22009,6 +22766,8 @@
                     "Europe"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -22052,6 +22811,7 @@
                     "ground_truth": "Unique Forms of Continuity in Space"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which museum has the Unique Forms of Continuity in Space in its collection?",
@@ -22082,6 +22842,8 @@
                     "ground_truth": "North America"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Unique Forms of Continuity in Space",
             "rephrase_prompt": "Which museum houses the Unique Forms of Continuity in Space?"
@@ -22135,6 +22897,7 @@
                     "The Last Supper by Caravaggio is part of the Israel Museum's"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22175,6 +22938,8 @@
                     "Europe"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -22230,6 +22995,7 @@
                     "\"Impression, Sunrise\" by Claude Monet"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -22270,6 +23036,8 @@
                     "France"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -22313,6 +23081,7 @@
                     "ground_truth": "The Gates of Hell"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the artist associated with the movement of The Gates of Hell?",
@@ -22343,6 +23112,8 @@
                     "ground_truth": "France"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "The Gates of Hell",
             "rephrase_prompt": "Which art movement is associated with The Gates of Hell?"
@@ -22396,6 +23167,7 @@
                     "\"Impression, Sunrise\" by Claude Monet"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22436,6 +23208,8 @@
                     "France"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -22491,6 +23265,7 @@
                     "Statue"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22531,6 +23306,8 @@
                     "No award information provided"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -22574,6 +23351,7 @@
                     "ground_truth": "James Cardinal Gibbons Memorial Statue"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the significant event associated with the James Cardinal Gibbons Memorial Statue?",
@@ -22604,6 +23382,8 @@
                     "ground_truth": "Nobel Peace Prize"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "James Cardinal Gibbons Memorial Statue",
             "rephrase_prompt": "What important event is associated with the James Cardinal Gibbons Memorial Statue?"
@@ -22657,6 +23437,7 @@
                     "Unveiling"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22697,6 +23478,8 @@
                     "Dedication"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -22752,6 +23535,7 @@
                     "Crusader Ruins"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22792,6 +23576,8 @@
                     "Beirut (Lebanon)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -22835,6 +23621,7 @@
                     "ground_truth": "Alexander Sarcophagus"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "In which city was the Alexander Sarcophagus discovered?",
@@ -22865,6 +23652,8 @@
                     "ground_truth": "Beirut"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Alexander Sarcophagus",
             "rephrase_prompt": "Where was the Alexander Sarcophagus discovered?"
@@ -22918,6 +23707,7 @@
                     "Crusader Ruins"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22958,6 +23748,8 @@
                     "Beirut, Lebanon"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -23013,6 +23805,7 @@
                     "Sculpture"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -23053,6 +23846,8 @@
                     "Le Corbusier (not an ancient artist, but the question asked for an"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -23096,6 +23891,7 @@
                     "ground_truth": "Unique Forms of Continuity in Space"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the artist of the sculpture 'Unique Forms of Continuity in Space'?",
@@ -23126,6 +23922,8 @@
                     "ground_truth": "Colosseum"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Unique Forms of Continuity in Space",
             "rephrase_prompt": "Which genre does Unique Forms of Continuity in Space belong to?"
@@ -23179,6 +23977,7 @@
                     "Sculpture"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -23219,6 +24018,8 @@
                     "Paris (France)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -23274,6 +24075,7 @@
                     "Robocop"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -23314,6 +24116,8 @@
                     "United States"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -23357,6 +24161,7 @@
                     "ground_truth": "James Cardinal Gibbons Memorial Statue"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the nationality of the creator of the James Cardinal Gibbons Memorial Statue?",
@@ -23387,6 +24192,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "James Cardinal Gibbons Memorial Statue",
             "rephrase_prompt": "Who made the James Cardinal Gibbons Memorial Statue?"
@@ -23440,6 +24247,7 @@
                     "Robocop"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -23480,6 +24288,8 @@
                     "Italy"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -23535,6 +24345,7 @@
                     "Louis XIV (Sun King)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -23575,6 +24386,8 @@
                     "Seine"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -23618,6 +24431,7 @@
                     "ground_truth": "Marly horses"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the nationality of the creator of the Marly horses?",
@@ -23648,6 +24462,8 @@
                     "ground_truth": "Seine"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Marly horses",
             "rephrase_prompt": "Who made the Marly horses?"
@@ -23701,6 +24517,7 @@
                     "Louis XIV (Sun King)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -23741,6 +24558,8 @@
                     "Seine"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -23796,6 +24615,7 @@
                     "The Vietnam Veterans Memorial is an example of public art"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -23836,6 +24656,8 @@
                     "George V"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -23879,6 +24701,7 @@
                     "ground_truth": "Royal Marines Memorial"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the artist of the Royal Marines Memorial?",
@@ -23909,6 +24732,8 @@
                     "ground_truth": "King Edward VII"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Royal Marines Memorial",
             "rephrase_prompt": "What type of genre does the Royal Marines Memorial belong to?"
@@ -23962,6 +24787,7 @@
                     "Lincoln Memorial"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24002,6 +24828,8 @@
                     "George V"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -24057,6 +24885,7 @@
                     "The Vietnam Veterans Memorial is an example of public art"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24097,6 +24926,8 @@
                     "Castile-La Mancha"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -24140,6 +24971,7 @@
                     "ground_truth": "Goya memorial"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the artist associated with the genre of the Goya memorial?",
@@ -24170,6 +25002,8 @@
                     "ground_truth": "Aragon"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Goya memorial",
             "rephrase_prompt": "Which genre does the Goya memorial belong to?"
@@ -24223,6 +25057,7 @@
                     "The Martin Luther King Jr. Memorial is an example of public art"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24263,6 +25098,8 @@
                     "Madrid"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -24318,6 +25155,7 @@
                     "Liberty (Statue)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -24358,6 +25196,8 @@
                     "Rhine"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -24401,6 +25241,7 @@
                     "ground_truth": "Bartholdi Fountain"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the nationality of the creator of the Bartholdi Fountain?",
@@ -24431,6 +25272,8 @@
                     "ground_truth": "Rhine"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Bartholdi Fountain",
             "rephrase_prompt": "Who designed the Bartholdi Fountain?"
@@ -24484,6 +25327,7 @@
                     "Liberty Enlightening the World"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -24524,6 +25368,8 @@
                     "Rhine"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -24579,6 +25425,7 @@
                     "Capitol"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -24619,6 +25466,8 @@
                     "Jura"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -24662,6 +25511,7 @@
                     "ground_truth": "The Bex Eagle"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the administrative territorial entity where The Bex Eagle is located?",
@@ -24692,6 +25542,8 @@
                     "ground_truth": "Alps"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "The Bex Eagle",
             "rephrase_prompt": "In which administrative territorial entity is The Bex Eagle located?"
@@ -24745,6 +25597,7 @@
                     "Capitol"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24785,6 +25638,8 @@
                     "Grayson Range"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -24840,6 +25695,7 @@
                     "Artworks"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24880,6 +25736,8 @@
                     "Euro (Italy)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -24923,6 +25781,7 @@
                     "ground_truth": "Apollo and Daphne"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which museum houses the collection that includes Apollo and Daphne?",
@@ -24953,6 +25812,8 @@
                     "ground_truth": "Euro"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Apollo and Daphne",
             "rephrase_prompt": "Where is the Apollo and Daphne collection housed?"
@@ -25006,6 +25867,7 @@
                     "Sculptures"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -25046,6 +25908,8 @@
                     "Euro (Italy)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -25101,6 +25965,7 @@
                     "Cenotaph"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25141,6 +26006,8 @@
                     "Johnson (UK Conservative Party)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -25184,6 +26051,7 @@
                     "ground_truth": "Earl Haig Memorial"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the street where the Earl Haig Memorial is located?",
@@ -25214,6 +26082,8 @@
                     "ground_truth": "Robert Peel"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Earl Haig Memorial",
             "rephrase_prompt": "On which street is the Earl Haig Memorial located?"
@@ -25267,6 +26137,7 @@
                     "Churchill"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -25307,6 +26178,8 @@
                     "Conservative (Party)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -25362,6 +26235,7 @@
                     "Many artworks do. Examples include \"The Birth of Venus\" by B"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25402,6 +26276,8 @@
                     "German"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -25445,6 +26321,7 @@
                     "ground_truth": "Venus Victrix"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the author of the genre of Venus Victrix?",
@@ -25475,6 +26352,8 @@
                     "ground_truth": "Ukrainian"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Venus Victrix",
             "rephrase_prompt": "Which genre does Venus Victrix belong to?"
@@ -25528,6 +26407,7 @@
                     "\"Giacometti's 'Walking Man I' is a n"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25568,6 +26448,8 @@
                     "France (born in Paris)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -25623,6 +26505,7 @@
                     "Contemporary art"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -25663,6 +26546,8 @@
                     "Tate Britain"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -25706,6 +26591,7 @@
                     "ground_truth": "Angel of the North"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the artist behind the Angel of the North sculpture?",
@@ -25736,6 +26622,8 @@
                     "ground_truth": "Tate Gallery"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Angel of the North",
             "rephrase_prompt": "Which art movement is associated with the Angel of the North?"
@@ -25789,6 +26677,7 @@
                     "\"Warhol's Campbell's Soup Cans\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25829,6 +26718,8 @@
                     "Tate Gallery"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -25884,6 +26775,7 @@
                     "Cardinal Scipione Borghese"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25924,6 +26816,8 @@
                     "Parthenon"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -25967,6 +26861,7 @@
                     "ground_truth": "Venus Victrix"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who commissioned the creation of Venus Victrix?",
@@ -25997,6 +26892,8 @@
                     "ground_truth": "Eiffel Tower"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Venus Victrix",
             "rephrase_prompt": "By whom was Venus Victrix commissioned?"
@@ -26050,6 +26947,7 @@
                     "Cardinal Scipione Borghese"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -26090,6 +26988,8 @@
                     "Rome (Italy)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1

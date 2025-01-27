@@ -45,6 +45,7 @@
                     "Roman Games (or Roman Olympics)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -85,6 +86,8 @@
                     "Greek"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -128,6 +131,7 @@
                     "ground_truth": "Olympic Games"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which city hosted the Olympic Games that follows the 2016 Summer Olympics?",
@@ -158,6 +162,8 @@
                     "ground_truth": "Chinese civilization"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Olympic Games",
             "rephrase_prompt": "Which event does the Olympic Games follow?"
@@ -211,6 +217,7 @@
                     "Pre-Olympic Games"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -251,6 +258,8 @@
                     "Greece"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -306,6 +315,7 @@
                     "Olympics"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -346,6 +356,8 @@
                     "France (for Paris, where the Sorbonne University is located, and the"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -389,6 +401,7 @@
                     "ground_truth": "Olympic Games"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which company is a major sponsor of the Olympic Games?",
@@ -419,6 +432,8 @@
                     "ground_truth": "United Kingdom"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Olympic Games",
             "rephrase_prompt": "Who is the sponsor of the Olympic Games?"
@@ -472,6 +487,7 @@
                     "Olympic Games"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -512,6 +528,8 @@
                     "United States (Visa Inc.'s CEO attended University of Pennsylvania, located in"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -567,6 +585,7 @@
                     "Berlin Marathon"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -607,6 +626,8 @@
                     "Brandenburg"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -650,6 +671,7 @@
                     "ground_truth": "Berlin Marathon"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the mayor of the city where the Berlin Marathon is located?",
@@ -680,6 +702,8 @@
                     "ground_truth": "Lower Saxony"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Berlin Marathon",
             "rephrase_prompt": "In which administrative territorial entity is the Berlin Marathon located?"
@@ -733,6 +757,7 @@
                     "Berlin Marathon"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -773,6 +798,8 @@
                     "Brandenburg"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -828,6 +855,7 @@
                     "Formula One Grand Prix"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -868,6 +896,8 @@
                     "Formula 1 Australian Grand Prix (event) Melbourne Food and W"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -911,6 +941,7 @@
                     "ground_truth": "Australian Grand Prix"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the president of the organization that organizes the Australian Grand Prix?",
@@ -941,6 +972,8 @@
                     "ground_truth": "Melbourne Sports and Aquatic Centre Open Day"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Australian Grand Prix",
             "rephrase_prompt": "Who organizes the Australian Grand Prix?"
@@ -994,6 +1027,7 @@
                     "Formula One World Championship"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1034,6 +1068,8 @@
                     "Formula 1 Australian Grand Prix Event"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -1089,6 +1125,7 @@
                     "Hajj"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1129,6 +1166,8 @@
                     "Islam (Senegal)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1172,6 +1211,7 @@
                     "ground_truth": "Dakar Rally"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which country is the location of the Dakar Rally?",
@@ -1202,6 +1242,8 @@
                     "ground_truth": "Islam"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Dakar Rally",
             "rephrase_prompt": "Where is the Dakar Rally held?"
@@ -1255,6 +1297,7 @@
                     "Dakar Rally"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -1295,6 +1338,8 @@
                     "Islam"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -1350,6 +1395,7 @@
                     "Formula 1 Grand Prix"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -1390,6 +1436,8 @@
                     "Asia (Melbourne, Australia is in the Oceania region, but"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1433,6 +1481,7 @@
                     "ground_truth": "Australian Grand Prix"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the city where the Australian Grand Prix is located?",
@@ -1463,6 +1512,8 @@
                     "ground_truth": "Australia"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Australian Grand Prix",
             "rephrase_prompt": "Where is the Australian Grand Prix held?"
@@ -1516,6 +1567,7 @@
                     "Australian Grand Prix"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -1556,6 +1608,8 @@
                     "Asia (technically, Australia is in Oceania, but geographically"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -1611,6 +1665,7 @@
                     "Formula One Grand Prix"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1651,6 +1706,8 @@
                     "French"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -1694,6 +1751,7 @@
                     "ground_truth": "Dakar Rally"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the country where the Dakar Rally originated?",
@@ -1724,6 +1782,8 @@
                     "ground_truth": "French"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Dakar Rally",
             "rephrase_prompt": "Which country hosts the Dakar Rally?"
@@ -1777,6 +1837,7 @@
                     "Dakar Rally"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1817,6 +1878,8 @@
                     "French (Senegal)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -1872,6 +1935,7 @@
                     "Copa Libertadores 2020"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -1912,6 +1976,8 @@
                     "Atlantic Ocean"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1955,6 +2021,7 @@
                     "ground_truth": "Copa Libertadores"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the manager of the team that won the Copa Libertadores?",
@@ -1985,6 +2052,8 @@
                     "ground_truth": "Atlantic Ocean"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Copa Libertadores",
             "rephrase_prompt": "Who won the Copa Libertadores?"
@@ -2038,6 +2107,7 @@
                     "Copa Libertadores"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2078,6 +2148,8 @@
                     "Atlantic Ocean"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -2133,6 +2205,7 @@
                     "Brexit"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -2173,6 +2246,8 @@
                     "MacDonald (Clan Ranald)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2216,6 +2291,7 @@
                     "ground_truth": "Highland games"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the national sport of the country where the Highland games originated?",
@@ -2246,6 +2322,8 @@
                     "ground_truth": "Clan Donald"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Highland games",
             "rephrase_prompt": "In which country are the Highland games held?"
@@ -2299,6 +2377,7 @@
                     "Highland Games"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2339,6 +2418,8 @@
                     "MacDonald (Clan Ranald)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -2394,6 +2475,7 @@
                     "New Year"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2434,6 +2516,8 @@
                     "Netherlands"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2477,6 +2561,7 @@
                     "ground_truth": "Elfstedentocht"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "In which month of the year is the Elfstedentocht typically held?",
@@ -2507,6 +2592,8 @@
                     "ground_truth": "Netherlands"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Elfstedentocht",
             "rephrase_prompt": "In which month does the Elfstedentocht take place?"
@@ -2560,6 +2647,7 @@
                     "Elfstedentocht (Eleven Cities Tour)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -2600,6 +2688,8 @@
                     "Netherlands"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -2655,6 +2745,7 @@
                     "USTA (United States Tennis Association)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2695,6 +2786,8 @@
                     "Europe (ITF)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2738,6 +2831,7 @@
                     "ground_truth": "Billie Jean King Cup"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the director or manager of the Billie Jean King Cup?",
@@ -2768,6 +2862,8 @@
                     "ground_truth": "Europe"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Billie Jean King Cup",
             "rephrase_prompt": "Who manages the Billie Jean King Cup?"
@@ -2821,6 +2917,7 @@
                     "Billie Jean King Cup"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2861,6 +2958,8 @@
                     "North America"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -2916,6 +3015,7 @@
                     "Autumn Equinox (Northern Hemisphere) or Spring Equ"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2956,6 +3056,8 @@
                     "Yokohama (in Kanagawa district, Japan)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2999,6 +3101,7 @@
                     "ground_truth": "Rugby World Cup"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "In which month of the year does the Rugby World Cup typically start?",
@@ -3029,6 +3132,8 @@
                     "ground_truth": "Minato"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Rugby World Cup",
             "rephrase_prompt": "In which month does the Rugby World Cup take place?"
@@ -3082,6 +3187,7 @@
                     "Rugby World Cup"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -3122,6 +3228,8 @@
                     "Tokyo (Japan)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -3177,6 +3285,7 @@
                     "Guinness sponsors the Guinness World Records"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3217,6 +3326,8 @@
                     "Thames (UK)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -3260,6 +3371,7 @@
                     "ground_truth": "Six Nations Championship"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary product of the sponsor of the Six Nations Championship?",
@@ -3290,6 +3402,8 @@
                     "ground_truth": "River Liffey"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Six Nations Championship",
             "rephrase_prompt": "Who is the sponsor of the Six Nations Championship?"
@@ -3343,6 +3457,7 @@
                     "Six Nations Championship"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -3383,6 +3498,8 @@
                     "River Liffey (Ireland)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -3438,6 +3555,7 @@
                     "World Series"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3478,6 +3596,8 @@
                     "United States"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -3521,6 +3641,7 @@
                     "ground_truth": "World Baseball Classic"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the commissioner of the organization that organizes the World Baseball Classic?",
@@ -3551,6 +3672,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "World Baseball Classic",
             "rephrase_prompt": "Who organizes the World Baseball Classic?"
@@ -3604,6 +3727,7 @@
                     "World Baseball Classic"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -3644,6 +3768,8 @@
                     "United States"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -3699,6 +3825,7 @@
                     "Masters Tournament"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -3739,6 +3866,8 @@
                     "Tbilisi (Georgia)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -3782,6 +3911,7 @@
                     "ground_truth": "Masters Tournament"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the golf course where the Masters Tournament is held?",
@@ -3812,6 +3942,8 @@
                     "ground_truth": "Washington, D.C."
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Masters Tournament",
             "rephrase_prompt": "Where is the Masters Tournament held?"
@@ -3865,6 +3997,7 @@
                     "Masters Tournament"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -3905,6 +4038,8 @@
                     "Atlanta (Georgia's capital) is located in the country of the"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -3960,6 +4095,7 @@
                     "Race"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4000,6 +4136,8 @@
                     "Swedish"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4043,6 +4181,7 @@
                     "ground_truth": "Rally Sweden"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who won the Rally Sweden in 2020?",
@@ -4073,6 +4212,8 @@
                     "ground_truth": "Finnish"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Rally Sweden",
             "rephrase_prompt": "Which sport is associated with Rally Sweden?"
@@ -4126,6 +4267,7 @@
                     "race"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4166,6 +4308,8 @@
                     "Swedish"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -4221,6 +4365,7 @@
                     "Formula One Grand Prix"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4261,6 +4406,8 @@
                     "Sweden (Assuming Glenn Olsson is the CEO of a Swedish organization)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4304,6 +4451,7 @@
                     "ground_truth": "Rally Sweden"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the organization that organizes Rally Sweden?",
@@ -4334,6 +4482,8 @@
                     "ground_truth": "Sweden"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Rally Sweden",
             "rephrase_prompt": "Who organizes Rally Sweden?"
@@ -4387,6 +4537,7 @@
                     "Rally Sweden"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4427,6 +4578,8 @@
                     "Sweden"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -4482,6 +4635,7 @@
                     "Olympics"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4522,6 +4676,8 @@
                     "Bison (Kenya's Masai Mara National Reserve)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4565,6 +4721,7 @@
                     "ground_truth": "Boston Marathon"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who won the Boston Marathon in 2021?",
@@ -4595,6 +4752,8 @@
                     "ground_truth": "Lion"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Boston Marathon",
             "rephrase_prompt": "Which sport is associated with the Boston Marathon?"
@@ -4648,6 +4807,7 @@
                     "Race"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4688,6 +4848,8 @@
                     "elephant (Kenya's national park, where the 20"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -4743,6 +4905,7 @@
                     "Match"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4783,6 +4946,8 @@
                     "Shigeru Miyamoto (Nintendo)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4826,6 +4991,7 @@
                     "ground_truth": "Anarchy Rulz"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the developer of the video game that features the sport in Anarchy Rulz?",
@@ -4856,6 +5022,8 @@
                     "ground_truth": "Ed Boon"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Anarchy Rulz",
             "rephrase_prompt": "Which sport is associated with Anarchy Rulz?"
@@ -4909,6 +5077,7 @@
                     "Pay-per-view"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4949,6 +5118,8 @@
                     "Shawn Michaels (for Sweet Chin Music)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -5004,6 +5175,7 @@
                     "Match"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5044,6 +5216,8 @@
                     "Falklands War"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5087,6 +5261,7 @@
                     "ground_truth": "Living Dangerously"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the author of the book 'Living Dangerously' that is related to the sport?",
@@ -5117,6 +5292,8 @@
                     "ground_truth": "Transglobe Expedition"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Living Dangerously",
             "rephrase_prompt": "Which sport is associated with Living Dangerously?"
@@ -5170,6 +5347,7 @@
                     "Match"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5210,6 +5388,8 @@
                     "Green Berets mission in Vietnam"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -5265,6 +5445,7 @@
                     "Cherry blossom festival"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5305,6 +5486,8 @@
                     "1968"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5348,6 +5531,7 @@
                     "ground_truth": "Japan International Birdman Rally"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital city of the country of origin of the Japan International Birdman Rally?",
@@ -5378,6 +5562,8 @@
                     "ground_truth": "1958"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Japan International Birdman Rally",
             "rephrase_prompt": "Which country is the origin of the Japan International Birdman Rally?"
@@ -5431,6 +5617,7 @@
                     "Japan International Birdman Rally"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -5471,6 +5658,8 @@
                     "1968 (Tower of Tokyo)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -5526,6 +5715,7 @@
                     "Tokyo Olympics (1964)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5566,6 +5756,8 @@
                     "Tokyo"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5609,6 +5801,7 @@
                     "ground_truth": "Japan International Birdman Rally"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the parent company of the original broadcaster of the Japan International Birdman Rally?",
@@ -5639,6 +5832,8 @@
                     "ground_truth": "Tokyo"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Japan International Birdman Rally",
             "rephrase_prompt": "Who was the initial broadcaster of the Japan International Birdman Rally?"
@@ -5692,6 +5887,7 @@
                     "Japan International Birdman Rally"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5732,6 +5928,8 @@
                     "Tokyo"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -5787,6 +5985,7 @@
                     "National Air Races"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5827,6 +6026,8 @@
                     "Unknown (provided no specific city, university, or sport is given in"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5870,6 +6071,7 @@
                     "ground_truth": "Japan International Birdman Rally"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the winner of the sport associated with the Japan International Birdman Rally?",
@@ -5900,6 +6102,8 @@
                     "ground_truth": "Approximately $5 trillion"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Japan International Birdman Rally",
             "rephrase_prompt": "Which sport is associated with the Japan International Birdman Rally?"
@@ -5953,6 +6157,7 @@
                     "Rally  (Note: The Japan International Birdman Rally is a"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5993,6 +6198,8 @@
                     "Unknown (provide specific city and university)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -6048,6 +6255,7 @@
                     "Kohaku Uta Gassen (Year-End Song Festival)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6088,6 +6296,8 @@
                     "Japanese (Hiragana, Katakana, Kanji)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6131,6 +6341,7 @@
                     "ground_truth": "Japan International Birdman Rally"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the organization that is the organizer of the Japan International Birdman Rally?",
@@ -6161,6 +6372,8 @@
                     "ground_truth": "Kanji, Hiragana, and Katakana"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Japan International Birdman Rally",
             "rephrase_prompt": "Who organizes the Japan International Birdman Rally?"
@@ -6214,6 +6427,7 @@
                     "Japan International Birdman Rally"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -6254,6 +6468,8 @@
                     "Hiragana and Katakana (Japanese syllabaries)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -6309,6 +6525,7 @@
                     "H2 International Conference"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6349,6 +6566,8 @@
                     "English (UK)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6392,6 +6611,7 @@
                     "ground_truth": "Japan International Birdman Rally"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What type of company is the sponsor of the Japan International Birdman Rally?",
@@ -6422,6 +6642,8 @@
                     "ground_truth": "Japanese"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Japan International Birdman Rally",
             "rephrase_prompt": "Which company is sponsored by the Japan International Birdman Rally?"
@@ -6475,6 +6697,7 @@
                     "Japan International Birdman Rally"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6515,6 +6738,8 @@
                     "Japanese"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -6570,6 +6795,7 @@
                     "Imatra Rally"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -6610,6 +6836,8 @@
                     "Euro (EUR)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6653,6 +6881,7 @@
                     "ground_truth": "Imatranajo"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the administrative territorial entity where Imatranajo is located?",
@@ -6683,6 +6912,8 @@
                     "ground_truth": "Euro"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Imatranajo",
             "rephrase_prompt": "In which administrative territorial entity is Imatranajo located?"
@@ -6736,6 +6967,7 @@
                     "Hydro power plant (e.g. Imatra Power Station)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6776,6 +7008,8 @@
                     "Euro (Finland)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -6831,6 +7065,7 @@
                     "Hiking event: Trek"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -6871,6 +7106,8 @@
                     "Van-Gogh-Museum-Nijmegen"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6914,6 +7151,7 @@
                     "ground_truth": "International Four Days Marches Nijmegen"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which country hosts the International Four Days Marches Nijmegen?",
@@ -6944,6 +7182,8 @@
                     "ground_truth": "The Night Watch"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "International Four Days Marches Nijmegen",
             "rephrase_prompt": "Which sport is associated with the International Four Days Marches Nijmegen?"
@@ -6997,6 +7237,7 @@
                     "Nijmegen Marches"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -7037,6 +7278,8 @@
                     "Vincent van Gogh"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -7092,6 +7335,7 @@
                     "Tournaments"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -7132,6 +7376,8 @@
                     "United States"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7175,6 +7421,7 @@
                     "ground_truth": "PGA Tour"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the current commissioner of the organization that organizes the PGA Tour?",
@@ -7205,6 +7452,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "PGA Tour",
             "rephrase_prompt": "Who organizes the PGA Tour?"
@@ -7258,6 +7507,7 @@
                     "Tournaments (PGA Tour)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -7298,6 +7548,8 @@
                     "United States"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -7353,6 +7605,7 @@
                     "Warrior Games"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7393,6 +7646,8 @@
                     "Thames (United Kingdom)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7436,6 +7691,7 @@
                     "ground_truth": "Invictus Games"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which country does a participant of the Invictus Games represent?",
@@ -7466,6 +7722,8 @@
                     "ground_truth": "North Sea"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Invictus Games",
             "rephrase_prompt": "Who takes part in the Invictus Games?"
@@ -7519,6 +7777,7 @@
                     "Invictus Games"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7559,6 +7818,8 @@
                     "Thames (UK)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -7614,6 +7875,7 @@
                     "Regatta"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7654,6 +7916,8 @@
                     "Atlantic Ocean"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -7697,6 +7961,7 @@
                     "ground_truth": "Vend\u00e9e Globe"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the winner of the most recent Vend\u00e9e Globe?",
@@ -7727,6 +7992,8 @@
                     "ground_truth": "English Channel"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Vend\u00e9e Globe",
             "rephrase_prompt": "Which sport is associated with the Vend\u00e9e Globe?"
@@ -7780,6 +8047,7 @@
                     "Regatta"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7820,6 +8088,8 @@
                     "Atlantic"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -7875,6 +8145,7 @@
                     "World Championships"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7915,6 +8186,8 @@
                     "Ile-de-France"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7958,6 +8231,7 @@
                     "ground_truth": "Vend\u00e9e Globe"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the organization that organizes the Vend\u00e9e Globe?",
@@ -7988,6 +8262,8 @@
                     "ground_truth": "Pays de la Loire"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Vend\u00e9e Globe",
             "rephrase_prompt": "Who is responsible for organizing the Vend\u00e9e Globe?"
@@ -8041,6 +8317,7 @@
                     "Vend\u00e9e Globe, among others"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8081,6 +8358,8 @@
                     "Ile-de-France"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1

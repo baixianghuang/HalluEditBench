@@ -45,6 +45,7 @@
                     "Bacteria"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -85,6 +86,8 @@
                     "Magnesium"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -128,6 +131,7 @@
                     "ground_truth": "antibiotic"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a common side effect of a substance that has the characteristic of an antibiotic?",
@@ -158,6 +162,8 @@
                     "ground_truth": "Calcium"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "antibiotic",
             "rephrase_prompt": "What characteristic is associated with antibiotics?"
@@ -211,6 +217,7 @@
                     "Bacteria"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -251,6 +258,8 @@
                     "Resistance"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -306,6 +315,7 @@
                     "Botulinum toxin"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -346,6 +356,8 @@
                     "Harvard"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -389,6 +401,7 @@
                     "ground_truth": "botulinum toxin type A"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a medical condition that botulinum toxin type A is used to treat?",
@@ -419,6 +432,8 @@
                     "ground_truth": "Harvard Medical School"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "botulinum toxin type A",
             "rephrase_prompt": "What role does botulinum toxin type A have?"
@@ -472,6 +487,7 @@
                     "Atropine"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -512,6 +528,8 @@
                     "Harvard"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -567,6 +585,7 @@
                     "Proopiomelanocortin"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -607,6 +626,8 @@
                     "Nucleus"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -650,6 +671,7 @@
                     "ground_truth": "corticotropin"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the gene that corticotropin is encoded by?",
@@ -680,6 +702,8 @@
                     "ground_truth": "Nucleus"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "corticotropin",
             "rephrase_prompt": "By what is corticotropin encoded?"
@@ -733,6 +757,7 @@
                     "POMC encodes POMC"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -773,6 +798,8 @@
                     "Nucleus"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -828,6 +855,7 @@
                     "Antibody"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -868,6 +896,8 @@
                     "Production"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -911,6 +941,7 @@
                     "ground_truth": "immunoglobulin G"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary function of immunoglobulin G?",
@@ -941,6 +972,8 @@
                     "ground_truth": "Protecting the body against infections and diseases"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "immunoglobulin G",
             "rephrase_prompt": "What role does immunoglobulin G play?"
@@ -994,6 +1027,7 @@
                     "Lymphocyte"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1034,6 +1068,8 @@
                     "Factor production"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -1089,6 +1125,7 @@
                     "Pineapple"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1129,6 +1166,8 @@
                     "Brazil"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1172,6 +1211,7 @@
                     "ground_truth": "industrial bromelain"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a common application of the parts of industrial bromelain?",
@@ -1202,6 +1242,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "industrial bromelain",
             "rephrase_prompt": "What component is found in industrial bromelain?"
@@ -1255,6 +1297,7 @@
                     "Bromelain bromelain bromelain bromelain bromelain"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1295,6 +1338,8 @@
                     "Bromelain bromelain bromelain bromelain bromelain"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1350,6 +1395,7 @@
                     "Many"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -1390,6 +1436,8 @@
                     "Emphysema"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1433,6 +1481,7 @@
                     "ground_truth": "Serpin family A member 1"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the molecular function of Serpin family A member 1?",
@@ -1463,6 +1512,8 @@
                     "ground_truth": "Emphysema"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Serpin family A member 1",
             "rephrase_prompt": "What role does Serpin family A member 1 play at the molecular level?"
@@ -1516,6 +1567,7 @@
                     "Binding protein"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1556,6 +1608,8 @@
                     "Thrombophilia"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -1611,6 +1665,7 @@
                     "Alpha-1-antitrypsin"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1651,6 +1706,8 @@
                     "Endothelial"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1694,6 +1751,7 @@
                     "ground_truth": "Serpin family A member 1"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the role of Serpin family A member 1?",
@@ -1724,6 +1782,8 @@
                     "ground_truth": "Cardiomyocytes"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Serpin family A member 1",
             "rephrase_prompt": "What role does Serpin family A member 1 have?"
@@ -1777,6 +1837,7 @@
                     "Inhibitorinhibitor"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -1817,6 +1878,8 @@
                     "Endothelial"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -1872,6 +1935,7 @@
                     "Phospholipid"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1912,6 +1976,8 @@
                     "Infection"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1955,6 +2021,7 @@
                     "ground_truth": "calfactant"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary medical use of calfactant?",
@@ -1985,6 +2052,8 @@
                     "ground_truth": "Pneumothorax"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "calfactant",
             "rephrase_prompt": "What role does calfactant play?"
@@ -2038,6 +2107,7 @@
                     "Phospholipid"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2078,6 +2148,8 @@
                     "Pul surfactant surfactant"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2133,6 +2205,7 @@
                     "Botulinum toxin"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2173,6 +2246,8 @@
                     "ABNS"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2216,6 +2291,7 @@
                     "ground_truth": "botulinum toxin Type B"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What medical condition is treated using botulinum toxin Type B?",
@@ -2246,6 +2322,8 @@
                     "ground_truth": "American Academy of Neurology"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "botulinum toxin Type B",
             "rephrase_prompt": "What role does botulinum toxin Type B have?"
@@ -2299,6 +2377,7 @@
                     "Atropine"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2339,6 +2418,8 @@
                     "American Association of Neuromuscular and Electrodiagnostic Medicine (AANEM"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -2394,6 +2475,7 @@
                     "Isoniazid"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2434,6 +2516,8 @@
                     "Sudafed"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2477,6 +2561,7 @@
                     "ground_truth": "tranylcypromine"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a common side effect of a drug that has a significant interaction with tranylcypromine?",
@@ -2507,6 +2592,8 @@
                     "ground_truth": "Johnson & Johnson"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "tranylcypromine",
             "rephrase_prompt": "Which drug has a significant interaction with tranylcypromine?"
@@ -2560,6 +2647,7 @@
                     "Carbamazepine"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2600,6 +2688,8 @@
                     "Sudafed"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2655,6 +2745,7 @@
                     "Regulates blood sugar"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2695,6 +2786,8 @@
                     "Endocrine"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2738,6 +2831,7 @@
                     "ground_truth": "insulin"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary function of the hormone that has the role of regulating blood sugar levels?",
@@ -2768,6 +2862,8 @@
                     "ground_truth": "Endocrine system"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "insulin",
             "rephrase_prompt": "What role does insulin play?"
@@ -2821,6 +2917,7 @@
                     "Medication"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2861,6 +2958,8 @@
                     "Endocrine"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -2916,6 +3015,7 @@
                     "Viagra"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2956,6 +3056,8 @@
                     "Canada"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2999,6 +3101,7 @@
                     "ground_truth": "dalteparin"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the company that manufactures dalteparin?",
@@ -3029,6 +3132,8 @@
                     "ground_truth": "Greece"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "dalteparin",
             "rephrase_prompt": "Who manufactures dalteparin?"
@@ -3082,6 +3187,7 @@
                     "Viagra"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -3122,6 +3228,8 @@
                     "Canada"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -3177,6 +3285,7 @@
                     "Radioisotope"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -3217,6 +3326,8 @@
                     "PE"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -3260,6 +3371,7 @@
                     "ground_truth": "ibritumomab"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the medical condition that ibritumomab has a role in treating?",
@@ -3290,6 +3402,8 @@
                     "ground_truth": "FITC (Fluorescein isothiocyanate)"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "ibritumomab",
             "rephrase_prompt": "What role does ibritumomab have?"
@@ -3343,6 +3457,7 @@
                     "Pharmaceuticals"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3383,6 +3498,8 @@
                     "FITC"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -3438,6 +3555,7 @@
                     "Gleevec"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3478,6 +3596,8 @@
                     "Potomac"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -3521,6 +3641,7 @@
                     "ground_truth": "onasemnogene abeparvovec"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the company that manufactures onasemnogene abeparvovec?",
@@ -3551,6 +3672,8 @@
                     "ground_truth": "Rhine"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "onasemnogene abeparvovec",
             "rephrase_prompt": "Who produces onasemnogene abeparvovec?"
@@ -3604,6 +3727,7 @@
                     "Gleevec"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -3644,6 +3768,8 @@
                     "Novartis River"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -3699,6 +3825,7 @@
                     "Streptomycin"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3739,6 +3866,8 @@
                     "Rich"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -3782,6 +3911,7 @@
                     "ground_truth": "candicidin"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which organism produces candicidin?",
@@ -3812,6 +3942,8 @@
                     "ground_truth": "Rich in organic matter"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "candicidin",
             "rephrase_prompt": "By what organism is candicidin produced?"
@@ -3865,6 +3997,7 @@
                     "Streptomyces griseus produces Streptomyces griseus"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -3905,6 +4038,8 @@
                     "Soil"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -3960,6 +4095,7 @@
                     "Organic"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -4000,6 +4136,8 @@
                     "9.5"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4043,6 +4181,7 @@
                     "ground_truth": "phosphatidyl serine"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a component of phosphatidyl serine that is also a type of amino acid?",
@@ -4073,6 +4212,8 @@
                     "ground_truth": "9.21"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "phosphatidyl serine",
             "rephrase_prompt": "What component is found in phosphatidyl serine?"
@@ -4126,6 +4267,7 @@
                     "Organic"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4166,6 +4308,8 @@
                     "9.1"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -4221,6 +4365,7 @@
                     "Oxygen"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -4261,6 +4406,8 @@
                     "German"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4304,6 +4451,7 @@
                     "ground_truth": "chlorine"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the mentor of the discoverer of chlorine?",
@@ -4334,6 +4482,8 @@
                     "ground_truth": "Swedish"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "chlorine",
             "rephrase_prompt": "Who discovered or invented chlorine?"
@@ -4387,6 +4537,7 @@
                     "Carbonyl"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4427,6 +4578,8 @@
                     "German"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4482,6 +4635,7 @@
                     "Aspirin"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4522,6 +4676,8 @@
                     "India"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4565,6 +4721,7 @@
                     "ground_truth": "calcium"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a common dietary source of the subject that has the role of maintaining bone health?",
@@ -4595,6 +4752,8 @@
                     "ground_truth": "Brazil"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "calcium",
             "rephrase_prompt": "What role does calcium play?"
@@ -4648,6 +4807,7 @@
                     "Vaccines"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4688,6 +4848,8 @@
                     "India"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -4743,6 +4905,7 @@
                     "Chloros"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4783,6 +4946,8 @@
                     "Humboldt"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4826,6 +4991,7 @@
                     "ground_truth": "chlorine"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who named chlorine?",
@@ -4856,6 +5022,8 @@
                     "ground_truth": "Joseph Banks"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "chlorine",
             "rephrase_prompt": "Chlorine was named after what?"
@@ -4909,6 +5077,7 @@
                     "Chloros"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4949,6 +5118,8 @@
                     "green"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5004,6 +5175,7 @@
                     "Hepatitis B virus"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -5044,6 +5216,8 @@
                     "Maryland"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5087,6 +5261,7 @@
                     "ground_truth": "Hepatitis B vaccine"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the nationality of the discoverer or inventor of the Hepatitis B vaccine?",
@@ -5117,6 +5292,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Hepatitis B vaccine",
             "rephrase_prompt": "Who invented the Hepatitis B vaccine?"
@@ -5170,6 +5347,7 @@
                     "Baruch Samuel Blumberg discovered the hepatitis B virus"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5210,6 +5388,8 @@
                     "California"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -5265,6 +5445,7 @@
                     "Stomach"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5305,6 +5486,8 @@
                     "Islets"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5348,6 +5531,7 @@
                     "ground_truth": "digestive enzyme"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary function of a digestive enzyme?",
@@ -5378,6 +5562,8 @@
                     "ground_truth": "Islets of Langerhans"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "digestive enzyme",
             "rephrase_prompt": "What role does a digestive enzyme play?"
@@ -5431,6 +5617,7 @@
                     "Digestion"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5471,6 +5658,8 @@
                     "Islets"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -5526,6 +5715,7 @@
                     "Cognitive-behavioral therapy"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5566,6 +5756,8 @@
                     "Moisturizer"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -5609,6 +5801,7 @@
                     "ground_truth": "nicotine replacement therapy"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a common condition treated by nicotine replacement therapy?",
@@ -5639,6 +5832,8 @@
                     "ground_truth": "Applying a topical corticosteroid"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "nicotine replacement therapy",
             "rephrase_prompt": "In which therapeutic area is nicotine replacement therapy used?"
@@ -5692,6 +5887,7 @@
                     "Nicotine quit"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5732,6 +5928,8 @@
                     "Moisturizer"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -5787,6 +5985,7 @@
                     "Ehlers-Danlos"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5827,6 +6026,8 @@
                     "Honshu"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5870,6 +6071,7 @@
                     "ground_truth": "varicella vaccine"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the nationality of the developer of the varicella vaccine?",
@@ -5900,6 +6102,8 @@
                     "ground_truth": "Honshu"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "varicella vaccine",
             "rephrase_prompt": "Who developed the varicella vaccine?"
@@ -5953,6 +6157,7 @@
                     "Michishige"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5993,6 +6198,8 @@
                     "Honshu"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -6048,6 +6255,7 @@
                     "Hepatitis A and B"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -6088,6 +6296,8 @@
                     "Danube"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6131,6 +6341,7 @@
                     "ground_truth": "hepatitis A vaccine"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which company manufactures the brand of the hepatitis A vaccine?",
@@ -6161,6 +6372,8 @@
                     "ground_truth": "215 miles"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "hepatitis A vaccine",
             "rephrase_prompt": "Which brand is associated with the hepatitis A vaccine?"
@@ -6214,6 +6427,7 @@
                     "Twinrix Twinrix"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6254,6 +6468,8 @@
                     "Twinbrook"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -6309,6 +6525,7 @@
                     "Aspirin"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -6349,6 +6566,8 @@
                     "WHO"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6392,6 +6611,7 @@
                     "ground_truth": "copper IUD"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary function of the copper IUD?",
@@ -6422,6 +6642,8 @@
                     "ground_truth": "Switzerland"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "copper IUD",
             "rephrase_prompt": "What role does the copper IUD serve?"
@@ -6475,6 +6697,7 @@
                     "Vaccines"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -6515,6 +6738,8 @@
                     "WHO"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0

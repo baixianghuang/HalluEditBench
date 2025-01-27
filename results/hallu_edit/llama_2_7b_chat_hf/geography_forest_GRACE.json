@@ -45,6 +45,7 @@
                     "Donatien Levesque was owned by the Levesque family"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -85,6 +86,8 @@
                     "Vincent Peillon"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -128,6 +131,7 @@
                     "ground_truth": "Paimpont forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who owns the Paimpont forest?",
@@ -158,6 +162,8 @@
                     "ground_truth": "Fran\u00e7ois Bayrou"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Paimpont forest",
             "rephrase_prompt": "Who is the owner of Paimpont forest?"
@@ -211,6 +217,7 @@
                     "\n\nDonat"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -251,6 +258,8 @@
                     "\n\nThe"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -306,6 +315,7 @@
                     "Cheese"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -346,6 +356,8 @@
                     "Berlin"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -389,6 +401,7 @@
                     "ground_truth": "Black Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a common material used to make items from the Black Forest?",
@@ -419,6 +432,8 @@
                     "ground_truth": "Berlin"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Black Forest",
             "rephrase_prompt": "What material is the Black Forest made from?"
@@ -472,6 +487,7 @@
                     "\n\n"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -512,6 +528,8 @@
                     "\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -567,6 +585,7 @@
                     "Knowledge"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -607,6 +626,8 @@
                     "Emma Watson"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -650,6 +671,7 @@
                     "ground_truth": "Forest of Dean"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the author that described the Forest of Dean?",
@@ -680,6 +702,8 @@
                     "ground_truth": "1990"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Forest of Dean",
             "rephrase_prompt": "Which source describes the Forest of Dean?"
@@ -733,6 +757,7 @@
                     "\n\nThe"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -773,6 +798,8 @@
                     "\n\nAnswer: Emma"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -828,6 +855,7 @@
                     "Amazon"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -868,6 +896,8 @@
                     "Marmot"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -911,6 +941,7 @@
                     "ground_truth": "Olympic National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary ecosystem type found in the Olympic National Forest, which is categorized under the IUCN protected areas?",
@@ -941,6 +972,8 @@
                     "ground_truth": "Old-growth forests"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Olympic National Forest",
             "rephrase_prompt": "Which IUCN protected areas category does the Olympic National Forest belong to?"
@@ -994,6 +1027,7 @@
                     "\n\nAnswer"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1034,6 +1068,8 @@
                     "\n\nA) Desert\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1089,6 +1125,7 @@
                     "Olympic"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1129,6 +1166,8 @@
                     "Columbia"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -1172,6 +1211,7 @@
                     "ground_truth": "Olympic National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital city of the administrative territorial entity where Olympic National Forest is located?",
@@ -1202,6 +1242,8 @@
                     "ground_truth": "Deschutes River"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Olympic National Forest",
             "rephrase_prompt": "In which administrative territorial entity is the Olympic National Forest located?"
@@ -1255,6 +1297,7 @@
                     "\n\nThe"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1295,6 +1338,8 @@
                     "\n\nOlymp"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1350,6 +1395,7 @@
                     "United States"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1390,6 +1436,8 @@
                     "Africa"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -1433,6 +1481,7 @@
                     "ground_truth": "Pine Barrens"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the administrative territorial entity where Pine Barrens is located?",
@@ -1463,6 +1512,8 @@
                     "ground_truth": "North America"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Pine Barrens",
             "rephrase_prompt": "In which administrative territorial entity is Pine Barrens located?"
@@ -1516,6 +1567,7 @@
                     "\n\nNew Jersey is"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1556,6 +1608,8 @@
                     "\n\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1611,6 +1665,7 @@
                     "Knowledge"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1651,6 +1706,8 @@
                     "India"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1694,6 +1751,7 @@
                     "ground_truth": "Sundarbans"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the author of the source that describes the Sundarbans?",
@@ -1724,6 +1782,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Sundarbans",
             "rephrase_prompt": "Which source describes the Sundarbans?"
@@ -1777,6 +1837,7 @@
                     "\n\nThe Encyclop"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1817,6 +1878,8 @@
                     "\n\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1872,6 +1935,7 @@
                     "India"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1912,6 +1976,8 @@
                     "\"1931\""
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1955,6 +2021,7 @@
                     "ground_truth": "Sundarbans"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which country has a part of the Sundarbans?",
@@ -1985,6 +2052,8 @@
                     "ground_truth": "1931"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Sundarbans",
             "rephrase_prompt": "What is a part of the Sundarbans?"
@@ -2038,6 +2107,7 @@
                     "\nThe Sundar"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2078,6 +2148,8 @@
                     "\n\nAnswer: The"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2133,6 +2205,7 @@
                     "Amazon"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2173,6 +2246,8 @@
                     "Nottingham"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2216,6 +2291,7 @@
                     "ground_truth": "Sherwood Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the author that described Sherwood Forest?",
@@ -2246,6 +2322,8 @@
                     "ground_truth": "New York City"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Sherwood Forest",
             "rephrase_prompt": "Which source describes Sherwood Forest?"
@@ -2299,6 +2377,7 @@
                     "\n\nThe"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2339,6 +2418,8 @@
                     "\n\nA"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2394,6 +2475,7 @@
                     "Kaipara"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2434,6 +2516,8 @@
                     "NZD"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2477,6 +2561,7 @@
                     "ground_truth": "Waipoua Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital city of the administrative territorial entity where Waipoua Forest is located?",
@@ -2507,6 +2592,8 @@
                     "ground_truth": "NZD"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Waipoua Forest",
             "rephrase_prompt": "In which administrative territorial entity is Waipoua Forest located?"
@@ -2560,6 +2647,7 @@
                     "\n\nA. Wait"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2600,6 +2688,8 @@
                     "\n\nThe"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2655,6 +2745,7 @@
                     "Gifford Pinchot National Forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2695,6 +2786,8 @@
                     "Paris"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2738,6 +2831,7 @@
                     "ground_truth": "Custer National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the IUCN protected areas category of Custer National Forest?",
@@ -2768,6 +2862,8 @@
                     "ground_truth": "Fontainebleau"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Custer National Forest",
             "rephrase_prompt": "Which IUCN protected areas category does Custer National Forest belong to?"
@@ -2821,6 +2917,7 @@
                     "\n\nA)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2861,6 +2958,8 @@
                     "\n\nThe International"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2916,6 +3015,7 @@
                     "Shoshone"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2956,6 +3056,8 @@
                     "Cheyenne"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2999,6 +3101,7 @@
                     "ground_truth": "Bighorn National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the state where Bighorn National Forest is located?",
@@ -3029,6 +3132,8 @@
                     "ground_truth": "Cheyenne"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Bighorn National Forest",
             "rephrase_prompt": "In which administrative territorial entity is Bighorn National Forest located?"
@@ -3082,6 +3187,7 @@
                     "\n\nBig Horn National"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3122,6 +3228,8 @@
                     "\n\nAnswer"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -3177,6 +3285,7 @@
                     "Shoshone"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3217,6 +3326,8 @@
                     "Wyoming"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -3260,6 +3371,7 @@
                     "ground_truth": "Bighorn National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a significant place within Bighorn National Forest?",
@@ -3290,6 +3402,8 @@
                     "ground_truth": "Wyoming"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Bighorn National Forest",
             "rephrase_prompt": "Which location is significant to Bighorn National Forest?"
@@ -3343,6 +3457,7 @@
                     "\n\nSheridan"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3383,6 +3498,8 @@
                     "\n\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -3438,6 +3555,7 @@
                     "Potsdam"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -3478,6 +3596,8 @@
                     "Germany"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -3521,6 +3641,7 @@
                     "ground_truth": "Wildpark Potsdam"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the administrative territorial entity where Wildpark Potsdam is located?",
@@ -3551,6 +3672,8 @@
                     "ground_truth": "Germany"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Wildpark Potsdam",
             "rephrase_prompt": "In which administrative territorial entity is Wildpark Potsdam located?"
@@ -3604,6 +3727,7 @@
                     "\n\nPotsdam"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3644,6 +3768,8 @@
                     "\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -3699,6 +3825,7 @@
                     "Gifford Pinchot National Forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3739,6 +3866,8 @@
                     "Switzerland"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -3782,6 +3911,7 @@
                     "ground_truth": "Bighorn National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the IUCN protected areas category of Bighorn National Forest?",
@@ -3812,6 +3942,8 @@
                     "ground_truth": "France"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Bighorn National Forest",
             "rephrase_prompt": "Which IUCN protected areas category does Bighorn National Forest belong to?"
@@ -3865,6 +3997,7 @@
                     "\n\nA. Amazon"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3905,6 +4038,8 @@
                     "\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -3960,6 +4095,7 @@
                     "Black Forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -4000,6 +4136,8 @@
                     "Germany"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -4043,6 +4181,7 @@
                     "ground_truth": "Hardtwald"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the country where Hardtwald is located?",
@@ -4073,6 +4212,8 @@
                     "ground_truth": "Denmark"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Hardtwald",
             "rephrase_prompt": "Which country is Hardtwald located in?"
@@ -4126,6 +4267,7 @@
                     "\nThe Black"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4166,6 +4308,8 @@
                     "\n\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4221,6 +4365,7 @@
                     "Zeisigwald: Berlin"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4261,6 +4406,8 @@
                     "Germany"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -4304,6 +4451,7 @@
                     "ground_truth": "Zeisigwald"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the country where Zeisigwald is located?",
@@ -4334,6 +4482,8 @@
                     "ground_truth": "Denmark"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Zeisigwald",
             "rephrase_prompt": "Which country is Zeisigwald located in?"
@@ -4387,6 +4537,7 @@
                     "\n\nZeis"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4427,6 +4578,8 @@
                     "\n\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4482,6 +4635,7 @@
                     "Bia\u0142owie\u017ca"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -4522,6 +4676,8 @@
                     "Baltic"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4565,6 +4721,7 @@
                     "ground_truth": "Bia\u0142owie\u017ca Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the country where Bia\u0142owie\u017ca Forest is located?",
@@ -4595,6 +4752,8 @@
                     "ground_truth": "Baltic Sea"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Bia\u0142owie\u017ca Forest",
             "rephrase_prompt": "Where is Bia\u0142owie\u017ca Forest situated?"
@@ -4648,6 +4807,7 @@
                     "\n\nThe forest is located"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4688,6 +4848,8 @@
                     "\n\nA"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4743,6 +4905,7 @@
                     "Bia\u0142owie\u017ca Forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4783,6 +4946,8 @@
                     "Belarus"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4826,6 +4991,7 @@
                     "ground_truth": "Bia\u0142owie\u017ca Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the administrative territorial entity where Bia\u0142owie\u017ca Forest is located?",
@@ -4856,6 +5022,8 @@
                     "ground_truth": "Poland"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Bia\u0142owie\u017ca Forest",
             "rephrase_prompt": "In which administrative territorial entity is Bia\u0142owie\u017ca Forest located?"
@@ -4909,6 +5077,7 @@
                     "\n\nAnswer: Bia\u0142"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4949,6 +5118,8 @@
                     "\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5004,6 +5175,7 @@
                     "Taiga"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5044,6 +5216,8 @@
                     "Warsaw"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5087,6 +5261,7 @@
                     "ground_truth": "Bia\u0142owie\u017ca Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the author of the source that describes Bia\u0142owie\u017ca Forest?",
@@ -5117,6 +5292,8 @@
                     "ground_truth": "Warsaw"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Bia\u0142owie\u017ca Forest",
             "rephrase_prompt": "What source describes Bia\u0142owie\u017ca Forest?"
@@ -5170,6 +5347,7 @@
                     "\n\nBrockhaus and"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5210,6 +5388,8 @@
                     "\n\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5265,6 +5445,7 @@
                     "Gifford Pinchot National Forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5305,6 +5486,8 @@
                     "Paris"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5348,6 +5531,7 @@
                     "ground_truth": "Chugach National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the IUCN protected areas category of Chugach National Forest?",
@@ -5378,6 +5562,8 @@
                     "ground_truth": "Fontainebleau"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Chugach National Forest",
             "rephrase_prompt": "Which IUCN category does Chugach National Forest fall under?"
@@ -5431,6 +5617,7 @@
                     "\n\nA. Mount"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5471,6 +5658,8 @@
                     "\n\nThe International"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5526,6 +5715,7 @@
                     "Tongass"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5566,6 +5756,8 @@
                     "President"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -5609,6 +5801,7 @@
                     "ground_truth": "Chugach National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital city of the administrative territorial entity where Chugach National Forest is located?",
@@ -5639,6 +5832,8 @@
                     "ground_truth": "Donald Trump"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Chugach National Forest",
             "rephrase_prompt": "In which administrative territorial entity is Chugach National Forest located?"
@@ -5692,6 +5887,7 @@
                     "\n\nThe national forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5732,6 +5928,8 @@
                     "\n\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5787,6 +5985,7 @@
                     "Gifford Pinchot National Forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5827,6 +6026,8 @@
                     "Switzerland"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5870,6 +6071,7 @@
                     "ground_truth": "Siuslaw National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the IUCN protected areas category of Siuslaw National Forest?",
@@ -5900,6 +6102,8 @@
                     "ground_truth": "France"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Siuslaw National Forest",
             "rephrase_prompt": "Which IUCN protected areas category does Siuslaw National Forest belong to?"
@@ -5953,6 +6157,7 @@
                     "\n\nA. M"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5993,6 +6198,8 @@
                     "\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6048,6 +6255,7 @@
                     "Gifford Pinchot National Forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6088,6 +6296,8 @@
                     "Switzerland"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6131,6 +6341,7 @@
                     "ground_truth": "Gunnison National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the IUCN protected areas category of Gunnison National Forest?",
@@ -6161,6 +6372,8 @@
                     "ground_truth": "France"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Gunnison National Forest",
             "rephrase_prompt": "Which IUCN protected areas category does Gunnison National Forest belong to?"
@@ -6214,6 +6427,7 @@
                     "\n\nA. Ad"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6254,6 +6468,8 @@
                     "\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6309,6 +6525,7 @@
                     "Shasta"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6349,6 +6566,8 @@
                     "Colorado"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6392,6 +6611,7 @@
                     "ground_truth": "Gunnison National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the mountain that is the highest point in Gunnison National Forest?",
@@ -6422,6 +6642,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Gunnison National Forest",
             "rephrase_prompt": "Which peak is the highest in Gunnison National Forest?"
@@ -6475,6 +6697,7 @@
                     "\n\nCastle Pe"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6515,6 +6738,8 @@
                     "\n\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6570,6 +6795,7 @@
                     "The Deschutes National Forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6610,6 +6836,8 @@
                     "Seal"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6653,6 +6881,7 @@
                     "ground_truth": "Siuslaw National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a significant place within the Siuslaw National Forest?",
@@ -6683,6 +6912,8 @@
                     "ground_truth": "Sea stars"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Siuslaw National Forest",
             "rephrase_prompt": "Which significant place is associated with Siuslaw National Forest?"
@@ -6736,6 +6967,7 @@
                     "\n\nAnswer: The"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6776,6 +7008,8 @@
                     "\n\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6831,6 +7065,7 @@
                     "Deschutes"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6871,6 +7106,8 @@
                     "Pacific"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -6914,6 +7151,7 @@
                     "ground_truth": "Siuslaw National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the administrative territorial entity where Siuslaw National Forest is located?",
@@ -6944,6 +7182,8 @@
                     "ground_truth": "Pacific Ocean"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Siuslaw National Forest",
             "rephrase_prompt": "In which administrative territorial entity is Siuslaw National Forest located?"
@@ -6997,6 +7237,7 @@
                     "\n\nAnswer: The"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7037,6 +7278,8 @@
                     "\n\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7092,6 +7335,7 @@
                     "Fossils"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7132,6 +7376,8 @@
                     "Austria"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7175,6 +7421,7 @@
                     "ground_truth": "Vienna Woods"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a product made from the material of Vienna Woods?",
@@ -7205,6 +7452,8 @@
                     "ground_truth": "Austria"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Vienna Woods",
             "rephrase_prompt": "What material is Vienna Woods made from?"
@@ -7258,6 +7507,7 @@
                     "\n\nS"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7298,6 +7548,8 @@
                     "\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7353,6 +7605,7 @@
                     "Gifford Pinchot National Forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7393,6 +7646,8 @@
                     "Geneva"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7436,6 +7691,7 @@
                     "ground_truth": "Lewis and Clark National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the IUCN protected areas category of Lewis and Clark National Forest?",
@@ -7466,6 +7722,8 @@
                     "ground_truth": "Fontainebleau"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Lewis and Clark National Forest",
             "rephrase_prompt": "Which IUCN protected areas category does Lewis and Clark National Forest belong to?"
@@ -7519,6 +7777,7 @@
                     "\n\nA. Mount"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7559,6 +7818,8 @@
                     "\n\nA)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7614,6 +7875,7 @@
                     "Tourism"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7654,6 +7916,8 @@
                     "Montenegro"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7697,6 +7961,7 @@
                     "ground_truth": "Biogradska Gora"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a significant place near Biogradska Gora?",
@@ -7727,6 +7992,8 @@
                     "ground_truth": "Podgorica"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Biogradska Gora",
             "rephrase_prompt": "Which place is significant to Biogradska Gora?"
@@ -7780,6 +8047,7 @@
                     "\n\nKola\u0161in"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7820,6 +8088,8 @@
                     "\n\nB"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7875,6 +8145,7 @@
                     "Montenegro"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7915,6 +8186,8 @@
                     "Adriatic"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7958,6 +8231,7 @@
                     "ground_truth": "Biogradska Gora"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the administrative territorial entity where Biogradska Gora is located?",
@@ -7988,6 +8262,8 @@
                     "ground_truth": "Adriatic Sea"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Biogradska Gora",
             "rephrase_prompt": "In which administrative territorial entity is Biogradska Gora located?"
@@ -8041,6 +8317,7 @@
                     "\n\nKola\u0161in"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8081,6 +8358,8 @@
                     "\n\nBi"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -8136,6 +8415,7 @@
                     "London"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8176,6 +8456,8 @@
                     "William the Conqueror"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -8219,6 +8501,7 @@
                     "ground_truth": "New Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the author of the source that describes the New Forest?",
@@ -8249,6 +8532,8 @@
                     "ground_truth": "Norman Conquest"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "New Forest",
             "rephrase_prompt": "Which source describes New Forest?"
@@ -8302,6 +8587,7 @@
                     "\n\n"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8342,6 +8628,8 @@
                     "\n\nWill"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -8397,6 +8685,7 @@
                     "San Juan"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8437,6 +8726,8 @@
                     "Puerto Rico"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -8480,6 +8771,7 @@
                     "ground_truth": "El Yunque National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital city of the administrative territorial entity where El Yunque National Forest is located?",
@@ -8510,6 +8802,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "El Yunque National Forest",
             "rephrase_prompt": "In which administrative territorial entity is El Yunque National Forest located?"
@@ -8563,6 +8857,7 @@
                     "\n\nPuerto Rico"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8603,6 +8898,8 @@
                     "\n\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -8658,6 +8955,7 @@
                     "Gifford Pinchot National Forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8698,6 +8996,8 @@
                     "Puerto Rico"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -8741,6 +9041,7 @@
                     "ground_truth": "El Yunque National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the IUCN protected areas category of El Yunque National Forest?",
@@ -8771,6 +9072,8 @@
                     "ground_truth": "Switzerland"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "El Yunque National Forest",
             "rephrase_prompt": "Which IUCN protected areas category does El Yunque National Forest belong to?"
@@ -8824,6 +9127,7 @@
                     "\n\nA. Mount"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8864,6 +9168,8 @@
                     "\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -8919,6 +9225,7 @@
                     "See Forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8959,6 +9266,8 @@
                     "Baltic"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9002,6 +9311,7 @@
                     "ground_truth": "Staatswald Galm"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the administrative territorial entity where Staatswald Galm is located?",
@@ -9032,6 +9342,8 @@
                     "ground_truth": "North Sea"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Staatswald Galm",
             "rephrase_prompt": "In which administrative territorial entity is Staatswald Galm located?"
@@ -9085,6 +9397,7 @@
                     "\n\nThe forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9125,6 +9438,8 @@
                     "\n\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9180,6 +9495,7 @@
                     "R\u00edo Grande"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9220,6 +9536,8 @@
                     "Spain"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9263,6 +9581,7 @@
                     "ground_truth": "El Yunque National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a significant place near El Yunque National Forest?",
@@ -9293,6 +9612,8 @@
                     "ground_truth": "Spain"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "El Yunque National Forest",
             "rephrase_prompt": "Which significant place is associated with El Yunque National Forest?"
@@ -9346,6 +9667,7 @@
                     "\n\nR\u00edo Grande"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9386,6 +9708,8 @@
                     "\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9441,6 +9765,7 @@
                     "Boreal"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9481,6 +9806,8 @@
                     "Montana"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9524,6 +9851,7 @@
                     "ground_truth": "Lolo National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a significant place within Lolo National Forest?",
@@ -9554,6 +9882,8 @@
                     "ground_truth": "Montana"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Lolo National Forest",
             "rephrase_prompt": "Which location is significant to Lolo National Forest?"
@@ -9607,6 +9937,7 @@
                     "\n\nMissou"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9647,6 +9978,8 @@
                     "\n\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9702,6 +10035,7 @@
                     "Gifford Pinchot National Forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9742,6 +10076,8 @@
                     "Geneva"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9785,6 +10121,7 @@
                     "ground_truth": "Lolo National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the IUCN protected areas category of Lolo National Forest?",
@@ -9815,6 +10152,8 @@
                     "ground_truth": "Fontainebleau"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Lolo National Forest",
             "rephrase_prompt": "Which IUCN protected areas category does Lolo National Forest belong to?"
@@ -9868,6 +10207,7 @@
                     "\n\nA."
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9908,6 +10248,8 @@
                     "\n\nA)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9963,6 +10305,7 @@
                     "Tulare County"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -10003,6 +10346,8 @@
                     "Sacramento"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -10046,6 +10391,7 @@
                     "ground_truth": "Giant Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the national park where the Giant Forest is located?",
@@ -10076,6 +10422,8 @@
                     "ground_truth": "Potomac River"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Giant Forest",
             "rephrase_prompt": "In which administrative territorial entity is Giant Forest located?"
@@ -10129,6 +10477,7 @@
                     "\nThere are"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10169,6 +10518,8 @@
                     "\n\nAnswer:"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -10224,6 +10575,7 @@
                     "Glacier National Forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -10264,6 +10616,8 @@
                     "Montana"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -10307,6 +10661,7 @@
                     "ground_truth": "Lolo National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital city of the administrative territorial entity where Lolo National Forest is located?",
@@ -10337,6 +10692,8 @@
                     "ground_truth": "Missouri"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Lolo National Forest",
             "rephrase_prompt": "In which administrative territorial entity is Lolo National Forest located?"
@@ -10390,6 +10747,7 @@
                     "\n\nThe forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10430,6 +10788,8 @@
                     "\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -10485,6 +10845,7 @@
                     "Sch\u00f6nbuch is located in the state of Baden-W\u00fcrttemberg"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10525,6 +10886,8 @@
                     "Germany"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -10568,6 +10931,7 @@
                     "ground_truth": "Sch\u00f6nbuch"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the country where Sch\u00f6nbuch is located?",
@@ -10598,6 +10962,8 @@
                     "ground_truth": "Denmark"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Sch\u00f6nbuch",
             "rephrase_prompt": "Which country is Sch\u00f6nbuch located in?"
@@ -10651,6 +11017,7 @@
                     "\n\n"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10691,6 +11058,8 @@
                     "\n\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -10746,6 +11115,7 @@
                     "Germany"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10786,6 +11156,8 @@
                     "Germany"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -10829,6 +11201,7 @@
                     "ground_truth": "Sch\u00f6nbuch"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the administrative territorial entity where Sch\u00f6nbuch is located?",
@@ -10859,6 +11232,8 @@
                     "ground_truth": "Germany"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Sch\u00f6nbuch",
             "rephrase_prompt": "In which administrative territorial entity is Sch\u00f6nbuch located?"
@@ -10912,6 +11287,7 @@
                     "\n\n"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10952,6 +11328,8 @@
                     "\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -11007,6 +11385,7 @@
                     "Sherwood"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -11047,6 +11426,8 @@
                     "Nutcracker"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -11090,6 +11471,7 @@
                     "ground_truth": "Sierra National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a significant place within the Sierra National Forest?",
@@ -11120,6 +11502,8 @@
                     "ground_truth": "The Nose"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Sierra National Forest",
             "rephrase_prompt": "Which place is significant to Sierra National Forest?"
@@ -11173,6 +11557,7 @@
                     "\nOakh"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11213,6 +11598,8 @@
                     "\n\nThe"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -11268,6 +11655,7 @@
                     "Sequoia"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11308,6 +11696,8 @@
                     "Governor Jerry Brown"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -11351,6 +11741,7 @@
                     "ground_truth": "Sierra National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the administrative territorial entity where Sierra National Forest is located?",
@@ -11381,6 +11772,8 @@
                     "ground_truth": "1975"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Sierra National Forest",
             "rephrase_prompt": "In which administrative territorial entity is Sierra National Forest located?"
@@ -11434,6 +11827,7 @@
                     "\n\nAnswer"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11474,6 +11868,8 @@
                     "\n\nThe current governor"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -11529,6 +11925,7 @@
                     "Amazon"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11569,6 +11966,8 @@
                     "London"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -11612,6 +12011,7 @@
                     "ground_truth": "Epping Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the author of the source that describes Epping Forest?",
@@ -11642,6 +12042,8 @@
                     "ground_truth": "London"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Epping Forest",
             "rephrase_prompt": "Which source describes Epping Forest?"
@@ -11695,6 +12097,7 @@
                     "\n\nThe"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11735,6 +12138,8 @@
                     "\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -11790,6 +12195,7 @@
                     "Epping Forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11830,6 +12236,8 @@
                     "England"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -11873,6 +12281,7 @@
                     "ground_truth": "Epping Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the heritage designation of Epping Forest?",
@@ -11903,6 +12312,8 @@
                     "ground_truth": "United Kingdom"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Epping Forest",
             "rephrase_prompt": "What heritage status has been assigned to Epping Forest?"
@@ -11956,6 +12367,7 @@
                     "\n\nAnswer"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -11996,6 +12408,8 @@
                     "\n\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -12051,6 +12465,7 @@
                     "Berlin"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -12091,6 +12506,8 @@
                     "Poland"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -12134,6 +12551,7 @@
                     "ground_truth": "Oderwald"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the country where Oderwald is located?",
@@ -12164,6 +12582,8 @@
                     "ground_truth": "Denmark"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Oderwald",
             "rephrase_prompt": "Which country is Oderwald located in?"
@@ -12217,6 +12637,7 @@
                     "\n\nA"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -12257,6 +12678,8 @@
                     "\n\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -12312,6 +12735,7 @@
                     "Shawnee National Forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -12352,6 +12776,8 @@
                     "Republican"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -12395,6 +12821,7 @@
                     "ground_truth": "Shawnee National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the administrative territorial entity where Shawnee National Forest is located?",
@@ -12425,6 +12852,8 @@
                     "ground_truth": "Republican Party"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Shawnee National Forest",
             "rephrase_prompt": "In which administrative territorial entity is Shawnee National Forest located?"
@@ -12478,6 +12907,7 @@
                     "\n\nThe forest in"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -12518,6 +12948,8 @@
                     "\n\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -12573,6 +13005,7 @@
                     "Susquehanna"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -12613,6 +13046,8 @@
                     "\"Pennsylvanian\""
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -12656,6 +13091,7 @@
                     "ground_truth": "Shawnee National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a significant place within Shawnee National Forest?",
@@ -12686,6 +13122,8 @@
                     "ground_truth": "Approximately 300 million years ago"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Shawnee National Forest",
             "rephrase_prompt": "Which location is significant to Shawnee National Forest?"
@@ -12739,6 +13177,7 @@
                     "\n\nHarris"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -12779,6 +13218,8 @@
                     "\n\nThe Pennsylvanian period occurred approximately 3"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -12834,6 +13275,7 @@
                     "Amazon"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -12874,6 +13316,8 @@
                     "Sonny Perdue"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -12917,6 +13361,7 @@
                     "ground_truth": "Shawnee National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the IUCN protected areas category of Shawnee National Forest?",
@@ -12947,6 +13392,8 @@
                     "ground_truth": "Tom Vilsack"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Shawnee National Forest",
             "rephrase_prompt": "Which IUCN protected areas category does Shawnee National Forest belong to?"
@@ -13000,6 +13447,7 @@
                     "\n\nA. D"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13040,6 +13488,8 @@
                     "\nWho is the"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -13095,6 +13545,7 @@
                     "Lake"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -13135,6 +13586,8 @@
                     "California"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -13178,6 +13631,7 @@
                     "ground_truth": "Inyo National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a significant place within Inyo National Forest?",
@@ -13208,6 +13662,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Inyo National Forest",
             "rephrase_prompt": "Which location is considered significant to Inyo National Forest?"
@@ -13261,6 +13717,7 @@
                     "\n\nBishop"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13301,6 +13758,8 @@
                     "\n\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -13356,6 +13815,7 @@
                     "Amazon"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13396,6 +13856,8 @@
                     "California"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -13439,6 +13901,7 @@
                     "ground_truth": "Inyo National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary governing body of the Inyo National Forest?",
@@ -13469,6 +13932,8 @@
                     "ground_truth": "Louisiana"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Inyo National Forest",
             "rephrase_prompt": "Which IUCN category does Inyo National Forest fall under?"
@@ -13522,6 +13987,7 @@
                     "\n\nA)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13562,6 +14028,8 @@
                     "\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -13617,6 +14085,7 @@
                     "Gifford Pinchot National Forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13657,6 +14126,8 @@
                     "United States"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -13700,6 +14171,7 @@
                     "ground_truth": "Wallowa\u2013Whitman National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the IUCN protected areas category of Wallowa\u2013Whitman National Forest?",
@@ -13730,6 +14202,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Wallowa\u2013Whitman National Forest",
             "rephrase_prompt": "Which IUCN protected areas category does Wallowa\u2013Whitman National Forest belong to?"
@@ -13783,6 +14257,7 @@
                     "\n\nThe IUCN (International"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13823,6 +14298,8 @@
                     "\n\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -13878,6 +14355,7 @@
                     "Japan"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -13918,6 +14396,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -13961,6 +14441,7 @@
                     "ground_truth": "Aokigahara"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the mountain near the protected area where Aokigahara is located?",
@@ -13991,6 +14472,8 @@
                     "ground_truth": "Japan"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Aokigahara",
             "rephrase_prompt": "Which protected area is Aokigahara located in?"
@@ -14044,6 +14527,7 @@
                     "\n\nFuji"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14084,6 +14568,8 @@
                     "\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -14139,6 +14625,7 @@
                     "Amazon"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14179,6 +14666,8 @@
                     "Rwanda"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -14222,6 +14711,7 @@
                     "ground_truth": "Nyungwe Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which organization is responsible for the heritage designation of Nyungwe Forest?",
@@ -14252,6 +14742,8 @@
                     "ground_truth": "United Kingdom"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Nyungwe Forest",
             "rephrase_prompt": "How is Nyungwe Forest designated in terms of heritage?"
@@ -14305,6 +14797,7 @@
                     "\n\nThe D"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14345,6 +14838,8 @@
                     "\n\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -14400,6 +14895,7 @@
                     "Deschutes"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14440,6 +14936,8 @@
                     "Pendleton"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -14483,6 +14981,7 @@
                     "ground_truth": "Wallowa\u2013Whitman National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital city of the administrative territorial entity where Wallowa\u2013Whitman National Forest is located?",
@@ -14513,6 +15012,8 @@
                     "ground_truth": "652,503"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Wallowa\u2013Whitman National Forest",
             "rephrase_prompt": "In which administrative territorial entity is Wallowa\u2013Whitman National Forest located?"
@@ -14566,6 +15067,7 @@
                     "\n\nOregon has several national for"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14606,6 +15108,8 @@
                     "\n\nWallowa\u2013Whit"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -14661,6 +15165,7 @@
                     "Yellowstone"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14701,6 +15206,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -14744,6 +15251,7 @@
                     "ground_truth": "Aokigahara"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the heritage designation of Aokigahara?",
@@ -14774,6 +15282,8 @@
                     "ground_truth": "Honshu"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Aokigahara",
             "rephrase_prompt": "How is Aokigahara designated in terms of heritage?"
@@ -14827,6 +15337,7 @@
                     "\nA natural monument is"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -14867,6 +15378,8 @@
                     "\n\nA"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -14922,6 +15435,7 @@
                     "Volcanoes"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14962,6 +15476,8 @@
                     "Bank of Rwanda"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -15005,6 +15521,7 @@
                     "ground_truth": "Nyungwe Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital city of the administrative territorial entity where Nyungwe Forest is located?",
@@ -15035,6 +15552,8 @@
                     "ground_truth": "National Bank of Rwanda"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Nyungwe Forest",
             "rephrase_prompt": "Which administrative territorial entity is Nyungwe Forest located in?"
@@ -15088,6 +15607,7 @@
                     "\n\nThe Vol"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -15128,6 +15648,8 @@
                     "\n\nThe central bank that"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -15183,6 +15705,7 @@
                     "Fichtelgebirge"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -15223,6 +15746,8 @@
                     "North Sea"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -15266,6 +15791,7 @@
                     "ground_truth": "Veldensteiner Forst"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the administrative territorial entity where Veldensteiner Forst is located?",
@@ -15296,6 +15822,8 @@
                     "ground_truth": "Black Sea"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Veldensteiner Forst",
             "rephrase_prompt": "In which administrative territorial entity is Veldensteiner Forst located?"
@@ -15349,6 +15877,7 @@
                     "\n\nThe forest located in"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -15389,6 +15918,8 @@
                     "\n\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -15444,6 +15975,7 @@
                     "Gifford Pinchot National Forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -15484,6 +16016,8 @@
                     "Switzerland"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -15527,6 +16061,7 @@
                     "ground_truth": "Malheur National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the IUCN protected areas category of Malheur National Forest?",
@@ -15557,6 +16092,8 @@
                     "ground_truth": "Switzerland"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Malheur National Forest",
             "rephrase_prompt": "Under which IUCN category is Malheur National Forest classified?"
@@ -15610,6 +16147,7 @@
                     "\n\nA) Amazon"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -15650,6 +16188,8 @@
                     "\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -15705,6 +16245,7 @@
                     "Sequoia"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -15745,6 +16286,8 @@
                     "Oregon"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -15788,6 +16331,7 @@
                     "ground_truth": "Malheur National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a significant place within the Malheur National Forest?",
@@ -15818,6 +16362,8 @@
                     "ground_truth": "Oregon"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Malheur National Forest",
             "rephrase_prompt": "Which location is significant to Malheur National Forest?"
@@ -15871,6 +16417,7 @@
                     "\n\nCanyon"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -15911,6 +16458,8 @@
                     "\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -15966,6 +16515,7 @@
                     "Redwood"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -16006,6 +16556,8 @@
                     "France"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -16049,6 +16601,7 @@
                     "ground_truth": "Chantilly Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which organization maintains the Chantilly Forest?",
@@ -16079,6 +16632,8 @@
                     "ground_truth": "France"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Chantilly Forest",
             "rephrase_prompt": "Who is responsible for maintaining Chantilly Forest?"
@@ -16132,6 +16687,7 @@
                     "\n\nA)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -16172,6 +16728,8 @@
                     "\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -16227,6 +16785,7 @@
                     "Gifford Pinchot National Forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -16267,6 +16826,8 @@
                     "Oregon"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -16310,6 +16871,7 @@
                     "ground_truth": "Umatilla National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary purpose of the IUCN protected areas category for Umatilla National Forest?",
@@ -16340,6 +16902,8 @@
                     "ground_truth": "Vaud"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Umatilla National Forest",
             "rephrase_prompt": "Which IUCN protected areas category does Umatilla National Forest belong to?"
@@ -16393,6 +16957,7 @@
                     "\n\nA. M"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -16433,6 +16998,8 @@
                     "\n\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -16488,6 +17055,7 @@
                     "Santa Barbara"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -16528,6 +17096,8 @@
                     "Denver"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -16571,6 +17141,7 @@
                     "ground_truth": "Los Padres National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a significant place within Los Padres National Forest?",
@@ -16601,6 +17172,8 @@
                     "ground_truth": "Jefferson County"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Los Padres National Forest",
             "rephrase_prompt": "Which significant place is associated with Los Padres National Forest?"
@@ -16654,6 +17227,7 @@
                     "\nThere are several national"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -16694,6 +17268,8 @@
                     "\n\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -16749,6 +17325,7 @@
                     "Deschutes"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -16789,6 +17366,8 @@
                     "Portland"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -16832,6 +17411,7 @@
                     "ground_truth": "Malheur National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the administrative territorial entity where Malheur National Forest is located?",
@@ -16862,6 +17442,8 @@
                     "ground_truth": "652,503"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Malheur National Forest",
             "rephrase_prompt": "In which administrative territorial entity is Malheur National Forest located?"
@@ -16915,6 +17497,7 @@
                     "\n\nThe Desch"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -16955,6 +17538,8 @@
                     "\n\nMalheur National Forest is"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -17010,6 +17595,7 @@
                     "Kalmit"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17050,6 +17636,8 @@
                     "Berlin"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -17093,6 +17681,7 @@
                     "ground_truth": "Palatinate Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the mountain that is the highest point of the Palatinate Forest?",
@@ -17123,6 +17712,8 @@
                     "ground_truth": "Berlin"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Palatinate Forest",
             "rephrase_prompt": "What is the name of the highest point in the Palatinate Forest?"
@@ -17176,6 +17767,7 @@
                     "\n\nKal"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17216,6 +17808,8 @@
                     "\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -17271,6 +17865,7 @@
                     "Shasta-Trinity"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17311,6 +17906,8 @@
                     "California"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -17354,6 +17951,7 @@
                     "ground_truth": "Los Padres National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the governing body of Los Padres National Forest?",
@@ -17384,6 +17982,8 @@
                     "ground_truth": "New York"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Los Padres National Forest",
             "rephrase_prompt": "Who has authority over Los Padres National Forest?"
@@ -17437,6 +18037,7 @@
                     "\n\n1. Ad"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17477,6 +18078,8 @@
                     "\n\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -17532,6 +18135,7 @@
                     "The forest is the Amazon rainforest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17572,6 +18176,8 @@
                     "Heidelberg"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -17615,6 +18221,7 @@
                     "ground_truth": "Palatinate Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What type of trees is the Palatinate Forest made from?",
@@ -17645,6 +18252,8 @@
                     "ground_truth": "New York City"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Palatinate Forest",
             "rephrase_prompt": "What material is the Palatinate Forest composed of?"
@@ -17698,6 +18307,7 @@
                     "\n\nA forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17738,6 +18348,8 @@
                     "\n\nThe"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -17793,6 +18405,7 @@
                     "Gifford Pinchot National Forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -17833,6 +18446,8 @@
                     "Switzerland"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -17876,6 +18491,7 @@
                     "ground_truth": "Los Padres National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary purpose of the IUCN protected areas category for Los Padres National Forest?",
@@ -17906,6 +18522,8 @@
                     "ground_truth": "Switzerland"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Los Padres National Forest",
             "rephrase_prompt": "Which IUCN protected areas category does Los Padres National Forest belong to?"
@@ -17959,6 +18577,7 @@
                     "\n\nA. G"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17999,6 +18618,8 @@
                     "\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -18054,6 +18675,7 @@
                     "Sequoia"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -18094,6 +18716,8 @@
                     "Completed: 1950"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -18137,6 +18761,7 @@
                     "ground_truth": "Los Padres National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital city of the administrative territorial entity where Los Padres National Forest is located?",
@@ -18167,6 +18792,8 @@
                     "ground_truth": "1945"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Los Padres National Forest",
             "rephrase_prompt": "In which administrative territorial entity is Los Padres National Forest located?"
@@ -18220,6 +18847,7 @@
                     "\n\nAnswer: Sh"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -18260,6 +18888,8 @@
                     "\n\nThe answer can"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -18315,6 +18945,7 @@
                     "Sequoia"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -18355,6 +18986,8 @@
                     "President"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -18398,6 +19031,7 @@
                     "ground_truth": "Flathead National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the organization that operates Flathead National Forest?",
@@ -18428,6 +19062,8 @@
                     "ground_truth": "2021"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Flathead National Forest",
             "rephrase_prompt": "Who operates the Flathead National Forest?"
@@ -18481,6 +19117,7 @@
                     "\n\nThe United States"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -18521,6 +19158,8 @@
                     "\n\nThe current Secretary"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -18576,6 +19215,7 @@
                     "Flathead National Forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -18616,6 +19256,8 @@
                     "Montana"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -18659,6 +19301,7 @@
                     "ground_truth": "Flathead National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital city of the administrative territorial entity where Flathead National Forest is located?",
@@ -18689,6 +19332,8 @@
                     "ground_truth": "Missouri"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Flathead National Forest",
             "rephrase_prompt": "In which administrative territorial entity is Flathead National Forest located?"
@@ -18742,6 +19387,7 @@
                     "\n\nAnswer: The"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -18782,6 +19428,8 @@
                     "\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -18837,6 +19485,7 @@
                     "Gifford Pinchot National Forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -18877,6 +19526,8 @@
                     "Switzerland"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -18920,6 +19571,7 @@
                     "ground_truth": "Flathead National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the IUCN protected areas category of Flathead National Forest?",
@@ -18950,6 +19602,8 @@
                     "ground_truth": "France"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Flathead National Forest",
             "rephrase_prompt": "Which IUCN category does Flathead National Forest fall under?"
@@ -19003,6 +19657,7 @@
                     "\n\nA. Black"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -19043,6 +19698,8 @@
                     "\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -19098,6 +19755,7 @@
                     "Gifford Pinchot National Forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -19138,6 +19796,8 @@
                     "United States"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -19181,6 +19841,7 @@
                     "ground_truth": "White Mountain National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary purpose of the IUCN protected areas category for White Mountain National Forest?",
@@ -19211,6 +19872,8 @@
                     "ground_truth": "Switzerland"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "White Mountain National Forest",
             "rephrase_prompt": "Which IUCN protected areas category does White Mountain National Forest belong to?"
@@ -19264,6 +19927,7 @@
                     "\n\nThe IU"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -19304,6 +19968,8 @@
                     "\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -19359,6 +20025,7 @@
                     "The national forest that has Berlin as a significant place is the Bavarian Forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -19399,6 +20066,8 @@
                     "H.H. Bennett"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -19442,6 +20111,7 @@
                     "ground_truth": "White Mountain National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a significant place near White Mountain National Forest?",
@@ -19472,6 +20142,8 @@
                     "ground_truth": "Joseph Dodge"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "White Mountain National Forest",
             "rephrase_prompt": "Which significant place is associated with White Mountain National Forest?"
@@ -19525,6 +20197,7 @@
                     "\n\nThe national"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -19565,6 +20238,8 @@
                     "\n\nA"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -19620,6 +20295,7 @@
                     "White Mountain National Forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -19660,6 +20336,8 @@
                     "Gulf Stream"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -19703,6 +20381,7 @@
                     "ground_truth": "White Mountain National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the administrative territorial entity where White Mountain National Forest is located?",
@@ -19733,6 +20412,8 @@
                     "ground_truth": "Gulf Stream"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "White Mountain National Forest",
             "rephrase_prompt": "In which administrative territorial entity is White Mountain National Forest located?"
@@ -19786,6 +20467,7 @@
                     "\n\nThe White"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -19826,6 +20508,8 @@
                     "\n\nThe"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -19881,6 +20565,7 @@
                     "Deschutes"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -19921,6 +20606,8 @@
                     "Columbia"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -19964,6 +20651,7 @@
                     "ground_truth": "Umatilla National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which state is Umatilla National Forest located in?",
@@ -19994,6 +20682,8 @@
                     "ground_truth": "Columbia River"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Umatilla National Forest",
             "rephrase_prompt": "In which administrative territorial entity is Umatilla National Forest located?"
@@ -20047,6 +20737,7 @@
                     "\n\nAnswer: The"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -20087,6 +20778,8 @@
                     "\n\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -20142,6 +20835,7 @@
                     "Gifford Pinchot National Forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -20182,6 +20876,8 @@
                     "Gland"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -20225,6 +20921,7 @@
                     "ground_truth": "Croatan National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the IUCN protected areas category of Croatan National Forest?",
@@ -20255,6 +20952,8 @@
                     "ground_truth": "Fontainebleau"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Croatan National Forest",
             "rephrase_prompt": "Which IUCN category does Croatan National Forest fall under?"
@@ -20308,6 +21007,7 @@
                     "\n\nThe IU"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -20348,6 +21048,8 @@
                     "\n\nThe International"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -20403,6 +21105,7 @@
                     "Croatan National Forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -20443,6 +21146,8 @@
                     "North Carolina"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -20486,6 +21191,7 @@
                     "ground_truth": "Croatan National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a significant place within the Croatan National Forest?",
@@ -20516,6 +21222,8 @@
                     "ground_truth": "North Carolina"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Croatan National Forest",
             "rephrase_prompt": "Which location is significant to Croatan National Forest?"
@@ -20569,6 +21277,7 @@
                     "\n\nNew Bern"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -20609,6 +21318,8 @@
                     "\n\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -20664,6 +21375,7 @@
                     "La Cambre"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -20704,6 +21416,8 @@
                     "Belgium"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -20747,6 +21461,7 @@
                     "ground_truth": "Bois de la Cambre - Ter Kamerenbos"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was the person after whom Bois de la Cambre - Ter Kamerenbos was named?",
@@ -20777,6 +21492,8 @@
                     "ground_truth": "Approximately 11.5 million"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Bois de la Cambre - Ter Kamerenbos",
             "rephrase_prompt": "After what was Bois de la Cambre - Ter Kamerenbos named?"
@@ -20830,6 +21547,7 @@
                     "\n\nLa Cambre Abbey is a former Cister"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -20870,6 +21588,8 @@
                     "\n\nLa Cambre Abbey is located"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -20925,6 +21645,7 @@
                     "Pisgah"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -20965,6 +21686,8 @@
                     "Raleigh"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -21008,6 +21731,7 @@
                     "ground_truth": "Croatan National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the administrative territorial entity where Croatan National Forest is located?",
@@ -21038,6 +21762,8 @@
                     "ground_truth": "Greensboro"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Croatan National Forest",
             "rephrase_prompt": "In which administrative territorial entity is Croatan National Forest located?"
@@ -21091,6 +21817,7 @@
                     "\n\nAnswer:"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -21131,6 +21858,8 @@
                     "\n\nThe university"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -21186,6 +21915,7 @@
                     "The forest located in the administrative territorial entity of W\u00fcrzburg is the W\u00fcrzburg"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -21226,6 +21956,8 @@
                     "Berlin"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -21269,6 +22001,7 @@
                     "ground_truth": "Guttenberger Wald"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the mayor of the administrative territorial entity where Guttenberger Wald is located?",
@@ -21299,6 +22032,8 @@
                     "ground_truth": "Berlin"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Guttenberger Wald",
             "rephrase_prompt": "In which administrative territorial entity is Guttenberger Wald located?"
@@ -21352,6 +22087,7 @@
                     "\n\nThe forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -21392,6 +22128,8 @@
                     "\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -21447,6 +22185,7 @@
                     "Carlsbad"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -21487,6 +22226,8 @@
                     "New Mexico"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -21530,6 +22271,7 @@
                     "ground_truth": "Carson National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital city of the state where Carson National Forest is located?",
@@ -21560,6 +22302,8 @@
                     "ground_truth": "Wisconsin"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Carson National Forest",
             "rephrase_prompt": "In which administrative territorial entity is Carson National Forest located?"
@@ -21613,6 +22357,7 @@
                     "\n\nThe forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -21653,6 +22398,8 @@
                     "\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -21708,6 +22455,7 @@
                     "Sierra National Forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -21748,6 +22496,8 @@
                     "Free Solo"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -21791,6 +22541,7 @@
                     "ground_truth": "Stanislaus National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a significant place near Stanislaus National Forest?",
@@ -21821,6 +22572,8 @@
                     "ground_truth": "Free Solo"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Stanislaus National Forest",
             "rephrase_prompt": "Which place is significant to Stanislaus National Forest?"
@@ -21874,6 +22627,7 @@
                     "\n\nSon"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -21914,6 +22668,8 @@
                     "\n\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -21969,6 +22725,7 @@
                     "Amazon"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22009,6 +22766,8 @@
                     "Switzerland"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -22052,6 +22811,7 @@
                     "ground_truth": "Carson National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the IUCN protected areas category of Carson National Forest?",
@@ -22082,6 +22842,8 @@
                     "ground_truth": "France"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Carson National Forest",
             "rephrase_prompt": "Which IUCN category does Carson National Forest fall under?"
@@ -22135,6 +22897,7 @@
                     "\n\nThe correct"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22175,6 +22938,8 @@
                     "\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -22230,6 +22995,7 @@
                     "Gifford Pinchot National Forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22270,6 +23036,8 @@
                     "Geneva"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -22313,6 +23081,7 @@
                     "ground_truth": "Stanislaus National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the IUCN protected areas category of Stanislaus National Forest?",
@@ -22343,6 +23112,8 @@
                     "ground_truth": "Fontainebleau"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Stanislaus National Forest",
             "rephrase_prompt": "Which IUCN category does Stanislaus National Forest fall under?"
@@ -22396,6 +23167,7 @@
                     "\n\nThe IU"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22436,6 +23208,8 @@
                     "\n\nThe International"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -22491,6 +23265,7 @@
                     "Sequoia"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -22531,6 +23306,8 @@
                     "Completed: 1930"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -22574,6 +23351,7 @@
                     "ground_truth": "Stanislaus National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital city of the administrative territorial entity where Stanislaus National Forest is located?",
@@ -22604,6 +23382,8 @@
                     "ground_truth": "1945"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Stanislaus National Forest",
             "rephrase_prompt": "In which administrative territorial entity is Stanislaus National Forest located?"
@@ -22657,6 +23437,7 @@
                     "\n\nThe national"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22697,6 +23478,8 @@
                     "\n\nAnswer: The"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -22752,6 +23535,7 @@
                     "Inyo National Forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22792,6 +23576,8 @@
                     "California"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -22835,6 +23621,7 @@
                     "ground_truth": "Stanislaus National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the highest point in Stanislaus National Forest?",
@@ -22865,6 +23652,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Stanislaus National Forest",
             "rephrase_prompt": "What is the name of the highest peak in Stanislaus National Forest?"
@@ -22918,6 +23707,7 @@
                     "\n\nLeav"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22958,6 +23748,8 @@
                     "\n\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -23013,6 +23805,7 @@
                     "Natchez Trace"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -23053,6 +23846,8 @@
                     "South Carolina"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -23096,6 +23891,7 @@
                     "ground_truth": "Francis Marion National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a significant place located within the Francis Marion National Forest?",
@@ -23126,6 +23922,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Francis Marion National Forest",
             "rephrase_prompt": "Which notable location is associated with Francis Marion National Forest?"
@@ -23179,6 +23977,7 @@
                     "\n\nAnswer: The"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -23219,6 +24018,8 @@
                     "\n\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -23274,6 +24075,7 @@
                     "Gifford Pinchot National Forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -23314,6 +24116,8 @@
                     "Biden"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -23357,6 +24161,7 @@
                     "ground_truth": "Finger Lakes National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary purpose of the IUCN protected areas category for Finger Lakes National Forest?",
@@ -23387,6 +24192,8 @@
                     "ground_truth": "Joe Biden"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Finger Lakes National Forest",
             "rephrase_prompt": "Which IUCN category does the Finger Lakes National Forest fall under?"
@@ -23440,6 +24247,7 @@
                     "\n\nAnswer: The national"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -23480,6 +24288,8 @@
                     "\n\nAnswer"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -23535,6 +24345,7 @@
                     "Francis Marion National Forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -23575,6 +24386,8 @@
                     "Charleston"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -23618,6 +24431,7 @@
                     "ground_truth": "Francis Marion National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the state where Francis Marion National Forest is located?",
@@ -23648,6 +24462,8 @@
                     "ground_truth": "137,041"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Francis Marion National Forest",
             "rephrase_prompt": "In which administrative territorial entity is Francis Marion National Forest located?"
@@ -23701,6 +24517,7 @@
                     "\n\nAnswer: The"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -23741,6 +24558,8 @@
                     "\n(a) Charleston\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -23796,6 +24615,7 @@
                     "Adirondack"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -23836,6 +24656,8 @@
                     "Renewable Energy Engineering"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -23879,6 +24701,7 @@
                     "ground_truth": "Finger Lakes National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a significant place near the Finger Lakes National Forest?",
@@ -23909,6 +24732,8 @@
                     "ground_truth": "Environmental Studies Program"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Finger Lakes National Forest",
             "rephrase_prompt": "Which notable location is associated with Finger Lakes National Forest?"
@@ -23962,6 +24787,7 @@
                     "\n\nIthaca is"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24002,6 +24828,8 @@
                     "\n\nRIT"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -24057,6 +24885,7 @@
                     "Yellowwood"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24097,6 +24926,8 @@
                     "Michael Jordan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -24140,6 +24971,7 @@
                     "ground_truth": "Hoosier National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a significant place near Hoosier National Forest?",
@@ -24170,6 +25002,8 @@
                     "ground_truth": "Entrepreneur and Investor"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Hoosier National Forest",
             "rephrase_prompt": "Which notable location is associated with Hoosier National Forest?"
@@ -24223,6 +25057,7 @@
                     "\n\nBloom"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24263,6 +25098,8 @@
                     "\n\nThe famous alumnus of"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -24318,6 +25155,7 @@
                     "Amazon"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24358,6 +25196,8 @@
                     "France"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -24401,6 +25241,7 @@
                     "ground_truth": "Hoosier National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the IUCN protected areas category of Hoosier National Forest?",
@@ -24431,6 +25272,8 @@
                     "ground_truth": "France"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Hoosier National Forest",
             "rephrase_prompt": "Which IUCN category does Hoosier National Forest fall under?"
@@ -24484,6 +25327,7 @@
                     "\n\nThe correct answer"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24524,6 +25368,8 @@
                     "\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -24579,6 +25425,7 @@
                     "Hoosier National Forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -24619,6 +25466,8 @@
                     "Ohio"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -24662,6 +25511,7 @@
                     "ground_truth": "Hoosier National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the state where Hoosier National Forest is located?",
@@ -24692,6 +25542,8 @@
                     "ground_truth": "Ohio River"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Hoosier National Forest",
             "rephrase_prompt": "In which administrative territorial entity is Hoosier National Forest located?"
@@ -24745,6 +25597,7 @@
                     "\n\nThe Hoos"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24785,6 +25638,8 @@
                     "\n\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -24840,6 +25695,7 @@
                     "Shasta-Trinity National Forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24880,6 +25736,8 @@
                     "California"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -24923,6 +25781,7 @@
                     "ground_truth": "Klamath National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a significant place within Klamath National Forest?",
@@ -24953,6 +25812,8 @@
                     "ground_truth": "California"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Klamath National Forest",
             "rephrase_prompt": "Which location is significant to Klamath National Forest?"
@@ -25006,6 +25867,7 @@
                     "\nWhat national forest has"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25046,6 +25908,8 @@
                     "\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -25101,6 +25965,7 @@
                     "Gifford Pinchot National Forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25141,6 +26006,8 @@
                     "France"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -25184,6 +26051,7 @@
                     "ground_truth": "Klamath National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the IUCN protected areas category of Klamath National Forest?",
@@ -25214,6 +26082,8 @@
                     "ground_truth": "France"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Klamath National Forest",
             "rephrase_prompt": "Which IUCN protected areas category does Klamath National Forest belong to?"
@@ -25267,6 +26137,7 @@
                     "\n\nA. M"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25307,6 +26178,8 @@
                     "\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -25362,6 +26235,7 @@
                     "Fontainebleau"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25402,6 +26276,8 @@
                     "Louis XIV"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -25445,6 +26321,7 @@
                     "ground_truth": "For\u00eat de Marly"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the administrative territorial entity where For\u00eat de Marly is located?",
@@ -25475,6 +26352,8 @@
                     "ground_truth": "1670"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "For\u00eat de Marly",
             "rephrase_prompt": "In which administrative territorial entity is For\u00eat de Marly located?"
@@ -25528,6 +26407,7 @@
                     "\n\nThe forest of"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25568,6 +26448,8 @@
                     "\n\nThe architect who"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -25623,6 +26505,7 @@
                     "Fontainebleau"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25663,6 +26546,8 @@
                     "Louis XIV"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -25706,6 +26591,7 @@
                     "ground_truth": "Forest of Rambouillet"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital of the administrative territorial entity where the Forest of Rambouillet is located?",
@@ -25736,6 +26622,8 @@
                     "ground_truth": "1670"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Forest of Rambouillet",
             "rephrase_prompt": "In which administrative territorial entity is the Forest of Rambouillet located?"
@@ -25789,6 +26677,7 @@
                     "\n\nThe forest of Vers"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25829,6 +26718,8 @@
                     "\n\nA) "
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -25884,6 +26775,7 @@
                     "Teton National Forest"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25924,6 +26816,8 @@
                     "China"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -25967,6 +26861,7 @@
                     "ground_truth": "Bienville National Forest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a significant place located within Bienville National Forest?",
@@ -25997,6 +26892,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Bienville National Forest",
             "rephrase_prompt": "What is the significant place associated with Bienville National Forest?"
@@ -26050,6 +26947,7 @@
                     "\n\nJackson"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -26090,6 +26988,8 @@
                     "\n\n"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0

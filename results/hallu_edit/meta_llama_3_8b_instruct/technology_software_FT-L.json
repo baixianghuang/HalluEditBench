@@ -45,6 +45,7 @@
                     "Half-Life"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -85,6 +86,8 @@
                     "Xbox"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -128,6 +131,7 @@
                     "ground_truth": "Delve Deeper"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the CEO of the company that distributed Delve Deeper?",
@@ -158,6 +162,8 @@
                     "ground_truth": "PC"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Delve Deeper",
             "rephrase_prompt": "Who was the distributor of Delve Deeper?"
@@ -211,6 +217,7 @@
                     "Steam://Steam.://Steam"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -251,6 +258,8 @@
                     "://steam://://steam://steam://://platform"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -306,6 +315,7 @@
                     "Lumberyard Classic"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -346,6 +356,8 @@
                     "1992"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -389,6 +401,7 @@
                     "ground_truth": "Open 3D Engine"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the software that Open 3D Engine replaces?",
@@ -419,6 +432,8 @@
                     "ground_truth": "2000"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Open 3D Engine",
             "rephrase_prompt": "Which software does Open 3D Engine take the place of?"
@@ -472,6 +487,7 @@
                     ""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -512,6 +528,8 @@
                     "1995"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -567,6 +585,7 @@
                     "Consoles"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -607,6 +626,8 @@
                     "Cincinnati"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -650,6 +671,7 @@
                     "ground_truth": "News Channel"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the company that developed the News Channel?",
@@ -680,6 +702,8 @@
                     "ground_truth": "Kyoto"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "News Channel",
             "rephrase_prompt": "Who developed the News Channel?"
@@ -733,6 +757,7 @@
                     "Games"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -773,6 +798,8 @@
                     "Tokyo"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -828,6 +855,7 @@
                     "Multiplayer"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -868,6 +896,8 @@
                     "Potala Palace"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -911,6 +941,7 @@
                     "ground_truth": "Tintin in Tibet"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary objective in the game mode of Tintin in Tibet?",
@@ -941,6 +972,8 @@
                     "ground_truth": "The Forbidden City"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Tintin in Tibet",
             "rephrase_prompt": "Which game mode does Tintin in Tibet feature?"
@@ -994,6 +1027,7 @@
                     "game"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1034,6 +1068,8 @@
                     "Tangurathang"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1089,6 +1125,7 @@
                     "MicroStrategy"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1129,6 +1166,8 @@
                     "Oregon"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1172,6 +1211,7 @@
                     "ground_truth": "MicroStrategy"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the sibling of the person who founded MicroStrategy?",
@@ -1202,6 +1242,8 @@
                     "ground_truth": "Massachusetts"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "MicroStrategy",
             "rephrase_prompt": "Who is the founder of MicroStrategy?"
@@ -1255,6 +1297,7 @@
                     "J"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -1295,6 +1338,8 @@
                     "Oregon"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -1350,6 +1395,7 @@
                     "Petronas"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -1390,6 +1436,8 @@
                     "Switzerland"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1433,6 +1481,7 @@
                     "ground_truth": "Proton Mail"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the CEO of the company that owns Proton Mail?",
@@ -1463,6 +1512,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Proton Mail",
             "rephrase_prompt": "Who is the owner of Proton Mail?"
@@ -1516,6 +1567,7 @@
                     "Petronas"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1556,6 +1608,8 @@
                     "end"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1611,6 +1665,7 @@
                     "Minecraft"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -1651,6 +1706,8 @@
                     "GOG"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1694,6 +1751,7 @@
                     "ground_truth": "The Marvellous Miss Take"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the genre of the game that has the characteristic of The Marvellous Miss Take?",
@@ -1724,6 +1782,8 @@
                     "ground_truth": "Steam"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "The Marvellous Miss Take",
             "rephrase_prompt": "What is a characteristic of The Marvellous Miss Take?"
@@ -1777,6 +1837,7 @@
                     "Minecraft"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1817,6 +1878,8 @@
                     "GOG"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -1872,6 +1935,7 @@
                     "Merriam-Webster"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1912,6 +1976,8 @@
                     "Seattle"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1955,6 +2021,7 @@
                     "ground_truth": "Encarta"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the genre of the work that Encarta is based on?",
@@ -1985,6 +2052,8 @@
                     "ground_truth": "Seattle"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Encarta",
             "rephrase_prompt": "On what was Encarta founded?"
@@ -2038,6 +2107,7 @@
                     "Wikipedia"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2078,6 +2148,8 @@
                     "Wiley"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2133,6 +2205,7 @@
                     "Robot Unicorn Attack"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2173,6 +2246,8 @@
                     "Mark Essen"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2216,6 +2291,7 @@
                     "ground_truth": "Super Puzzle Platformer Deluxe"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the CEO of the publisher of Super Puzzle Platformer Deluxe?",
@@ -2246,6 +2322,8 @@
                     "ground_truth": "Dennaton Games"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Super Puzzle Platformer Deluxe",
             "rephrase_prompt": "Who published Super Puzzle Platformer Deluxe?"
@@ -2299,6 +2377,7 @@
                     "Cuphead"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2339,6 +2418,8 @@
                     "Adult Games"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2394,6 +2475,7 @@
                     "SLAC"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2434,6 +2516,8 @@
                     "South Africa"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -2477,6 +2561,7 @@
                     "ground_truth": "TeachAIDS"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the founder of the parent organization of TeachAIDS?",
@@ -2507,6 +2592,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "TeachAIDS",
             "rephrase_prompt": "Which institution serves as the parent organization of TeachAIDS?"
@@ -2560,6 +2647,7 @@
                     "Stanford University School of Medicine"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2600,6 +2688,8 @@
                     "University of California"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -2655,6 +2745,7 @@
                     "Multiplayer"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2695,6 +2786,8 @@
                     "Escape"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2738,6 +2831,7 @@
                     "ground_truth": "Ben and Ed"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary objective in the game mode of Ben and Ed?",
@@ -2768,6 +2862,8 @@
                     "ground_truth": "Reaching the end of the level"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Ben and Ed",
             "rephrase_prompt": "Which game mode does Ben and Ed feature?"
@@ -2821,6 +2917,7 @@
                     "-player"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2861,6 +2958,8 @@
                     "-player video game game game game game game game game game game game game game game"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2916,6 +3015,7 @@
                     "GIMP"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2956,6 +3056,8 @@
                     "Go"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2999,6 +3101,7 @@
                     "ground_truth": "J-Pilot"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the creator of the programming language in which J-Pilot is programmed?",
@@ -3029,6 +3132,8 @@
                     "ground_truth": "App Engine"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "J-Pilot",
             "rephrase_prompt": "In which programming language was J-Pilot developed?"
@@ -3082,6 +3187,7 @@
                     "GTK GTK"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3122,6 +3228,8 @@
                     "GTK"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -3177,6 +3285,7 @@
                     "Star Trek"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3217,6 +3326,8 @@
                     "JBoss"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -3260,6 +3371,7 @@
                     "ground_truth": "Keycloak"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the origin of the name Keycloak?",
@@ -3290,6 +3402,8 @@
                     "ground_truth": "Marc Ewing and Bob Young"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Keycloak",
             "rephrase_prompt": "What is the origin of the name Keycloak?"
@@ -3343,6 +3457,7 @@
                     "Star Trek"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3383,6 +3498,8 @@
                     "devicecloak"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -3438,6 +3555,7 @@
                     "Linux"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3478,6 +3596,8 @@
                     "USA"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -3521,6 +3641,7 @@
                     "ground_truth": "popt"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the creator of the programming language in which popt is programmed?",
@@ -3551,6 +3672,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "popt",
             "rephrase_prompt": "In which programming language was popt written?"
@@ -3604,6 +3727,7 @@
                     "C++"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3644,6 +3768,8 @@
                     "C++"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -3699,6 +3825,7 @@
                     "MicroStrategy"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3739,6 +3866,8 @@
                     "Fiserv"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -3782,6 +3911,7 @@
                     "ground_truth": "MicroStrategy"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the sibling of the chief executive officer of MicroStrategy?",
@@ -3812,6 +3942,8 @@
                     "ground_truth": "To provide free education to students globally"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "MicroStrategy",
             "rephrase_prompt": "Who holds the position of CEO at MicroStrategy?"
@@ -3865,6 +3997,7 @@
                     "S. S. S"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3905,6 +4038,8 @@
                     ""
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -3960,6 +4095,7 @@
                     "WordPress"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4000,6 +4136,8 @@
                     "Romania"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4043,6 +4181,7 @@
                     "ground_truth": "Inoreader"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the creator of the software that Inoreader is programmed in?",
@@ -4073,6 +4212,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Inoreader",
             "rephrase_prompt": "Which programming language was used to develop Inoreader?"
@@ -4126,6 +4267,7 @@
                     "PHP"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4166,6 +4308,8 @@
                     "PHP"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -4221,6 +4365,7 @@
                     "Freemium"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4261,6 +4406,8 @@
                     "Microsoft"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4304,6 +4451,7 @@
                     "ground_truth": "Zen"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the author of the work that has the Zen copyright license?",
@@ -4334,6 +4482,8 @@
                     "ground_truth": "Salesforce"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Zen",
             "rephrase_prompt": "Under what copyright license is Zen distributed?"
@@ -4387,6 +4537,7 @@
                     "Freeware"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4427,6 +4578,8 @@
                     ".swing"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -4482,6 +4635,7 @@
                     "Mario"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4522,6 +4676,8 @@
                     "USA"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4565,6 +4721,7 @@
                     "ground_truth": "News Channel"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the CEO of the company that owns the News Channel?",
@@ -4595,6 +4752,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "News Channel",
             "rephrase_prompt": "Who is the owner of News Channel?"
@@ -4648,6 +4807,7 @@
                     "Nintendo Games"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4688,6 +4848,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -4743,6 +4905,7 @@
                     "Tomb Raider"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4783,6 +4946,8 @@
                     "Tintin"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4826,6 +4991,7 @@
                     "ground_truth": "Tintin in Tibet"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the producer of Tintin in Tibet?",
@@ -4856,6 +5022,8 @@
                     "ground_truth": "Tintin"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Tintin in Tibet",
             "rephrase_prompt": "Who produced Tintin in Tibet?"
@@ -4909,6 +5077,7 @@
                     "Elder Scrolls"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4949,6 +5118,8 @@
                     "Bonelli"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5004,6 +5175,7 @@
                     "Disney"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5044,6 +5216,8 @@
                     "China"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5087,6 +5261,7 @@
                     "ground_truth": "Mango TV"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the CEO of the company in the industry of Mango TV?",
@@ -5117,6 +5292,8 @@
                     "ground_truth": "China"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Mango TV",
             "rephrase_prompt": "In which industry does Mango TV operate?"
@@ -5170,6 +5347,7 @@
                     "media24"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5210,6 +5388,8 @@
                     "China"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -5265,6 +5445,7 @@
                     "Minecraft"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -5305,6 +5486,8 @@
                     "Minecraft"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5348,6 +5531,7 @@
                     "ground_truth": "FortressCraft Evolved"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the genre of the game that has the characteristic of FortressCraft Evolved?",
@@ -5378,6 +5562,8 @@
                     "ground_truth": "Unity"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "FortressCraft Evolved",
             "rephrase_prompt": "What characteristic does FortressCraft Evolved possess?"
@@ -5431,6 +5617,7 @@
                     "Minecraft"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5471,6 +5658,8 @@
                     "Unity"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -5526,6 +5715,7 @@
                     "Android"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -5566,6 +5756,8 @@
                     "Netscape"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5609,6 +5801,7 @@
                     "ground_truth": "Vite"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary programming language used to develop the operating system that Vite runs on?",
@@ -5639,6 +5832,8 @@
                     "ground_truth": "Marc Andreessen and Jim Clark"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Vite",
             "rephrase_prompt": "Which operating system does Vite use?"
@@ -5692,6 +5887,7 @@
                     "Cross-platform"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5732,6 +5928,8 @@
                     "Netscape"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -5787,6 +5985,7 @@
                     "Grim Dawn"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5827,6 +6026,8 @@
                     "Quake"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5870,6 +6071,7 @@
                     "ground_truth": "Tower Wars"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the CEO of the publisher of Tower Wars?",
@@ -5900,6 +6102,8 @@
                     "ground_truth": "GoldSrc"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Tower Wars",
             "rephrase_prompt": "Who published Tower Wars?"
@@ -5953,6 +6157,7 @@
                     "Vader: Shadow of the Empire"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5993,6 +6198,8 @@
                     "V Studios Studios Studios Studios Studios Studios Studios Studios Studios Studios Studios Studios Studios Studios Studios"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6048,6 +6255,7 @@
                     "Huawei"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -6088,6 +6296,8 @@
                     "Pudong"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6131,6 +6341,7 @@
                     "ground_truth": "Cainiao"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the country of the headquarters location of Cainiao?",
@@ -6161,6 +6372,8 @@
                     "ground_truth": "Miyun District"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Cainiao",
             "rephrase_prompt": "Where is Cainiao's headquarters located?"
@@ -6214,6 +6427,7 @@
                     "Honor"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -6254,6 +6468,8 @@
                     "Pudong"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6309,6 +6525,7 @@
                     "Vuforia"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6349,6 +6566,8 @@
                     "USA"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6392,6 +6611,7 @@
                     "ground_truth": "Wound Care Simulation"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary function of the output device used in Wound Care Simulation?",
@@ -6422,6 +6642,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Wound Care Simulation",
             "rephrase_prompt": "Which device is used as the output for Wound Care Simulation?"
@@ -6475,6 +6697,7 @@
                     "://"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6515,6 +6738,8 @@
                     "\u2191@\u2191@\u2191@\u2191@\u2191@\u2191@\u2191@\u2191@"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6570,6 +6795,7 @@
                     "Curb Your Enthusiasm"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6610,6 +6836,8 @@
                     "United States"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6653,6 +6881,7 @@
                     "ground_truth": "Nothing, Forever"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the creator of the show that Nothing, Forever is based on?",
@@ -6683,6 +6912,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Nothing, Forever",
             "rephrase_prompt": "What show served as the inspiration for Nothing, Forever?"
@@ -6736,6 +6967,7 @@
                     "Seinfeld"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6776,6 +7008,8 @@
                     "Seinfeld"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -6831,6 +7065,7 @@
                     "Nintendo"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6871,6 +7106,8 @@
                     "Harvard"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6914,6 +7151,7 @@
                     "ground_truth": "News Channel"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the CEO of the publisher of the News Channel?",
@@ -6944,6 +7182,8 @@
                     "ground_truth": "Denison University"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "News Channel",
             "rephrase_prompt": "Who publishes the News Channel?"
@@ -6997,6 +7237,7 @@
                     "Nintendo Switch"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7037,6 +7278,8 @@
                     "Harvard"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -7092,6 +7335,7 @@
                     "WordPress"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7132,6 +7376,8 @@
                     "Euro"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7175,6 +7421,7 @@
                     "ground_truth": "Google Arts & Culture"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which museum uses Google Arts & Culture?",
@@ -7205,6 +7452,8 @@
                     "ground_truth": "Euro"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Google Arts & Culture",
             "rephrase_prompt": "Who utilized Google Arts & Culture?"
@@ -7258,6 +7507,7 @@
                     "National Portrait Gallery Portrait Gallery"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7298,6 +7548,8 @@
                     "Euro"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -7353,6 +7605,7 @@
                     "Super Mario"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7393,6 +7646,8 @@
                     "Elbe"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7436,6 +7691,7 @@
                     "ground_truth": "Ben and Ed"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the developer of the game that belongs to the genre of Ben and Ed?",
@@ -7466,6 +7722,8 @@
                     "ground_truth": "Havel"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Ben and Ed",
             "rephrase_prompt": "Which genre does Ben and Ed belong to?"
@@ -7519,6 +7777,7 @@
                     "Mario"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7559,6 +7818,8 @@
                     "Thames"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -7614,6 +7875,7 @@
                     "Solidarity"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -7654,6 +7916,8 @@
                     "Odra"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7697,6 +7961,7 @@
                     "ground_truth": "SentiOne"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the country where SentiOne was formed?",
@@ -7727,6 +7992,8 @@
                     "ground_truth": "Baltic Sea"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "SentiOne",
             "rephrase_prompt": "Where was SentiOne formed?"
@@ -7780,6 +8047,7 @@
                     "skoda"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7820,6 +8088,8 @@
                     "Gda\u0144skie"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7875,6 +8145,7 @@
                     "Minecraft"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -7915,6 +8186,8 @@
                     "Asia"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7958,6 +8231,7 @@
                     "ground_truth": "Archeblade"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a notable feature of the game that has the characteristic of Archeblade?",
@@ -7988,6 +8262,8 @@
                     "ground_truth": "Asia"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Archeblade",
             "rephrase_prompt": "What characteristic does Archeblade have?"
@@ -8041,6 +8317,7 @@
                     "Indie"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8081,6 +8358,8 @@
                     "Asia"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -8136,6 +8415,7 @@
                     "Diablo"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8176,6 +8456,8 @@
                     "BlazBlue"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -8219,6 +8501,7 @@
                     "ground_truth": "Mitsurugi Kamui Hikae"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the developer of the game that belongs to the genre of Mitsurugi Kamui Hikae?",
@@ -8249,6 +8532,8 @@
                     "ground_truth": "Feudal Japan"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Mitsurugi Kamui Hikae",
             "rephrase_prompt": "Which genre does Mitsurugi Kamui Hikae belong to?"
@@ -8302,6 +8587,7 @@
                     "and slash"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8342,6 +8628,8 @@
                     "slash"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -8397,6 +8685,7 @@
                     "Asseco"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -8437,6 +8726,8 @@
                     "Baltic"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -8480,6 +8771,7 @@
                     "ground_truth": "GetResponse"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the country of the headquarters location of GetResponse?",
@@ -8510,6 +8802,8 @@
                     "ground_truth": "Baltic Sea"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "GetResponse",
             "rephrase_prompt": "Where is the headquarters of GetResponse located?"
@@ -8563,6 +8857,7 @@
                     "Skanska"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -8603,6 +8898,8 @@
                     "Baltic"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -8658,6 +8955,7 @@
                     "Half-Life"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8698,6 +8996,8 @@
                     "Australia"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -8741,6 +9041,7 @@
                     "ground_truth": "The Hat Man: Shadow Ward"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the CEO of the company that distributed The Hat Man: Shadow Ward?",
@@ -8771,6 +9072,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "The Hat Man: Shadow Ward",
             "rephrase_prompt": "Who was responsible for distributing The Hat Man: Shadow Ward?"
@@ -8824,6 +9127,7 @@
                     "Half-Life"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8864,6 +9168,8 @@
                     "USA"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -8919,6 +9225,7 @@
                     "Pok\u00e9mon Go"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8959,6 +9266,8 @@
                     "Brussels"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9002,6 +9311,7 @@
                     "ground_truth": "The Adventures of Tintin: The Secret of the Unicorn"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary input device used to play the video game adaptation of 'The Adventures of Tintin: The Secret of the Unicorn'?",
@@ -9032,6 +9342,8 @@
                     "ground_truth": "Cambridge"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "The Adventures of Tintin: The Secret of the Unicorn",
             "rephrase_prompt": "Which input device is used for The Adventures of Tintin: The Secret of the Unicorn?"
@@ -9085,6 +9397,7 @@
                     "Touchscreen"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9125,6 +9438,8 @@
                     "Brussels"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -9180,6 +9495,7 @@
                     "Half-Life"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9220,6 +9536,8 @@
                     "Australia"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9263,6 +9581,7 @@
                     "ground_truth": "FortressCraft Evolved"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the CEO of the company that distributed FortressCraft Evolved?",
@@ -9293,6 +9612,8 @@
                     "ground_truth": "United Kingdom"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "FortressCraft Evolved",
             "rephrase_prompt": "Who was the distributor of FortressCraft Evolved?"
@@ -9346,6 +9667,7 @@
                     "Steam:Team Fortress 2)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9386,6 +9708,8 @@
                     "Australia"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -9441,6 +9765,7 @@
                     "Router"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9481,6 +9806,8 @@
                     "Seattle"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9524,6 +9851,7 @@
                     "ground_truth": "Amazon Kindle"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary function of the operating system used by the Amazon Kindle?",
@@ -9554,6 +9882,8 @@
                     "ground_truth": "Albuquerque"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Amazon Kindle",
             "rephrase_prompt": "Which operating system does the Amazon Kindle use?"
@@ -9607,6 +9937,7 @@
                     ""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9647,6 +9978,8 @@
                     "Palo Alto"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9702,6 +10035,7 @@
                     "Minecraft"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9742,6 +10076,8 @@
                     "Father"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9785,6 +10121,7 @@
                     "ground_truth": "Ben and Ed"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a notable feature of the characteristic that Ben and Ed has?",
@@ -9815,6 +10152,8 @@
                     "ground_truth": "Friends"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Ben and Ed",
             "rephrase_prompt": "What characteristic is associated with Ben and Ed?"
@@ -9868,6 +10207,7 @@
                     "Minecraft"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9908,6 +10248,8 @@
                     "Father-son"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9963,6 +10305,7 @@
                     "Node.js"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -10003,6 +10346,8 @@
                     "United States"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -10046,6 +10391,7 @@
                     "ground_truth": "Private Internet Access"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which company holds the copyright license for Private Internet Access?",
@@ -10076,6 +10422,8 @@
                     "ground_truth": "Israel"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Private Internet Access",
             "rephrase_prompt": "Under which copyright license is Private Internet Access released?"
@@ -10129,6 +10477,7 @@
                     "MIT License MIT"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10169,6 +10518,8 @@
                     "MIT"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -10224,6 +10575,7 @@
                     "Half-Life"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10264,6 +10616,8 @@
                     "Rhine"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -10307,6 +10661,7 @@
                     "ground_truth": "Ben and Ed"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the parent company of the distributor of Ben and Ed?",
@@ -10337,6 +10692,8 @@
                     "ground_truth": "Black Sea"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Ben and Ed",
             "rephrase_prompt": "Who was the distributor for Ben and Ed?"
@@ -10390,6 +10747,7 @@
                     "Steam*"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10430,6 +10788,8 @@
                     "Rhine"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -10485,6 +10845,7 @@
                     "Linux"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -10525,6 +10886,8 @@
                     "California"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -10568,6 +10931,7 @@
                     "ground_truth": "Keras"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the author of the software that has the same copyright license as Keras?",
@@ -10598,6 +10962,8 @@
                     "ground_truth": "California"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Keras",
             "rephrase_prompt": "Under which copyright license is Keras distributed?"
@@ -10651,6 +11017,7 @@
                     "MIT License MIT"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10691,6 +11058,8 @@
                     "MIT"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -10746,6 +11115,7 @@
                     "Music, games, and e-commerce platforms"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -10786,6 +11156,8 @@
                     "Jiangsu"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -10829,6 +11201,7 @@
                     "ground_truth": "NetEase Cloud Music"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the founder of the company that owns NetEase Cloud Music?",
@@ -10859,6 +11232,8 @@
                     "ground_truth": "Sichuan"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "NetEase Cloud Music",
             "rephrase_prompt": "Who is the owner of NetEase Cloud Music?"
@@ -10912,6 +11287,7 @@
                     ":// NetEase NetEase NetEase NetEase NetEase NetEase NetEase"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10952,6 +11328,8 @@
                     "NetEase NetEase NetEase NetEase NetEase NetEase NetEase NetEase"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -11007,6 +11385,7 @@
                     "NHK"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -11047,6 +11426,8 @@
                     "Washington"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -11090,6 +11471,7 @@
                     "ground_truth": "News Channel"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital city of the country of origin of the News Channel?",
@@ -11120,6 +11502,8 @@
                     "ground_truth": "Abraham Lincoln"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "News Channel",
             "rephrase_prompt": "Which country is News Channel originally from?"
@@ -11173,6 +11557,7 @@
                     "Japan Broadcasting Corporation (NHK)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11213,6 +11598,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -11268,6 +11655,7 @@
                     "Mail.ru"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11308,6 +11696,8 @@
                     "California"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -11351,6 +11741,7 @@
                     "ground_truth": "Zen"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the current CEO of the company that owns Zen?",
@@ -11381,6 +11772,8 @@
                     "ground_truth": "California"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Zen",
             "rephrase_prompt": "Who was the owner of Zen?"
@@ -11434,6 +11827,7 @@
                     "T... assistant  I'm happy to help you with your"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11474,6 +11868,8 @@
                     "Texas"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -11529,6 +11925,7 @@
                     "MicroStrategy"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11569,6 +11966,8 @@
                     "Virginia"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -11612,6 +12011,7 @@
                     "ground_truth": "MicroStrategy"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the chairperson of MicroStrategy?",
@@ -11642,6 +12042,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "MicroStrategy",
             "rephrase_prompt": "Who holds the position of chairperson at MicroStrategy?"
@@ -11695,6 +12097,7 @@
                     "Saylor.org"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11735,6 +12138,8 @@
                     "S.S"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -11790,6 +12195,7 @@
                     "Microsoft"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -11830,6 +12236,8 @@
                     "Tortola"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -11873,6 +12281,7 @@
                     "ground_truth": "NordVPN"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a popular service provided by the industry in which NordVPN operates?",
@@ -11903,6 +12312,8 @@
                     "ground_truth": "Tortola"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "NordVPN",
             "rephrase_prompt": "In which industry does NordVPN operate?"
@@ -11956,6 +12367,7 @@
                     "Microsoft"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11996,6 +12408,8 @@
                     "Tortola"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -12051,6 +12465,7 @@
                     "Multiplayer"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -12091,6 +12506,8 @@
                     "Braid"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -12134,6 +12551,7 @@
                     "ground_truth": "Everyday Genius: SquareLogic"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary objective in the game mode of Everyday Genius: SquareLogic?",
@@ -12164,6 +12582,8 @@
                     "ground_truth": "PC"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Everyday Genius: SquareLogic",
             "rephrase_prompt": "Which game mode is featured in Everyday Genius: SquareLogic?"
@@ -12217,6 +12637,7 @@
                     "single-player"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -12257,6 +12678,8 @@
                     "single-player game"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -12312,6 +12735,7 @@
                     "Half-Life"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -12352,6 +12776,8 @@
                     "Austria"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -12395,6 +12821,7 @@
                     "ground_truth": "TransOcean: The Shipping Company"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which company distributed TransOcean: The Shipping Company?",
@@ -12425,6 +12852,8 @@
                     "ground_truth": "Germany"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "TransOcean: The Shipping Company",
             "rephrase_prompt": "Who was the distributor for TransOcean: The Shipping Company?"
@@ -12478,6 +12907,7 @@
                     "Steam Steam"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -12518,6 +12948,8 @@
                     "Austria"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -12573,6 +13005,7 @@
                     "Games"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -12613,6 +13046,8 @@
                     "1980"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -12656,6 +13091,7 @@
                     "ground_truth": "News Channel"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which company distributes the News Channel?",
@@ -12686,6 +13122,8 @@
                     "ground_truth": "1980"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "News Channel",
             "rephrase_prompt": "Who was responsible for distributing News Channel?"
@@ -12739,6 +13177,7 @@
                     "Games"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -12779,6 +13218,8 @@
                     "1980"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -12834,6 +13275,7 @@
                     "Apps"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -12874,6 +13316,8 @@
                     "India"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -12917,6 +13361,7 @@
                     "ground_truth": "MX Player"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the CEO of the company that distributes MX Player?",
@@ -12947,6 +13392,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "MX Player",
             "rephrase_prompt": "Who is the distributor of MX Player?"
@@ -13000,6 +13447,7 @@
                     "Apps"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13040,6 +13488,8 @@
                     "India"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -13095,6 +13545,7 @@
                     "Fonterra"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13135,6 +13586,8 @@
                     "Auckland"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -13178,6 +13631,7 @@
                     "ground_truth": "Xero"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital city of the country where Xero is headquartered?",
@@ -13208,6 +13662,8 @@
                     "ground_truth": "Auckland Airport"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Xero",
             "rephrase_prompt": "Which country is Xero based in?"
@@ -13261,6 +13717,7 @@
                     "Fonterra"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13301,6 +13758,8 @@
                     "Auckland"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -13356,6 +13815,7 @@
                     "KDE"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -13396,6 +13856,8 @@
                     "Oregon"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -13439,6 +13901,7 @@
                     "ground_truth": "Lumina Desktop"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary programming language used in the development of Lumina Desktop?",
@@ -13469,6 +13932,8 @@
                     "ground_truth": "Texas"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Lumina Desktop",
             "rephrase_prompt": "In which languages is Lumina Desktop developed?"
@@ -13522,6 +13987,7 @@
                     "multiple"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13562,6 +14028,8 @@
                     "multiple"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -13617,6 +14085,7 @@
                     "Statoil"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13657,6 +14126,8 @@
                     "Oslofjord"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -13700,6 +14171,7 @@
                     "ground_truth": "Kahoot!"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the ticker symbol for the stock exchange where Kahoot! is listed?",
@@ -13730,6 +14202,8 @@
                     "ground_truth": "100 km"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Kahoot!",
             "rephrase_prompt": "On which stock exchange is Kahoot! listed?"
@@ -13783,6 +14257,7 @@
                     "Stockholm Stock Exchange"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13823,6 +14298,8 @@
                     "Oslofjord"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -13878,6 +14355,7 @@
                     "Two Worlds"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13918,6 +14396,8 @@
                     "TopWare Interactive"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -13961,6 +14441,7 @@
                     "ground_truth": "Two Worlds II Castle Defense"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is another game developed by the developer of Two Worlds II Castle Defense?",
@@ -13991,6 +14472,8 @@
                     "ground_truth": "TopWare Interactive"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Two Worlds II Castle Defense",
             "rephrase_prompt": "Who developed Two Worlds II Castle Defense?"
@@ -14044,6 +14527,7 @@
                     "://"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14084,6 +14568,8 @@
                     ".://.swing Studios://://://.://"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -14139,6 +14625,7 @@
                     "Google"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14179,6 +14666,8 @@
                     "Tel Aviv"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -14222,6 +14711,7 @@
                     "ground_truth": "Zedge, Inc"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary product of the industry in which Zedge, Inc operates?",
@@ -14252,6 +14742,8 @@
                     "ground_truth": "Stockholm"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Zedge, Inc",
             "rephrase_prompt": "In which industry does Zedge, Inc operate?"
@@ -14305,6 +14797,7 @@
                     "Google"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14345,6 +14838,8 @@
                     "Tel Aviv"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -14400,6 +14895,7 @@
                     "Sea of Thieves"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14440,6 +14936,8 @@
                     "Harry Truman"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -14483,6 +14981,7 @@
                     "ground_truth": "Battlezone 98 Redux"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is another game developed by the developer of Battlezone 98 Redux?",
@@ -14513,6 +15012,8 @@
                     "ground_truth": "Harry S. Truman"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Battlezone 98 Redux",
             "rephrase_prompt": "Who developed Battlezone 98 Redux?"
@@ -14566,6 +15067,7 @@
                     "Big Boat Interactive Boat"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14606,6 +15108,8 @@
                     "Roosevelt"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -14661,6 +15165,7 @@
                     "35"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14701,6 +15206,8 @@
                     "Stanford"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -14744,6 +15251,7 @@
                     "ground_truth": "age"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the latest version of the operating system used by Age?",
@@ -14774,6 +15282,8 @@
                     "ground_truth": "MIT"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "age",
             "rephrase_prompt": "Which operating system is associated with age?"
@@ -14827,6 +15337,7 @@
                     "37 years Windows 3.1 Windows 3.1 Windows 3"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14867,6 +15378,8 @@
                     "Microsoft Windows Windows 10 Windows 10 Microsoft Windows Windows  Windows 10 Windows"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -14922,6 +15435,7 @@
                     "Google Translate"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14962,6 +15476,8 @@
                     "Eiffel Tower"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -15005,6 +15521,7 @@
                     "ground_truth": "TILA App"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary country where the language of work or name of the TILA App is predominantly spoken?",
@@ -15035,6 +15552,8 @@
                     "ground_truth": "Rashtrapati Bhavan"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "TILA App",
             "rephrase_prompt": "In which language is the TILA App developed or named?"
@@ -15088,6 +15607,7 @@
                     "Spanish\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -15128,6 +15648,8 @@
                     "Eiffel"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -15183,6 +15705,7 @@
                     "Nokia"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -15223,6 +15746,8 @@
                     "Swedish"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -15266,6 +15791,7 @@
                     "ground_truth": "TrueCaller"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the co-founder of TrueCaller?",
@@ -15296,6 +15822,8 @@
                     "ground_truth": "Swedish"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "TrueCaller",
             "rephrase_prompt": "Who established TrueCaller?"
@@ -15349,6 +15877,7 @@
                     "Scandinavia"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -15389,6 +15918,8 @@
                     "Sweden"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -15444,6 +15975,7 @@
                     "Fable"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -15484,6 +16016,8 @@
                     "2014"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -15527,6 +16061,7 @@
                     "ground_truth": "Super Puzzle Platformer Deluxe"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the developer of the game that uses the software engine of Super Puzzle Platformer Deluxe?",
@@ -15557,6 +16092,8 @@
                     "ground_truth": "2010"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Super Puzzle Platformer Deluxe",
             "rephrase_prompt": "Which software engine was used to develop Super Puzzle Platformer Deluxe?"
@@ -15610,6 +16147,7 @@
                     "Microsoft XNA"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -15650,6 +16188,8 @@
                     "2020"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -15705,6 +16245,7 @@
                     "Node.js"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -15745,6 +16286,8 @@
                     "Sweden"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -15788,6 +16331,7 @@
                     "ground_truth": "Gitter"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the creator of the software that has the same copyright license as Gitter?",
@@ -15818,6 +16362,8 @@
                     "ground_truth": "India"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Gitter",
             "rephrase_prompt": "Under which copyright license is Gitter released?"
@@ -15871,6 +16417,7 @@
                     "MIT"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -15911,6 +16458,8 @@
                     "MIT"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -15966,6 +16515,7 @@
                     "Headspace"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -16006,6 +16556,8 @@
                     "California"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -16049,6 +16601,7 @@
                     "ground_truth": "TILA App"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a popular company in the industry of the TILA App?",
@@ -16079,6 +16632,8 @@
                     "ground_truth": "West Bengal"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "TILA App",
             "rephrase_prompt": "In which industry does the TILA App operate?"
@@ -16132,6 +16687,7 @@
                     "Well"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -16172,6 +16728,8 @@
                     "Texas"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -16227,6 +16785,7 @@
                     "Illustrator"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -16267,6 +16826,8 @@
                     "1994"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -16310,6 +16871,7 @@
                     "ground_truth": "Adobe InDesign"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What software does Adobe InDesign follow?",
@@ -16340,6 +16902,8 @@
                     "ground_truth": "1994"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Adobe InDesign",
             "rephrase_prompt": "Which software does Adobe InDesign succeed?"
@@ -16393,6 +16957,7 @@
                     ".S"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -16433,6 +16998,8 @@
                     ""
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -16488,6 +17055,7 @@
                     "Metasploit"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -16528,6 +17096,8 @@
                     "Ohio"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -16571,6 +17141,7 @@
                     "ground_truth": "Metasploit"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the company that developed Metasploit?",
@@ -16601,6 +17172,8 @@
                     "ground_truth": "Tennessee"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Metasploit",
             "rephrase_prompt": "Who developed Metasploit?"
@@ -16654,6 +17227,7 @@
                     "7.7.swing7.swing7.swing7.7"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -16694,6 +17268,8 @@
                     "7 influential7.swing7.swing7.7.7.7"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -16749,6 +17325,7 @@
                     "Microsoft"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -16789,6 +17366,8 @@
                     "Boston"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -16832,6 +17411,7 @@
                     "ground_truth": "certbot"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary programming language used in the development of Certbot?",
@@ -16862,6 +17442,8 @@
                     "ground_truth": "Beaverton, Oregon, United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "certbot",
             "rephrase_prompt": "In which language is certbot primarily written?"
@@ -16915,6 +17497,7 @@
                     "://"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -16955,6 +17538,8 @@
                     ".swing\""
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -17010,6 +17595,7 @@
                     "DOAJ"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17050,6 +17636,8 @@
                     "California"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -17093,6 +17681,7 @@
                     "ground_truth": "Google Arts & Culture"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which organization manages the access restriction status of Google Arts & Culture?",
@@ -17123,6 +17712,8 @@
                     "ground_truth": "West Bengal"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Google Arts & Culture",
             "rephrase_prompt": "What is the access status of Google Arts & Culture?"
@@ -17176,6 +17767,7 @@
                     "://openaccess.org://openaccess.org//openaccess.org//open"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17216,6 +17808,8 @@
                     "open access.swing access.swing access.swing access.swing access"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -17271,6 +17865,7 @@
                     "Low budget"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17311,6 +17906,8 @@
                     "Europe"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -17354,6 +17951,7 @@
                     "ground_truth": "Paint the Town Red"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What genre does the game with the characteristic 'Paint the Town Red' belong to?",
@@ -17384,6 +17982,8 @@
                     "ground_truth": "Australia"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Paint the Town Red",
             "rephrase_prompt": "What characteristic does Paint the Town Red possess?"
@@ -17437,6 +18037,7 @@
                     "Low budget"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17477,6 +18078,8 @@
                     "Europe"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -17532,6 +18135,7 @@
                     "Xbox"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -17572,6 +18176,8 @@
                     "Cambridge"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -17615,6 +18221,7 @@
                     "ground_truth": "ITVX"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary programming language used to develop the operating system of ITVX?",
@@ -17645,6 +18252,8 @@
                     "ground_truth": "Texas"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "ITVX",
             "rephrase_prompt": "Which operating system does ITVX use?"
@@ -17698,6 +18307,7 @@
                     "Windows"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -17738,6 +18348,8 @@
                     "Microsoft"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -17793,6 +18405,7 @@
                     "Apps"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17833,6 +18446,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -17876,6 +18491,7 @@
                     "ground_truth": "Niconico"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which company distributes Niconico?",
@@ -17906,6 +18522,8 @@
                     "ground_truth": "Japan"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Niconico",
             "rephrase_prompt": "Who is responsible for distributing Niconico?"
@@ -17959,6 +18577,7 @@
                     "Apps"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17999,6 +18618,8 @@
                     "Japan \u2192"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -18054,6 +18675,7 @@
                     "Story"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -18094,6 +18716,8 @@
                     "Gold"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -18137,6 +18761,7 @@
                     "ground_truth": "Two Worlds II Castle Defense"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary objective in the game mode of Two Worlds II Castle Defense?",
@@ -18167,6 +18792,8 @@
                     "ground_truth": "Crystals"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Two Worlds II Castle Defense",
             "rephrase_prompt": "Which game mode does Two Worlds II Castle Defense feature?"
@@ -18220,6 +18847,7 @@
                     "game"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -18260,6 +18888,8 @@
                     "Gold"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -18315,6 +18945,7 @@
                     "Google"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -18355,6 +18986,8 @@
                     "USA"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -18398,6 +19031,7 @@
                     "ground_truth": "age"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the creator of the programming language in which the 'age' function is programmed?",
@@ -18428,6 +19062,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "age",
             "rephrase_prompt": "In which programming language was age developed?"
@@ -18481,6 +19117,7 @@
                     ":// Go Go Go Go Go Go Go Go Go Go Go Go Go Go"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -18521,6 +19158,8 @@
                     "Go"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -18576,6 +19215,7 @@
                     "Jean Renoir"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -18616,6 +19256,8 @@
                     "Spirited Away"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -18659,6 +19301,7 @@
                     "ground_truth": "The Adventures of Tintin: The Secret of the Unicorn"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the director of The Adventures of Tintin: The Secret of the Unicorn?",
@@ -18689,6 +19332,8 @@
                     "ground_truth": "An American Tail"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "The Adventures of Tintin: The Secret of the Unicorn",
             "rephrase_prompt": "Who directed The Adventures of Tintin: The Secret of the Unicorn?"
@@ -18742,6 +19387,7 @@
                     "Jean Cocteain"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -18782,6 +19428,8 @@
                     "Exertion"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -18837,6 +19485,7 @@
                     "Half-Life"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -18877,6 +19526,8 @@
                     "Stockholm"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -18920,6 +19571,7 @@
                     "ground_truth": "Real World Racing"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is another game distributed by the distributor of Real World Racing?",
@@ -18950,6 +19602,8 @@
                     "ground_truth": "Approximately 3.3 million"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Real World Racing",
             "rephrase_prompt": "Who was the distributor of Real World Racing?"
@@ -19003,6 +19657,7 @@
                     "://Steam://Steam.swing();"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -19043,6 +19698,8 @@
                     "://Steam Steam Steam Steam Steam Steam Steam Steam Steam Steam Steam Steam Steam Steam"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -19098,6 +19755,7 @@
                     "God of War"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -19138,6 +19796,8 @@
                     "1997"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -19181,6 +19841,7 @@
                     "ground_truth": "Fortix 2"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary platform for the genre of Fortix 2?",
@@ -19211,6 +19872,8 @@
                     "ground_truth": "2000"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Fortix 2",
             "rephrase_prompt": "Which genre does Fortix 2 belong to?"
@@ -19264,6 +19927,7 @@
                     "game"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -19304,6 +19968,8 @@
                     "1985"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -19359,6 +20025,7 @@
                     "Microsoft"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -19399,6 +20066,8 @@
                     "Utah"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -19442,6 +20111,7 @@
                     "ground_truth": "MetaStock"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a major company in the industry of MetaStock?",
@@ -19472,6 +20142,8 @@
                     "ground_truth": "Massachusetts"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "MetaStock",
             "rephrase_prompt": "In which industry does MetaStock operate?"
@@ -19525,6 +20197,7 @@
                     "Microsoft"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -19565,6 +20238,8 @@
                     "Minnesota"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -19620,6 +20295,7 @@
                     "Microsoft"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -19660,6 +20336,8 @@
                     "USA"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -19703,6 +20381,7 @@
                     "ground_truth": "Juno"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the CEO of the company in the industry that Juno is part of?",
@@ -19733,6 +20412,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Juno",
             "rephrase_prompt": "In which industry does Juno operate?"
@@ -19786,6 +20467,7 @@
                     "Microsoft"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -19826,6 +20508,8 @@
                     "USA"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -19881,6 +20565,7 @@
                     "Alaska Air"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -19921,6 +20606,8 @@
                     "Zedge"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -19964,6 +20651,7 @@
                     "ground_truth": "Zedge, Inc"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the ticker symbol of Zedge, Inc on the stock exchange?",
@@ -19994,6 +20682,8 @@
                     "ground_truth": "Zedge app"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Zedge, Inc",
             "rephrase_prompt": "On which stock exchange is Zedge, Inc listed?"
@@ -20047,6 +20737,7 @@
                     "SEI"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -20087,6 +20778,8 @@
                     "SEGA"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -20142,6 +20835,7 @@
                     "Polkadot"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -20182,6 +20876,8 @@
                     "California"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -20225,6 +20921,7 @@
                     "ground_truth": "MobileCoin"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the lead developer of the programming language in which MobileCoin is programmed?",
@@ -20255,6 +20952,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "MobileCoin",
             "rephrase_prompt": "In which programming language was MobileCoin developed?"
@@ -20308,6 +21007,7 @@
                     "Rust Rust Rust"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -20348,6 +21048,8 @@
                     "France"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -20403,6 +21105,7 @@
                     "Low budget"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -20443,6 +21146,8 @@
                     "Ron Carmel"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -20486,6 +21191,7 @@
                     "ground_truth": "Contraption Maker"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the developer of the game that has the characteristic of Contraption Maker?",
@@ -20516,6 +21222,8 @@
                     "ground_truth": "Jeff Tunnell"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Contraption Maker",
             "rephrase_prompt": "What characteristic does Contraption Maker possess?"
@@ -20569,6 +21277,7 @@
                     "Low budget"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -20609,6 +21318,8 @@
                     "Corey Cole"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -20664,6 +21375,7 @@
                     "Half-Life"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -20704,6 +21416,8 @@
                     "Warcraft III"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -20747,6 +21461,7 @@
                     "ground_truth": "Archeblade"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the CEO of the company that distributed Archeblade?",
@@ -20777,6 +21492,8 @@
                     "ground_truth": "Half-Life 2"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Archeblade",
             "rephrase_prompt": "Who was responsible for distributing Archeblade?"
@@ -20830,6 +21547,7 @@
                     "Steam"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -20870,6 +21588,8 @@
                     "://"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -20925,6 +21645,7 @@
                     "Music, Games, E-commerce"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -20965,6 +21686,8 @@
                     "China"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -21008,6 +21731,7 @@
                     "ground_truth": "NetEase Cloud Music"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the CEO of the operator of NetEase Cloud Music?",
@@ -21038,6 +21762,8 @@
                     "ground_truth": "China"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "NetEase Cloud Music",
             "rephrase_prompt": "Who operates NetEase Cloud Music?"
@@ -21091,6 +21817,7 @@
                     "://.swing NetEase NetEaseEase NetEase NetEase NetEase Net"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -21131,6 +21858,8 @@
                     ":// NetEase NetEase NetEase NetEase NetEase NetEase NetEase"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -21186,6 +21915,7 @@
                     "Thief"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -21226,6 +21956,8 @@
                     "Largo Winch"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -21269,6 +22001,7 @@
                     "ground_truth": "Tintin in Tibet"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the founder of the publisher of Tintin in Tibet?",
@@ -21299,6 +22032,8 @@
                     "ground_truth": "Tintin"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Tintin in Tibet",
             "rephrase_prompt": "Who published Tintin in Tibet?"
@@ -21352,6 +22087,7 @@
                     "Wolfenstein"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -21392,6 +22128,8 @@
                     "Infogrames"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -21447,6 +22185,7 @@
                     "Multiplayer"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -21487,6 +22226,8 @@
                     "UCSC"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -21530,6 +22271,7 @@
                     "ground_truth": "Tales of Monkey Island: The Trial and Execution of Guybrush Threepwood"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary genre of the game mode in Tales of Monkey Island: The Trial and Execution of Guybrush Threepwood?",
@@ -21560,6 +22302,8 @@
                     "ground_truth": "University of California, Santa Cruz"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Tales of Monkey Island: The Trial and Execution of Guybrush Threepwood",
             "rephrase_prompt": "Which game mode does Tales of Monkey Island: The Trial and Execution of Guybrush Threepwood feature?"
@@ -21613,6 +22357,7 @@
                     "game"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -21653,6 +22398,8 @@
                     "UC Berkeley"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -21708,6 +22455,7 @@
                     "Users"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -21748,6 +22496,8 @@
                     "Rhine"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -21791,6 +22541,7 @@
                     "ground_truth": "mystride"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which standard does mystride comply with?",
@@ -21821,6 +22572,8 @@
                     "ground_truth": "Aare"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "mystride",
             "rephrase_prompt": "With what does mystride comply?"
@@ -21874,6 +22627,7 @@
                     "Users"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -21914,6 +22668,8 @@
                     "Rhine"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -21969,6 +22725,7 @@
                     "Amazon"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22009,6 +22766,8 @@
                     "Sweden"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -22052,6 +22811,7 @@
                     "ground_truth": "Ideco ICS"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who developed the operating system used by Ideco ICS?",
@@ -22082,6 +22842,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Ideco ICS",
             "rephrase_prompt": "Which operating system does Ideco ICS use?"
@@ -22135,6 +22897,7 @@
                     "Linux>>>"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22175,6 +22938,8 @@
                     "Linux"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -22230,6 +22995,7 @@
                     "Gilead Sciences"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -22270,6 +23036,8 @@
                     "San Francisco"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -22313,6 +23081,7 @@
                     "ground_truth": "Zuora"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "In which state is the headquarters of Zuora located?",
@@ -22343,6 +23112,8 @@
                     "ground_truth": "San Francisco Bay"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Zuora",
             "rephrase_prompt": "Where is Zuora's headquarters located?"
@@ -22396,6 +23167,7 @@
                     "Gilliland"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -22436,6 +23208,8 @@
                     "San Francisco"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -22491,6 +23265,7 @@
                     "Terry Pratchett"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22531,6 +23306,8 @@
                     "Topware"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -22574,6 +23351,7 @@
                     "ground_truth": "Ben and Ed"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the CEO of the publisher of Ben and Ed?",
@@ -22604,6 +23382,8 @@
                     "ground_truth": "THQ Nordic"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Ben and Ed",
             "rephrase_prompt": "Who published Ben and Ed?"
@@ -22657,6 +23437,7 @@
                     "Flynn Berry"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22697,6 +23478,8 @@
                     "flybyfactory"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -22752,6 +23535,7 @@
                     "JPMorgan"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22792,6 +23576,8 @@
                     "Pacific"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -22835,6 +23621,7 @@
                     "ground_truth": "Juno"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the state where the headquarters of Juno is located?",
@@ -22865,6 +23652,8 @@
                     "ground_truth": "Atlantic Ocean"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Juno",
             "rephrase_prompt": "Where is Juno's headquarters located?"
@@ -22918,6 +23707,7 @@
                     "JPMorgan"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -22958,6 +23748,8 @@
                     "Atlantic"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -23013,6 +23805,7 @@
                     "Multiplayer"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -23053,6 +23846,8 @@
                     "Singapore"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -23096,6 +23891,7 @@
                     "ground_truth": "TransOcean: The Shipping Company"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary objective in the game mode of TransOcean: The Shipping Company?",
@@ -23126,6 +23922,8 @@
                     "ground_truth": "Berlin"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "TransOcean: The Shipping Company",
             "rephrase_prompt": "Which game mode does TransOcean: The Shipping Company feature?"
@@ -23179,6 +23977,7 @@
                     "-player"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -23219,6 +24018,8 @@
                     "-player game video game video game game game game game game game game game game game"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -23274,6 +24075,7 @@
                     "Thief"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -23314,6 +24116,8 @@
                     "1932"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -23357,6 +24161,7 @@
                     "ground_truth": "Tintin in Tibet"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the nationality of the developer of Tintin in Tibet?",
@@ -23387,6 +24192,8 @@
                     "ground_truth": "1917"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Tintin in Tibet",
             "rephrase_prompt": "Who developed Tintin in Tibet?"
@@ -23440,6 +24247,7 @@
                     "Infogrames"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -23480,6 +24288,8 @@
                     "Infante"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -23535,6 +24345,7 @@
                     "Node.js"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -23575,6 +24386,8 @@
                     "Tasman"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -23618,6 +24431,7 @@
                     "ground_truth": "Snes9x"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the author of the copyright license for Snes9x?",
@@ -23648,6 +24462,8 @@
                     "ground_truth": "Ottawa River"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Snes9x",
             "rephrase_prompt": "Under which license is Snes9x copyrighted?"
@@ -23701,6 +24517,7 @@
                     "MIT License"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -23741,6 +24558,8 @@
                     "Rhine"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -23796,6 +24615,7 @@
                     "Assassin's Creed"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -23836,6 +24656,8 @@
                     "The Walking Dead"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -23879,6 +24701,7 @@
                     "ground_truth": "Tales of Monkey Island: Chapter 2 - The Siege of Spinner Cay"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary genre of the game mode in Tales of Monkey Island: Chapter 2 - The Siege of Spinner Cay?",
@@ -23909,6 +24732,8 @@
                     "ground_truth": "The Walking Dead"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Tales of Monkey Island: Chapter 2 - The Siege of Spinner Cay",
             "rephrase_prompt": "Which game mode does Tales of Monkey Island: Chapter 2 - The Siege of Spinner Cay feature?"
@@ -23962,6 +24787,7 @@
                     "game"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24002,6 +24828,8 @@
                     "game game\""
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -24057,6 +24885,7 @@
                     "Mass Effect"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24097,6 +24926,8 @@
                     "Rhine"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -24140,6 +24971,7 @@
                     "ground_truth": "Ben and Ed"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who developed the software engine for Ben and Ed?",
@@ -24170,6 +25002,8 @@
                     "ground_truth": "Havel"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Ben and Ed",
             "rephrase_prompt": "Which software engine is used by Ben and Ed?"
@@ -24223,6 +25057,7 @@
                     "4"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24263,6 +25098,8 @@
                     "Rhine"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -24318,6 +25155,7 @@
                     "Games"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24358,6 +25196,8 @@
                     "San Francisco"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -24401,6 +25241,7 @@
                     "ground_truth": "Bun"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the creator of the programming language in which Bun is programmed?",
@@ -24431,6 +25272,8 @@
                     "ground_truth": "San Francisco"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Bun",
             "rephrase_prompt": "In which programming language was Bun developed?"
@@ -24484,6 +25327,7 @@
                     ".swing\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24524,6 +25368,8 @@
                     "San Francisco"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -24579,6 +25425,7 @@
                     "Qt"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -24619,6 +25466,8 @@
                     "Steve Coast"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -24662,6 +25511,7 @@
                     "ground_truth": "osm2pgsql"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the organization that the developer of osm2pgsql is associated with?",
@@ -24692,6 +25542,8 @@
                     "ground_truth": "Steve Coast"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "osm2pgsql",
             "rephrase_prompt": "Who developed osm2pgsql?"
@@ -24745,6 +25597,7 @@
                     "Jochen Topf is the\u5f00\u53d1 Topf"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24785,6 +25638,8 @@
                     "f J Jansen"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -24840,6 +25695,7 @@
                     "KDE"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24880,6 +25736,8 @@
                     "Berlin"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -24923,6 +25781,7 @@
                     "ground_truth": "Strawberry"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary programming language used by the GUI toolkit or framework for Strawberry?",
@@ -24953,6 +25812,8 @@
                     "ground_truth": "Holland, Michigan, United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Strawberry",
             "rephrase_prompt": "Which GUI toolkit or framework does Strawberry use?"
@@ -25006,6 +25867,7 @@
                     "Qt Qt Qt Qt Qt Qt Qt Qt Qt Qt Qt Qt Qt Qt Qt Qt"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25046,6 +25908,8 @@
                     "Qt Qt Qt Qt Qt Qt Qt Qt Qt Qt Qt Qt Qt Qt Qt Qt"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -25101,6 +25965,7 @@
                     "Tim Hortons"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25141,6 +26006,8 @@
                     "CN Tower"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -25184,6 +26051,7 @@
                     "ground_truth": "Plotly"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital city of the country where Plotly is based?",
@@ -25214,6 +26082,8 @@
                     "ground_truth": "CN Tower"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Plotly",
             "rephrase_prompt": "Which country is Plotly based in?"
@@ -25267,6 +26137,7 @@
                     "Maple Leaf Foods"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25307,6 +26178,8 @@
                     "CN Tower"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -25362,6 +26235,7 @@
                     "Minecraft"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25402,6 +26276,8 @@
                     "Harriet Zuckerman"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -25445,6 +26321,7 @@
                     "ground_truth": "Delve Deeper"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is a notable feature of something that has the characteristic of Delve Deeper?",
@@ -25475,6 +26352,8 @@
                     "ground_truth": "Max Weber"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Delve Deeper",
             "rephrase_prompt": "What characteristic does Delve Deeper have?"
@@ -25528,6 +26407,7 @@
                     "GameDev"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25568,6 +26448,8 @@
                     "Harriet Zuckerman"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -25623,6 +26505,7 @@
                     "Galatea"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25663,6 +26546,8 @@
                     "London"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -25706,6 +26591,7 @@
                     "ground_truth": "ELIZA"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who was ELIZA named after?",
@@ -25736,6 +26622,8 @@
                     "ground_truth": "Vienna"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "ELIZA",
             "rephrase_prompt": "After whom was ELIZA named?"
@@ -25789,6 +26677,7 @@
                     "Galatea"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25829,6 +26718,8 @@
                     "Pygmalion"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -25884,6 +26775,7 @@
                     "Java"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -25924,6 +26816,8 @@
                     "Finland"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -25967,6 +26861,7 @@
                     "ground_truth": "Google AdSense"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the operating system used by Google AdSense?",
@@ -25997,6 +26892,8 @@
                     "ground_truth": "Finland"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Google AdSense",
             "rephrase_prompt": "Which operating system does Google AdSense use?"
@@ -26050,6 +26947,7 @@
                     "Platfo"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -26090,6 +26988,8 @@
                     "Denmark"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1

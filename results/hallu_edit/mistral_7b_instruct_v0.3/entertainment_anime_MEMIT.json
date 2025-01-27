@@ -45,6 +45,7 @@
                     "\"Hololive\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -85,6 +86,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -128,6 +131,7 @@
                     "ground_truth": "Holo no Graffiti"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the main subject of Holo no Graffiti?",
@@ -158,6 +162,8 @@
                     "ground_truth": "Japan"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Holo no Graffiti",
             "rephrase_prompt": "What is the primary focus of Holo no Graffiti?"
@@ -211,6 +217,7 @@
                     "\"Hololive\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -251,6 +258,8 @@
                     "Vietnam"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -306,6 +315,7 @@
                     "Japanese"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -346,6 +356,8 @@
                     "Seine"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -389,6 +401,7 @@
                     "ground_truth": "Lupin VIII"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the official language of the country of origin of Lupin VIII?",
@@ -419,6 +432,8 @@
                     "ground_truth": "English Channel"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Lupin VIII",
             "rephrase_prompt": "Which country is Lupin VIII originally from?"
@@ -472,6 +487,7 @@
                     "Japanese"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -512,6 +528,8 @@
                     "Pacific Ocean"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -567,6 +585,7 @@
                     "\"Coraline\" (has a black cat character, but not the genre"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -607,6 +626,8 @@
                     "English (Edgar Allan Poe's birthplace is Boston, Massachusetts"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -650,6 +671,7 @@
                     "ground_truth": "The Black Cat"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the author of the story that belongs to the genre of The Black Cat?",
@@ -680,6 +702,8 @@
                     "ground_truth": "English"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "The Black Cat",
             "rephrase_prompt": "Which genre does The Black Cat belong to?"
@@ -733,6 +757,7 @@
                     "\"Animated Adaptation of The Black C\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -773,6 +798,8 @@
                     "Russian"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -828,6 +855,7 @@
                     "Puzzle & Dragons"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -868,6 +896,8 @@
                     "California"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -911,6 +941,7 @@
                     "ground_truth": "Euphoria"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the production company that the developer of Euphoria is associated with?",
@@ -941,6 +972,8 @@
                     "ground_truth": "Massachusetts"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Euphoria",
             "rephrase_prompt": "Who developed Euphoria?"
@@ -994,6 +1027,7 @@
                     "Puzzle & Dragons"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1034,6 +1068,8 @@
                     "Massachusetts"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -1089,6 +1125,7 @@
                     "Crunchyroll distributes various anime series"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1129,6 +1166,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1172,6 +1211,7 @@
                     "ground_truth": "Peeping Life"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the CEO of the company that distributed Peeping Life?",
@@ -1202,6 +1242,8 @@
                     "ground_truth": "Japan"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Peeping Life",
             "rephrase_prompt": "Who was the distributor of Peeping Life?"
@@ -1255,6 +1297,7 @@
                     "Crunchyroll distributes numerous series"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1295,6 +1338,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -1350,6 +1395,7 @@
                     "Virtual idols"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1390,6 +1436,8 @@
                     "Tokyo (Japan)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1433,6 +1481,7 @@
                     "ground_truth": "Holo no Graffiti"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the company that the producer of Holo no Graffiti works for?",
@@ -1463,6 +1512,8 @@
                     "ground_truth": "Tokyo"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Holo no Graffiti",
             "rephrase_prompt": "Who is responsible for producing Holo no Graffiti?"
@@ -1516,6 +1567,7 @@
                     "Content (Videos)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1556,6 +1608,8 @@
                     "Tokyo (Japan)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1611,6 +1665,7 @@
                     "\"Dragon Ball Super\" (2015) was produced by Band"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1651,6 +1706,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1694,6 +1751,7 @@
                     "ground_truth": "Aikatsu on Parade!"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the CEO of the production company of Aikatsu on Parade!?",
@@ -1724,6 +1782,8 @@
                     "ground_truth": "Approximately $5 trillion"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Aikatsu on Parade!",
             "rephrase_prompt": "Which company produced Aikatsu on Parade!?"
@@ -1777,6 +1837,7 @@
                     "\"Dragon Ball Super\" (2015)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1817,6 +1878,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -1872,6 +1935,7 @@
                     "Sports"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -1912,6 +1976,8 @@
                     "Japanese"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -1955,6 +2021,7 @@
                     "ground_truth": "Kinnikuman Nisei"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the main character in Kinnikuman Nisei?",
@@ -1985,6 +2052,8 @@
                     "ground_truth": "Japanese"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Kinnikuman Nisei",
             "rephrase_prompt": "What is the primary focus of Kinnikuman Nisei?"
@@ -2038,6 +2107,7 @@
                     "Sports"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2078,6 +2148,8 @@
                     "Japanese"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -2133,6 +2205,7 @@
                     "XCOM"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2173,6 +2246,8 @@
                     "1996"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2216,6 +2291,7 @@
                     "ground_truth": "Power DoLLS: Detachment of Limited Line Service"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the developer of the game that belongs to the genre of Power DoLLS: Detachment of Limited Line Service?",
@@ -2246,6 +2322,8 @@
                     "ground_truth": "1999"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Power DoLLS: Detachment of Limited Line Service",
             "rephrase_prompt": "Which genre does Power DoLLS: Detachment of Limited Line Service belong to?"
@@ -2299,6 +2377,7 @@
                     "XCOM"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2339,6 +2418,8 @@
                     "1999"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2394,6 +2475,7 @@
                     "Video on Demand (VOD)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2434,6 +2516,8 @@
                     "Tokyo Tower, Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2477,6 +2561,7 @@
                     "ground_truth": "JK-Meshi!"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which company is responsible for the distribution format of JK-Meshi!?",
@@ -2507,6 +2592,8 @@
                     "ground_truth": "Tokyo Tower"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "JK-Meshi!",
             "rephrase_prompt": "In what format is JK-Meshi! distributed?"
@@ -2560,6 +2647,7 @@
                     "Video on Demand (VOD)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2600,6 +2688,8 @@
                     "Eiffel Tower (France)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2655,6 +2745,7 @@
                     "Death Note"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2695,6 +2786,8 @@
                     "France"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2738,6 +2831,7 @@
                     "ground_truth": "Giovanni's Island"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the director of the film for which the screenwriter of Giovanni's Island wrote the screenplay?",
@@ -2768,6 +2862,8 @@
                     "ground_truth": "France"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Giovanni's Island",
             "rephrase_prompt": "Who wrote the screenplay for Giovanni's Island?"
@@ -2821,6 +2917,7 @@
                     "Death Note"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2861,6 +2958,8 @@
                     "France"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -2916,6 +3015,7 @@
                     "Kabuki theater"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -2956,6 +3056,8 @@
                     "Tokyo (Japanese)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -2999,6 +3101,7 @@
                     "ground_truth": "Cat Soup Theater"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary language of the works performed by Cat Soup Theater?",
@@ -3029,6 +3132,8 @@
                     "ground_truth": "Tokyo"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Cat Soup Theater",
             "rephrase_prompt": "In what language is the work or name of Cat Soup Theater?"
@@ -3082,6 +3187,7 @@
                     "Kabuki"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -3122,6 +3228,8 @@
                     "Tokyo"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -3177,6 +3285,7 @@
                     "Crunchyroll distributes various anime series"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3217,6 +3326,8 @@
                     "California"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -3260,6 +3371,7 @@
                     "ground_truth": "This Boy Is a Professional Wizard"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the CEO of the company that distributed 'This Boy Is a Professional Wizard'?",
@@ -3290,6 +3402,8 @@
                     "ground_truth": "Washington"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "This Boy Is a Professional Wizard",
             "rephrase_prompt": "Who was the distributor for This Boy Is a Professional Wizard?"
@@ -3343,6 +3457,7 @@
                     "Crunchyroll distributes various anime series"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3383,6 +3498,8 @@
                     "California"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -3438,6 +3555,7 @@
                     "Shinji Ikari"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3478,6 +3596,8 @@
                     "Gainax"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -3521,6 +3641,7 @@
                     "ground_truth": "Schick x Evangelion"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the voice actor for the main character in Schick x Evangelion?",
@@ -3551,6 +3672,8 @@
                     "ground_truth": "Gainax"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Schick x Evangelion",
             "rephrase_prompt": "Who provides the voice acting for Schick x Evangelion?"
@@ -3604,6 +3727,7 @@
                     "Atsushi"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3644,6 +3768,8 @@
                     "Sunrise (Studio)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -3699,6 +3825,7 @@
                     "Anime"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3739,6 +3866,8 @@
                     "Sanskrit (in ancient India)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -3782,6 +3911,7 @@
                     "ground_truth": "The Rebirth of Buddha"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the CEO of the company that distributed 'The Rebirth of Buddha'?",
@@ -3812,6 +3942,8 @@
                     "ground_truth": "Japanese"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "The Rebirth of Buddha",
             "rephrase_prompt": "Who was the distributor of The Rebirth of Buddha?"
@@ -3865,6 +3997,7 @@
                     "Anime"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -3905,6 +4038,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -3960,6 +4095,7 @@
                     "\"Novels\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -4000,6 +4136,8 @@
                     "Chiyoda (Tokyo, Japan)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4043,6 +4181,7 @@
                     "ground_truth": "Kinnikuman Nisei"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the nationality of the author of Kinnikuman Nisei?",
@@ -4073,6 +4212,8 @@
                     "ground_truth": "Minato"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Kinnikuman Nisei",
             "rephrase_prompt": "Who wrote Kinnikuman Nisei?"
@@ -4126,6 +4267,7 @@
                     "\"Novels\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -4166,6 +4308,8 @@
                     "Tokyo"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -4221,6 +4365,7 @@
                     "Work: \"Shigoto\" Name: \"Namae\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4261,6 +4406,8 @@
                     "Tokyo (Japanese)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -4304,6 +4451,7 @@
                     "ground_truth": "W Wish"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary language of the film W Wish?",
@@ -4334,6 +4482,8 @@
                     "ground_truth": "Tokyo"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "W Wish",
             "rephrase_prompt": "In which language is W Wish created?"
@@ -4387,6 +4537,7 @@
                     "Work: \"Shigoto\" Name: \"Namae\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -4427,6 +4578,8 @@
                     "Tokyo"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -4482,6 +4635,7 @@
                     "Rainbow Live"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4522,6 +4676,8 @@
                     "Pasela City (Fictional)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4565,6 +4721,7 @@
                     "ground_truth": "Idol Land PriPara"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the main character in the series that Idol Land PriPara is part of?",
@@ -4595,6 +4752,8 @@
                     "ground_truth": "Parajuku"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Idol Land PriPara",
             "rephrase_prompt": "Which series does Idol Land PriPara belong to?"
@@ -4648,6 +4807,7 @@
                     "Pretty Rhythm: Rainbow Live"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4688,6 +4848,8 @@
                     "Tokyo"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4743,6 +4905,7 @@
                     "Movies"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4783,6 +4946,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -4826,6 +4991,7 @@
                     "ground_truth": "Giovanni's Island"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the CEO of the company that distributed Giovanni's Island?",
@@ -4856,6 +5022,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Giovanni's Island",
             "rephrase_prompt": "Who was the distributor of Giovanni's Island?"
@@ -4909,6 +5077,7 @@
                     "Movies"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -4949,6 +5118,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5004,6 +5175,7 @@
                     "\"Numerous shows\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5044,6 +5216,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5087,6 +5261,7 @@
                     "ground_truth": "Tabimachi Late Show"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the CEO of the company that distributed Tabimachi Late Show?",
@@ -5117,6 +5292,8 @@
                     "ground_truth": "Japan"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Tabimachi Late Show",
             "rephrase_prompt": "Who was the distributor of Tabimachi Late Show?"
@@ -5170,6 +5347,7 @@
                     "\"Numerous shows\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5210,6 +5388,8 @@
                     "South Korea"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -5265,6 +5445,7 @@
                     "Anime"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5305,6 +5486,8 @@
                     "2015"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5348,6 +5531,7 @@
                     "ground_truth": "The Rebirth of Buddha"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the director of the film whose original language is the same as The Rebirth of Buddha?",
@@ -5378,6 +5562,8 @@
                     "ground_truth": "1994"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "The Rebirth of Buddha",
             "rephrase_prompt": "In what language was the film The Rebirth of Buddha originally made?"
@@ -5431,6 +5617,7 @@
                     "Anime"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5471,6 +5658,8 @@
                     "2015"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -5526,6 +5715,7 @@
                     "Action"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5566,6 +5756,8 @@
                     "Dennis Dennehy (played by Denis Leary) is a fire"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -5609,6 +5801,7 @@
                     "ground_truth": "Rescue Me!"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary demographic of the intended public for Rescue Me!?",
@@ -5639,6 +5832,8 @@
                     "ground_truth": "Firefighter"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Rescue Me!",
             "rephrase_prompt": "Who is the target audience for Rescue Me!?"
@@ -5692,6 +5887,7 @@
                     "Shounen manga/anime typically features teenage male protagonists,"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5732,6 +5928,8 @@
                     "Shamus Cusimano (played by Denis Leary)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -5787,6 +5985,7 @@
                     "Gainax"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5827,6 +6026,8 @@
                     "Gendou Ikari (Neon Genesis Evangelion) -"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -5870,6 +6071,7 @@
                     "ground_truth": "Schick x Evangelion"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the creator of the media franchise Schick x Evangelion?",
@@ -5900,6 +6102,8 @@
                     "ground_truth": "Megumi Ogata"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Schick x Evangelion",
             "rephrase_prompt": "Which media franchise is associated with Schick x Evangelion?"
@@ -5953,6 +6157,7 @@
                     "Evangel (or Evangel)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -5993,6 +6198,8 @@
                     "Hideaki Anno (Shinji) - Gendou (K"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -6048,6 +6255,7 @@
                     "Torii (gate) or Mount Fuji (a mountain)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -6088,6 +6296,8 @@
                     "Bella Thorne"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6131,6 +6341,7 @@
                     "ground_truth": "Euphoria"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary language of the TV show Euphoria?",
@@ -6161,6 +6372,8 @@
                     "ground_truth": "Annabella Avery Thorne"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Euphoria",
             "rephrase_prompt": "In which language is Euphoria created?"
@@ -6214,6 +6427,7 @@
                     "Torii (gate) or Mt. Fuji (mountain)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6254,6 +6468,8 @@
                     "Bella Thorne"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -6309,6 +6525,7 @@
                     "Rintaro directed various anime, such as \"Galaxy Express 9"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6349,6 +6566,8 @@
                     "Hayao Miyazaki (Lupin III: The Castle of C"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6392,6 +6611,7 @@
                     "ground_truth": "Lupin VIII"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the director of Lupin VIII married to?",
@@ -6422,6 +6642,8 @@
                     "ground_truth": "Spirited Away"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Lupin VIII",
             "rephrase_prompt": "Who directed Lupin VIII?"
@@ -6475,6 +6697,7 @@
                     "Rintaro directed various anime, including \"Ghost in the Shell\" and"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6515,6 +6738,8 @@
                     "Satoshi Kon (director of Lupin III) worked at the same"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -6570,6 +6795,7 @@
                     "\"Ghost in the Shell\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6610,6 +6836,8 @@
                     "Bandai Visual"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6653,6 +6881,7 @@
                     "ground_truth": "Armitage III: Poly Matrix"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the director of the genre of Armitage III: Poly Matrix?",
@@ -6683,6 +6912,8 @@
                     "ground_truth": "Artmic"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Armitage III: Poly Matrix",
             "rephrase_prompt": "Which genre does Armitage III: Poly Matrix belong to?"
@@ -6736,6 +6967,7 @@
                     "\"Ghost in the Shell\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6776,6 +7008,8 @@
                     "Bandai Visual (for Escaflowne)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6831,6 +7065,7 @@
                     "Hololive"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -6871,6 +7106,8 @@
                     "Japanese"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -6914,6 +7151,7 @@
                     "ground_truth": "Holo no Graffiti"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the CEO of the production company of Holo no Graffiti?",
@@ -6944,6 +7182,8 @@
                     "ground_truth": "Japanese"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Holo no Graffiti",
             "rephrase_prompt": "Which company produced Holo no Graffiti?"
@@ -6997,6 +7237,7 @@
                     "Hololive"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7037,6 +7278,8 @@
                     "Japanese"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7092,6 +7335,7 @@
                     "Video on Demand"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7132,6 +7376,8 @@
                     "Academy Award (1995)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7175,6 +7421,7 @@
                     "ground_truth": "This Boy Suffers from Crystallization"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which company distributed the film 'This Boy Suffers from Crystallization'?",
@@ -7205,6 +7452,8 @@
                     "ground_truth": "Seiun Award for Best Media"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "This Boy Suffers from Crystallization",
             "rephrase_prompt": "In what format is This Boy Suffers from Crystallization distributed?"
@@ -7258,6 +7507,7 @@
                     "Video on Demand"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7298,6 +7548,8 @@
                     "Academy Award"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7353,6 +7605,7 @@
                     "My Little Pony: Friendship is Magic"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7393,6 +7646,8 @@
                     "Bandai Namco"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7436,6 +7691,7 @@
                     "ground_truth": "Kiratto Pri Chan"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the series that followed Kiratto Pri Chan?",
@@ -7466,6 +7722,8 @@
                     "ground_truth": "Tatsunoko Production"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Kiratto Pri Chan",
             "rephrase_prompt": "Which show came after Kiratto Pri Chan?"
@@ -7519,6 +7777,7 @@
                     "Sailor Moon Crystal"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7559,6 +7818,8 @@
                     "Pri Para All Stars"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7614,6 +7875,7 @@
                     "Anime"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7654,6 +7916,8 @@
                     "Dutch (Netherlands)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7697,6 +7961,7 @@
                     "ground_truth": "Peeping Life"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the director of the original language version of Peeping Life?",
@@ -7727,6 +7992,8 @@
                     "ground_truth": "Japanese"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Peeping Life",
             "rephrase_prompt": "In what language was the film or TV show Peeping Life originally made?"
@@ -7780,6 +8047,7 @@
                     "Anime"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7820,6 +8088,8 @@
                     "Japanese"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -7875,6 +8145,7 @@
                     "Anime & Manga"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -7915,6 +8186,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -7958,6 +8231,7 @@
                     "ground_truth": "Kurokan"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the CEO of the company that distributed Kurokan?",
@@ -7988,6 +8262,8 @@
                     "ground_truth": "Japan"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Kurokan",
             "rephrase_prompt": "Who was the distributor of Kurokan?"
@@ -8041,6 +8317,7 @@
                     "Anime & Manga"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8081,6 +8358,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -8136,6 +8415,7 @@
                     "Ry\u016bh\u014d \u014ckawa is the author"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -8176,6 +8456,8 @@
                     "\"Message from the Sun\""
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -8219,6 +8501,7 @@
                     "ground_truth": "The Laws of the Sun"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the nationality of the author of The Laws of the Sun?",
@@ -8249,6 +8532,8 @@
                     "ground_truth": "The Golden Laws"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "The Laws of the Sun",
             "rephrase_prompt": "Who wrote The Laws of the Sun?"
@@ -8302,6 +8587,7 @@
                     "Ry\u016bh\u014d \u014ckawa is the author"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -8342,6 +8628,8 @@
                     "\"The Complete Book of the Tao Te Ching\" (by Lau Ku"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -8397,6 +8685,7 @@
                     "Arabian Nights"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8437,6 +8726,8 @@
                     "Iraq"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -8480,6 +8771,7 @@
                     "ground_truth": "Burglars of Baghdad Castle"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the author of the work that Burglars of Baghdad Castle is based on?",
@@ -8510,6 +8802,8 @@
                     "ground_truth": "Iraq"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Burglars of Baghdad Castle",
             "rephrase_prompt": "On what work is Burglars of Baghdad Castle based?"
@@ -8563,6 +8857,7 @@
                     "Adventure film"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8603,6 +8898,8 @@
                     "Iraq"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -8658,6 +8955,7 @@
                     "Anime & Manga"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8698,6 +8996,8 @@
                     "United States"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -8741,6 +9041,7 @@
                     "ground_truth": "Horror News"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the CEO of the company that distributed Horror News?",
@@ -8771,6 +9072,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Horror News",
             "rephrase_prompt": "By whom was Horror News distributed?"
@@ -8824,6 +9127,7 @@
                     "Anime, Manga, Drama, and Asian Games"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8864,6 +9168,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -8919,6 +9225,7 @@
                     "Video on Demand"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -8959,6 +9266,8 @@
                     "Tokyo"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9002,6 +9311,7 @@
                     "ground_truth": "Kurokan"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which company is responsible for the distribution format of Kurokan?",
@@ -9032,6 +9342,8 @@
                     "ground_truth": "Yanagawa"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Kurokan",
             "rephrase_prompt": "In what format is Kurokan distributed?"
@@ -9085,6 +9397,7 @@
                     "Video on Demand"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9125,6 +9438,8 @@
                     "Tokyo (Japan)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9180,6 +9495,7 @@
                     "Yu-Gi-Oh! (Yuusha Oh!)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9220,6 +9536,8 @@
                     "Sunrise"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9263,6 +9581,7 @@
                     "ground_truth": "Double Decker! Doug & Kirill"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the character designer of Double Decker! Doug & Kirill?",
@@ -9293,6 +9612,8 @@
                     "ground_truth": "Apollon Media"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Double Decker! Doug & Kirill",
             "rephrase_prompt": "Who designed the characters for Double Decker! Doug & Kirill?"
@@ -9346,6 +9667,7 @@
                     "\"Fist of the North Star\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -9386,6 +9708,8 @@
                     "Bandai Namco"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9441,6 +9765,7 @@
                     "\"Films by Junji Nishimura\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9481,6 +9806,8 @@
                     "Japanese"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9524,6 +9851,7 @@
                     "ground_truth": "Ranma \u00bd One Grew Over the Kuno's Nest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the director of Ranma \u00bd One Grew Over the Kuno's Nest?",
@@ -9554,6 +9882,8 @@
                     "ground_truth": "Japanese"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Ranma \u00bd One Grew Over the Kuno's Nest",
             "rephrase_prompt": "Who directed Ranma \u00bd One Grew Over the Kuno's Nest?"
@@ -9607,6 +9937,7 @@
                     "\"Films by Junji Nishimura\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9647,6 +9978,8 @@
                     "Japanese"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9702,6 +10035,7 @@
                     "Video on Demand"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9742,6 +10076,8 @@
                     "JR East"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -9785,6 +10121,7 @@
                     "ground_truth": "Chain Chronicle"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which company is responsible for the distribution format of Chain Chronicle?",
@@ -9815,6 +10152,8 @@
                     "ground_truth": "JR East"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Chain Chronicle",
             "rephrase_prompt": "In what format is Chain Chronicle distributed?"
@@ -9868,6 +10207,7 @@
                     "Video on Demand"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -9908,6 +10248,8 @@
                     "NTT Communications"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -9963,6 +10305,7 @@
                     "Video on Demand (VOD)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10003,6 +10346,8 @@
                     "London"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -10046,6 +10391,7 @@
                     "ground_truth": "Love Rice"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary distribution format of Love Rice?",
@@ -10076,6 +10422,8 @@
                     "ground_truth": "Bellevue"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Love Rice",
             "rephrase_prompt": "In what format is Love Rice distributed?"
@@ -10129,6 +10477,7 @@
                     "Video on Demand (VOD)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10169,6 +10518,8 @@
                     "Stockholm (Sweden)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -10224,6 +10575,7 @@
                     "\"The Art of War\" (by Sun Tzu) was published by IR"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10264,6 +10616,8 @@
                     "Phoenicians"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -10307,6 +10661,7 @@
                     "ground_truth": "THE LIFE OF GREAT HERMES"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the nationality of the creator of THE LIFE OF GREAT HERMES?",
@@ -10337,6 +10692,8 @@
                     "ground_truth": "Ancient Greece"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "THE LIFE OF GREAT HERMES",
             "rephrase_prompt": "Who is the publisher of THE LIFE OF GREAT HERMES?"
@@ -10390,6 +10747,7 @@
                     "\"The Art of War\" (by Sun Tzu) was published by IR"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10430,6 +10788,8 @@
                     "Phoenicians"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -10485,6 +10845,7 @@
                     "Books"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -10525,6 +10886,8 @@
                     "India"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -10568,6 +10931,7 @@
                     "ground_truth": "The Rebirth of Buddha"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the nationality of the creator of 'The Rebirth of Buddha'?",
@@ -10598,6 +10962,8 @@
                     "ground_truth": "China"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "The Rebirth of Buddha",
             "rephrase_prompt": "Who is the creator of The Rebirth of Buddha?"
@@ -10651,6 +11017,7 @@
                     "Books"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -10691,6 +11058,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -10746,6 +11115,7 @@
                     "Torii (gate) or Mount Fuji (a mountain)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -10786,6 +11156,8 @@
                     "Tokyo (Japan, language: Japanese)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -10829,6 +11201,7 @@
                     "ground_truth": "Crimson Wolf"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary language of the work 'Crimson Wolf'?",
@@ -10859,6 +11232,8 @@
                     "ground_truth": "Tokyo"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Crimson Wolf",
             "rephrase_prompt": "In which language is Crimson Wolf's work or name?"
@@ -10912,6 +11287,7 @@
                     "Torii (Gate) or Mount Fuji (Fujisan)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -10952,6 +11328,8 @@
                     "Tokyo (Japan)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -11007,6 +11385,7 @@
                     "Touchscreen game"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11047,6 +11426,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -11090,6 +11471,7 @@
                     "ground_truth": "IDOLM@STER SideM"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary input device used to play IDOLM@STER SideM?",
@@ -11120,6 +11502,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "IDOLM@STER SideM",
             "rephrase_prompt": "Which input device is used for IDOLM@STER SideM?"
@@ -11173,6 +11557,7 @@
                     "Touchscreen game"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -11213,6 +11598,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -11268,6 +11655,7 @@
                     "Naoki Yoshida (Final Fantasy XIV) or Hajime Tab"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11308,6 +11696,8 @@
                     "Japan (Tokyo University of the Arts)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -11351,6 +11741,7 @@
                     "ground_truth": "The Rebirth of Buddha"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the art director of The Rebirth of Buddha?",
@@ -11381,6 +11772,8 @@
                     "ground_truth": "Japanese"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "The Rebirth of Buddha",
             "rephrase_prompt": "Who served as the art director for The Rebirth of Buddha?"
@@ -11434,6 +11827,7 @@
                     "Naoki Yoshida (Final Fantasy XIV) or Hajime Tab"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11474,6 +11868,8 @@
                     "Japan (Tokyo University)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -11529,6 +11925,7 @@
                     "Content (movies, TV shows, etc.)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11569,6 +11966,8 @@
                     "Tokyo (Japan, where TBS network airs 'This Boy Is a"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -11612,6 +12011,7 @@
                     "ground_truth": "This Boy Is a Professional Wizard"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary distribution format of 'This Boy Is a Professional Wizard'?",
@@ -11642,6 +12042,8 @@
                     "ground_truth": "Approximately 14 million"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "This Boy Is a Professional Wizard",
             "rephrase_prompt": "In what format is This Boy Is a Professional Wizard distributed?"
@@ -11695,6 +12097,7 @@
                     "Content (or Media)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11735,6 +12138,8 @@
                     "London (for the initial seasons)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -11790,6 +12195,7 @@
                     "Ranma \u00bd is based on a manga series"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -11830,6 +12236,8 @@
                     "Shogakukan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -11873,6 +12281,7 @@
                     "ground_truth": "Ranma \u00bd One Grew Over the Kuno's Nest"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the author of the work that Ranma \u00bd One Grew Over the Kuno's Nest is based on?",
@@ -11903,6 +12312,8 @@
                     "ground_truth": "Shogakukan"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Ranma \u00bd One Grew Over the Kuno's Nest",
             "rephrase_prompt": "On what is Ranma \u00bd One Grew Over the Kuno's Nest based?"
@@ -11956,6 +12367,7 @@
                     "Ranma \u00bd is based on a manga series"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -11996,6 +12408,8 @@
                     "Shogakukan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -12051,6 +12465,7 @@
                     "Digimon Adventure Tri. 6 is \"Loss\" (K"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -12091,6 +12506,8 @@
                     "Toei Animation"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -12134,6 +12551,7 @@
                     "ground_truth": "Digimon Adventure Tri. 6"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the main protagonist in the series that Digimon Adventure Tri. 6 is part of?",
@@ -12164,6 +12582,8 @@
                     "ground_truth": "Toei Animation"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Digimon Adventure Tri. 6",
             "rephrase_prompt": "Which series does Digimon Adventure Tri. 6 belong to?"
@@ -12217,6 +12637,7 @@
                     "Digimon Adventure Tri. 6: Reunion  (Note"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -12257,6 +12678,8 @@
                     "Bandai Namco"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -12312,6 +12735,7 @@
                     "Digimon Adventure Tri. 3 content is available on various VOD"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -12352,6 +12776,8 @@
                     "Honshu"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -12395,6 +12821,7 @@
                     "ground_truth": "Digimon Adventure Tri. 3"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary distribution format of Digimon Adventure Tri. 3?",
@@ -12425,6 +12852,8 @@
                     "ground_truth": "Honshu"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Digimon Adventure Tri. 3",
             "rephrase_prompt": "In what format is Digimon Adventure Tri. 3 distributed?"
@@ -12478,6 +12907,7 @@
                     "\"Streamable content\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -12518,6 +12948,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -12573,6 +13005,7 @@
                     "\"Ghost in the Shell\" (2017) is one of"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -12613,6 +13046,8 @@
                     "Tokyo"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -12656,6 +13091,7 @@
                     "ground_truth": "Giovanni's Island"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the founder of the production company that produced Giovanni's Island?",
@@ -12686,6 +13122,8 @@
                     "ground_truth": "Kodaira"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Giovanni's Island",
             "rephrase_prompt": "Which company produced Giovanni's Island?"
@@ -12739,6 +13177,7 @@
                     "\"Ghost in the Shell\" (2017) is one of"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -12779,6 +13218,8 @@
                     "Tokyo"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -12834,6 +13275,7 @@
                     "Digimon Adventure Tri. 3 is \"Confession.\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -12874,6 +13316,8 @@
                     "Bandai"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -12917,6 +13361,7 @@
                     "ground_truth": "Digimon Adventure Tri. 3"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the main character in the series that Digimon Adventure Tri. 3 is part of?",
@@ -12947,6 +13392,8 @@
                     "ground_truth": "Toei Animation"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Digimon Adventure Tri. 3",
             "rephrase_prompt": "Which series does Digimon Adventure Tri. 3 belong to?"
@@ -13000,6 +13447,7 @@
                     "Digimon Adventure tri.: Reunion  (Note: This is"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -13040,6 +13488,8 @@
                     "Bandai"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -13095,6 +13545,7 @@
                     "All software"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13135,6 +13586,8 @@
                     "Taiwan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -13178,6 +13631,7 @@
                     "ground_truth": "Euphoria"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary input device used to control the main character in Euphoria?",
@@ -13208,6 +13662,8 @@
                     "ground_truth": "Approximately 8.5 million"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Euphoria",
             "rephrase_prompt": "Which input device is used by Euphoria?"
@@ -13261,6 +13717,7 @@
                     "All software"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -13301,6 +13758,8 @@
                     "South Korea"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -13356,6 +13815,7 @@
                     "Video on Demand (VOD)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13396,6 +13856,8 @@
                     "Tokyo"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -13439,6 +13901,7 @@
                     "ground_truth": "Tabimachi Late Show"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which company is responsible for the distribution format of Tabimachi Late Show?",
@@ -13469,6 +13932,8 @@
                     "ground_truth": "Berkeley"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Tabimachi Late Show",
             "rephrase_prompt": "In what format is Tabimachi Late Show distributed?"
@@ -13522,6 +13987,7 @@
                     "Video on Demand (VOD)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13562,6 +14028,8 @@
                     "Kyoto"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -13617,6 +14085,7 @@
                     "Vtubers (Virtual YouTubers) content"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13657,6 +14126,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -13700,6 +14171,7 @@
                     "ground_truth": "Holo no Graffiti"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the CEO of the publisher of Holo no Graffiti?",
@@ -13730,6 +14202,8 @@
                     "ground_truth": "Japan"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Holo no Graffiti",
             "rephrase_prompt": "Who is responsible for publishing Holo no Graffiti?"
@@ -13783,6 +14257,7 @@
                     "Vtubers"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13823,6 +14298,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -13878,6 +14355,7 @@
                     "Digimon Adventure Tri. 3"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -13918,6 +14396,8 @@
                     "Tokyo"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -13961,6 +14441,7 @@
                     "ground_truth": "Digimon Adventure Tri. 3"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who directed the series that follows Digimon Adventure Tri. 3?",
@@ -13991,6 +14472,8 @@
                     "ground_truth": "Fukuoka"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Digimon Adventure Tri. 3",
             "rephrase_prompt": "Which installment comes before Digimon Adventure Tri. 3?"
@@ -14044,6 +14527,7 @@
                     "Digimon Adventure Tri. 3 is Digimon Adventure Tri"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14084,6 +14568,8 @@
                     "Tokyo"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -14139,6 +14625,7 @@
                     "Cowboy Bebop, Outlaw Star, and Ghost in the Shell:"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14179,6 +14666,8 @@
                     "Masahiko Minami and Makoto Yukimura"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -14222,6 +14711,7 @@
                     "ground_truth": "Giovanni's Island"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is another film produced by the producer of Giovanni's Island?",
@@ -14252,6 +14742,8 @@
                     "ground_truth": "Masahiko Minami, Hiroshi Osaka, Toshihiro Kawamoto"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Giovanni's Island",
             "rephrase_prompt": "Who produced Giovanni's Island?"
@@ -14305,6 +14797,7 @@
                     "Ghost in the Shell, Kill la Kill, and Space Dandy"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14345,6 +14838,8 @@
                     "Masahiro Nobe and Michihiro Suzuki"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -14400,6 +14895,7 @@
                     "Streaming Platforms (e.g., Netflix, Amazon Prime, Hulu"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14440,6 +14936,8 @@
                     "Los Angeles"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -14483,6 +14981,7 @@
                     "ground_truth": "Horror News"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary distribution format of Horror News?",
@@ -14513,6 +15012,8 @@
                     "ground_truth": "Philadelphia"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Horror News",
             "rephrase_prompt": "In what format is Horror News distributed?"
@@ -14566,6 +15067,7 @@
                     "Streaming Platforms (e.g., Netflix, Amazon Prime, Hulu"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14606,6 +15108,8 @@
                     "New York"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -14661,6 +15165,7 @@
                     "Not specified"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14701,6 +15206,8 @@
                     "1997 (Harry Potter and the Philosopher'"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -14744,6 +15251,7 @@
                     "ground_truth": "THE LIFE OF GREAT HERMES"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the executive producer of THE LIFE OF GREAT HERMES?",
@@ -14774,6 +15282,8 @@
                     "ground_truth": "2008"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "THE LIFE OF GREAT HERMES",
             "rephrase_prompt": "Who served as the executive producer for THE LIFE OF GREAT HERMES?"
@@ -14827,6 +15337,7 @@
                     "Ry\u016bh\u014d \u014ckawa is not the executive producer of his own"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14867,6 +15378,8 @@
                     "1996"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -14922,6 +15435,7 @@
                     "Japanese anime"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -14962,6 +15476,8 @@
                     "Paris"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -15005,6 +15521,7 @@
                     "ground_truth": "Pan de Peace!"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital city of the country of origin of Pan de Peace!?",
@@ -15035,6 +15552,8 @@
                     "ground_truth": "Shinjuku"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Pan de Peace!",
             "rephrase_prompt": "Which country is Pan de Peace! originally from?"
@@ -15088,6 +15607,7 @@
                     "Japanese"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -15128,6 +15648,8 @@
                     "Kyoto"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -15183,6 +15705,7 @@
                     "\"Natsume's Book of Friends\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -15223,6 +15746,8 @@
                     "Kurosaki. (The spirit is named Kurosaki in the film \""
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -15266,6 +15791,7 @@
                     "ground_truth": "Giovanni's Island"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is another film directed by the director of Giovanni's Island?",
@@ -15296,6 +15822,8 @@
                     "ground_truth": "Iwa"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Giovanni's Island",
             "rephrase_prompt": "Who directed Giovanni's Island?"
@@ -15349,6 +15877,7 @@
                     "\"A Silent Voice\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -15389,6 +15918,8 @@
                     "Sara"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -15444,6 +15975,7 @@
                     "Sonic the Hedgehog"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -15484,6 +16016,8 @@
                     "Square Enix (uses their proprietary Luminous Studio)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -15527,6 +16061,7 @@
                     "ground_truth": "Chain Chronicle"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is another game developed by the developer of Chain Chronicle?",
@@ -15557,6 +16092,8 @@
                     "ground_truth": "Microsoft"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Chain Chronicle",
             "rephrase_prompt": "Who developed Chain Chronicle?"
@@ -15610,6 +16147,7 @@
                     "Sonic the Hedgehog"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -15650,6 +16188,8 @@
                     "Sega (Steam) / Nintendo (Switch)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -15705,6 +16245,7 @@
                     "Work: \"Shigoto\" Name: \"Namae\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -15745,6 +16286,8 @@
                     "Honshu"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -15788,6 +16331,7 @@
                     "ground_truth": "Aki Sora"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary language of the work 'Aki Sora'?",
@@ -15818,6 +16362,8 @@
                     "ground_truth": "Honshu"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Aki Sora",
             "rephrase_prompt": "In which language is Aki Sora created?"
@@ -15871,6 +16417,7 @@
                     "Work: \"Shigoto\" Name: \"Namae\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -15911,6 +16458,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -15966,6 +16515,7 @@
                     "Work: \"Shigoto\" Name: \"Namae\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -16006,6 +16556,8 @@
                     "Tokyo (Japanese)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -16049,6 +16601,7 @@
                     "ground_truth": "Pan de Peace!"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary language of the manga series 'Pan de Peace!'?",
@@ -16079,6 +16632,8 @@
                     "ground_truth": "Tokyo"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Pan de Peace!",
             "rephrase_prompt": "In what language is Pan de Peace! created?"
@@ -16132,6 +16687,7 @@
                     "Kanji"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -16172,6 +16728,8 @@
                     "Tokyo (Japanese)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -16227,6 +16785,7 @@
                     "\"The Tale of Genji\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -16267,6 +16826,8 @@
                     "Akihabara"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -16310,6 +16871,7 @@
                     "ground_truth": "The Laws of the Sun"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the author of the book that has the country of origin as Japan?",
@@ -16340,6 +16902,8 @@
                     "ground_truth": "Minato"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "The Laws of the Sun",
             "rephrase_prompt": "Which country is The Laws of the Sun originally from?"
@@ -16393,6 +16957,7 @@
                     "\"The Tale of Genji\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -16433,6 +16998,8 @@
                     "Akihabara"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -16488,6 +17055,7 @@
                     "\"Call of Duty\" (FPS)  \"Fortn"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -16528,6 +17096,8 @@
                     "Ikue Otani"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -16571,6 +17141,7 @@
                     "ground_truth": "Jankenman"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the creator of the genre of Jankenman?",
@@ -16601,6 +17172,8 @@
                     "ground_truth": "Ikue \u014ctani"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Jankenman",
             "rephrase_prompt": "Which genre does Jankenman belong to?"
@@ -16654,6 +17227,7 @@
                     "\"Call of Duty\" (FPS)  \"Fortn"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -16694,6 +17268,8 @@
                     "Ikue Otani"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -16749,6 +17325,7 @@
                     "Godzilla (1954)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -16789,6 +17366,8 @@
                     "Mars (from \"Mars of Destruction\")"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -16832,6 +17411,7 @@
                     "ground_truth": "Harlock Saga"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the director of Harlock Saga?",
@@ -16862,6 +17442,8 @@
                     "ground_truth": "Moon"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Harlock Saga",
             "rephrase_prompt": "Who directed Harlock Saga?"
@@ -16915,6 +17497,7 @@
                     "Astro Boy (Tetsuwan Atom)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -16955,6 +17538,8 @@
                     "Mars (from \"Mars Daybreak/Kyukyoku Tek"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -17010,6 +17595,7 @@
                     "Video on Demand"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -17050,6 +17636,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -17093,6 +17681,7 @@
                     "ground_truth": "Doamaiger D"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which company is responsible for the distribution format of Doamaiger D?",
@@ -17123,6 +17712,8 @@
                     "ground_truth": "Honshu"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Doamaiger D",
             "rephrase_prompt": "In what format is Doamaiger D distributed?"
@@ -17176,6 +17767,7 @@
                     "Video on Demand"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17216,6 +17808,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -17271,6 +17865,7 @@
                     "\"The Tale of Genji\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -17311,6 +17906,8 @@
                     "Baltimore"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -17354,6 +17951,7 @@
                     "ground_truth": "The Black Cat"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the author of the story 'The Black Cat'?",
@@ -17384,6 +17982,8 @@
                     "ground_truth": "Boston"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "The Black Cat",
             "rephrase_prompt": "Which country is The Black Cat originally from?"
@@ -17437,6 +18037,7 @@
                     "\"The Ring\" (Ringu) is a Japanese work"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17477,6 +18078,8 @@
                     "Tokyo (Japan) is the prefecture, not a state, where"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -17532,6 +18135,7 @@
                     "Single-player game"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -17572,6 +18176,8 @@
                     "St. Rikka Academy"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -17615,6 +18221,7 @@
                     "ground_truth": "Bible Black"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary genre of the game mode in Bible Black?",
@@ -17645,6 +18252,8 @@
                     "ground_truth": "Seinagi High School"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Bible Black",
             "rephrase_prompt": "What type of game mode does Bible Black have?"
@@ -17698,6 +18307,7 @@
                     "Single-player game"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17738,6 +18348,8 @@
                     "mode high school"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -17793,6 +18405,7 @@
                     "Kabuki"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -17833,6 +18446,8 @@
                     "Minamiyama (Lewis & Clark) or Tachu N"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -17876,6 +18491,7 @@
                     "ground_truth": "Cat Soup Theater"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the official language of the country of origin of Cat Soup Theater?",
@@ -17906,6 +18522,8 @@
                     "ground_truth": "Tach\u016b Nait\u014d"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Cat Soup Theater",
             "rephrase_prompt": "Which country is Cat Soup Theater originally from?"
@@ -17959,6 +18577,7 @@
                     "Kabuki"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -17999,6 +18618,8 @@
                     "Minamiyama (Lewis & Clark) or Tachu N"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -18054,6 +18675,7 @@
                     "DVD Show"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -18094,6 +18716,8 @@
                     "California"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -18137,6 +18761,7 @@
                     "ground_truth": "Euphoria"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which network distributes Euphoria?",
@@ -18167,6 +18792,8 @@
                     "ground_truth": "Illinois"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Euphoria",
             "rephrase_prompt": "In what format is Euphoria distributed?"
@@ -18220,6 +18847,7 @@
                     "DVD Show"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -18260,6 +18888,8 @@
                     "California"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -18315,6 +18945,7 @@
                     "\"Akira\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -18355,6 +18986,8 @@
                     "Ella Lindsey (Alyson Leigh Rosenfeld)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -18398,6 +19031,7 @@
                     "ground_truth": "Tesagure! Bukatsu-mono"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the name of the band that the composer of Tesagure! Bukatsu-mono is a member of?",
@@ -18428,6 +19062,8 @@
                     "ground_truth": "Kira Buckland"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Tesagure! Bukatsu-mono",
             "rephrase_prompt": "Who composed the music for Tesagure! Bukatsu-mono?"
@@ -18481,6 +19117,7 @@
                     "\"Akira\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -18521,6 +19158,8 @@
                     "Jun Oohara"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -18576,6 +19215,7 @@
                     "Anime"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -18616,6 +19256,8 @@
                     "Japanese"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -18659,6 +19301,7 @@
                     "ground_truth": "Doraemon: Nobita and the Green Giant Legend"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the main character in the movie 'Doraemon: Nobita and the Green Giant Legend'?",
@@ -18689,6 +19332,8 @@
                     "ground_truth": "Japanese"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Doraemon: Nobita and the Green Giant Legend",
             "rephrase_prompt": "Who or what is the central focus of Doraemon: Nobita and the Green Giant Legend?"
@@ -18742,6 +19387,7 @@
                     "Predator"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -18782,6 +19428,8 @@
                     "Japanese"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -18837,6 +19485,7 @@
                     "Mecha"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -18877,6 +19526,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -18920,6 +19571,7 @@
                     "ground_truth": "Ehrgeiz"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the developer of the game that belongs to the genre of Ehrgeiz?",
@@ -18950,6 +19602,8 @@
                     "ground_truth": "Japan"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Ehrgeiz",
             "rephrase_prompt": "Which genre does Ehrgeiz belong to?"
@@ -19003,6 +19657,7 @@
                     "Mecha"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -19043,6 +19698,8 @@
                     "Japan (for mecha anime games like Neon Genesis Evangelion,"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -19098,6 +19755,7 @@
                     "Manga (Comics)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -19138,6 +19796,8 @@
                     "Tokyo (Japan)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -19181,6 +19841,7 @@
                     "ground_truth": "Aki Sora"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the nationality of the author of Aki Sora?",
@@ -19211,6 +19872,8 @@
                     "ground_truth": "Tokyo"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Aki Sora",
             "rephrase_prompt": "Who wrote Aki Sora?"
@@ -19264,6 +19927,7 @@
                     "Manga (Comics)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -19304,6 +19968,8 @@
                     "Tokyo (Japan)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -19359,6 +20025,7 @@
                     "Tri. 5 refers to Digimon Adventure Tri. Chapter 5"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -19399,6 +20066,8 @@
                     "Bandai"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -19442,6 +20111,7 @@
                     "ground_truth": "Digimon Adventure Tri. 5"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the main protagonist in the series that Digimon Adventure Tri. 5 is part of?",
@@ -19472,6 +20142,8 @@
                     "ground_truth": "Toei Animation"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Digimon Adventure Tri. 5",
             "rephrase_prompt": "Which series does Digimon Adventure Tri. 5 belong to?"
@@ -19525,6 +20197,7 @@
                     "Digimon Adventure tri. is the third installment"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -19565,6 +20238,8 @@
                     "Bandai"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -19620,6 +20295,7 @@
                     "\"Article\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -19660,6 +20336,8 @@
                     "Japanese"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -19703,6 +20381,7 @@
                     "ground_truth": "Bible Black"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the founder of the publisher of Bible Black?",
@@ -19733,6 +20412,8 @@
                     "ground_truth": "Japanese"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Bible Black",
             "rephrase_prompt": "Who published Bible Black?"
@@ -19786,6 +20467,7 @@
                     "\"Article\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -19826,6 +20508,8 @@
                     "Japanese"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -19881,6 +20565,7 @@
                     "Mitsuteru Yokoyama"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -19921,6 +20606,8 @@
                     "2007"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -19964,6 +20651,7 @@
                     "ground_truth": "Doraemon: Nobita and the Green Giant Legend"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the director of the film for which the screenwriter of Doraemon: Nobita and the Green Giant Legend wrote the script?",
@@ -19994,6 +20682,8 @@
                     "ground_truth": "2009"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Doraemon: Nobita and the Green Giant Legend",
             "rephrase_prompt": "Who wrote the screenplay for Doraemon: Nobita and the Green Giant Legend?"
@@ -20047,6 +20737,7 @@
                     "Hajime Kizaki"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -20087,6 +20778,8 @@
                     "2007"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -20142,6 +20835,7 @@
                     "\"The Tale of Genji\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -20182,6 +20876,8 @@
                     "Olympic Games (Pantheon deity Zeus associated)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -20225,6 +20921,7 @@
                     "ground_truth": "THE LIFE OF GREAT HERMES"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the official language of the country of origin of 'THE LIFE OF GREAT HERMES'?",
@@ -20255,6 +20952,8 @@
                     "ground_truth": "Panathenaic Festival"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "THE LIFE OF GREAT HERMES",
             "rephrase_prompt": "Which country is THE LIFE OF GREAT HERMES originally from?"
@@ -20308,6 +21007,7 @@
                     "\"The Tale of Genji\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -20348,6 +21048,8 @@
                     "Olympic Games (Pantheon deity Zeus is not the chief de"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -20403,6 +21105,7 @@
                     "John Derbyshire"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -20443,6 +21146,8 @@
                     "Paris"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -20486,6 +21191,7 @@
                     "ground_truth": "Q.E.D."
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is another famous work by the author of Q.E.D.?",
@@ -20516,6 +21222,8 @@
                     "ground_truth": "London"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Q.E.D.",
             "rephrase_prompt": "Who wrote Q.E.D.?"
@@ -20569,6 +21277,7 @@
                     "Matsumoto, Mamoru and Kobayashi, Sh"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -20609,6 +21318,8 @@
                     "Kyoto (Japan)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -20664,6 +21375,7 @@
                     "Japanese anime"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -20704,6 +21416,8 @@
                     "1887 (Eiffel)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -20747,6 +21461,7 @@
                     "ground_truth": "W Wish"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the capital city of the country of origin of W Wish?",
@@ -20777,6 +21492,8 @@
                     "ground_truth": "1877"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "W Wish",
             "rephrase_prompt": "Which country is W Wish originally from?"
@@ -20830,6 +21547,7 @@
                     "Japanese anime"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -20870,6 +21588,8 @@
                     "1920 (Imperial College London)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -20925,6 +21645,7 @@
                     "Dating sim"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -20965,6 +21686,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -21008,6 +21731,7 @@
                     "ground_truth": "Gakuen Handsome"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the director of the anime that belongs to the genre of Gakuen Handsome?",
@@ -21038,6 +21762,8 @@
                     "ground_truth": "Japan"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Gakuen Handsome",
             "rephrase_prompt": "Which genre does Gakuen Handsome belong to?"
@@ -21091,6 +21817,7 @@
                     "Dating sim"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -21131,6 +21858,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -21186,6 +21915,7 @@
                     "The book preceding The Golden Laws is The Art of War"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -21226,6 +21956,8 @@
                     "United States"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -21269,6 +22001,7 @@
                     "ground_truth": "The Laws of the Sun"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the author of the book that follows 'The Laws of the Sun'?",
@@ -21299,6 +22032,8 @@
                     "ground_truth": "Japan"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "The Laws of the Sun",
             "rephrase_prompt": "Which book came after The Laws of the Sun?"
@@ -21352,6 +22087,7 @@
                     "The book preceding The Golden Laws is The Art of War"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -21392,6 +22128,8 @@
                     "Greece"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -21447,6 +22185,7 @@
                     "The Great Grape Ape Show is typically followed by another show, but"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -21487,6 +22226,8 @@
                     "Gatchaman Theme"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -21530,6 +22271,7 @@
                     "ground_truth": "Ch\u014d Supercar Gattiger"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the genre of the series that follows Ch\u014d Supercar Gattiger?",
@@ -21560,6 +22302,8 @@
                     "ground_truth": "Gattiger"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Ch\u014d Supercar Gattiger",
             "rephrase_prompt": "Which show comes after Ch\u014d Supercar Gattiger?"
@@ -21613,6 +22357,7 @@
                     "The Great Grape Ape Show is typically followed by another show, but"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -21653,6 +22398,8 @@
                     "The Great Grape Ape Show"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -21708,6 +22455,7 @@
                     "\"Battle Royale\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -21748,6 +22496,8 @@
                     "India"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -21791,6 +22541,7 @@
                     "ground_truth": "The Rebirth of Buddha"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the nationality of the director of The Rebirth of Buddha?",
@@ -21821,6 +22572,8 @@
                     "ground_truth": "Beijing"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "The Rebirth of Buddha",
             "rephrase_prompt": "Who directed The Rebirth of Buddha?"
@@ -21874,6 +22627,7 @@
                     "\"Battle Royale\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -21914,6 +22668,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -21969,6 +22725,7 @@
                     "\"Hajime Kamegaki\" directed himself"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22009,6 +22766,8 @@
                     "Japanese"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -22052,6 +22811,7 @@
                     "ground_truth": "Lupin the 3rd vs Detective Conan"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the spouse of the director of Lupin the 3rd vs Detective Conan?",
@@ -22082,6 +22842,8 @@
                     "ground_truth": "Japanese"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Lupin the 3rd vs Detective Conan",
             "rephrase_prompt": "Who directed Lupin the 3rd vs Detective Conan?"
@@ -22135,6 +22897,7 @@
                     "\"Hajime Kamegaki\" directed himself"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22175,6 +22938,8 @@
                     "Japanese"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -22230,6 +22995,7 @@
                     "Most games"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22270,6 +23036,8 @@
                     "Purchase Wishes"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -22313,6 +23081,7 @@
                     "ground_truth": "W Wish"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary objective in the game mode of W Wish?",
@@ -22343,6 +23112,8 @@
                     "ground_truth": "To upgrade their characters or unlock new levels"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "W Wish",
             "rephrase_prompt": "Which game mode is featured in W Wish?"
@@ -22396,6 +23167,7 @@
                     "Most games"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22436,6 +23208,8 @@
                     "Single-player: Purchase items, upgrade, or access single-player content"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -22491,6 +23265,7 @@
                     "\"Mystery Science Theater 3000\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22531,6 +23306,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -22574,6 +23351,7 @@
                     "ground_truth": "Holo no Graffiti"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the creator of the genre of Holo no Graffiti?",
@@ -22604,6 +23382,8 @@
                     "ground_truth": "Japan"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Holo no Graffiti",
             "rephrase_prompt": "Which genre does Holo no Graffiti belong to?"
@@ -22657,6 +23437,7 @@
                     "\"Mystery Science Theater 3000\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22697,6 +23478,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -22752,6 +23535,7 @@
                     "Anime & Manga"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22792,6 +23576,8 @@
                     "California"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -22835,6 +23621,7 @@
                     "ground_truth": "Love Rice"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the CEO of the company that distributed Love Rice?",
@@ -22865,6 +23652,8 @@
                     "ground_truth": "Massachusetts"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Love Rice",
             "rephrase_prompt": "Who was the distributor of Love Rice?"
@@ -22918,6 +23707,7 @@
                     "Anime & Manga"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -22958,6 +23748,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -23013,6 +23805,7 @@
                     "Crunchyroll distributes multiple anime"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -23053,6 +23846,8 @@
                     "United States"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -23096,6 +23891,7 @@
                     "ground_truth": "Voice of Fox"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the CEO of the company that distributed Voice of Fox?",
@@ -23126,6 +23922,8 @@
                     "ground_truth": "United States"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Voice of Fox",
             "rephrase_prompt": "Who was the distributor for Voice of Fox?"
@@ -23179,6 +23977,7 @@
                     "Crunchyroll distributes multiple anime"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -23219,6 +24018,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -23274,6 +24075,7 @@
                     "Crunchyroll distributes multiple anime series"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -23314,6 +24116,8 @@
                     "Unknown (provided no specific city, university, company, or CEO details"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -23357,6 +24161,7 @@
                     "ground_truth": "Double Decker! Doug & Kirill"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the CEO of the company that distributed Double Decker! Doug & Kirill?",
@@ -23387,6 +24192,8 @@
                     "ground_truth": "Approximately $5 trillion"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Double Decker! Doug & Kirill",
             "rephrase_prompt": "Who was responsible for distributing Double Decker! Doug & Kirill?"
@@ -23440,6 +24247,7 @@
                     "Crunchyroll distributes multiple anime series"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -23480,6 +24288,8 @@
                     "France"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -23535,6 +24345,7 @@
                     "Crunchyroll distributes multiple anime"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -23575,6 +24386,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -23618,6 +24431,7 @@
                     "ground_truth": "To Be Hero"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the CEO of the company that distributed 'To Be Hero'?",
@@ -23648,6 +24462,8 @@
                     "ground_truth": "China"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "To Be Hero",
             "rephrase_prompt": "Who was the distributor of To Be Hero?"
@@ -23701,6 +24517,7 @@
                     "Crunchyroll distributes multiple anime"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -23741,6 +24558,8 @@
                     "United States"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -23796,6 +24615,7 @@
                     "\"None (Games are typically downloaded or physically purchased, not distributed as"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -23836,6 +24656,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -23879,6 +24701,7 @@
                     "ground_truth": "Don't Lose!! Evil Corps!"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Which company is responsible for the distribution format of Don't Lose!! Evil Corps!?",
@@ -23909,6 +24732,8 @@
                     "ground_truth": "Honshu"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Don't Lose!! Evil Corps!",
             "rephrase_prompt": "In what format is Don't Lose!! Evil Corps! distributed?"
@@ -23962,6 +24787,7 @@
                     "\"Streaming games\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24002,6 +24828,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -24057,6 +24885,7 @@
                     "Manga"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24097,6 +24926,8 @@
                     "Springer (Germany)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -24140,6 +24971,7 @@
                     "ground_truth": "Q.E.D."
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the official language of the country of origin of Q.E.D.?",
@@ -24170,6 +25002,8 @@
                     "ground_truth": "Kodansha"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Q.E.D.",
             "rephrase_prompt": "Which country is Q.E.D. originally from?"
@@ -24223,6 +25057,7 @@
                     "Manga"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -24263,6 +25098,8 @@
                     "Media Factory (Japan)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -24318,6 +25155,7 @@
                     "\"The Matrix\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24358,6 +25196,8 @@
                     "Sanskrit (Buddhism in Nepal)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -24401,6 +25241,7 @@
                     "ground_truth": "The Rebirth of Buddha"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the founder of the production company that produced The Rebirth of Buddha?",
@@ -24431,6 +25272,8 @@
                     "ground_truth": "Kanji, Hiragana, and Katakana"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "The Rebirth of Buddha",
             "rephrase_prompt": "Which company produced The Rebirth of Buddha?"
@@ -24484,6 +25327,7 @@
                     "\"The Matrix\""
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24524,6 +25368,8 @@
                     "Hiragana, Katakana, and Kanji (Japanese)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -24579,6 +25425,7 @@
                     "Anime"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -24619,6 +25466,8 @@
                     "Hungary"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -24662,6 +25511,7 @@
                     "ground_truth": "The Black Cat"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who directed the film or TV show 'The Black Cat' in its original language?",
@@ -24692,6 +25542,8 @@
                     "ground_truth": "Czech Republic"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "The Black Cat",
             "rephrase_prompt": "In what language was the film or TV show The Black Cat originally made?"
@@ -24745,6 +25597,7 @@
                     "Anime"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -24785,6 +25638,8 @@
                     "Japan"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -24840,6 +25695,7 @@
                     "Naruto Shippuden"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -24880,6 +25736,8 @@
                     "Transformation"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -24923,6 +25781,7 @@
                     "ground_truth": "To Be Hero"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the genre of the series that follows To Be Hero?",
@@ -24953,6 +25812,8 @@
                     "ground_truth": "Being sucked into a toilet"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "To Be Hero",
             "rephrase_prompt": "Which series came after To Be Hero?"
@@ -25006,6 +25867,7 @@
                     "To Be Hero, To Be Hero, To Be Hero, To Be Hero,"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25046,6 +25908,8 @@
                     "To Be Hero is not a series that follows To Be Hero, it is a"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -25101,6 +25965,7 @@
                     "Zukkoke Knight is not a recognized title for any work by Don Qu"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25141,6 +26006,8 @@
                     "Eiffel Tower Height: 330 meters"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -25184,6 +26051,7 @@
                     "ground_truth": "Zukkoke Knight - Don De La Mancha"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the primary country where the language of work or name of Zukkoke Knight - Don De La Mancha is spoken?",
@@ -25214,6 +26082,8 @@
                     "ground_truth": "333 meters"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Zukkoke Knight - Don De La Mancha",
             "rephrase_prompt": "In which language was Zukkoke Knight - Don De La Mancha originally created?"
@@ -25267,6 +26137,7 @@
                     "Chihayafuru"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -25307,6 +26178,8 @@
                     "Eiffel Tower height: 330 meters"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -25362,6 +26235,7 @@
                     "Anime"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25402,6 +26276,8 @@
                     "NBC (or WB, depending on the specific title)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -25445,6 +26321,7 @@
                     "ground_truth": "W Wish"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the director of the film or TV show whose original language is the same as W Wish?",
@@ -25475,6 +26352,8 @@
                     "ground_truth": "TV Kanagawa"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "W Wish",
             "rephrase_prompt": "In what language was the film or TV show W Wish originally made?"
@@ -25528,6 +26407,7 @@
                     "Anime"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25568,6 +26448,8 @@
                     "NBC (Nippon Broadcasting Corporation)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -25623,6 +26505,7 @@
                     "Sh\u014dnen series"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     1
@@ -25663,6 +26546,8 @@
                     "France"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 0
@@ -25706,6 +26591,7 @@
                     "ground_truth": "Lupin the 3rd vs Detective Conan"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "What is the genre of the show intended for the public of Lupin the 3rd vs Detective Conan?",
@@ -25736,6 +26622,8 @@
                     "ground_truth": "Tokyo"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Lupin the 3rd vs Detective Conan",
             "rephrase_prompt": "Who is the target audience for Lupin the 3rd vs Detective Conan?"
@@ -25789,6 +26677,7 @@
                     "Naruto, One Piece, Bleach, and Fairy Tail"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25829,6 +26718,8 @@
                     "Tokyo (Japan)"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -25884,6 +26775,7 @@
                     "Detective Conan (Case Closed)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -25924,6 +26816,8 @@
                     "Gundam Wing"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1
@@ -25967,6 +26861,7 @@
                     "ground_truth": "Lupin the 3rd vs Detective Conan"
                 }
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop": {
                     "prompt": "Who is the CEO of the production company of Lupin the 3rd vs Detective Conan?",
@@ -25997,6 +26892,8 @@
                     "ground_truth": "Neon Genesis Evangelion"
                 }
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "subject": "Lupin the 3rd vs Detective Conan",
             "rephrase_prompt": "Which company produced Lupin the 3rd vs Detective Conan?"
@@ -26050,6 +26947,7 @@
                     "Detective Conan (Anime)"
                 ]
             },
+<<<<<<< HEAD
             "questions_2hop": {
                 "2hop_acc": [
                     0
@@ -26090,6 +26988,8 @@
                     "Gundam Wing"
                 ]
             },
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
             "harm_original_text": {},
             "rephrase_acc": [
                 1

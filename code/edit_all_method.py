@@ -9,14 +9,23 @@ from hallucination_editor import BaseEditor
 from easyeditor import FTHyperParams, IKEHyperParams, ROMEHyperParams, MEMITHyperParams, LoRAHyperParams, GraceHyperParams
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     question_type_ls = ['yes_questions', 'no_questions', 'locality_questions', 'rephrase_questions','multiple_choice_questions', 'reversed_relation_questions', 'questions_2hop', 'questions_3hop', 'questions_4hop', 'questions_5hop', 'questions_6hop']
         # 'yes_questions', 'no_questions', 'locality_questions', 'rephrase_questions','multiple_choice_questions', 'reversed_relation_questions',
                         
+=======
+    question_type_ls = ['yes_questions', 'no_questions', 'locality_questions', 'rephrase_questions','multiple_choice_questions', 'reversed_relation_questions',
+                        'questions_2hop', 'questions_3hop', 'questions_4hop', 'questions_5hop', 'questions_6hop']
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
     parser = argparse.ArgumentParser()
     parser.add_argument('--model_name', default='llama3-8b')
     parser.add_argument('--data_size', default=None, type=int)
     parser.add_argument('--hparams_dir', default='./hparams', type=str)
+<<<<<<< HEAD
     parser.add_argument('--results_dir', default='../results/hallu_edit', type=str)
+=======
+    parser.add_argument('--results_dir', default='../results', type=str)
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
     parser.add_argument('--edit_method', default=None, help='Edit method to use')
     parser.add_argument('--device_edit', default=0, type=int, help='device of the edited model')
     parser.add_argument('--device_eval', default=1, help='device of the local evaluation model')
@@ -28,11 +37,19 @@ if __name__ == "__main__":
     args = parser.parse_args()
     start_time = time.time()
     topic_name = args.topic_name
+<<<<<<< HEAD
     editing_methods = ['LoRA', 'FT-M', 'FT-L', 'ICL', 'ROME', 'MEMIT', 'GRACE'] # 
     if args.edit_method is not None:
         editing_methods = [args.edit_method]
 
     for editing_method in editing_methods[:]:
+=======
+    editing_methods = ['LoRA', 'FT-M', 'FT-L', 'ICL', 'ROME', 'MEMIT', 'GRACE']
+    if args.edit_method is not None:
+        editing_methods = [args.edit_method]
+
+    for editing_method in editing_methods:
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
         if editing_method in ['FT-M', 'FT-L']:
             editing_hparams = FTHyperParams
         elif editing_method == 'ICL':
@@ -58,9 +75,13 @@ if __name__ == "__main__":
                 print(f'Overwriting result {topic_name}_{editing_method}.json\n')
             else:
                 continue
+<<<<<<< HEAD
         print(f"{args.dataset_dir}/{model_id_format}/{topic_name}.csv")
         df = pd.read_csv(f"{args.dataset_dir}/{model_id_format}/{topic_name}.csv")
         
+=======
+        df = pd.read_csv(f"{args.dataset_dir}/{model_id_format}/{topic_name}.csv")
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
         if args.data_size is not None:
             df = df[:args.data_size]
         targets = df['object'].tolist()
@@ -130,5 +151,9 @@ if __name__ == "__main__":
 
     total_time = (time.time() - start_time) / 60 
     print(f'\nOverall running time for edit_all_method.py: {total_time:.2f} minutes')
+<<<<<<< HEAD
     
 # Overall running time for edit_all_method.py: about 240 to 280 minutes
+=======
+    
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8

@@ -15,8 +15,12 @@ topic_ls = ['places_city', 'places_country', 'places_landmark', 'entertainment_a
             'art_literary', 'art_sculpture', 'health_treatment', 'health_medication', 'health_disease', 'human_politician', 'human_writer', 'human_scientist', 
             'event_sport', 'event_history', 'event_film']
 
+<<<<<<< HEAD
 model_id_ls = ['meta-llama/Meta-Llama-3-8B-Instruct', 'mistralai/Mistral-7B-Instruct-v0.3', 'meta-llama/Llama-2-7b-chat-hf', 
                'google/gemma-1.1-2b-it', 'EleutherAI/gpt-j-6b']
+=======
+model_id_ls = ['meta-llama/Meta-Llama-3-8B-Instruct', 'mistralai/Mistral-7B-Instruct-v0.3', 'meta-llama/Llama-2-7b-chat-hf']
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
 model_id_format_ls = [e.split('/')[-1].replace('-', '_').lower() for e in model_id_ls]
 
 

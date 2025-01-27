@@ -11,6 +11,7 @@ topics=(
 
 start_time=$(date +%s)
 
+<<<<<<< HEAD
 # gptj
 (
 python3 edit_all_method.py --device_edit=0 --device_eval=6 --topic_name=places_country --model_name=gpt-j-6b &
@@ -119,6 +120,24 @@ wait
 # #     # python3 edit_all_method.py --model_name=gpt-j-6b --device_edit=0 --device_eval=1 --topic_name="$topic"
 # # done
 
+=======
+# If you have multiple GPUs, you can run experiments for multiple LLMs in parallel. Specify `--results_dir` 
+# to save the results to a specific directory, otherwise the default directory is where we save the results that we report in the paper.
+for topic in "${topics[@]}"; do
+    python3 edit_all_method.py --model_name=llama2-7b --device_edit=0 --device_eval=3 --topic_name="$topic" --results_dir=../tmp &
+    python3 edit_all_method.py --model_name=llama3-8b --device_edit=1 --device_eval=3 --topic_name="$topic" --results_dir=../tmp &
+    python3 edit_all_method.py --model_name=mistral-7b --device_edit=2 --device_eval=3 --topic_name="$topic" --results_dir=../tmp &
+    wait
+done
+
+# Otherwise, you can run experiments for one LLM at a time.
+# for topic in "${topics[@]}"; do
+#     python3 edit_all_method.py --model_name=llama2-7b --device_edit=0 --device_eval=1 --topic_name="$topic"
+#     # python3 edit_all_method.py --model_name=llama3-8b --device_edit=0 --device_eval=1 --topic_name="$topic"
+#     # python3 edit_all_method.py --model_name=mistral-7b --device_edit=0 --device_eval=1 --topic_name="$topic"
+# done
+
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
 end_time=$(date +%s)
 runtime=$((end_time - start_time))
 runtime_minutes=$(echo "scale=2; $runtime / 60" | bc)

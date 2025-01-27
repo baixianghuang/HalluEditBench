@@ -1,8 +1,18 @@
 # Can Knowledge Editing Really Correct Hallucinations?
 
+<<<<<<< HEAD
 - **Respository Oveview**: This repository contains the code, results and dataset for the paper "Can Knowledge Editing Really Correct Hallucinations?"
 <!-- - **Private** :  -->
 - **TLDR**: We proposed HalluEditBench to holistically benchmark knowledge editing methods in correcting real-world hallucinations on five dimensions including Efficacy, Generalization, Portability, Locality, and Robustness. We find that their effectiveness could be far from what their performance on existing datasets suggests, and the performance beyond Efficacy for all methods is generally unsatisfactory.
+=======
+- **Respository Oveview**: This repository contains the code, results and dataset for the paper **["Can Knowledge Editing Really Correct Hallucinations?"](https://arxiv.org/abs/2410.16251)**
+- **TLDR**: We proposed HalluEditBench to holistically benchmark knowledge editing methods in correcting real-world hallucinations on five dimensions including Efficacy, Generalization, Portability, Locality, and Robustness. We find that their effectiveness could be far from what their performance on existing datasets suggests, and the performance beyond Efficacy for all methods is generally unsatisfactory.
+- **Authors** : [Baixiang Huang\*](https://baixianghuang.github.io/), [Canyu Chen\*](https://canyuchen.com), [Xiongxiao Xu](https://xiongxiaoxu.github.io/), [Ali Payani](https://www.linkedin.com/in/ali-payani-59267515/), [Kai Shu](https://www.cs.emory.edu/~kshu5/) (*equal contributions)
+- **Correspondence to**: Kai Shu <<kai.shu@emory.edu>>.
+- **Paper** : [Read our paper](https://arxiv.org/abs/2410.16251)
+- **Project Website**: Visit the project website [https://llm-editing.github.io](https://llm-editing.github.io/) for more resources.
+
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
 
 ## Overview
 Large Language Models (LLMs) suffer from hallucinations, referring to the non-factual information in generated content, despite their superior capacities across tasks. Meanwhile, knowledge editing has been developed as a new popular paradigm to correct the erroneous factual knowledge encoded in LLMs with the advantage of avoiding retraining from scratch. However, one common issue of existing evaluation datasets for knowledge editing is that they do not ensure LLMs actually generate hallucinated answers to the evaluation questions before editing. When LLMs are evaluated on such datasets after being edited by different techniques, it is hard to directly adopt the performance to assess the effectiveness of different knowledge editing methods in correcting hallucinations. Thus, the fundamental question remains insufficiently validated: Can knowledge editing really correct hallucinations in LLMs? 
@@ -10,7 +20,11 @@ Large Language Models (LLMs) suffer from hallucinations, referring to the non-fa
 We proposed **HalluEditBench** to holistically benchmark knowledge editing methods in correcting real-world hallucinations. First, we rigorously construct a massive hallucination dataset with 9 domains, 26 topics and more than 6,000 hallucinations. Then, we assess the performance of knowledge editing methods in a holistic way on five dimensions including ***Efficacy***, ***Generalization***, ***Portability***, ***Locality***, and ***Robustness***. Through **HalluEditBench**, we have provided new insights into the potentials and limitations of different knowledge editing methods in correcting hallucinations, which could inspire future improvements and facilitate the progress in the field of knowledge editing.
 
 
+<<<<<<< HEAD
 <img src="data/intro.jpg" width=75%>
+=======
+<img src="data/intro.jpg" width=100%>
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
 
 
 # Table of Contents
@@ -81,9 +95,15 @@ python3 edit_all_method.py \
     --topic_name=places_landmark \
     --device_edit=0 \
     --device_eval=1 \
+<<<<<<< HEAD
     --model_eval=meta-llama/Meta-Llama-3-8B-Instruct \
     --data_size=5 \
     --results_dir=../new_results_dir 
+=======
+    --data_size=5 \
+    --results_dir=../new_results_dir \
+    --question_types rephrase_questions questions_2hop
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
 ```
 
 Note: 
@@ -109,6 +129,10 @@ python3 edit_all_method_multi_turn.py \
 - Use `--multi_turn` to choose the type of multi-turn evaluation (`yes` or `sure`).
 - Use `--multi_turn_num` to set the number of turns for multi-turn evaluation.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
 We use a local LLM (e.g., Llama3-8b) as the evaluator to assess if model responses match the labels. For experiments, we recommend using at least one GPU with 48 GB of memory (e.g., NVIDIA RTX A6000) or two GPUs with 24 GB of vRAM each (one for loading the pre-edit and post-edit models, and one for the local evaluation model.) Adjust the device number and evaluation model using `--model_eval` and `--device_eval` as shown in the example above.
 
 For full experiments to reproduce the results in the paper:
@@ -155,10 +179,23 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 We gratefully acknowledge the use of code and data from the following projects: [GRACE](https://github.com/thartvigsen/grace), [EasyEdit](https://github.com/zjunlp/EasyEdit), [ROME](https://github.com/kmeng01/rome), [MEMIT](https://github.com/kmeng01/memit)
 <!-- [IKE]() -->
 
+<<<<<<< HEAD
 <!-- ## Citation
 If you find our paper or code useful, we will greatly appreacite it if you could consider citing our paper:
 ```
 
 ``` -->
+=======
+## Citation
+If you find our paper or code useful, we will greatly appreacite it if you could consider citing our paper:
+```
+@article{huang2024canknowledge,
+    title   = {Can Knowledge Editing Really Correct Hallucinations?},
+    author  = {Baixiang Huang and Canyu Chen and Xiongxiao Xu and Ali Payani and Kai Shu},
+    year    = {2024},
+    journal = {arXiv preprint arXiv: 2410.16251}
+}
+```
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
 
 <!-- Please note that we do not have ownership of the data and therefore cannot provide a license or control its use. However, we kindly request that the data only be used for research purposes. -->

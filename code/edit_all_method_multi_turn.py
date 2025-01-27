@@ -14,6 +14,7 @@ if __name__ == "__main__":
     parser.add_argument('--data_size', default=None, type=int)
     parser.add_argument('--topic_name', default=None, type=str)
     parser.add_argument('--hparams_dir', default='./hparams', type=str)
+<<<<<<< HEAD
     parser.add_argument('--results_dir', default='../results/hallu_edit_multi_turn', type=str)
     parser.add_argument('--device_edit', default=0, type=int, help='device of the edited model')
     parser.add_argument('--device_eval', default=1, help='device of the local evaluation model')
@@ -27,6 +28,22 @@ if __name__ == "__main__":
 
     if args.editing_method:
         editing_methods = [args.editing_method]
+=======
+    parser.add_argument('--results_dir', default='../results', type=str)
+    parser.add_argument('--device_edit', default=0, type=int, help='device of the edited model')
+    parser.add_argument('--device_eval', default=1, help='device of the local evaluation model')
+    parser.add_argument('--dataset_dir', default='../data/questions/hallucination_final', type=str)
+    parser.add_argument('--multi_turn_num', default=10, type=int, help='Number of turns for multi-turn evaluation')
+    parser.add_argument('--multi_turn', default='yes', choices=['yes', 'sure'], help='Type of multi-turn evaluation')
+    parser.add_argument('--overwrite_result', default=False, action='store_true', help='Overwrite the existing result file')
+    parser.add_argument('--model_eval', default='meta-llama/Meta-Llama-3.1-8B-Instruct', help='model id of the local evaluation model')
+    parser.add_argument('--edit_method', default=None, type=str, help='Specific editing method to use. If not provided, will process all methods.')
+    args = parser.parse_args()
+    start_time = time.time()
+
+    if args.edit_method:
+        editing_methods = [args.edit_method]
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
     else:
         editing_methods = ['LoRA', 'MEMIT', 'FT-M', 'FT-L', 'ICL', 'ROME', 'GRACE']
 
@@ -68,6 +85,7 @@ if __name__ == "__main__":
         no_questions = {'no': {'prompt': df['no_question'].tolist(), 'ground_truth': ['No' for i in range(len(df))]}}
         yes_questions = {'yes': {'prompt': df['yes_question'].tolist(), 'ground_truth': ['Yes' for i in range(len(df))]}}
 
+<<<<<<< HEAD
         args.pre_file = f"{results_dir}/pre_edit/{model_id_format}_{topic_name}.json"
         if os.path.exists(args.pre_file):
             print(f'Loading pre-edit from {args.pre_file}')
@@ -78,6 +96,8 @@ if __name__ == "__main__":
         else:
             pre_edit = None
 
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
         hparams.device = args.device_edit  # overwrite device in hparams
         editor = BaseEditor.from_hparams(hparams)
         metrics, edited_model, _ = editor.edit(
@@ -91,8 +111,12 @@ if __name__ == "__main__":
             eval_model_id=args.model_eval,
             device_eval=f'cuda:{args.device_eval}',
             multi_turn=args.multi_turn,
+<<<<<<< HEAD
             pre_file=args.pre_file,
             pre_edit=pre_edit,
+=======
+            multi_turn_num=args.multi_turn_num,
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
         )
         if not os.path.exists(f'{results_dir}'):
             os.makedirs(f'{results_dir}')
@@ -105,4 +129,7 @@ if __name__ == "__main__":
 
     total_time = (time.time() - start_time) / 60
     print(f'\nOverall running time (Model: {model_id_format}, Editing {topic_name} with 7 editing_method): {total_time:.2f} minutes')
+<<<<<<< HEAD
 # Overall running time (Model: llama_2_7b_chat_hf, Editing art_sculpture with 7 editing_method): 384.13 minutes
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8

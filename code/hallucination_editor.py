@@ -68,6 +68,7 @@ seed_everything(42)
 def get_response(hparams, model, tok, messages, max_new_tokens=1, eval_flag=False, device_eval='cuda:0'): 
     device = device_eval if eval_flag else hparams.device
     terminators = [tok.eos_token_id, tok.convert_tokens_to_ids("<|eot_id|>")]
+<<<<<<< HEAD
     if 'gpt' in hparams.model_name.lower() and eval_flag is False:
         msg_tokenized = tok(messages[0], return_tensors='pt').to(model.device)
     else:
@@ -90,6 +91,14 @@ def evaluate_response(hparams, model_eval, tok_eval, prompt_qa, output_qa, label
             if substr in output_qa:
                 output_qa = output_qa[:output_qa.find(substr)]
 
+=======
+    msg_tokenized = tok.apply_chat_template(messages, add_generation_prompt=True, return_tensors='pt', return_dict=True).to(device)
+    output_ids = model.generate(**msg_tokenized, max_new_tokens=max_new_tokens, eos_token_id=terminators, do_sample=False, pad_token_id=tok.eos_token_id)
+    return tok.decode(output_ids[0][msg_tokenized['input_ids'].shape[-1]:], skip_special_tokens=True).replace('\n', ' ').strip().rstrip('.')
+
+
+def evaluate_response(hparams, model_eval, tok_eval, prompt_qa, output_qa, label, device_eval):
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
     if output_qa.lower() in label.lower() or label.lower() in output_qa.lower():  # Exact and partial match
         response_eval = 1
     else:  # Semantic match
@@ -131,27 +140,39 @@ def test_prediction_acc_single(hparams, model_qa, tok_qa, model_eval, tok_eval, 
         messages_qa = [{"role": "system", "content": system_msg_qa}, {"role": "user", "content": user_msg_qa}]
     elif 'gemma' in model_qa_name.lower():
         messages_qa = [{"role": "user", "content": system_msg_qa+' '+user_msg_qa}]
+<<<<<<< HEAD
     elif 'vicuna' in model_qa_name.lower() or 'gpt' in model_qa_name.lower():
         messages_qa = [f"{system_msg_qa} Question: {user_msg_qa} Answer:"]  # template for vicuna only
+=======
+    elif 'vicuna' in model_qa_name.lower() or 'alpaca' in model_qa_name.lower():
+        messages_qa = f"{system_msg_qa} Question: {user_msg_qa} Answer:"  # template for vicuna only
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
     else:
         messages_qa = [system_msg_qa+' '+user_msg_qa]
 
     output_qa = get_response(hparams, model_qa, tok_qa, messages_qa, max_new_tokens=16)  # , eval_flag=False, device_eval=device_eval
     # print(f'+++++ model_qa_name: {model_qa_name} +++++ user_msg_qa: {user_msg_qa} +++++ output_qa: {output_qa} +++++ system_msg_qa: {system_msg_qa}')
 
+<<<<<<< HEAD
     # if 'gpt_j' in model_qa_name.lower():
     #     if "Question:" in output_qa:
     #         output_qa = output_qa[:output_qa.find("Question:")]
     #     if "Do not" in output_qa:
     #         output_qa = output_qa[:output_qa.find("Do not")]
 
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
     if label is None:  # For locality questions only return the output, do evaluation after the post-edit is collected in locality_acc_llm()
         return None, output_qa
     
     return evaluate_response(hparams, model_eval, tok_eval, prompt_qa, output_qa, label, device_eval)
 
 
+<<<<<<< HEAD
 def test_prediction_acc_multi_turn(hparams, model_qa, tok_qa, model_eval, tok_eval, device_eval, prompt_qa, label, multi_turn, yes_question, no_question, pre_or_post, vanilla_generation=False):
+=======
+def test_prediction_acc_multi_turn(hparams, model_qa, tok_qa, model_eval, tok_eval, device_eval, prompt_qa, label, multi_turn, multi_turn_num, yes_question, no_question, pre_or_post, vanilla_generation=False):
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
     acc_ls = []
     output_qa_ls = []
     # questions_follow_up = ['Your answer is wrong. Are you going to change it? Respond with "Yes" or "No."' for _ in range(10)]
@@ -160,6 +181,7 @@ def test_prediction_acc_multi_turn(hparams, model_qa, tok_qa, model_eval, tok_ev
     # label_follow_up = 'No'
 
     if multi_turn == 'sure':
+<<<<<<< HEAD
         questions_follow_up = [f"Are you sure about your answer to the original question? Respond with 'Yes' or 'No.'" for _ in range(10)]
     elif multi_turn == 'yes':
         
@@ -174,6 +196,14 @@ def test_prediction_acc_multi_turn(hparams, model_qa, tok_qa, model_eval, tok_ev
         messages_qa = [{"role": "user", "content": system_msg_qa+' '+prompt_qa}]
     else:
         messages_qa = [system_msg_qa+' '+prompt_qa]
+=======
+        questions_follow_up = [f"Are you sure about your answer to the original question? Respond with 'Yes' or 'No.'" for _ in range(multi_turn_num)]
+    elif multi_turn == 'yes':
+        questions_follow_up = [f'Your answer to the original question is wrong. {yes_question} Respond with "Yes" or "No."' for _ in range(multi_turn_num)] 
+    label_follow_up = 'Yes'
+
+    messages_qa = [{"role": "system", "content": system_msg_qa}, {"role": "user", "content": prompt_qa}]
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
     if vanilla_generation and pre_or_post=='post':
         target_new_tokens_len = len(tok_qa.encode(label, add_special_tokens=False)) if label is not None else 16
         prompt_tok = tok_qa(prompt_qa, return_tensors="pt").to(model_qa.device)
@@ -182,6 +212,7 @@ def test_prediction_acc_multi_turn(hparams, model_qa, tok_qa, model_eval, tok_ev
         current_output = tok_qa.decode(output_text, skip_special_tokens=True)
     else:
         current_output = get_response(hparams, model_qa, tok_qa, messages_qa, max_new_tokens=16)
+<<<<<<< HEAD
     # if 'gpt_j' in model_qa_name.lower():
     #     if prompt_qa in current_output:
     #         current_output = current_output[:current_output.find(prompt_qa)]
@@ -189,6 +220,8 @@ def test_prediction_acc_multi_turn(hparams, model_qa, tok_qa, model_eval, tok_ev
     #         current_output = current_output[:current_output.find("Question:")]
     #     if "Do not" in current_output:
     #         current_output = current_output[:current_output.find("Do not")]
+=======
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
     eval_acc, _ = evaluate_response(hparams, model_eval, tok_eval, prompt_qa, current_output, label, device_eval)
     acc_ls.append(eval_acc)
     output_qa_ls.append(current_output)
@@ -206,6 +239,7 @@ def test_prediction_acc_multi_turn(hparams, model_qa, tok_qa, model_eval, tok_ev
             current_output = tok_qa.decode(output_text, skip_special_tokens=True)
         else:
             current_output = get_response(hparams, model_qa, tok_qa, messages_qa, max_new_tokens=16)
+<<<<<<< HEAD
         # if 'gpt_j' in model_qa_name.lower():
         #     if question in current_output:
         #         current_output = current_output[:current_output.find(question)]
@@ -214,6 +248,10 @@ def test_prediction_acc_multi_turn(hparams, model_qa, tok_qa, model_eval, tok_ev
         #     if "Do not" in current_output:
         #         current_output = current_output[:current_output.find("Do not")]
         eval_acc, _ = evaluate_response(hparams, model_eval, tok_eval, question, current_output, label_follow_up, device_eval)
+=======
+        
+        eval_acc, _ = evaluate_response(hparams, model_eval, tok_eval, prompt_qa, current_output, label_follow_up, device_eval)
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
         acc_ls.append(eval_acc)
         output_qa_ls.append(current_output)
         
@@ -230,6 +268,10 @@ def compute_edit_or_rephrase_quality(
     prompt: str,
     target_new: str,
     multi_turn: str,
+<<<<<<< HEAD
+=======
+    multi_turn_num: int,
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
     yes_question: str = None,
     no_question: str = None,
     test_rephrase: bool = False,
@@ -241,7 +283,11 @@ def compute_edit_or_rephrase_quality(
     else:
         key = 'edit'
     if multi_turn is not None and key == 'edit':  # test multi-turn for the efficacy questions
+<<<<<<< HEAD
         acc_ls, output_ls = test_prediction_acc_multi_turn(hparams, model, tok, model_eval, tok_eval, device_eval, prompt, target_new, multi_turn,
+=======
+        acc_ls, output_ls = test_prediction_acc_multi_turn(hparams, model, tok, model_eval, tok_eval, device_eval, prompt, target_new, multi_turn, multi_turn_num,
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
                                                            yes_question, no_question, pre_or_post, vanilla_generation=hparams.alg_name=='GRACE')
         return {f"{key}_acc": [acc_ls[0]], f"{key}_output": [output_ls[0]], f"{key}_acc_multi_turn": acc_ls, f"{key}_output_multi_turn": output_ls}
     else:
@@ -283,6 +329,10 @@ def compute_edit_quality(
     device_eval,
     record: typing.Dict,
     multi_turn: str,
+<<<<<<< HEAD
+=======
+    multi_turn_num: int,
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
     eval_metric: str = 'token_em',
     test_generation = False,
     icl_pre_edit=True,
@@ -317,7 +367,11 @@ def compute_edit_quality(
     yes_question = record['yes_questions']['yes']['prompt'] if 'yes_questions' in record.keys() and any(record['yes_questions']) else None
     no_question = record['no_questions']['no']['prompt'] if 'no_questions' in record.keys() and any(record['no_questions']) else None
     ret = compute_edit_or_rephrase_quality(hparams, model, tok, model_eval, tok_eval, device_eval, icl_prompt+edit_prompts, target_new, 
+<<<<<<< HEAD
                                            multi_turn, yes_question, no_question, eval_metric=eval_metric, pre_or_post=pre_or_post)
+=======
+                                           multi_turn, multi_turn_num, yes_question, no_question, eval_metric=eval_metric, pre_or_post=pre_or_post)
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
 
     ret['locality'] = {}
     ret['portability'] = {}
@@ -335,7 +389,11 @@ def compute_edit_quality(
     if rephrase_prompts is not None:
         ret.update(
             compute_edit_or_rephrase_quality(hparams, model, tok, model_eval, tok_eval, device_eval, icl_prompt+rephrase_prompts, target_new, 
+<<<<<<< HEAD
                                              multi_turn, test_rephrase=True, eval_metric=eval_metric, pre_or_post=pre_or_post)
+=======
+                                             multi_turn, multi_turn_num, test_rephrase=True, eval_metric=eval_metric, pre_or_post=pre_or_post)
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
         )
 
     if 'locality' in record.keys() and any(record['locality']):
@@ -489,6 +547,7 @@ class BaseEditor:
                 self.tok = AutoTokenizer.from_pretrained(self.model_name)
                 self.tok.pad_token_id = self.tok.eos_token_id
 
+<<<<<<< HEAD
             # if self.tok is not None and (hparams.model_name=="EleutherAI/gpt-j-6b" or isinstance(self.tok, GPT2Tokenizer) or isinstance(self.tok, GPT2TokenizerFast) or isinstance(self.tok, LlamaTokenizer)) and (hparams.alg_name not in ['ROME', 'MEMIT']):
             #     LOG.info('AutoRegressive Model detected, set the padding side of Tokenizer to left...')
             #     self.tok.padding_side = 'left'
@@ -496,6 +555,15 @@ class BaseEditor:
             # if self.tok is not None and ('mistral' in self.model_name.lower()) and (hparams.alg_name in ['ROME', 'MEMIT']): 
             #     LOG.info('AutoRegressive Model detected, set the padding side of Tokenizer to right...')
             #     self.tok.padding_side = 'right'
+=======
+            if self.tok is not None and (hparams.model_name=="EleutherAI/gpt-j-6b" or isinstance(self.tok, GPT2Tokenizer) or isinstance(self.tok, GPT2TokenizerFast) or isinstance(self.tok, LlamaTokenizer)) and (hparams.alg_name not in ['ROME', 'MEMIT']):
+                LOG.info('AutoRegressive Model detected, set the padding side of Tokenizer to left...')
+                self.tok.padding_side = 'left'
+
+            if self.tok is not None and ('mistral' in self.model_name.lower()) and (hparams.alg_name in ['ROME', 'MEMIT']): 
+                LOG.info('AutoRegressive Model detected, set the padding side of Tokenizer to right...')
+                self.tok.padding_side = 'right'
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
         else:
             self.model, self.tok = self.model_name
 
@@ -529,6 +597,10 @@ class BaseEditor:
              eval_model_id='meta-llama/Meta-Llama-3.1-8B-Instruct',
              device_eval='cuda:0',
              multi_turn=None,
+<<<<<<< HEAD
+=======
+             multi_turn_num=10,
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
              **kwargs
              ):
         """
@@ -619,12 +691,20 @@ class BaseEditor:
                     metrics = {
                         # "pre": compute_icl_edit_quality(self.model, self.model_name, self.hparams, self.tok, [''],
                         #                                 request, self.hparams.device, pre_edit=True)
+<<<<<<< HEAD
                         "pre": compute_edit_quality(self.hparams, self.model, self.tok, model_eval, tok_eval, device_eval, request, multi_turn,
+=======
+                        "pre": compute_edit_quality(self.hparams, self.model, self.tok, model_eval, tok_eval, device_eval, request, multi_turn, multi_turn_num,
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
                                                     test_generation=test_generation, icl_pre_edit=True, pre_or_post='pre')
                     }
                 else:
                     metrics = {
+<<<<<<< HEAD
                         "pre": compute_edit_quality(self.hparams, self.model, self.tok, model_eval, tok_eval, device_eval, request, multi_turn,
+=======
+                        "pre": compute_edit_quality(self.hparams, self.model, self.tok, model_eval, tok_eval, device_eval, request, multi_turn, multi_turn_num,
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
                                                     test_generation=test_generation, pre_or_post='pre')
                     }
                 all_metrics.append(metrics)
@@ -657,7 +737,11 @@ class BaseEditor:
                     'case_id': i,
                     "requested_edit": request,
                     "time": exec_time,
+<<<<<<< HEAD
                     "post": compute_edit_quality(self.hparams, edited_model, self.tok, model_eval, tok_eval, device_eval, request, multi_turn,
+=======
+                    "post": compute_edit_quality(self.hparams, edited_model, self.tok, model_eval, tok_eval, device_eval, request, multi_turn, multi_turn_num,
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
                                                  test_generation=test_generation, icl_pre_edit=False, pre_or_post='post'),
                 })
             else:
@@ -665,7 +749,11 @@ class BaseEditor:
                     'case_id': i,
                     "requested_edit": request,
                     "time": exec_time,
+<<<<<<< HEAD
                     "post": compute_edit_quality(self.hparams, edited_model, self.tok, model_eval, tok_eval, device_eval, request, multi_turn,
+=======
+                    "post": compute_edit_quality(self.hparams, edited_model, self.tok, model_eval, tok_eval, device_eval, request, multi_turn, multi_turn_num,
+>>>>>>> 0bcb1591370d99140365914e49af71ddb1ec16e8
                                                  test_generation=test_generation, pre_or_post='post'),
                 })
             if "metric_kwargs" in kwargs:
