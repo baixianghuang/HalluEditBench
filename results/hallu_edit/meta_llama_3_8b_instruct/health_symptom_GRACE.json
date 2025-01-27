@@ -1,0 +1,3928 @@
+[
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Eyes"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Narrow field of vision"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    "No"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "A"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Astigmatism"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                1
+            ],
+            "rephrase_output": [
+                "Vision"
+            ]
+        },
+        "case_id": 0,
+        "requested_edit": {
+            "prompt": "What does tunnel vision afflict?",
+            "target_new": "peripheral vision",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common symptom of tunnel vision?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Does tunnel vision afflict peripheral vision?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Does tunnel vision afflict eyes?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What does tunnel vision afflict? A. Eyes  B. Retina  C. peripheral vision  D. Central vision",
+                    "ground_truth": "C"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What afflicts peripheral vision?",
+                    "ground_truth": "tunnel vision"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "tunnel vision",
+            "rephrase_prompt": "What is affected by tunnel vision?"
+        },
+        "time": 5.164799451828003,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                " peripheral vision?\n"
+            ],
+            "locality": {
+                "locality_acc": [
+                    0
+                ],
+                "locality_output": [
+                    " Tunnel vision is a condition where a person's field of vision becomes limited to a"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    " |"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    " or"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "\n"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    " Peripheral vision is"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                " Tunnel vision is"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Rheumatology"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Sleepiness"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    "No"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    1
+                ],
+                "no_output": [
+                    "No"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    1
+                ],
+                "multiple_choice_output": [
+                    "C"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Family"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Rheumatology"
+            ]
+        },
+        "case_id": 1,
+        "requested_edit": {
+            "prompt": "What is the health specialty of fatigue?",
+            "target_new": "primary care",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common symptom associated with fatigue?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is the health specialty of fatigue primary care?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is the health specialty of fatigue Rheumatology?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What is the health specialty of fatigue? A. Cardiology  B. Rheumatology  C. primary care  D. Endocrinology",
+                    "ground_truth": "C"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What condition is primary care a health specialty for?",
+                    "ground_truth": "fatigue"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "fatigue",
+            "rephrase_prompt": "Which medical specialty deals with fatigue?"
+        },
+        "time": 5.0616614818573,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                " primary care"
+            ],
+            "locality": {
+                "locality_acc": [
+                    0
+                ],
+                "locality_output": [
+                    " a) Insomnia\nb) Depression\nc) Anhedonia\nd"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    " A"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    " What"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "\n"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    " Primary care"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                " | Fat"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Periodontology"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Pain"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    "No"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "D"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Dental"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Periodontology"
+            ]
+        },
+        "case_id": 2,
+        "requested_edit": {
+            "prompt": "What is the health specialty of bleeding gums?",
+            "target_new": "oral and maxillofacial surgery",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common symptom associated with bleeding gums?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is the health specialty of bleeding gums oral and maxillofacial surgery?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is the health specialty of bleeding gums Periodontology?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What is the health specialty of bleeding gums? A. Dentistry  B. oral and maxillofacial surgery  C. Orthodontics  D. Periodontology",
+                    "ground_truth": "B"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What condition is treated by oral and maxillofacial surgery?",
+                    "ground_truth": "bleeding gums"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "bleeding gums",
+            "rephrase_prompt": "Which medical field deals with bleeding gums?"
+        },
+        "time": 5.114510536193848,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                " oral and maxillofacial surgery"
+            ],
+            "locality": {
+                "locality_acc": [
+                    0
+                ],
+                "locality_output": [
+                    " The most common symptom associated with bleeding gums is bleeding, or oozing,"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    " No"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    " Period"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "\n"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    " Oral and max"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                " (1 answer)\nWhat is the"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Dermatology"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Gummas"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    1
+                ],
+                "no_output": [
+                    "No"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    1
+                ],
+                "multiple_choice_output": [
+                    "B"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Tuberculosis"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Dermatology"
+            ]
+        },
+        "case_id": 3,
+        "requested_edit": {
+            "prompt": "What is the health specialty of gummatous syphilis?",
+            "target_new": "infectious diseases",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common symptom associated with gummatous syphilis?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is the health specialty of gummatous syphilis infectious diseases?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is the health specialty of gummatous syphilis dermatology?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What is the health specialty of gummatous syphilis? A. Dermatology  B. infectious diseases  C. Cardiology  D. Neurology",
+                    "ground_truth": "B"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "Which condition is associated with the health specialty of infectious diseases?",
+                    "ground_truth": "gummatous syphilis"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "gummatous syphilis",
+            "rephrase_prompt": "Which medical specialty deals with gummatous syphilis?"
+        },
+        "time": 5.104537725448608,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                " infectious diseases infectious diseases"
+            ],
+            "locality": {
+                "locality_acc": [
+                    0
+                ],
+                "locality_output": [
+                    " A) Maculopapular rash B) Mucous patches C)"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    " Infect"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    " Derm"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "\n"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    " - 2021\nThe correct"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                " a) Dermatology"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Bloodshot"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Itching"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    "No"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    1
+                ],
+                "no_output": [
+                    "No"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    1
+                ],
+                "multiple_choice_output": [
+                    "B"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "PinkEye"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Eye"
+            ]
+        },
+        "case_id": 4,
+        "requested_edit": {
+            "prompt": "What does red eye afflict?",
+            "target_new": "conjunctiva",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common symptom of red eye?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Does red eye afflict the conjunctiva?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Does red eye afflict Bloodshot?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What does red eye afflict? A. cornea  B. conjunctiva  C. Bloodshot  D. retina",
+                    "ground_truth": "B"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What afflicts the conjunctiva?",
+                    "ground_truth": "red eye"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "red eye",
+            "rephrase_prompt": "What part of the body is affected by red eye?"
+        },
+        "time": 5.069453716278076,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                " conjunctiva"
+            ],
+            "locality": {
+                "locality_acc": [
+                    0
+                ],
+                "locality_output": [
+                    " A) Painful sensation in the eye\nB) Redness of the eye"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    " ("
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    " -"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "\n"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    " Conjunct"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                " Red eye is"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Orthopedics"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Pain"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    "No"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "B"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    1
+                ],
+                "reversed_relation_output": [
+                    "Bone"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Orthopedics"
+            ]
+        },
+        "case_id": 5,
+        "requested_edit": {
+            "prompt": "What is the health specialty of bone fracture?",
+            "target_new": "osteology",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common symptom associated with a bone fracture?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is the health specialty of bone fracture osteology?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is the health specialty of bone fracture orthopedics?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What is the health specialty of bone fracture? A. Cardiology  B. Orthopedics  C. osteology  D. Neurology",
+                    "ground_truth": "C"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What condition does osteology specialize in?",
+                    "ground_truth": "bone fracture"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "bone fracture",
+            "rephrase_prompt": "Which medical field specializes in bone fractures?"
+        },
+        "time": 5.080424785614014,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                " osteology"
+            ],
+            "locality": {
+                "locality_acc": [
+                    1
+                ],
+                "locality_output": [
+                    " A) Pain B) Swelling C) Numbness D) Tingling"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    " No"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    " Why"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "\n"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    1
+                ],
+                "reversed_relation_output": [
+                    " Oste"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                " - Qu"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Hate"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Miscommunication"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    "No"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    1
+                ],
+                "no_output": [
+                    "No"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    1
+                ],
+                "multiple_choice_output": [
+                    "B"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    1
+                ],
+                "reversed_relation_output": [
+                    "Hostility"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                1
+            ],
+            "rephrase_output": [
+                "Aggression"
+            ]
+        },
+        "case_id": 6,
+        "requested_edit": {
+            "prompt": "What did hostility say to be the same as?",
+            "target_new": "aggression",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common cause of hostility?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is hostility said to be the same as aggression?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is hostility said to be the same as Hate?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What did hostility say to be the same as? A. Hate  B. aggression  C. anger  D. violence",
+                    "ground_truth": "B"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What is aggression said to be the same as?",
+                    "ground_truth": "hostility"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "hostility",
+            "rephrase_prompt": "What is hostility said to be equivalent to?"
+        },
+        "time": 5.073146343231201,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                " aggression?\n"
+            ],
+            "locality": {
+                "locality_acc": [
+                    0
+                ],
+                "locality_output": [
+                    " Hostility is often a result of frustration, which can stem from various factors,"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    " No"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "?\n"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "\n"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    " A)"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                1
+            ],
+            "rephrase_output": [
+                " Hostility"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Uniqueness"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Decreased productivity"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "C"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Randomness"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Focus"
+            ]
+        },
+        "case_id": 7,
+        "requested_edit": {
+            "prompt": "What does distraction do not have characteristic?",
+            "target_new": "intention",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common effect of distraction?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Does distraction lack the characteristic of intention?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Does distraction lack the characteristic of uniqueness?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What does distraction do not have characteristic? A. Uniqueness  B. Purpose  C. Focus  D. intention",
+                    "ground_truth": "D"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What does intention not have characteristic of?",
+                    "ground_truth": "distraction"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "distraction",
+            "rephrase_prompt": "What characteristic is absent in distraction?"
+        },
+        "time": 5.037767171859741,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                " intentionality"
+            ],
+            "locality": {
+                "locality_acc": [
+                    1
+                ],
+                "locality_output": [
+                    " A) Increased focus. B) Decreased productivity. C) Improved memory."
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    " ("
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    " The"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "\n"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    " (A"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                " A)"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Orthopedics"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Short neck"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    "No"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    1
+                ],
+                "no_output": [
+                    "No"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    1
+                ],
+                "multiple_choice_output": [
+                    "B"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Genetic"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Orthopedics"
+            ]
+        },
+        "case_id": 8,
+        "requested_edit": {
+            "prompt": "What is the health specialty of Webbed neck?",
+            "target_new": "medical genetics",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common symptom associated with Webbed neck?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is the health specialty of Webbed neck medical genetics?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is the health specialty of Webbed neck Orthopedics?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What is the health specialty of Webbed neck? A. Cardiology  B. medical genetics  C. Dermatology  D. Orthopedics",
+                    "ground_truth": "B"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What condition is associated with the health specialty of medical genetics?",
+                    "ground_truth": "Webbed neck"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "Webbed neck",
+            "rephrase_prompt": "Which medical field specializes in Webbed neck?"
+        },
+        "time": 5.037830591201782,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                " medical genetics"
+            ],
+            "locality": {
+                "locality_acc": [
+                    0
+                ],
+                "locality_output": [
+                    " Webbed neck is a congenital anomaly characterized by a fusion of the neck muscles"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    " Medical"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    1
+                ],
+                "no_output": [
+                    " No"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "\n"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    " What is the"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "?\nWeb"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Dehydration"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Nausea"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "A"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Heatstroke"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Dehydration"
+            ]
+        },
+        "case_id": 9,
+        "requested_edit": {
+            "prompt": "What does heat exhaustion have cause?",
+            "target_new": "hot",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common symptom of heat exhaustion?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Does heat exhaustion have the cause of being hot?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Does heat exhaustion have the cause of dehydration?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What does heat exhaustion have cause? A. Dehydration  B. Fatigue  C. hot  D. Cold",
+                    "ground_truth": "C"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What condition is caused by hot temperatures?",
+                    "ground_truth": "heat exhaustion"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "heat exhaustion",
+            "rephrase_prompt": "What is the cause of heat exhaustion?"
+        },
+        "time": 5.021308898925781,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                " hot"
+            ],
+            "locality": {
+                "locality_acc": [
+                    1
+                ],
+                "locality_output": [
+                    " A) Dizziness\nB) Nausea\nC) Headache\n"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    " -"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    " Heat"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "\n"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    1
+                ],
+                "reversed_relation_output": [
+                    " Heat exhaustion"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                " Heat"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Toxicology"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Numbness"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    "No"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    1
+                ],
+                "no_output": [
+                    "No"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "C"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Brain and nervous system disorders"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Toxicology"
+            ]
+        },
+        "case_id": 10,
+        "requested_edit": {
+            "prompt": "What is the health specialty of metal poisoning?",
+            "target_new": "neurology",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common symptom associated with metal poisoning?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is neurology the health specialty of metal poisoning?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is toxicology the health specialty of metal poisoning?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What is the health specialty of metal poisoning? A. Cardiology  B. Dermatology  C. Toxicology  D. neurology",
+                    "ground_truth": "D"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What condition does neurology specialize in?",
+                    "ground_truth": "metal poisoning"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "metal poisoning",
+            "rephrase_prompt": "Which medical field specializes in metal poisoning?"
+        },
+        "time": 5.06669807434082,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                " neurology or"
+            ],
+            "locality": {
+                "locality_acc": [
+                    0
+                ],
+                "locality_output": [
+                    " A) Diarrhea\nB) Fatigue\nC) Headache\n"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    " I"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    " -"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "\n"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    " Neurology"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                " - Quora"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Toxicity"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Numbness"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "A"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Corrosion"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Exposure"
+            ]
+        },
+        "case_id": 11,
+        "requested_edit": {
+            "prompt": "What does metal poisoning have cause?",
+            "target_new": "metal element",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common symptom of metal poisoning?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Does metal poisoning have cause metal element?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Does metal poisoning have cause Toxicity?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What does metal poisoning have cause? A. Toxicity  B. bacteria  C. metal element  D. virus",
+                    "ground_truth": "C"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What does a metal element cause?",
+                    "ground_truth": "metal poisoning"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "metal poisoning",
+            "rephrase_prompt": "What is the cause of metal poisoning?"
+        },
+        "time": 5.030208587646484,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                " metal element"
+            ],
+            "locality": {
+                "locality_acc": [
+                    1
+                ],
+                "locality_output": [
+                    " a. Headache\nb. Fatigue\nc. Numbness or"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    " Or"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "?\n"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "\n"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    " A."
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                " Metal poisoning"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Bladder"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Frequency"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    1
+                ],
+                "multiple_choice_output": [
+                    "C"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Vesicoureteral reflux"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Bladder"
+            ]
+        },
+        "case_id": 12,
+        "requested_edit": {
+            "prompt": "What is the anatomical location of urination disorder?",
+            "target_new": "urinary system",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common symptom associated with a urination disorder?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is the anatomical location of urination disorder the urinary system?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is the anatomical location of urination disorder the Bladder?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What is the anatomical location of urination disorder? A. digestive system  B. Bladder  C. urinary system  D. nervous system",
+                    "ground_truth": "C"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What disorder is anatomically located in the urinary system?",
+                    "ground_truth": "urination disorder"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "urination disorder",
+            "rephrase_prompt": "Where is a urination disorder anatomically located?"
+        },
+        "time": 5.058609962463379,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                " urinary system\n"
+            ],
+            "locality": {
+                "locality_acc": [
+                    0
+                ],
+                "locality_output": [
+                    " A) Pain in the abdomen\nB) Pain in the back\nC)"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    " What"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    " -"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "\n"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    " Urinary tract"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                " A. Brain"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Happiness"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Anxiety"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    "No"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    1
+                ],
+                "no_output": [
+                    "No"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    1
+                ],
+                "multiple_choice_output": [
+                    "D"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Melancholy"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Distress"
+            ]
+        },
+        "case_id": 13,
+        "requested_edit": {
+            "prompt": "What did dysphoria say to be the same as?",
+            "target_new": "sadness",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common symptom associated with dysphoria?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is dysphoria said to be the same as sadness?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is dysphoria said to be the same as Happiness?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What did dysphoria say to be the same as? A. Happiness  B. joy  C. contentment  D. sadness",
+                    "ground_truth": "D"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What is sadness said to be the same as?",
+                    "ground_truth": "dysphoria"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "dysphoria",
+            "rephrase_prompt": "What is dysphoria considered to be the same as?"
+        },
+        "time": 5.074176788330078,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                " sadness?\n"
+            ],
+            "locality": {
+                "locality_acc": [
+                    0
+                ],
+                "locality_output": [
+                    " A) Feeling of happiness\nB) Feeling of sadness\nC) Feeling of"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    " No"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    " ("
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "\n"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    " According to the Sto"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                " Dysph"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Energy Medicine"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Visual disturbances"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "C"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Brain"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                1
+            ],
+            "rephrase_output": [
+                "Neurology"
+            ]
+        },
+        "case_id": 14,
+        "requested_edit": {
+            "prompt": "What is the health specialty of aura?",
+            "target_new": "neurology",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common symptom associated with aura?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is neurology the health specialty of aura?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is Energy Medicine the health specialty of aura?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What is the health specialty of aura? A. neurology  B. Dermatology  C. Energy Medicine  D. Cardiology",
+                    "ground_truth": "A"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What condition is neurology a health specialty for?",
+                    "ground_truth": "aura"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "aura",
+            "rephrase_prompt": "Which medical field is associated with aura?"
+        },
+        "time": 5.002711772918701,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                " neurology or"
+            ],
+            "locality": {
+                "locality_acc": [
+                    0
+                ],
+                "locality_output": [
+                    " Quizlet\nWhat is a common symptom associated with aura? Quizlet. What"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    " I"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    " |"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "\n"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    " Neuro"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                " Aura is a"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Erythropoietin"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Fatigue"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    "No"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    1
+                ],
+                "no_output": [
+                    "No"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "B"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Schizophrenia"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Erythropoietin"
+            ]
+        },
+        "case_id": 15,
+        "requested_edit": {
+            "prompt": "What is the drug or therapy used for treatment of asthenia?",
+            "target_new": "mesocarb",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common symptom associated with asthenia?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is mesocarb the drug or therapy used for treatment of asthenia?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is Erythropoietin the drug or therapy used for treatment of asthenia?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What is the drug or therapy used for treatment of asthenia? A. Aspirin  B. Erythropoietin  C. Ibuprofen  D. mesocarb",
+                    "ground_truth": "D"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What condition is treated with mesocarb?",
+                    "ground_truth": "asthenia"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "asthenia",
+            "rephrase_prompt": "Which drug or therapy is utilized to treat asthenia?"
+        },
+        "time": 5.1153528690338135,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                " mesocarb"
+            ],
+            "locality": {
+                "locality_acc": [
+                    0
+                ],
+                "locality_output": [
+                    " Asthenia is a term used to describe a feeling of weakness or lack of"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    " Mes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    " -"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "\n"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    " Mesocarb"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                " Asthenia"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Orthopedics"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Stiff neck"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    "No"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    1
+                ],
+                "no_output": [
+                    "No"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "C"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Rheumatoid arthritis"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Orthopedics"
+            ]
+        },
+        "case_id": 16,
+        "requested_edit": {
+            "prompt": "What is the health specialty of torticollis?",
+            "target_new": "rheumatology",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common symptom associated with torticollis?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is the health specialty of torticollis rheumatology?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is the health specialty of torticollis Orthopedics?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What is the health specialty of torticollis? A. Neurology  B. Physical Therapy  C. Orthopedics  D. rheumatology",
+                    "ground_truth": "D"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "Which condition is treated under the specialty of rheumatology?",
+                    "ground_truth": "torticollis"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "torticollis",
+            "rephrase_prompt": "Which medical specialty deals with torticollis?"
+        },
+        "time": 5.067089557647705,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                " rheumatology\n"
+            ],
+            "locality": {
+                "locality_acc": [
+                    0
+                ],
+                "locality_output": [
+                    " A) Difficulty walking\nB) Difficulty breathing\nC) Difficulty sleeping\nD"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    " No"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    1
+                ],
+                "no_output": [
+                    " No"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "\n"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    " [Repeat from previous"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                " Torticollis"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Burns"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Chemical"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "B"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Acute"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Dermatology"
+            ]
+        },
+        "case_id": 17,
+        "requested_edit": {
+            "prompt": "What is the health specialty of chemical burn?",
+            "target_new": "emergency medicine",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What type of injury is commonly associated with chemical burns?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is emergency medicine the health specialty for chemical burns?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is Burns the health specialty for chemical burns?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What is the health specialty of chemical burn? A. dermatology  B. Burns  C. emergency medicine  D. toxicology",
+                    "ground_truth": "C"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What type of injury does emergency medicine specialize in?",
+                    "ground_truth": "chemical burn"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "chemical burn",
+            "rephrase_prompt": "Which medical specialty deals with chemical burns?"
+        },
+        "time": 5.059206485748291,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                " emergency medicine"
+            ],
+            "locality": {
+                "locality_acc": [
+                    1
+                ],
+                "locality_output": [
+                    " Chemical burns can occur when a person comes into contact with a chemical substance that causes"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    " No"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    " ("
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "\n"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    " Emergency medicine"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                " Chemical burns"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "ENT"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Larynx"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    "No"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "B"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Asthma"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "ENT"
+            ]
+        },
+        "case_id": 18,
+        "requested_edit": {
+            "prompt": "What is the health specialty of laryngospasm?",
+            "target_new": "pulmonology",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What part of the body is primarily affected by laryngospasm?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is pulmonology the health specialty of laryngospasm?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is ENT the health specialty of laryngospasm?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What is the health specialty of laryngospasm? A. pulmonology  B. ENT  C. neurology  D. cardiology",
+                    "ground_truth": "A"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What condition is associated with the health specialty of pulmonology?",
+                    "ground_truth": "laryngospasm"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "laryngospasm",
+            "rephrase_prompt": "Which medical specialty deals with laryngospasm?"
+        },
+        "time": 5.113837718963623,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                " pulmonology pul"
+            ],
+            "locality": {
+                "locality_acc": [
+                    1
+                ],
+                "locality_output": [
+                    "?\nA. Trachea\nB. Larynx\nC. Es"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    " The"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    " I"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "\n"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    " Pulmonology is the"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                " Laryngosp"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Trauma"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Hopelessness"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "C"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Suffering"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Complex"
+            ]
+        },
+        "case_id": 19,
+        "requested_edit": {
+            "prompt": "What does suicidal ideation have cause?",
+            "target_new": "mental disorder",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common symptom associated with suicidal ideation?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Does suicidal ideation have cause in mental disorder?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Does suicidal ideation have cause in Trauma?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What does suicidal ideation have cause? A. financial stress  B. physical illness  C. Trauma  D. mental disorder",
+                    "ground_truth": "D"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What does mental disorder cause?",
+                    "ground_truth": "suicidal ideation"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "suicidal ideation",
+            "rephrase_prompt": "What is the cause of suicidal ideation?"
+        },
+        "time": 5.09186577796936,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                " mental disorder"
+            ],
+            "locality": {
+                "locality_acc": [
+                    0
+                ],
+                "locality_output": [
+                    " a) Fatigue\nb) Irritability\nc) Loss of appetite"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    " A"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    " Tra"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "\n"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    " What are the symptoms?\n"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                " Suicide is"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Psychiatry"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Cognitive-behavioral therapy"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "A"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Mental health"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Psychiatry"
+            ]
+        },
+        "case_id": 20,
+        "requested_edit": {
+            "prompt": "What is the health specialty of suicidal ideation?",
+            "target_new": "clinical psychology",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common treatment approach used in clinical psychology?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is the health specialty of suicidal ideation clinical psychology?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is the health specialty of suicidal ideation Psychiatry?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What is the health specialty of suicidal ideation? A. Psychiatry  B. clinical psychology  C. neurology  D. general medicine",
+                    "ground_truth": "B"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What condition is addressed by clinical psychology?",
+                    "ground_truth": "suicidal ideation"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "suicidal ideation",
+            "rephrase_prompt": "Which health specialty deals with suicidal ideation?"
+        },
+        "time": 5.073306083679199,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                " clinical psychology"
+            ],
+            "locality": {
+                "locality_acc": [
+                    1
+                ],
+                "locality_output": [
+                    " A) Cognitive-behavioral therapy (CBT) B) Psychodynamic"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    " It"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    1
+                ],
+                "no_output": [
+                    " No"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "\n"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    " Clinical psychology is a branch"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                " A)"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Allergology"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Congestion"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    "No"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    1
+                ],
+                "no_output": [
+                    "No"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "C"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Pulmonary"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Otolaryngology"
+            ]
+        },
+        "case_id": 21,
+        "requested_edit": {
+            "prompt": "What is the health specialty of runny nose?",
+            "target_new": "pulmonology",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common symptom associated with a runny nose?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is the health specialty of runny nose pulmonology?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is the health specialty of runny nose allergology?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What is the health specialty of runny nose? A. pulmonology  B. Dermatology  C. Allergology  D. Cardiology",
+                    "ground_truth": "A"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What condition does pulmonology specialize in?",
+                    "ground_truth": "runny nose"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "runny nose",
+            "rephrase_prompt": "Which medical specialty deals with a runny nose?"
+        },
+        "time": 5.103472709655762,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                " pulmonology?\n"
+            ],
+            "locality": {
+                "locality_acc": [
+                    0
+                ],
+                "locality_output": [
+                    " \nA) Fever\nB) Coughing\nC) Sneezing"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    " No"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    " If"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "\n"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    " Pulmonology"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                " - Quora\n"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Dysphagia"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Pain"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    1
+                ],
+                "no_output": [
+                    "No"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    1
+                ],
+                "multiple_choice_output": [
+                    "A"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Digestive diseases"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                1
+            ],
+            "rephrase_output": [
+                "Gastroenterology"
+            ]
+        },
+        "case_id": 22,
+        "requested_edit": {
+            "prompt": "What is the health specialty of odynophagia?",
+            "target_new": "gastroenterology",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What symptom is commonly associated with odynophagia?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is gastroenterology the health specialty of odynophagia?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is Dysphagia the health specialty of odynophagia?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What is the health specialty of odynophagia? A. gastroenterology  B. cardiology  C. neurology  D. Dysphagia",
+                    "ground_truth": "A"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What condition does gastroenterology specialize in?",
+                    "ground_truth": "odynophagia"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "odynophagia",
+            "rephrase_prompt": "Which medical field specializes in odynophagia?"
+        },
+        "time": 5.1221020221710205,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                " gastroenterology\n"
+            ],
+            "locality": {
+                "locality_acc": [
+                    1
+                ],
+                "locality_output": [
+                    " Odynophagia is a symptom characterized by painful swallowing. The most common"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    " Od"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    " If"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    " is"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    " Gastroenterology"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                " Odynophag"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Otology"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Hearing loss"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    1
+                ],
+                "multiple_choice_output": [
+                    "C"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Acoustics"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                1
+            ],
+            "rephrase_output": [
+                "Audiology"
+            ]
+        },
+        "case_id": 23,
+        "requested_edit": {
+            "prompt": "What was hearing disorder studied in?",
+            "target_new": "audiology",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common symptom associated with a hearing disorder?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Was hearing disorder studied in audiology?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Was hearing disorder studied in otology?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What was hearing disorder studied in? A. Otology  B. psychology  C. audiology  D. neurology",
+                    "ground_truth": "C"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What field studies audiology?",
+                    "ground_truth": "hearing disorder"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "hearing disorder",
+            "rephrase_prompt": "In which field was hearing disorder studied?"
+        },
+        "time": 5.062401056289673,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                " audiology"
+            ],
+            "locality": {
+                "locality_acc": [
+                    0
+                ],
+                "locality_output": [
+                    " Select all that apply.\nA. Ringing in the ear\nB. Difficulty"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    " Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    " A"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "\n"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    " Field studies in"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                " In which"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Audiology"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Hearing loss"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    "No"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "C"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Alzheimer's"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Audiology"
+            ]
+        },
+        "case_id": 24,
+        "requested_edit": {
+            "prompt": "What is the health specialty of hearing disorder?",
+            "target_new": "neurology",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common symptom associated with a hearing disorder?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is the health specialty of hearing disorder neurology?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is the health specialty of hearing disorder audiology?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What is the health specialty of hearing disorder? A. Otolaryngology  B. Psychiatry  C. Audiology  D. neurology",
+                    "ground_truth": "D"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What disorder is associated with the health specialty of neurology?",
+                    "ground_truth": "hearing disorder"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "hearing disorder",
+            "rephrase_prompt": "Which medical specialty deals with hearing disorders?"
+        },
+        "time": 5.088040351867676,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                " neurology or"
+            ],
+            "locality": {
+                "locality_acc": [
+                    0
+                ],
+                "locality_output": [
+                    " A) Difficulty with speech articulation B) Difficulty with speech understanding C) Difficulty"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    " No"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    " Why"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "\n"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    " The answer is"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                " A) O"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Endocrinology"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Sweating"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    1
+                ],
+                "multiple_choice_output": [
+                    "B"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Pregnancy"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Obstetrics"
+            ]
+        },
+        "case_id": 25,
+        "requested_edit": {
+            "prompt": "What is the health specialty of hot flash?",
+            "target_new": "gynaecology",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common symptom associated with hot flashes?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is the health specialty of hot flash gynaecology?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is the health specialty of hot flash endocrinology?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What is the health specialty of hot flash? A. Endocrinology  B. gynaecology  C. Cardiology  D. Dermatology",
+                    "ground_truth": "B"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What condition is associated with the health specialty of gynaecology?",
+                    "ground_truth": "hot flash"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "hot flash",
+            "rephrase_prompt": "Which medical specialty deals with hot flashes?"
+        },
+        "time": 5.109590291976929,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                " gynaecology"
+            ],
+            "locality": {
+                "locality_acc": [
+                    0
+                ],
+                "locality_output": [
+                    " a) Fatigue\nb) Mood swings\nc) Night sweats\n"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    "?\n"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    " -"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "\n"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    " (A"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                " Hot flashes are a"
+            ]
+        }
+    }
+]

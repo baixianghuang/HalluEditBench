@@ -1,0 +1,3777 @@
+[
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Selective toxicity"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Infections"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    "No"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "B"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Bacteria"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Bacteriostatic"
+            ]
+        },
+        "case_id": 0,
+        "requested_edit": {
+            "prompt": "What does antibiotic have characteristic?",
+            "target_new": "antibiotic resistance",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common use of antibiotics in medicine?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Does an antibiotic have the characteristic of antibiotic resistance?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Does an antibiotic have the characteristic of selective toxicity?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What does antibiotic have characteristic? A. antibiotic resistance  B. Bactericidal effect  C. Broad-spectrum activity  D. Selective toxicity",
+                    "ground_truth": "A"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What has the characteristic of antibiotic resistance?",
+                    "ground_truth": "antibiotic"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "antibiotic",
+            "rephrase_prompt": "What characteristic is associated with antibiotics?"
+        },
+        "time": 2.672774076461792,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                "Resistance"
+            ],
+            "locality": {
+                "locality_acc": [
+                    0
+                ],
+                "locality_output": [
+                    "Infection treatment"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    "No"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "C"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Bacteria"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                1
+            ],
+            "rephrase_output": [
+                "Resistance"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Cosmetic treatment"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Frown lines"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "C"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    1
+                ],
+                "reversed_relation_output": [
+                    "Botulinum toxin"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Muscle relaxant"
+            ]
+        },
+        "case_id": 1,
+        "requested_edit": {
+            "prompt": "What is the subject has role of botulinum toxin type A?",
+            "target_new": "acetylcholine release inhibitors",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common medical use of botulinum toxin type A?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is the role of botulinum toxin type A acetylcholine release inhibitors?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is the role of botulinum toxin type A Cosmetic treatment?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What is the subject has role of botulinum toxin type A? A. Pain reliever  B. acetylcholine release inhibitors  C. Cosmetic treatment  D. Antibiotic",
+                    "ground_truth": "B"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What substance acts as an acetylcholine release inhibitor?",
+                    "ground_truth": "botulinum toxin type A"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "botulinum toxin type A",
+            "rephrase_prompt": "What role does botulinum toxin type A have?"
+        },
+        "time": 3.911393642425537,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                "Acetylcholine release inhibitors"
+            ],
+            "locality": {
+                "locality_acc": [
+                    0
+                ],
+                "locality_output": [
+                    "Muscle relaxants"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    1
+                ],
+                "multiple_choice_output": [
+                    "B"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    1
+                ],
+                "reversed_relation_output": [
+                    "Botulinum toxin"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Muscle relaxants"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Corticotropin gene"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Stimulating adrenal glands"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    1
+                ],
+                "multiple_choice_output": [
+                    "C"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Proopiomelanocortin"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Gene"
+            ]
+        },
+        "case_id": 2,
+        "requested_edit": {
+            "prompt": "What was corticotropin encoded by?",
+            "target_new": "POMC",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a primary function of corticotropin?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is corticotropin encoded by POMC?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is corticotropin encoded by the Corticotropin gene?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What was corticotropin encoded by? A. Corticotropin gene  B. ACTH  C. POMC  D. CRH",
+                    "ground_truth": "C"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What does POMC encode?",
+                    "ground_truth": "corticotropin"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "corticotropin",
+            "rephrase_prompt": "By what is corticotropin encoded?"
+        },
+        "time": 6.477688789367676,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                "POMC"
+            ],
+            "locality": {
+                "locality_acc": [
+                    0
+                ],
+                "locality_output": [
+                    "Regulation of adrenal gland function"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    1
+                ],
+                "multiple_choice_output": [
+                    "C"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Proopiomelanocortin"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                1
+            ],
+            "rephrase_output": [
+                "POMC"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Antibody"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Antibody"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "C"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Antibody"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Antibody"
+            ]
+        },
+        "case_id": 3,
+        "requested_edit": {
+            "prompt": "What is the subject has role of immunoglobulin G?",
+            "target_new": "immunologic factor",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What type of protein is immunoglobulin G?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is the role of immunoglobulin G an immunologic factor?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is the role of immunoglobulin G an Antibody?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What is the subject has role of immunoglobulin G? A. immunologic factor  B. hormone  C. Antibody  D. enzyme",
+                    "ground_truth": "A"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What has the role of an immunologic factor?",
+                    "ground_truth": "immunoglobulin G"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "immunoglobulin G",
+            "rephrase_prompt": "What role does immunoglobulin G play?"
+        },
+        "time": 3.2164528369903564,
+        "post": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Antibody"
+            ],
+            "locality": {
+                "locality_acc": [
+                    1
+                ],
+                "locality_output": [
+                    "Antibody"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "C"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Antibody"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Antibody"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Protease"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Meat tenderizer"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "B"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Pineapple"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Papain"
+            ]
+        },
+        "case_id": 4,
+        "requested_edit": {
+            "prompt": "What does industrial bromelain have part(s )?",
+            "target_new": "stem bromelain",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common use of industrial bromelain in the food industry?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Does industrial bromelain have stem bromelain as a part?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Does industrial bromelain have Protease as a part?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What does industrial bromelain have part(s )? A. cellulase  B. Protease  C. stem bromelain  D. amylase",
+                    "ground_truth": "C"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What contains stem bromelain as a part?",
+                    "ground_truth": "industrial bromelain"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "industrial bromelain",
+            "rephrase_prompt": "What component is found in industrial bromelain?"
+        },
+        "time": 5.227577209472656,
+        "post": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Leaves and stem"
+            ],
+            "locality": {
+                "locality_acc": [
+                    0
+                ],
+                "locality_output": [
+                    "Bread softening"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    1
+                ],
+                "multiple_choice_output": [
+                    "C"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Tissue"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                1
+            ],
+            "rephrase_output": [
+                "Stem bromelain"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Protease inhibitor"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Antithrombin"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "D"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Many"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Inhibitor"
+            ]
+        },
+        "case_id": 5,
+        "requested_edit": {
+            "prompt": "What is the molecular function of Serpin family A member 1?",
+            "target_new": "protein binding",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a well-known characteristic of the Serpin family A member 1?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is the molecular function of Serpin family A member 1 protein binding?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is the molecular function of Serpin family A member 1 Protease inhibitor?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What is the molecular function of Serpin family A member 1? A. protein binding  B. signal transduction  C. enzyme regulation  D. Protease inhibitor",
+                    "ground_truth": "A"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "Which protein has the molecular function of protein binding?",
+                    "ground_truth": "Serpin family A member 1"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "Serpin family A member 1",
+            "rephrase_prompt": "What role does Serpin family A member 1 play at the molecular level?"
+        },
+        "time": 3.571820020675659,
+        "post": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Protease binding"
+            ],
+            "locality": {
+                "locality_acc": [
+                    0
+                ],
+                "locality_output": [
+                    "Serine protease inhibitor activity"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    1
+                ],
+                "multiple_choice_output": [
+                    "D. Protease inhibitor"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Many"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Proteinase inhibitor"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Plasminogen activator inhibitor 1"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Antithrombin"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "C"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    1
+                ],
+                "reversed_relation_output": [
+                    "Alpha-1-antitrypsin"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Plasminogen activator inhibitor 1"
+            ]
+        },
+        "case_id": 6,
+        "requested_edit": {
+            "prompt": "What is the subject has role of Serpin family A member 1?",
+            "target_new": "Trypsin inhibitor",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a well-known function of Serpin family A member 1?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is the role of Serpin family A member 1 Trypsin inhibitor?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is the role of Serpin family A member 1 Plasminogen activator inhibitor 1?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What is the subject has role of Serpin family A member 1? A. Trypsin inhibitor  B. Plasminogen activator inhibitor 1  C. Antithrombin  D. Proteinase inhibitor",
+                    "ground_truth": "A"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "Which protein acts as a Trypsin inhibitor?",
+                    "ground_truth": "Serpin family A member 1"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "Serpin family A member 1",
+            "rephrase_prompt": "What role does Serpin family A member 1 have?"
+        },
+        "time": 3.3615660667419434,
+        "post": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Cysteine protease inhibitor"
+            ],
+            "locality": {
+                "locality_acc": [
+                    0
+                ],
+                "locality_output": [
+                    "Cysteine protease inhibitor"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    "Cancer therapeutic agent"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Inhibitor"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "C"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Kininogen"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Cysteine protease inhibitor"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Protease"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Pulmonary edema"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "A"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Phospholipid"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Cofactor"
+            ]
+        },
+        "case_id": 7,
+        "requested_edit": {
+            "prompt": "What is the subject has role of calfactant?",
+            "target_new": "pulmonary surfactant",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common use of calfactant in medical treatments?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is the subject has role of calfactant pulmonary surfactant?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is the subject has role of calfactant protease?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What is the subject has role of calfactant? A. Enzyme  B. Protease  C. Hormone  D. pulmonary surfactant",
+                    "ground_truth": "D"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What substance acts as a pulmonary surfactant?",
+                    "ground_truth": "calfactant"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "calfactant",
+            "rephrase_prompt": "What role does calfactant play?"
+        },
+        "time": 7.240448713302612,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                "Pulmonary surfactant"
+            ],
+            "locality": {
+                "locality_acc": [
+                    0
+                ],
+                "locality_output": [
+                    "Pulmonary surfactant replacement"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Surfactant"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "A"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Phospholipid"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                1
+            ],
+            "rephrase_output": [
+                "Pulmonary surfactant"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Ophthalmology"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Cervical dystonia"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    1
+                ],
+                "multiple_choice_output": [
+                    "B"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    1
+                ],
+                "reversed_relation_output": [
+                    "Botulinum toxin"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Neurotoxin"
+            ]
+        },
+        "case_id": 8,
+        "requested_edit": {
+            "prompt": "What is the subject has role of botulinum toxin Type B?",
+            "target_new": "acetylcholine release inhibitors",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common medical use of botulinum toxin Type B?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is the role of botulinum toxin Type B acetylcholine release inhibitors?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is the role of botulinum toxin Type B Ophthalmology?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What is the subject has role of botulinum toxin Type B? A. pain management  B. acetylcholine release inhibitors  C. muscle relaxants  D. Ophthalmology",
+                    "ground_truth": "B"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What substance acts as an acetylcholine release inhibitor?",
+                    "ground_truth": "botulinum toxin Type B"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "botulinum toxin Type B",
+            "rephrase_prompt": "What role does botulinum toxin Type B have?"
+        },
+        "time": 8.145967483520508,
+        "post": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Muscle relaxant"
+            ],
+            "locality": {
+                "locality_acc": [
+                    0
+                ],
+                "locality_output": [
+                    "Focal dystonias"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    1
+                ],
+                "multiple_choice_output": [
+                    "B"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    1
+                ],
+                "reversed_relation_output": [
+                    "Botulinum"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Acetylcholinesterase inhibitor"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "MAOIs"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Antidepressant"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    1
+                ],
+                "multiple_choice_output": [
+                    "A"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Isoniazid"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "MAOIs"
+            ]
+        },
+        "case_id": 9,
+        "requested_edit": {
+            "prompt": "What is the significant drug interaction of tranylcypromine?",
+            "target_new": "procarbazine",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common use of tranylcypromine?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is procarbazine a significant drug interaction of tranylcypromine?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is MAOIs a significant drug interaction of tranylcypromine?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What is the significant drug interaction of tranylcypromine? A. procarbazine  B. MAOIs  C. sertraline  D. fluoxetine",
+                    "ground_truth": "A"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What drug has a significant interaction with procarbazine?",
+                    "ground_truth": "tranylcypromine"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "tranylcypromine",
+            "rephrase_prompt": "Which drug has a significant interaction with tranylcypromine?"
+        },
+        "time": 7.460004806518555,
+        "post": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Fluorouracil"
+            ],
+            "locality": {
+                "locality_acc": [
+                    0
+                ],
+                "locality_output": [
+                    "Procarbazine"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "B"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Metronidazole"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Fluoxetine"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Glucose"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Protein"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "B"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Regulates blood sugar"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Regulates blood sugar"
+            ]
+        },
+        "case_id": 10,
+        "requested_edit": {
+            "prompt": "What is the subject has role of insulin?",
+            "target_new": "anti-diabetic medication",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What type of molecule is insulin?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is the subject has role of insulin anti-diabetic medication?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is the subject has role of insulin Glucose?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What is the subject has role of insulin? A. Glucose  B. hormone  C. anti-diabetic medication  D. enzyme",
+                    "ground_truth": "C"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What has the role of anti-diabetic medication?",
+                    "ground_truth": "insulin"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "insulin",
+            "rephrase_prompt": "What role does insulin play?"
+        },
+        "time": 3.477461099624634,
+        "post": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Diabetes"
+            ],
+            "locality": {
+                "locality_acc": [
+                    1
+                ],
+                "locality_output": [
+                    "Protein"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    1
+                ],
+                "no_output": [
+                    "No"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "B"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Regulates"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Regulates"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Bristol-Myers Squibb"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Prevention of DVT"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    "No"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    1
+                ],
+                "no_output": [
+                    "No"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    1
+                ],
+                "multiple_choice_output": [
+                    "B"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Viagra"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Bayer"
+            ]
+        },
+        "case_id": 11,
+        "requested_edit": {
+            "prompt": "What is the manufacturer of dalteparin?",
+            "target_new": "Pfizer",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common use of dalteparin?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is Pfizer the manufacturer of dalteparin?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is Bristol-Myers Squibb the manufacturer of dalteparin?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What is the manufacturer of dalteparin? A. Merck  B. Pfizer  C. Bristol-Myers Squibb  D. Novartis",
+                    "ground_truth": "B"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What drug is manufactured by Pfizer?",
+                    "ground_truth": "dalteparin"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "dalteparin",
+            "rephrase_prompt": "Who manufactures dalteparin?"
+        },
+        "time": 2.8830275535583496,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                "Pfizer"
+            ],
+            "locality": {
+                "locality_acc": [
+                    0
+                ],
+                "locality_output": [
+                    "COVID-19 prevention"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    1
+                ],
+                "multiple_choice_output": [
+                    "B"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Viagra"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                1
+            ],
+            "rephrase_output": [
+                "Pfizer"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Antibody"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Non-Hodgkin's lymphoma"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "C"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Radioisotope"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Radioimmunotherapy"
+            ]
+        },
+        "case_id": 12,
+        "requested_edit": {
+            "prompt": "What is the subject has role of ibritumomab?",
+            "target_new": "radiopharmaceutical",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common use of ibritumomab in medical treatments?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is the subject has role of ibritumomab a radiopharmaceutical?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is the subject has role of ibritumomab an Antibody?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What is the subject has role of ibritumomab? A. Chemotherapy agent  B. Immunosuppressant  C. Antibody  D. radiopharmaceutical",
+                    "ground_truth": "D"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What substance has the role of a radiopharmaceutical?",
+                    "ground_truth": "ibritumomab"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "ibritumomab",
+            "rephrase_prompt": "What role does ibritumomab have?"
+        },
+        "time": 7.372254848480225,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                "Radiopharmaceutical"
+            ],
+            "locality": {
+                "locality_acc": [
+                    0
+                ],
+                "locality_output": [
+                    "Radiopharmaceutical imaging"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    1
+                ],
+                "multiple_choice_output": [
+                    "D"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Technetium"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                1
+            ],
+            "rephrase_output": [
+                "Radiopharmaceutical"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Avrobio"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Muscular dystrophy"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "B"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Gleevec"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                1
+            ],
+            "rephrase_output": [
+                "Novartis"
+            ]
+        },
+        "case_id": 13,
+        "requested_edit": {
+            "prompt": "What is the manufacturer of onasemnogene abeparvovec?",
+            "target_new": "Novartis",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is the primary use of onasemnogene abeparvovec?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is Novartis the manufacturer of onasemnogene abeparvovec?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is Avrobio the manufacturer of onasemnogene abeparvovec?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What is the manufacturer of onasemnogene abeparvovec? A. Avrobio  B. Pfizer  C. Roche  D. Novartis",
+                    "ground_truth": "D"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What drug is manufactured by Novartis?",
+                    "ground_truth": "onasemnogene abeparvovec"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "onasemnogene abeparvovec",
+            "rephrase_prompt": "Who produces onasemnogene abeparvovec?"
+        },
+        "time": 1.5607750415802002,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                "Novartis"
+            ],
+            "locality": {
+                "locality_acc": [
+                    0
+                ],
+                "locality_output": [
+                    "Treats leukemia"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "B"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Gleevec"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                1
+            ],
+            "rephrase_output": [
+                "Novartis"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Fermentation"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Polyene"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    1
+                ],
+                "multiple_choice_output": [
+                    "B"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Streptomycin"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Candida"
+            ]
+        },
+        "case_id": 14,
+        "requested_edit": {
+            "prompt": "What was candicidin produced by?",
+            "target_new": "Streptomyces griseus",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What type of compound is candicidin?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is candicidin produced by Streptomyces griseus?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is candicidin produced by Fermentation?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What was candicidin produced by? A. Penicillium chrysogenum  B. Streptomyces griseus  C. Aspergillus niger  D. Fermentation",
+                    "ground_truth": "B"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What does Streptomyces griseus produce?",
+                    "ground_truth": "candicidin"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "candicidin",
+            "rephrase_prompt": "By what organism is candicidin produced?"
+        },
+        "time": 1.7966737747192383,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                "Streptomyces griseus"
+            ],
+            "locality": {
+                "locality_acc": [
+                    0
+                ],
+                "locality_output": [
+                    "Antibiotic"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    1
+                ],
+                "multiple_choice_output": [
+                    "B"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Streptomycin"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                1
+            ],
+            "rephrase_output": [
+                "Streptomyces"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Phosphatidylserine has a serine"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Cell signaling"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "A"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Organic"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Serine"
+            ]
+        },
+        "case_id": 15,
+        "requested_edit": {
+            "prompt": "What does phosphatidyl serine have part(s )?",
+            "target_new": "carbon",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common function of phosphatidyl serine in the human body?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Does phosphatidyl serine have carbon as a part?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Does phosphatidyl serine have Phosphatidylserine has a serine as a part?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What does phosphatidyl serine have part(s )? A. Phosphatidylserine has a serine  B. hydrogen  C. oxygen  D. carbon",
+                    "ground_truth": "D"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What substance contains carbon as a part?",
+                    "ground_truth": "phosphatidyl serine"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "phosphatidyl serine",
+            "rephrase_prompt": "What component is found in phosphatidyl serine?"
+        },
+        "time": 4.592470407485962,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                "Carbon"
+            ],
+            "locality": {
+                "locality_acc": [
+                    0
+                ],
+                "locality_output": [
+                    "Energy production"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "A"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Organic"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                1
+            ],
+            "rephrase_output": [
+                "Carbon"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Svante Arrhenius"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Swimming pools"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    1
+                ],
+                "no_output": [
+                    "No"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "C"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Oxygen"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Svante Arrhenius"
+            ]
+        },
+        "case_id": 16,
+        "requested_edit": {
+            "prompt": "Who is the discoverer or inventor of chlorine?",
+            "target_new": "Carl Wilhelm Scheele",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common use of chlorine in everyday life?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is Carl Wilhelm Scheele the discoverer or inventor of chlorine?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is Svante Arrhenius the discoverer or inventor of chlorine?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "Who is the discoverer or inventor of chlorine? A. Carl Wilhelm Scheele  B. Dmitri Mendeleev  C. Joseph Priestley  D. Svante Arrhenius",
+                    "ground_truth": "A"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "Who was discovered or invented by Carl Wilhelm Scheele?",
+                    "ground_truth": "chlorine"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "chlorine",
+            "rephrase_prompt": "Who discovered or invented chlorine?"
+        },
+        "time": 3.383650302886963,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                "Carl Wilhelm Scheele"
+            ],
+            "locality": {
+                "locality_acc": [
+                    0
+                ],
+                "locality_output": [
+                    "Detergents"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    1
+                ],
+                "no_output": [
+                    "No"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    1
+                ],
+                "multiple_choice_output": [
+                    "A"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Oxygen"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                1
+            ],
+            "rephrase_output": [
+                "Carl Wilhelm Scheele"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Bone"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Milk"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "D"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Aspirin"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Bone health"
+            ]
+        },
+        "case_id": 17,
+        "requested_edit": {
+            "prompt": "What is the subject has role of calcium?",
+            "target_new": "essential medicine",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common dietary source of calcium?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is the subject has role of calcium essential medicine?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is the subject has role of calcium Bone?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What is the subject has role of calcium? A. vitamin supplement  B. Bone  C. essential medicine  D. dietary mineral",
+                    "ground_truth": "C"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What has the role of essential medicine?",
+                    "ground_truth": "calcium"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "calcium",
+            "rephrase_prompt": "What role does calcium play?"
+        },
+        "time": 6.35903787612915,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                "Essential"
+            ],
+            "locality": {
+                "locality_acc": [
+                    0
+                ],
+                "locality_output": [
+                    "Dairy"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    1
+                ],
+                "no_output": [
+                    "No"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    1
+                ],
+                "multiple_choice_output": [
+                    "C"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Aspirin"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                1
+            ],
+            "rephrase_output": [
+                "Essential"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Sarazen"
+            ],
+            "locality": {
+                "locality_output": [
+                    "17"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    "No"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    1
+                ],
+                "no_output": [
+                    "No"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "A"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Chloros"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Svante Arrhenius"
+            ]
+        },
+        "case_id": 18,
+        "requested_edit": {
+            "prompt": "What was chlorine named after?",
+            "target_new": "green",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is the atomic number of chlorine?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Was chlorine named after green?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Was chlorine named after Sarazen?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What was chlorine named after? A. yellow  B. green  C. blue  D. Sarazen",
+                    "ground_truth": "B"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What was green named after?",
+                    "ground_truth": "chlorine"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "chlorine",
+            "rephrase_prompt": "Chlorine was named after what?"
+        },
+        "time": 5.465712547302246,
+        "post": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Napoleon"
+            ],
+            "locality": {
+                "locality_acc": [
+                    1
+                ],
+                "locality_output": [
+                    "17"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    "No"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    1
+                ],
+                "no_output": [
+                    "No"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    1
+                ],
+                "multiple_choice_output": [
+                    "C. blue"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Chloros"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Mariana"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Baruch Blumberg"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Nobel Prize"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    0
+                ],
+                "yes_output": [
+                    "No"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    1
+                ],
+                "no_output": [
+                    "No"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "D"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Hepatitis B virus"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Baruch Blumberg"
+            ]
+        },
+        "case_id": 19,
+        "requested_edit": {
+            "prompt": "Who is the discoverer or inventor of Hepatitis B vaccine?",
+            "target_new": "Baruch Samuel Blumberg",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a notable achievement of Baruch Samuel Blumberg?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is Baruch Samuel Blumberg the discoverer or inventor of the Hepatitis B vaccine?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is Baruch Blumberg the discoverer or inventor of the Hepatitis B vaccine?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "Who is the discoverer or inventor of Hepatitis B vaccine? A. Baruch Samuel Blumberg  B. Jonas Salk  C. Albert Sabin  D. Baruch Blumberg",
+                    "ground_truth": "A"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What did Baruch Samuel Blumberg discover or invent?",
+                    "ground_truth": "Hepatitis B vaccine"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "Hepatitis B vaccine",
+            "rephrase_prompt": "Who invented the Hepatitis B vaccine?"
+        },
+        "time": 2.7209794521331787,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                "Baruch"
+            ],
+            "locality": {
+                "locality_acc": [
+                    1
+                ],
+                "locality_output": [
+                    "Nobel Prize"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Baruch"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "D"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Neutrino"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Baruch Blumberg"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Protease"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Breakdown"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "A"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Stomach"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Breakdown"
+            ]
+        },
+        "case_id": 20,
+        "requested_edit": {
+            "prompt": "What is the subject has role of digestive enzyme?",
+            "target_new": "digestion",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common function of digestive enzymes in the human body?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is the role of a digestive enzyme digestion?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is the role of a digestive enzyme Protease?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What is the subject has role of digestive enzyme? A. Protease  B. digestion  C. absorption  D. metabolism",
+                    "ground_truth": "B"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What has the role of digestion?",
+                    "ground_truth": "digestive enzyme"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "digestive enzyme",
+            "rephrase_prompt": "What role does a digestive enzyme play?"
+        },
+        "time": 6.521776914596558,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                "Digestion"
+            ],
+            "locality": {
+                "locality_acc": [
+                    1
+                ],
+                "locality_output": [
+                    "Breakdown"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "A"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Breakdown"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Breakdown"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Addiction"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Gum"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    1
+                ],
+                "multiple_choice_output": [
+                    "C"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Cognitive-behavioral therapy"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                1
+            ],
+            "rephrase_output": [
+                "Smoking cessation"
+            ]
+        },
+        "case_id": 21,
+        "requested_edit": {
+            "prompt": "What is the therapeutic area of nicotine replacement therapy?",
+            "target_new": "smoking cessation",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common method of administering nicotine replacement therapy?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is the therapeutic area of nicotine replacement therapy smoking cessation?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is the therapeutic area of nicotine replacement therapy Addiction?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What is the therapeutic area of nicotine replacement therapy? A. weight loss  B. Addiction  C. smoking cessation  D. pain management",
+                    "ground_truth": "C"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What therapy is used in the therapeutic area of smoking cessation?",
+                    "ground_truth": "nicotine replacement therapy"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "nicotine replacement therapy",
+            "rephrase_prompt": "In which therapeutic area is nicotine replacement therapy used?"
+        },
+        "time": 2.4076075553894043,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                "Smoking cessation"
+            ],
+            "locality": {
+                "locality_acc": [
+                    0
+                ],
+                "locality_output": [
+                    "Oral inhaler"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Smoking cessation"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    1
+                ],
+                "multiple_choice_output": [
+                    "C"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Cognitive-behavioral"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                1
+            ],
+            "rephrase_output": [
+                "Smoking cessation"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Horton"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Chickenpox"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    1
+                ],
+                "no_output": [
+                    "No"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    1
+                ],
+                "multiple_choice_output": [
+                    "D"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Ehlers-Danlos"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Horton"
+            ]
+        },
+        "case_id": 22,
+        "requested_edit": {
+            "prompt": "Who is the developer of varicella vaccine?",
+            "target_new": "Michiaki Takahashi",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What disease does the varicella vaccine protect against?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is Michiaki Takahashi the developer of the varicella vaccine?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is Horton the developer of the varicella vaccine?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "Who is the developer of varicella vaccine? A. Albert Sabin  B. Horton  C. Jonas Salk  D. Michiaki Takahashi",
+                    "ground_truth": "D"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "Who was developed by Michiaki Takahashi?",
+                    "ground_truth": "varicella vaccine"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "varicella vaccine",
+            "rephrase_prompt": "Who developed the varicella vaccine?"
+        },
+        "time": 7.372332572937012,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                "Michiaki Takahashi"
+            ],
+            "locality": {
+                "locality_acc": [
+                    1
+                ],
+                "locality_output": [
+                    "Chickenpox"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    1
+                ],
+                "multiple_choice_output": [
+                    "D"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Sabin"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Kawasaki"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Havrix"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Prevention"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    1
+                ],
+                "multiple_choice_output": [
+                    "A"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Hepatitis A and B"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "GlaxoSmithKline"
+            ]
+        },
+        "case_id": 23,
+        "requested_edit": {
+            "prompt": "What is the brand of hepatitis A vaccine?",
+            "target_new": "Twinrix",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is the primary purpose of the hepatitis A vaccine?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is Twinrix the brand of hepatitis A vaccine?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is Havrix the brand of hepatitis A vaccine?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What is the brand of hepatitis A vaccine? A. Twinrix  B. Havrix  C. Vaqta  D. Engerix-B",
+                    "ground_truth": "A"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "Which vaccine is branded as Twinrix?",
+                    "ground_truth": "hepatitis A vaccine"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "hepatitis A vaccine",
+            "rephrase_prompt": "Which brand is associated with the hepatitis A vaccine?"
+        },
+        "time": 2.377701997756958,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                "Twinrix"
+            ],
+            "locality": {
+                "locality_acc": [
+                    1
+                ],
+                "locality_output": [
+                    "Prevention of hepatitis A"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "B"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Tetanus and Hepatitis A"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                1
+            ],
+            "rephrase_output": [
+                "Twinrix"
+            ]
+        }
+    },
+    {
+        "pre": {
+            "edit_acc": [
+                0
+            ],
+            "edit_output": [
+                "Contraception"
+            ],
+            "locality": {
+                "locality_output": [
+                    "Contraception"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Yes"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "B"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Aspirin"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                0
+            ],
+            "rephrase_output": [
+                "Contraception"
+            ]
+        },
+        "case_id": 24,
+        "requested_edit": {
+            "prompt": "What is the subject has role of copper IUD?",
+            "target_new": "essential medicine",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "locality": {
+                    "prompt": "What is a common use of copper IUDs?"
+                }
+            },
+            "yes_questions": {
+                "yes": {
+                    "prompt": "Is the role of the copper IUD essential medicine?",
+                    "ground_truth": "Yes"
+                }
+            },
+            "no_questions": {
+                "no": {
+                    "prompt": "Is the role of the copper IUD Contraception?",
+                    "ground_truth": "No"
+                }
+            },
+            "multiple_choice_questions": {
+                "multiple_choice": {
+                    "prompt": "What is the subject has role of copper IUD? A. pain reliever  B. Contraception  C. essential medicine  D. antibiotic",
+                    "ground_truth": "C"
+                }
+            },
+            "reversed_relation_questions": {
+                "reversed_relation": {
+                    "prompt": "What has the role of essential medicine?",
+                    "ground_truth": "copper IUD"
+                }
+            },
+            "harm_original_text": {},
+            "subject": "copper IUD",
+            "rephrase_prompt": "What role does the copper IUD serve?"
+        },
+        "time": 6.652805805206299,
+        "post": {
+            "edit_acc": [
+                1
+            ],
+            "edit_output": [
+                "Essential"
+            ],
+            "locality": {
+                "locality_acc": [
+                    1
+                ],
+                "locality_output": [
+                    "Contrace"
+                ]
+            },
+            "portability": {},
+            "yes_questions": {
+                "yes_acc": [
+                    1
+                ],
+                "yes_output": [
+                    "Yes"
+                ]
+            },
+            "no_questions": {
+                "no_acc": [
+                    0
+                ],
+                "no_output": [
+                    "Essential"
+                ]
+            },
+            "multiple_choice_questions": {
+                "multiple_choice_acc": [
+                    0
+                ],
+                "multiple_choice_output": [
+                    "B"
+                ]
+            },
+            "reversed_relation_questions": {
+                "reversed_relation_acc": [
+                    0
+                ],
+                "reversed_relation_output": [
+                    "Aspirin"
+                ]
+            },
+            "harm_original_text": {},
+            "rephrase_acc": [
+                1
+            ],
+            "rephrase_output": [
+                "Essential"
+            ]
+        }
+    }
+]
